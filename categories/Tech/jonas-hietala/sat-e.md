@@ -1,0 +1,40 @@
+---
+title = "Sat-E"
+description = "So I entered Ludum Dare 22 this weekend as a preamble for tomorrow’s linear algebra exam. The theme this time around was Alone and the game I came up with is about a lonely satellite in space, kinda like Wall-E.Sat-E![](/images/games"
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2011/12/19/sat-e/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.759532220Z"
+seen = true
+---
+
+So I entered [Ludum Dare 22](http://www.ludumdare.com/compo/) this weekend as a preamble for tomorrow’s linear algebra exam. The theme this time around was *Alone* and the game I came up with is about a lonely satellite in space, kinda like Wall-E.
+
+Sat-E
+==========
+
+![](/images/games/ld22-lone-small.png) ![](/images/games/ld22-dock-small.png) ![](/images/games/ld22-lots-small.png)
+
+Instructions
+==========
+
+Collect junk and other items for you to buy upgrades, and finally, your friend to finish the game. Be careful not to run out of battery, you need to return home to base for a recharge between runs.
+
+Controls
+==========
+
+Arrow Keys - Move around  
+ Space/Return - Choose item in docking mode  
+ F1 - Developer console
+
+Timelapse
+==========
+
+[It’s on youtube](http://www.youtube.com/watch?v=eoKDyhxCVm0) and it’s embedded [here](/blog/2011/12/19/ludum_dare_22_timelapse).
+
+**Source**  
+[https://github.com/treeman/Sat-E](https://github.com/treeman/Sat-E)
+
+Built using my fast prototyping framework  
+[https://github.com/treeman/7days](https://github.com/treeman/7days)

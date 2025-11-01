@@ -1,0 +1,60 @@
+---
+title = "The Attention Economy 2: Any App That Could Just Be A Website Only Exists To Track You"
+description = "This is the second post in the Attention Economy series. Click here for the first one. On the 1st of June, 2022, the Office of the Privacy Commissioner of Canada issued a [news release](https://www.priv.gc.ca/en/opc-news/new"
+date = "2022-12-01T00:00:00Z"
+url = "https://theluddite.org/post/apps-are-bad.html"
+author = ""
+text = ""
+lastupdated = "2025-10-22T08:57:31.551671800Z"
+seen = true
+---
+
+*This is the second post in the Attention Economy series. Click [here](https://theluddite.org/#!post/attention-economy) for the first one.*
+
+---
+
+ On the 1st of June, 2022, the Office of the Privacy Commissioner of Canada issued a [news release](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/) titled "Tim Hortons app violated privacy laws in collection of ‘vast amounts’ of sensitive location data." The app was collecting user data several times an hour, tracking "where users lived, where they worked, and whether they were travelling[...] every time users entered or left a Tim Hortons competitor, a major sports venue, or their home or workplace." Tim Hortons was not forced to pay a fine or face any other consequences.
+
+ This is not the only or most egregious example of applications tracking users. I chose it because of its absurdity. Why is it that Tim Hortons, a fast food chain, is trying to convince users to install spyware on their phones? How has it come to this? Is nothing sacred?
+
+ In the [first installment](https://theluddite.org/#!post/attention-economy) of this series, I wrote about how and why technology companies are scrambling to create apps that track every moment of our lives. In this installment, we'll look at how that drive is spreading outside of tech, and how that unquenchable thirst for data is fundamentally altering both how people interact with technology and how that technology is created.
+
+### Apps vs Websites ###
+
+ Though native apps that are installed and run directly on your Operating System (OS), as opposed to a website that runs inside a browser, have existed since the first OS, I would argue that the modern cultural notion of an app was born in 2007, when Apple introduced the first smart phone. Shortly before the iPhone, we had the [Dot-com bubble](https://en.wikipedia.org/wiki/Dot-com_bubble), in which everyone wanted to create (and invest in) websites. The market, in its infinite wisdom, drove valuations of any company that promised one through the roof, creating the only stock market bubble and subsequent crash in history, and from which we have definitely learned our lesson.
+
+ Shortly after the dot-com bubble burst, smart phones exploded in popularity. They added widgets and sensors like accelerometers, GPS, and NFC readers. Users wanted to be able to keep their music collections in offline storage, so they could listen to music without the internet. Those who made software adapted to this new mobile world by creating more native apps that could access these new features, instead of websites which could not.
+
+ In hindsight, this was a pivotal moment for technology. Browsers are just native apps that run websites. The software community could have decided to use these new functionalities in the browser instead of on native apps. This might sound like a minor difference to those not immersed in tech, but nothing could be further from the truth. First and perhaps most obviously, browsers are cross-platform, whereas native apps are not. The OS on an iPhone is different from that of an Android, which is different from a Windows computer, etc.; though users on each of those platforms can use the same website, each native app requires its own entire codebase. This means native apps are a colossal drain on resources, instantly inflating the development time needed to achieve the same user experience.
+
+ But perhaps more importantly, there are many browsers, made by all sorts of entities from nonprofits to corporations, and to make sure that all the browsers can run all the websites, there exists [the World Wide Web Consortium](https://www.w3.org/Consortium/), a standards body that brings together different people and member organizations from all over the world to decide how different parts of the web should interact with each other. Browsers, webservers, and other web entities voluntarily comply with these standards in order to facilitate an internet that no one owns but everyone can use.
+
+ iPhone apps, on the other hand, must interface with Apple's proprietary OS, iOS. This gives Apple full ownership over how iOS apps interact with those native functionalities. Apple has jealously guarded this monopoly by forcing any browser that can be installed on iOS to be based on Apple's own [WebKit](https://en.wikipedia.org/wiki/WebKit), the notoriously shitty browser engine that powers the notoriously shitty Safari, and purposefully limiting their capacity. Alex Russell has written a [six-part series on browser choice](https://infrequently.org/series/browser-choice-must-matter/) that covers this in great depth, so I will quote that:
+
+ *Apple has undermined browser engine diversity. [...] Apple uses its power over browsers to strip-mine and sabotage the web, hurting all engine projects and draining the web of future potential.*
+
+ For their trouble, Apple is richly rewarded with a 30% cut of all revenue from every single iOS app, a perfect example of [monopolistic rent-seeking.](https://en.wikipedia.org/wiki/Rent-seeking)
+
+### If Apps are so bad, then why do companies make them? ###
+
+ Because any app that could just be a website only exists to track you. That is the bargain. Tech has monetized harvesting every moment of our lives. If Apple's racket allows for higher value harvesting, other companies will take the bargain. Those widgets and sensors I mentioned before allow for a wonderful variety of user experiences, but they also allow for better harvest. Because native apps run on the device itself and not in the browser, it is easier to access that data at all times. Apps running in the background can access GPS location to determine where you are, or they can access accelerometer data to try decide if you are upright or lying down. They can see your battery life and figure out how fast you are moving. Perhaps most critically, they are downloaded on your phone through the app store, meaning they are easily tied to your phone number, identity, and all the other data from all the other apps.
+
+ This is why Tim Hortons made an app. You don't need an app to order a stale donut and mediocre coffee. Even if Tim Hortons wants to take orders online, why not use a website? Why be willing to invest the money into making a different app for each platform and give Apple a 30% cut of all sales on the app? The answer is in that [press release:](https://www.priv.gc.ca/en/opc-news/news-and-announcements/2022/nr-c_220601/)
+
+ *The investigation found that Tim Hortons’ contract with an American third-party location services supplier contained language so vague and permissive that it would have allowed the company to sell “de-identified” location data for its own purposes.
+
+There is a real risk that de-identified geolocation data could be re-identified. A research report by the Office of the Privacy Commissioner of Canada underscored how easily people can be identified by their movements.
+
+ Location data is highly sensitive because it can be used to infer where people live and work, reveal trips to medical clinics. It can be used to make deductions about religious beliefs, sexual preferences, social political affiliations and more.*
+
+ They are selling that data to data brokers. Tech has so much money, and it craves data so badly, that it is now worthwhile for Tim Hortons to hire app developers and take a 30% loss on all sales made through the app just to sell data to tech companies.
+
+ All these promotions, loyalty programs, and incentives to download apps will cost us in the end. Sometimes, like in the case of Target, users paid for it directly by [allowing Target to change the price of items depending on whether or not the user is physically standing in the store](https://www.huffpost.com/entry/target-tracking-location-changing-prices_l_603fd12bc5b6ff75ac410a38). Target's app is a tidy microcosm, showing us both why the data is so valuable and how we ultimately end up paying for it. Other times, the cost is much more abstract, diffuse, and delayed, perhaps best exemplified by the infamous case of [Cambridge Analytica](https://en.wikipedia.org/wiki/Facebook–Cambridge_Analytica_data_scandal), in which a seemingly-frivolous quiz on Facebook allowed for the harvesting of 87 million Facebook profiles. This data was then sold to the presidential campaign of Donald Trump.
+
+---
+
+*This is the second post in the Attention Economy series. Click [here](https://theluddite.org/#!post/why-attention-economy) for the third one.*
+
+---
+
+ *Thanks for reading! If you liked it, consider [subscribing](https://theluddite.org/subscribe.html) or leaving a tip: [BuyMeACoffee.com](https://buymeacoffee.com/theluddite), [Stripe](https://buy.stripe.com/00g5le0GY2cEaooeUU), [all options](/support.html).*

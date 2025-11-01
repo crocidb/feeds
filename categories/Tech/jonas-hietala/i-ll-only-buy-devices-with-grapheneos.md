@@ -1,0 +1,136 @@
+---
+title = "I'll only buy devices with GrapheneOS"
+description = "Cops say criminals use a Google Pixel with GrapheneOS — I say that’s freedomCalvin WankhedeWe’re in a dark time period right now.Authoritarianism is on the rise throughout the globe. Governments"
+date = "2025-09-02T19:14:36Z"
+url = "http://jonashietala.se/blog/2025/08/28/ill_only_buy_devices_with_grapheneos/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.098003541Z"
+seen = true
+---
+
+>
+>
+> Cops say criminals use a Google Pixel with GrapheneOS — I say that’s freedom
+>
+>
+>
+> [Calvin Wankhede](https://www.androidauthority.com/why-i-use-grapheneos-on-pixel-3575477/)
+>
+>
+
+We’re in a dark time period right now.
+
+Authoritarianism is on the rise throughout the globe. Governments wants to monitor your social media accounts so they can make you disappear if you engage in wrongthink such as opposing wars or genocide. This is worsened by misguided laws like [Chat control](https://fightchatcontrol.eu/) that would mandate scanning of all digital communication, exposing any wrongthink in your “private messages”.
+
+Silly me, [Chat control](https://fightchatcontrol.eu/) doesn’t mandate scanning of *all* digital communication; politicians and their families are, predictably, exempt. Rules for thee but not for me.
+
+A rational reaction to threats is to “shell up” and try to make your personal space safe. This is increasingly difficult as the devices you buy often doesn’t feel like *yours* anymore. Files are moved to the cloud without your knowledge; companies are doing everything they can to prevent you from blocking the ads they’re shoving in everywhere; and everything you do will soon be ingested by an LLM in order to present personalized slop to you (even your passwords and screenshots of any nasty porn habits you may have).
+
+While you can avoid most of this crap on computers (try Linux if you haven’t) the situation on smartphones is much bleaker. Apple has been blocking sideloading apps for years and Google will soon follow by [only allowing apps from verified developers to be installed on Android](https://news.ycombinator.com/item?id=45017028), preventing you from installing what *you* want.
+
+(They claim it’s “for security” but it’s obvious they’re doing this to protect their income stream. Apple takes a ridiculous 30% cut from all sales in their walled garden and Google hates the ability to strip out their ads.)
+
+I like the idea of a “dumb phone” but I unfortunately need and want apps on my phone (I consider banking and authentication apps essential to surviving in the modern world, and sometimes you *must* run an Android or iOS app). A “degoogled” Android-compatible operating system is the answer I see, with [GrapheneOS](https://grapheneos.org/) as the exceptional standout.
+
+The big dragons recognize this as for example Samsung [removes bootloader unlocking](https://sammyguru.com/breaking-samsung-removes-bootloader-unlocking-with-one-ui-8/) and the [EU age verification app may ban Android systems not licensed by Google](https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/?share_id=iR05aexja3cz3w-ITsqz1). In true Streisand fashion this only makes me more motivated to fight back.
+
+[GrapheneOS works and it’s convenient](#GrapheneOS-works-and-its-convenient)
+----------
+
+![](/images/grapheneos/tablet.jpg) Installing [GrapheneOS](https://grapheneos.org/) on the Pixel Tablet.
+
+When people talk about [GrapheneOS](https://grapheneos.org/) they will understandably focus on the privacy and security aspect. I’ll go into it a [later](#The-best-privacy-security-in-a-modern-phone) but I think it’s important to first dispel the idea that [GrapheneOS](https://grapheneos.org/) is only for the hardcore tech savvy user or that you’ll have to sacrifice a lot of functionality.
+
+While [GrapheneOS](https://grapheneos.org/) isn’t quite as simple as stock Android (I had to tweak a few settings to get some apps working) the experience has been very smooth.
+
+### [Installation](#Installation) ###
+
+The installation was straightforward and worked without a hitch:
+
+1. Plug in the phone or tablet via an USB
+2. Launch Chrome (or chromium)
+3. Follow the instructions and click some buttons
+
+### [App compatibility](#App-compatibility) ###
+
+[![](/images/grapheneos/Kvaesitso.png)](/images/grapheneos/Kvaesitso.png) [![](/images/grapheneos/more_apps.png)](/images/grapheneos/more_apps.png)
+
+Some of the apps I’ve got installed. I use the [Kvaesitso](https://github.com/MM2-0/Kvaesitso) launcher.
+
+Apps are also just as easy to install as on stock Android. I’ve installed most of the apps from the Play Store just as I would’ve on stock and they work just fine.
+
+So far I’ve had a grand total of two issues with any apps I’ve tried:
+
+1. At first I couldn’t copy BankID over from my old phone.
+
+   I had to tweak some permissions and disable some of the location privacy features of [GrapheneOS](https://grapheneos.org/) before the phones recognized each other. Presumably there’s some security measure there so that you can only copy it if the phones are nearby.
+
+   [![](/images/grapheneos/location.png)](/images/grapheneos/location.png) [![](/images/grapheneos/location_services.png)](/images/grapheneos/location_services.png)
+
+   I had to play with some of these location settings to be able to copy BankID from my old phone to the new one.
+
+2. The AI detection feature of [MacroFactor](https://macrofactorapp.com/) refused to work.
+
+   [MacroFactor](https://macrofactorapp.com/) is a food tracking app where you can take a photo and it’ll try to infer the food from the picture but uploading the photo simply failed. It’s a pretty cool feature and I instead use the app [Cronometer](https://cronometer.com/index.html) that has the same functionality.
+
+   [MacroFactor](https://macrofactorapp.com/) uses Play Integrity which may in some cases break certain apps. I’ve got a few other apps that also uses Play Integrity but they don’t have any issues.
+
+I was worried that I’d run into issues with the banking apps as I know there are some banking apps that have issues, but all the Swedish banking apps I’ve tried work well.
+
+You can of course install apps from other sources such as [F-Droid](https://f-droid.org/), [Accrescent](https://accrescent.app/), [Obtanium](https://obtainium.imranr.dev/), or manually as well.
+
+I had a lot more compatibility issues on [CalyxOS](https://calyxos.org/) on my old phone than I’ve had with [GrapheneOS](https://grapheneos.org/). The sandboxed Google Play is an obviously superior solution than the MicroG/Aurora setup on [CalyxOS](https://calyxos.org/), and not just for privacy reasons.
+
+### [No bloatware](#No-bloatware) ###
+
+Finally, I love that there’s no bloatware bullshit on [GrapheneOS](https://grapheneos.org/). There are no shitty vendor specific apps that you cannot uninstall and it isn’t trying to trick you into installing stupid games via dark patterns. The downside is that [GrapheneOS](https://grapheneos.org/) doesn’t come with a lot of customization and lets you install apps for that yourself.
+
+In short, it feels like with [GrapheneOS](https://grapheneos.org/) you’re in control, not some mega corporation.
+
+[The best privacy & security in a modern phone](#The-best-privacy-security-in-a-modern-phone)
+----------
+
+While other Android compatible distributions such as [CalyxOS](https://calyxos.org/) and [LineageOS](https://www.lineageos.org/) all mention privacy and security as benefits they’re nothing like [GrapheneOS](https://grapheneos.org/). In some cases—as with [CalyxOS](https://calyxos.org/) where security updates have seen *significant* delays—they may provide even less security compared to stock Android.
+
+[CalyxOS](https://calyxos.org/) [recently announced](https://calyxos.org/news/2025/08/01/a-letter-to-our-community/) that updates will be paused for 4–6 months and they recommend you to uninstall the OS. See [more discussion on the GrapheneOS forum](https://discuss.grapheneos.org/d/24791-departure-of-calyx-calyxos-leadership-and-discontinuation-of-calyxos-updates).
+
+Everything I’ve read suggests that [GrapheneOS](https://grapheneos.org/) takes security and privacy very seriously. I feel that sometimes they may take a too extreme stance but I can respect that, despite being overkill for the threat levels I care about.
+
+See for example [this comparison of Android-based Operating Systems](https://eylenburg.github.io/android_comparison.htm).
+
+What about Apple then? Aren’t they great at privacy and security? While I’m sure they’ll respect your privacy more than Google, I just can’t trust a company that [shoves ads into their wallet app](https://daringfireball.net/2025/06/more_on_apples_trust-eroding_f1_the_movie_wallet_ad).
+
+[Pixel devices, the big drawback with GrapheneOS](#Pixel-devices-the-big-drawback-with-GrapheneOS)
+----------
+
+It would’ve been great to have more choices. If I only looked at hardware I might have gotten the [Fairphone 5](https://shop.fairphone.com/fairphone-5) as I like the idea of repairability, ethically sourced components, and a phone made in the EU. I also like the idea of a smaller phone and a Flip phone would’ve been great. Or maybe a really cheap phone (or tablet) as I don’t care that much about performance and could save some money.
+
+But alas, [GrapheneOS](https://grapheneos.org/) only support Pixel devices ([for now](https://grapheneos.social/@GrapheneOS/115102564799343519)). There’s a handful of phones to choose from but only a single tablet.
+
+I guess the best way to degoogle right now is to buy from Google… So I got the Pixel 9a for myself and the Pixel Tablet for our family. (Admittedly, they’ve been pretty great.)
+
+Update 2025-09-02
+
+GrapheneOS supports so few devices because there’s simply so few devices that are both highly secure and support alternate operating systems. Some of these requirements are [outlined in their FAQ](https://grapheneos.org/faq#future-devices) and it’s an illuminating read.
+
+Fairphone for example [significantly lag behind on security updates](https://discuss.grapheneos.org/d/24134-devices-lacking-standard-privacysecurity-patches-and-protections-arent-private) (among other things).
+
+[Software is more important than hardware](#Software-is-more-important-than-hardware)
+----------
+
+I’ve had an interesting shift when I evaluate mobile devices; instead of comparing phones primarily by hardware I prioritize the software on the phone.
+
+Today, more than ever, hardware upgrades in new phones provide diminishing returns for ever increasing prices. There’s little practical difference between a new phone and a phone from a few years ago and savvy people can save a lot of money by simply avoiding the constant stream of new releases.
+
+Before I bought the Pixel 9a I used the [Fairphone 4](https://shop.fairphone.com/fairphone-4) for almost 4 years, and it was performing just fine! If I hadn’t gotten the urge of trying out [GrapheneOS](https://grapheneos.org/) I would’ve still be happy with the Fairphone hardware (which was a bit underpowered already at release).
+
+Software on the other hand is more important than ever and for me it’s what makes or breaks a phone today.
+
+The right software will protect your privacy and help keep your device secure, while the wrong software will fill your phone with uninstallable bloatware and cripple performance after system updates (if they deign to provide them).
+
+For example, I’ve used a Galaxy Tab A7 Lite as a dashboard for my smart home for a while and it worked great. Then I installed an update and it suddenly became extremely slow, so slow that you barely could interact with the UI without punching the damn device. Even though the hardware is great, Samsung crippled the device for no reason.
+
+Punching the device did not in fact help speed it up. Shocking.
+
+With the right software your device works for you, not against you. It’s not a lot to ask for, yet in the modern day that’s very rare indeed, and it’s why I’ll only be buying mobile devices supported by [GrapheneOS](https://grapheneos.org/) for the foreseeable future.

@@ -1,0 +1,40 @@
+---
+title = "Why Do We Blur Our Zoom Backgrounds?"
+description = " Zoom was the darling of COVID lockdowns. Friends, family, and coworkers flocked to this previously relatively obscure teleconferencing software seeking that fragile lifeline of human contact it provided. The term “zoom” entered our lexicon in the same way that any internet searc"
+date = "2023-02-01T00:00:00Z"
+url = "https://theluddite.org/post/zoom-backgrounds.html"
+author = ""
+text = ""
+lastupdated = "2025-10-22T08:57:31.535075819Z"
+seen = true
+---
+
+ Zoom was the darling of COVID lockdowns. Friends, family, and coworkers flocked to this previously relatively obscure teleconferencing software seeking that fragile lifeline of human contact it provided. The term “zoom” entered our lexicon in the same way that any internet search is a “google” and any soda is a “coke” in parts of the American South.
+
+Since Zoom is now the default conduit for long distance synchronous human interaction, I want to talk about one of its most used features, the blurred background. I did a rigorous and scientific poll of people around me, asking whether or not they use the blurred background, and if so, why. Those who did use it unanimously gave me one reason – it is more professional.
+
+ Asked why it’s more professional to have a blurred background, my scientifically chosen study participants gave a variety of similar answers – their bed is in the background; there are kids' toys out; the house is messy; etc. From this I conclude the obvious – it is unprofessional to be a regular person in a regular house. This is very weird, but it’s also perfectly consistent. We know it is unprofessional to dress normally, have emotions (other than slightly-happier-than-neutral), and discuss politics, money, or our personal lives at work. In short, being a person is unprofessional. Now that so many more of us work from home, we have learned it is also unprofessional to physically exist outside of a work context. Those who work from home must maintain a fiction that they are disembodied torsos inhabiting a perpetually out of focus void.
+
+ There is an obvious tension here. Zoom exists both to connect us as humans, but also must give us the tools to hide our humanity.
+
+Before I go on, I want to be clear; I’m not saying my survey respondents are doing anything wrong. Quite the opposite. The social expectation to be professional is very real. Many of my guinea pigs are in professions I greatly respect, like healthcare, education, and social work, in which they would probably be doing a disservice to the recipients of their care to act otherwise. However, just like how Americans smile at strangers when we make eye contact, something our European counterparts find very silly, this expectation is ultimately a choice we made as a culture. I want to consider how this facet of our culture has impacted the technology we make, and what, if any, lessons we can draw from it.
+
+Like most tech companies, Zoom makes most of its money through enterprise sales, which means it is designed first and foremost for its business clients. From Zoom’s business perspective, the human connection that it provides is a secondary effect of its clients’ needs to facilitate business meetings.
+
+To understand the possible implication of this, it’s probably easiest to consider an alternative. Imagine we lived under post-scarcity, fully automated luxury communism, in which technology has abolished the need for human labor. There is presumably no such thing as professionalism in this world. If one were to design Zoom in this alternative universe, it would be for parents who want to say hello to their adult children that moved away, or old friends who want to catch up. Would blurred backgrounds even occur to Zoom’s designers? If it did, would they bother? When I video call my faraway friends, I regularly request a tour of their new house or ask to see the view from their window; it never even occurs to me to blur my own backdrop.
+
+Likewise, in our world, it’s hard to see the paths we did not take. In a world in which many of our day to day human interactions, and therefore our technologies, are explicitly required to be inhuman, perhaps the need for professionalism obstructs our view of the technologies that could be.
+
+In the case of Zoom, it is possible video calling has a relatively limited design space, and this is nothing but a fanciful theoretical discussion. It is impossible to know for sure. But what we do know is that most of the big tech companies that exist to connect us as people actually make their money from sales to other businesses. Social media companies like Facebook and Twitter exist primarily for the benefit of advertisers, as does Google, which also makes some money selling G Suite’s business email solutions. Even Apple, which primarily sells its wildly overpriced electronics directly to consumers, is increasingly making its revenue via “services” like App Store fees.
+
+This means virtually everything produced by tech is designed for the needs of other businesses. I genuinely have no idea what technology in the year 2023 could have looked like if the primary purpose of technology were to make humans happier, healthier, and more fulfilled.
+
+Perhaps it is easier to imagine what our world might be like without professionalism, and work backwards from there. I suspect the very concept of professionalism exists to turn us into anonymous rational consumers, capable of interacting with our fellow capitalist automata without acknowledging the burden of our shared humanity. It would be very difficult to shop at Walmart comfortably if when we absent-mindedly asked how it’s going, the cashier openly discussed their mother’s cancer and crippling healthcare debt. Likewise, our employers would struggle to pay some of us more than others were our relationships to coworkers based not on professionalism, but on camaraderie and respect. Examples like these are endless.
+
+ If disappearing professionalism would dramatically rewrite the way we connect to our fellow humans, I propose technology could have done the same. In other words, if Facebook et al truly existed to connect us, perhaps it could have actually done so. This is not merely a theoretical counterfactual. Americans are [incredibly, depressingly lonely](https://mcc.gse.harvard.edu/reports/loneliness-in-america). Even before the pandemic, ["61 percent of Americans over the age of 18 years were lonely, a dramatic increase since the 1970s when rates were as low as 11 percent"](https://www.publichealth.columbia.edu/public-health-now/news/researchers-call-national-public-health-effort-prevent-loneliness). The internet connects us all, and yet it has at best been unable to mitigate our rapidly increasing loneliness; more likely, it is at least partly responsible. [Warnings from sociologists](https://www.jstor.org/stable/522333) date back to the 90s, highlighting that the "greater use of the internet decreases communication within the family". Even popular media like [The Atlantic](https://www.theatlantic.com/magazine/archive/2012/05/is-facebook-making-us-lonely/308930/) was warning us about this and subsequent research as early as 2012 – forever ago in social media's very short history.
+
+ We are currently living in the most interconnected society in human history, and yet we are more lonely than we have ever been. The technical achivements of the last decades could have helped build the coalitions necessary to challenge a world order that is making us miserable and actively destroying our only planet. Instead, we have blurred backgrounds and an epidemic of loneliness.
+
+---
+
+ *Thanks for reading! If you liked it, consider [subscribing](https://theluddite.org/subscribe.html) or leaving a tip: [BuyMeACoffee.com](https://buymeacoffee.com/theluddite), [Stripe](https://buy.stripe.com/00g5le0GY2cEaooeUU), [all options](/support.html).*

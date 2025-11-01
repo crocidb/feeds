@@ -1,0 +1,62 @@
+---
+title = "Let's build a VORON: Major failure"
+description = " The left POM nut got ground down, making the bed fall down.After 600 hours, the printer met it’s first major failure. I know I earlier [described how the extruder starter skipping](/blog/2024/02/02/lets_build_a_voron_smaller_fixes/Extr"
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2024/03/01/lets_build_a_voron_major_failure/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.246291208Z"
+seen = true
+---
+
+![](/images/trident/pom_bed_imbalanced.jpg) The left POM nut got ground down, making the bed fall down.
+
+After 600 hours, the printer met it’s first major failure. I know I earlier [described how the extruder starter skipping](/blog/2024/02/02/lets_build_a_voron_smaller_fixes/#Extruder-skipping) in a big way, but that was just some filament getting stuck in the extruder. This time a part physically broke down.
+
+What happened was that the rod on one of the Z-motors started to grind down the POM nut that holds up the bed:
+
+![](/images/trident/pom_chips.jpg)
+
+It did this so much that the threads got ground down, making the bed fall down.
+
+The POM nuts are considered expendable items, but a failure after only 600 hours “shouldn’t happen”. But here we are.
+
+[Potential issues](#Potential-issues)
+----------
+
+I’ve tried asking around, and I’ve rounded up a couple of potential culprits:
+
+1. Tightening the nuts holding the POM too hard.
+
+2. A gap between the motor mount and the front extrusion.
+
+   ![](/images/trident/gap_holder.jpg) I found is a gap between the motor mount and the front extrusion.
+
+   This should mean that the rod would be tilting backwards at a slight angle, which might mean that the rod would catch against the nut more in that direction, increasing the attrition on the nut.
+
+   The theory meshes well with the unevenly ground threads, especially since I mostly print things at a similar Z-height (as you can see in the first photo where the rod has collected a lot of flakes).
+
+   [![](/images/trident/pom_ground_1.jpg)](/images/trident/pom_ground_1.jpg) [![](/images/trident/pom_ground_2.jpg)](/images/trident/pom_ground_2.jpg)
+
+   The threads aren’t ground down evenly. One side is almost completely flat, while the threads are clearly visible on the other.
+
+3. I used the [wrong grease](https://forum.vorondesign.com/threads/this-is-not-good.1519/#post-9936) for the rods (POM is self-lubricating, maybe I don’t even need grease?).
+
+4. Dust/dirt stuck in the nut or on the leadscrew.
+
+5. An issue with the LDO kit.
+
+   Someone in the VORON Discord said that this is a well-known problem with LDO Trident kits (sigh, I chose the expensive option to avoid problems like these…).
+
+   ![](/images/trident/z_motor_type.jpg) The Z-motor I have is LDO-42STH40-1684CL300T. I don’t know what kind of POM nut I have (it’s black and it came with the LDO kit…)
+
+[Solutions/workarounds](#Solutionsworkarounds)
+----------
+
+I don’t know the actual cause of this, but I’ve done my best to address the potential issues described above. I’ve loosened the nuts on the POM nut a bit, I’ve adjusted the motor mount, and I’ve tried to clean the leadscrews (with a toothpick of all things). In the future I’ll try to avoid the grease as well.
+
+I complained to 3DJake where I bought the kit, and they’re sending me a replacement leadscrew including a POM nut. It’s shipping from China so the wait is very long. In the meantime I bought a few [replacement leadscrew nuts](https://www.electrokit.com/leadscrew-nut-pom-tr84) (TR8\*4, not the TR8\*2).
+
+Replacing the nuts weren’t that hard, but I hope it’ll take more than 600 hours until the next major issue.
+
+(I’ve already started seeing dust on the leadscrew… I’ll probably replace it when the replacement arrives and hope it’ll get better.)

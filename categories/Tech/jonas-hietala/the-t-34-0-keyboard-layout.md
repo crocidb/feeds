@@ -1,0 +1,171 @@
+---
+title = "The T-34/0 keyboard layout"
+description = "This is an update to the T-34 keyboard layout I’ve been using for a solid number of weeks. While there are more changes I’d like to try, I’m quite pleased with these changes so I figured I might as well immortalize them before I explor"
+date = "2024-11-25T19:34:02Z"
+url = "http://jonashietala.se/blog/2021/09/05/t-34-0/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.372322559Z"
+seen = true
+---
+
+This is an update to the [T-34](/blog/2021/06/03/the-t-34-keyboard-layout) keyboard layout I’ve been using for a solid number of weeks. While there are more changes I’d like to try, I’m quite pleased with these changes so I figured I might as well immortalize them before I explore further. (And I do have a bunch of big changes I want to experiment with.)
+
+The repeat key
+==========
+
+The big change to the layout is the `Repeat` key. The concept is simple: when you press it you repeat the last pressed key.
+
+The first usage I’m aware of is the [ISRT](https://notgate.github.io/layout/) layout which the repeat key to lower the same finger usage. So for example to type “call” you’d type `c` `a` `l` `Repeat`, avoiding the double click on `l`. It’s not as bad as pressing a key on the home-row and then a key on the top-row with the same finger, but it’s still annoying (especially with the pinky).
+
+So how common is the `Repeat` key? I tried to use my code corpus to see:
+
+![](/images/t-34-0/repeat-freq.svg) The green bar represents the frequency of each character and the red bars the frequency of a repeated character. `ℛ` is the sum of all the double characters.
+
+While the `Repeat` would be useful, it does not qualify into the top 10 and so it does not out compete `Space` or `e` as a thumb key. (`Space` isn’t listed in the graph so `d` comes in at 10th place.)
+
+But it’s usefulness isn’t only in minimizing SFB, as it can easily repeat difficult keys as well. For instance I have many two- or three-key combos, and double tapping them are *not* pleasant. I tried to solve this by holding them down to simulate double or triple taps, but with a repeat key I can just do `combo` + `Repeat`. Feels good!
+
+Or I can repeat modded keys. For instance to exit Elixir’s REPL IEx you need to do `Ctrl-c` twice. I don’t like to hold down layer keys (I use one-shot layers and mods instead) so to type `Ctrl-c` I press `Mod`, `Ctrl`, `c`, with no pauses. To do this twice I would either need 6(!) keypresses, or using hold: `Mod`, `Ctrl` (hold), `c`, `c`. With the repeat key it’s 4 taps, without any holds: `Mod`, `Ctrl`, `c`, `Repeat`.
+
+Of course you can repeat whatever you like, such as `Ctrl-Shift-Tab` or `Shift-Gui-c` (close window in XMonad) as well.
+
+So `Repeat` seems like a good idea—as long as we can find a nice place for it.
+
+Base layer
+==========
+
+![](/images/t-34/legend.png) Legend ![](/images/t-34-0/base.png) Base layer
+
+The changes from the [previous version](/blog/2021/06/03/the-t-34-keyboard-layout#Base-layer):
+
+Introducing the `Repeat` key caused a bunch of changes to the layout:
+
+1. Introduce the `Repeat` key itself.
+
+2. Swap `a`/`Repeat` and `i`/`u`.
+
+   This was a change I made even before `Repeat` (with `.` in it’s place). It was a suggestion from [/u/phbonachi](https://www.reddit.com/r/KeyboardLayouts/comments/nrl8dy/the_t34_keyboard_layout/h0ltgkx/) on Reddit, as `u` and `i` was much more common so they should go on the stronger middle finger.
+
+   This doesn’t hold as much with `Repeat`, but having `Repeat` on the middle doesn’t work well as it’s awkward to press `l` with the index and then `Repeat` with the middle, which is the most common double bigram.
+
+3. Rotate `.`, `,`.
+
+   `.` is the more common, so it goes in the more convenient spot.
+
+4. Move `"` and `=` to combos, and place `/` on base.
+
+   It’s true that `"` is more common than `/`, but now takes a relatively convenient combo on the home-row. `/` is used a lot in paths, which caused a bunch of issues with it’s previous three-key combo placement.
+
+   To make room for `Repeat`, I had to move another symbol away from base. I chose to move `=` to a combo, as it’s not that common (I have other solutions for `=>`, `!=` etc), and the combo is still convenient for the main use-case of ` = `. `Repeat` also takes care of `==` nicely.
+
+The big decision point is where to place `Repeat`, the other changes more or less fall out afterwards.
+
+Easiest would be to place it on a primary thumb—but it’s not even close as frequent as `Space` or `e` is. It might work on a secondary thumb, but that requires me to rework my mod and symbol setup, which I’m not keen to do. Moving to the secondary thumb key is also quite slow, making it unsuitable for `Repeat` as I need to be able to press it quickly.
+
+`Repeat` is also not quite frequent enough to warrant a position on the home-row for me, but it should be in the home-box (as in not on the edges).
+
+I think I found a decent position sharing finger with `a` `)` and `.` (yes I press `.` with the ring finger). It’s not perfect, as words such as `falla` (to fall) cannot be typed comfortably with `Repeat`, and I have to double tapping `l` (or worse `Repeat` then `a`, which my brain wants to do). Still, neither `a`, `.`, `u`, `i` nor `(` are commonly followed by `Repeat`, so in practice it works out decently well.
+
+There’s another change I made that’s unrelated to `Repeat`, that aims to fix some issues I complained about in my [previous writeup](/blog/2021/06/03/the-t-34-keyboard-layout#Is-this-the-perfect-layout):
+
+* Rotate `y`, `k`, `j`, `p`.
+
+  To have `j` and `k` (up/down in Vim) in slightly better positons and to fix the troublesome `sys` and `bj` pairs. Unfortunately `p` gets shafted a bit.
+
+Combos
+==========
+
+I’ve added or altered some of [the combos](/blog/2021/06/03/the-t-34-keyboard-layout#Combos) as well:
+
+![](/images/t-34-0/q.png) ![](/images/t-34-0/qu.png) ![](/images/t-34-0/dquo.png) ![](/images/t-34-0/scln.png) ![](/images/t-34-0/eq.png) ![](/images/t-34-0/rev_rep.png)
+
+1. I’ve added a `qu` combo as `q` is almost always followed by `u`, and I moved the `q` combo off to the side.
+2. `"` is now a home-row combo (mirroring the `'` combo on the right-hand side) and `;` got the three-key combo as it’s slightly harder to press than the combo for `"`.
+3. `=` is now a combo on the top row instead of on the base layer. Looks a bit weird at first glance, but it’s surprisingly convenient.
+4. I’ve been playing around with a `Reverse Repeat` key (see below).
+
+Reverse repeat
+==========
+
+One use-case I have with `Repeat` is to type `W` (shifted w) repeatedly. In Vim `w` jumps to the beginning of the next “word” and `W` to the beginning of the next “WORD” (a WORD jumps over special characters such as `-` or `_`). For code I find that `W` is super useful, but using [auto shift](https://docs.qmk.fm/#/feature_auto_shift) to repeatedly type shifted characters is *incredibly* annoying (hold down until the shifted variant appears). Therefore I use `W` (auto shift) `Repeat` `Repeat`…
+
+But sometimes I jump too far, so I’ll go back with `B` (again using auto shift). Or I’ll do `Ctrl-d` (half screen down) and I correct with `Ctrl-u`, or `PgDn` and correct with `PgUp`, or `Ctrl-o` and `Ctrl-i`, or … You get the point.
+
+This is how the idea of the `Reverse Repeat` key was born. It’s a key that moves in the opposite direction of `Repeat` (mostly in Vim context). So instead of `PgDn` `Repeat` `Repeat` (oops, too far) `PgUp` I’ll do `PgDn` `Repeat` `Repeat` `Reverse Repeat`.
+
+Here’s a list of some of these “repeat pairs” that I’ve found useful:
+
+|   A    |   B    |                        |
+|--------|--------|------------------------|
+| `PgUp` | `PgDn` |                        |
+|`Ctrl-f`|`Ctrl-b`|                        |
+|`Ctrl-u`|`Ctrl-d`|                        |
+|`Ctrl-o`|`Ctrl-i`|Easily my most used pair|
+|`Ctrl-n`|`Ctrl-p`|                        |
+|  `*`   |  `#`   |                        |
+|  `W`   |  `B`   |                        |
+|  `{`   |  `}`   |                        |
+|`Gui-k` |`Gui-j` |                        |
+
+This may sound fine and dandy, but if I’m completely honest, it’s absolutely nothing groundbreaking. I might use it once per day or something—and when I do it feels great—but it would be easy to live without.
+
+Symbols
+==========
+
+The changes to [the symbols](/blog/2021/06/03/the-t-34-keyboard-layout#Mods-symbols) are to move `@`, `.`, `,`, `"`, `/`, `=` and `Repeat` mirroring the changes to the base layer.
+
+![](/images/t-34-0/lmod.png) Left mods & symbols ![](/images/t-34-0/rmod.png) Right mods & symbols
+
+Numbers
+==========
+
+The changes to [the num layer](/blog/2021/06/03/the-t-34-keyboard-layout#Where-are-the-digits) are again to mirror the changes to the base layer.
+
+![](/images/t-34-0/num.png) Num layer, gray keys turns of the NUMWORD temporary layer
+
+In Vim you can type `20k` or `13j` to move up 20 lines or down 13 lines. Having the number layer turn off after `k` or `j` is therefore very convenient. `x` does not turn off the layer, so you can easily type `800x600` or similar.
+
+I won’t list it here, but `j` and `k` are also moved in the [workspace nav layer](/blog/2021/06/03/the-t-34-keyboard-layout#Navigation).
+
+Tap hold
+==========
+
+I am a happy [auto shift](https://docs.qmk.fm/#/feature_auto_shift) user, where you hold down a key until the shifted variant appears. While I use the [qmk](https://github.com/qmk/qmk_firmware/) firmware, I have my own “tap hold” implementation with some extra features:
+
+1. Variable per-key timing.
+
+   The standard implementation has one timing for all keys, which I found was super annoying as my pinkies are slow—leading to a high timeout setting to avoid accidental shifts—but then shifting would be annoyingly slow with the other faster fingers.
+
+   Right now I use a 100 ms timeout for the index and middle finger, but a 135 ms timeout for the pinkies.
+
+2. The other big feature is a customizable hold action.
+
+   While auto shift only shifts the underlying keycode, you could send whatever you want. I currently use it to simplify the input of some programming constructs:
+
+   |Tap| Hold  |                                                          |
+   |---|-------|----------------------------------------------------------|
+   |`|`|` || ` | One hold saves 4 key strokes for these common operators  |
+   |`&`|` && ` |                                                          |
+   |`=`|` == ` |                                                          |
+   |`!`|` != ` |                                                          |
+   |`@`| `@u`  |Vim: Execute macro stored in `u` (matching the `qu` combo)|
+   |`?`|`{:?}` |                     Rust debug print                     |
+   |`#`|`{:#?}`|                 Rust debug pretty print                  |
+   |`%`| `%{}` |                     A map in Elixir                      |
+
+   (I previously used this feature only to input double or triple symbols.)
+
+3. Interopability with CAPSWORD/NUMWORD, `Repeat` and the ability to shift `åäö`.
+
+What do I dislike?
+==========
+
+* `p` is in *the* worst spot on the keyboard, and it’s not that rare to deserve such a bad position. (In fact I might ditch that key position completely, as it’s the only position I have to move my entire hand to reach.)
+* Having `space` combo all symbols is a bit weird as the left mod only covers symbols on the right side, and it messes up my head. I’m considering to change so that `space` + key on the left = number and `space` + key on the right = symbol, and the reverse for `e`.
+* `Repeat` being on the same column as `a` and `5` isn’t ideal. The next thing I’m going to try is turning a `Repeat` `u` roll into `Repeat` `a`.
+* The `!` combo is a bit awkward as the index and thumb come very close together.
+
+And now, with this post out of the way, I can start the next round of experimentation.
+
+If you’re interested, the [QMK code is on GitHub](https://github.com/treeman/qmk_firmware/tree/master/keyboards/ferris/keymaps/treeman) (now using the 34-key Ferris).

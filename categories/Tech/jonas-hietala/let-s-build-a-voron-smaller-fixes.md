@@ -1,0 +1,159 @@
+---
+title = "Let's build a VORON: Smaller fixes"
+description = "I’ve been busy. Busy printing stuff.Which is awesome, because one big worry I had was if I’d actually use the printer or just end up modding and tweaking it until the end of time.But of course, I’ve been slowly working through my large mods-I-want list. My initial plan was to wri"
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2024/02/02/lets_build_a_voron_smaller_fixes/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.273283889Z"
+seen = true
+---
+
+I’ve been busy. Busy printing stuff.
+
+Which is awesome, because one big worry I had was if I’d actually use the printer or just end up modding and tweaking it until the end of time.
+
+But of course, I’ve been slowly working through my large mods-I-want list. My initial plan was to write one blog post about modding, but for space and sanity reasons I’ve decided to split it up.
+
+This post goes through a bunch of smaller fixes and mods I’ve done to the printer, and I’ll leave the more involved mods to later posts.
+
+[Tweaks & tuning](#Tweaks-tuning)
+----------
+
+My plan was to take tuning seriously and go through all the tuning guides to get the printer to produce perfect prints. But I didn’t have patience for that and I’ve only made some tweaks when the prints had noticeable defects. Here are the major tweaks I’ve done since the last post:
+
+### [Bed mesh offset in one corner](#Bed-mesh-offset-in-one-corner) ###
+
+It got pointed out to me in the [VORON forum](https://forum.vorondesign.com/threads/ldo-trident-250-complete-3d-printer-beginner.1089/) that I my right rear Y extrusion was a bit high. The Trident has automatic bed leveling, but because the bed is only attached in three positions it can’t compensate for a difference in the rear that only has a single mount in the middle. If you’re unlucky this might cause issues with bed adhesion.
+
+Turns out I’ve had some problems with bed adhesion. Not a lot mind you, but enough to bother me on some trickier prints. I’ve seen the offset on the corner go down to `-0.26`, which is more than the standard `0.2` layer height I use, so this might be the cause of some of the issues I’ve seen.
+
+![](/images/trident/wonky_offset.png) Before adjusting the right Y extrusion.
+
+In the `voron_1_trident_questions` channel on the VORONDesign Discord there was a pinned message on how to adjust this. I ended up adjusting the front right Y extrusion upwards quite a bit to compensate for this.
+
+![](/images/trident/mesh_fixed.png) After adjusting the front right Y extrusion upwards.
+
+The mesh still isn’t perfect (and it can sometimes look worse than the adjusted picture above), but it’s now a lot better and importantly the rear corners are much more level.
+
+### [Bulging corners](#Bulging-corners) ###
+
+One significant print issue I’ve had is bulging in the corners on overhangs:
+
+![](/images/trident/bulging_corners.jpg) Both edges round upwards and apart from being really ugly, they’ve caused a number of prints to fail when the nozzle has knocked loose pieces from the bed or has caused belts to skip. ![](/images/trident/bulging_black.jpg) It’s really ugly.
+
+Maybe it was overheating? But it happened consistently, with long layer times, with max fans, and for PLA/ABS/ASA. Another idea was over extrusion, but I think that should’ve shown up in other places?
+
+Then I found the [Bulging](https://ellis3dp.com/Print-Tuning-Guide/articles/troubleshooting/bulging.html) section in Ellis’ Print Tuning Guide that made the issue disappear. These were the changes I made:
+
+* Enable `external perimiter first`
+* Set overhang `threshold for bridge flow` to 0
+* I also experimented with disabling overhangs specific settings completely (set `bridge speed and fan` to 0 or the disable checkbox), but I’m uncertain how effectual that was compared to the other two settings.
+
+Some of these were specific to SuperSlicer, the slicer I use.
+
+![](/images/trident/bulging_nerf.jpg) These are two prints that show the difference between the settings. The green is without the changes and white is with the changes. Apart from the overhangs, the green printout looks pretty good, but the overhangs look terrible. The white still has some defects, but it’s ****so**** much smoother.
+
+### [Extruder skipping](#Extruder-skipping) ###
+
+I had printed for around 400 hours when the extruder suddenly started skipping. At first it was just minor artifacts, but after a while prints started failing in major ways or refusing to extrude anything at all:
+
+![](/images/trident/bad_skip.jpg)
+
+My first idea was that I had messed up the tension in the extruder, so it no longer got a good grip on the filament. (I had some major issues with loading filament at one time, and I started screwing around with everything I could think of.)
+
+But alas I couldn’t solve it with a quick-fix, so I had to open up the toolhead. Which I should have done much sooner, because there were a bunch of broken filament stuck in the gears:
+
+![](/images/trident/cw2_dirty.jpg) One piece of broken filament inside the CW2, together with a bunch of dirt.
+
+I really didn’t want to disassemble it because I was afraid of the effort to do so, but in the end it was just a few screws and the whole cleaning process took 10 min. Building your own printer has some benefits, I should have more faith in the process.
+
+### [2mm PTFE between extruder and hotend](#2mm-PTFE-between-extruder-and-hotend) ###
+
+There were a lot of leftovers after the build; nuts, screws, belts, etc. But also an unused bag with “Teflon Tubing, 4x2mm”, which surely shouldn’t be completely unused?
+
+Turns out you’re supposed to use a tube with an inner diameter of 2mm between the extruder and hotend, but I had used the regular PTFE tube that had an inner diameter of 3mm. This isn’t ideal and requires more retraction (which I didn’t compensate for), and it can cause stringing issues (which I had).
+
+Don’t use a tube with an inner diameter of 2mm between the extruder and spool, the filament will get stuck due to friction.
+
+### [First layer woes](#First-layer-woes) ###
+
+For a long time I was really happy with how my first layers looked and I could start a print and it would finish without issue most of the time.
+
+But sometimes I had these “blobs” that started collecting:
+
+![](/images/trident/filament_blob_printing.jpg) This is some extra filament that has been pushed around and gotten stuck on the print.
+
+I couldn’t figure out where it was coming from. Overextrusion maybe, but i didn’t find any issues with it and this only happened in the beginning of the print.
+
+And later on I started to get *severe* issues with bed adhesion where I felt lucky if a part stuck around long enough for the print to finish. The first layer started to look garbage as well:
+
+[![](/images/trident/clickfinity_bad.jpg)](/images/trident/clickfinity_bad.jpg) [![](/images/trident/clickfinity_bad2.jpg)](/images/trident/clickfinity_bad2.jpg)
+
+The worst part is, I didn’t think I had changed anything.
+
+In hindsight me fixing the [bed mesh offset](#Bed-mesh-offset-in-one-corner) might have been the cause my sudden problems.
+
+I tried a bunch of things; changing nozzle, recalibrating PA and EM, changing filament, and even replacing the extruder (more on that in a future post) yet the issue remained.
+
+What finally fixed it was recalibrating the [z offset](https://docs.vorondesign.com/build/startup/#z-offset-adjustment) and tuning [first layer squish](https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html) once more. I’m not sure why I had to do this again (doesn’t Tap magically solve everything?), but now the first layer is pretty and the bed adhesion problems are almost completely gone. (Some prints have a tendency to warp a little, but I guess it’s hard to get things perfect.)
+
+![](/images/trident/clickfinity_good.jpg) Much better first layer!
+
+[Mods](#Mods)
+----------
+
+These are some smaller mods from the LDO kit I hadn’t gotten around to installing, and some other small mods that fixed some annoyances I’ve had.
+
+### [Handles](#Handles) ###
+
+![](/images/trident/handles.jpg)
+
+The kit includes some very nice handles you can install. But unfortunately they cover up the top panel so you have to remove the handles before you can remove the panel—a gigantic pain.
+
+So I ended up printing some [sturdy handles](https://mods.vorondesign.com/detail/EAM1ZiQJCUzXznvOA767w>) instead. They’re really large comparatively, but they get the job done. I haven’t had that much use for them yet, but I felt obliged installing them since some kind of handles came with the kit.
+
+### [LED mounts](#LED-mounts) ###
+
+There were no instructions on how to install the LEDs, so I taped them on top of the included extrusions covers. Turns out you were supposed to print a bunch of [LED mounts](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/eddie/LED_Bar_Clip/LED_Bar_Clip_Misumi_version2.stl) to get the LEDs pointing inwards towards the print for better lighting:
+
+![](/images/trident/led_old.jpg) Before the LED strips were mounted flat. ![](/images/trident/leds_installed.jpg) Now they’re tilted inwards and have shields to direct the light towards the build plate.
+
+### [Longer spool holder](#Longer-spool-holder) ###
+
+![](/images/trident/longer_holder.jpg) The stock spool holder to the left, a longer one I printed to the right.
+
+I ran into the surprising issue that some spools were too wide for the stock spool holder (3DJake’s filament for example). So I replaced it with a [longer one](https://mods.vorondesign.com/detail/wWS3pc510oGqxGo0awsFKA).
+
+In the future I should probably replace it with a [top mounted spool holder](https://mods.vorondesign.com/detail/VjlccbeeOuH5iax4AFHA), but I got lazy when I saw I didn’t have the required M5 hardware. Maybe another day.
+
+### [Bowden tube routing](#Bowden-tube-routing) ###
+
+![](/images/trident/bowden_tube_routing.jpg)
+
+I had some issues with the bowden tube getting stuck behind or under the cable chain, so I tried the [bowden tube guide](https://mods.vorondesign.com/detail/8CxQeqS1lXhlGphwkyqh7g) to keep it away. It was difficult to find a route that worked well. Depending on the mount position it had a tendency to cause a bend in the tube that drastically increased the friction on the filament, which I suspect was the cause for some prints failing.
+
+I also use the [Trident noodle](<https://github.com/Diyshift/3D-Printer/tree/main/Trident Noodle>) that’s made to prevent the tube from colliding with the roof of the printer, and this combination works very well.
+
+### [Display mount](#Display-mount) ###
+
+![](/images/trident/display.jpg)
+
+The display mounts I got from the print-it-forward service wasn’t compatible with the screen I got, so I had to hold it together with tape.
+
+So I tried to find the proper parts to print, but I must be missing something because the screw holes to hold the display cover still don’t line up. I don’t care to spend more energy on this; it’s a bit weird but tape does the job well enough.
+
+At least I got the display cover in an accent color.
+
+### [Improved seal in extrusions](#Improved-seal-in-extrusions) ###
+
+![](/images/trident/sugru.jpg)
+
+Despite having the Nevermore filter and a HEPA filter exhaust, I could very clearly smell ABS fumes from the printer. Looking at the extrusions, there were large holes in the blind joints and I suspect that doesn’t help.
+
+Therefore I tried to cover up the holes with some Sugru. It’s better, but I should probably replace the front door too.
+
+[Are we done yet?](#Are-we-done-yet)
+----------
+
+It’s true that the printer can now be considered Done™—and it has been done for a while—but I still have some mods I’d like to document before I wrap up this build series.

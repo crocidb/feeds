@@ -1,0 +1,118 @@
+---
+title = "2011 in Review"
+description = "It’s time to wrap up the year that’s been. Be warned for slight ego boosting here.2011 Geek Achievements1. Wrote three games this year:    My Minions    Grand Thief Arto   * [Sat-E](/blog/2011/12/19"
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2012/01/04/2011_in_review/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.751810153Z"
+seen = true
+---
+
+It’s time to wrap up the year that’s been. Be warned for slight ego boosting here.
+
+2011 Geek Achievements
+==========
+
+1. Wrote three games this year:
+
+   * [My Minions](/blog/2011/05/02/my_minions/)
+   * [Grand Thief Arto](/blog/2011/10/19/grand_thief_arto/)
+   * [Sat-E](/blog/2011/12/19/sat-e/)
+
+2. Bought a [new computer](/blog/2011/08/21/new_computer)!
+
+3. Bought a mechanical keyboard.
+
+4. Bought [custom Starcraft 2 keycaps](/blog/2011/12/16/starcraft_2_keycaps) for the keyboard.
+
+5. Learned 68k assembly.
+
+6. Learned about algorithms and data structures.
+
+7. Bought a lot of programming books.
+
+   * The Pragmatic Programmer
+   * Structure and Interpretation of Computer Programs
+   * Introduction to Algorithms
+   * Modern Perl
+   * Effective Java
+   * Learn You a Haskell for Great Good!
+   * Land of Lisp
+   * Maybe something more…
+
+8. Read a lot of programming books. Modern Perl and The Pragmatic Programmer were my favourites.
+
+9. Learned some Ada.
+
+10. Learned a lot of Perl.
+
+11. Learned a tiny bit of Haskell.
+
+12. Learned some [emacs](http://www.gnu.org/software/emacs/)
+
+13. Got a hint of design understanding thanks to [Design for Hackers](http://www.designforhackers.com/)
+
+2011 Non-Geek Achievements
+==========
+
+1. Went to a dance course with Veronica.
+
+2. My stumach is in good shape!
+
+3. Read and loved A Song of Ice and Fire.
+
+4. Achieved 7 kup in Taekwon-do.
+
+5. Read a *lot* of manga. Some recommendations:
+
+   * Bakuman. A nice slice of life manga about… making manga. Surprisingly captivating.
+   * Gamaran. A slightly brutal battle manga with loads of weapons.
+   * Vinland Saga. A bit more brutal battle manga about vikings and war.
+   * Beelzebub. Battle manga but with a ton of light hearted humor.
+   * The Breaker. Another battle manga, a bit more direct perhaps.
+
+2011 Failures
+==========
+
+1. Didn’t produce enough games.
+2. Didn’t write enough code.
+3. Did not learn enough Haskell.
+4. Have a lot of books I haven’t read yet.
+5. Did not have enough free time.
+
+Plans for 2012
+==========
+
+1. Keep Veronica happy!
+
+2. Make more games.
+
+3. Code more! Much more!
+
+4. Blog more!
+
+5. Learn more Haskell (yet again)…
+
+6. Transform my site to something new, something that I don’t dread to use.
+
+7. Improve in Taekwon-do.
+
+8. Be more disciplined in studying, coding, training and cleaning.
+
+9. Read the programming books I have but have not read yet.
+
+   * A book about Erlang.
+   * K&R C Programming language.
+   * SICP, all important for every programmers. I hear.
+   * Probably missed something… Damn I’ve got many.
+
+10. Get good results in school.
+
+11. Try to be a bit more social (it’s hard).
+
+12. Get more free time somehow.
+
+13. Complete a larger personal project.
+
+14. Learn more mathematics.

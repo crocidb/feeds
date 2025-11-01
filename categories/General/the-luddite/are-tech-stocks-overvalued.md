@@ -1,0 +1,68 @@
+---
+title = "Are Tech Stocks Overvalued?"
+description = " Though the tech industry prides itself on the many stories of scrappy founders with their laptops in garages, i.e. the lowest initial capital requirements imaginable, the tech industry is absolutely flush with venture capital. This apparent paradox has a simple explanation: Vent"
+date = "2024-06-01T00:00:00Z"
+url = "https://theluddite.org/post/tech-stock-value.html"
+author = ""
+text = ""
+lastupdated = "2025-10-22T08:57:31.390260674Z"
+seen = true
+---
+
+ Though the tech industry prides itself on the many stories of scrappy founders with their laptops in garages, i.e. the lowest initial capital requirements imaginable, the tech industry is absolutely flush with venture capital. This apparent paradox has a simple explanation: Venture capital allows tech companies to grow fast. Likewise, because tech companies can grow fast, investors like them, driving up their valuations, and making them even more attractive to investors. If this seems circular, that's because it is, but it's also [constantly repeated](https://techbehemoths.com/blog/how-tech-companies-are-valued-high), and deeply embedded into capital markets.
+
+[I've written about this before](https://theluddite.org/#!post/case-against-substack), but when investors want to figure out how much a company is worth, they first need to figure out its "multiple," or the number by which they'll multiply a business's actual, real metrics to get how much that company is "worth." If a landscaping company and a tech company have otherwise identical spreadsheets, according to capital markets, the tech company is worth much more, so we assign it a correspondingly higher multiple. This is, in fact, the same exact process that I explained in the preceding paragraph, just [laundered through spreadsheets and financial jargon](https://aventis-advisors.com/tech-company-valuation-multiples/).
+
+ This may seem silly, but they do have a point. The tech industry is qualitatively different from other industries. It is uniquely valuable to investors, just not for the reasons that they discuss publicly.<sup>1</sup>
+
+ We'll start with a perennial topic around here, [the Arab Spring](https://en.wikipedia.org/wiki/Arab_Spring). As previously discussed,<sup>2</sup> mainstream narratives at the time equated social progress with technological progress, as they often still do. Because of social media, the story goes, governments lost their ability to censor citizens or hide information, so their citizens, as a natural consequence, overwhelmingly demand liberal democracy. This technology-forward theory of progress is everywhere in our society. The term "medical advancements" brings to mind new drugs, new procedures, and new discoveries, not free insulin or expanded vaccine access, for example. Even as our species destroys its only home, we assume that the solutions to climate change must lie in technology, without stopping to examine the role that this very attitude has played in the crisis.
+
+ This is so deeply ingrained in our social consciousness that, when there is a new impressive technology, we assume that it must be here to solve one of our big problems. As the AI hype [quickens the pace of our ecological devastation](https://e360.yale.edu/features/artificial-intelligence-climate-energy-emissions), we're so dazzled by the technology that there is actual debate in supposedly serious publications as to whether AI is going to save us from climate change, despite all evidence pointing to the contrary. Here's an example, from *Nature*: ["Will AI accelerate or delay the race to net-zero emissions?"<sup>3</sup>](https://www.nature.com/articles/d41586-024-01137-x)
+
+ *Most discussions so far about AI’s environmental consequences have focused on the direct impacts of these computationally intensive technologies — how much energy, water or other resources they consume and the amount of greenhouse gases they generate. But the global repercussions of AI applications for society will be much broader, from transforming health care and education to increasing the efficiency of mining, transportation and agriculture.*
+
+ *Such AI-driven changes can lead to indirect effects on emissions, which might be positive or negative. These indirect effects also need to be taken into account, and could vastly exceed those from direct impacts. Assessments of all types of AI impact are urgently needed. Here’s what we know and what we don’t.*
+
+ Like all such arguments, the positive sides of AI for the climate crisis rest on a shaky claim to a Rumsfieldian known unknown: If AI is revolutionizing everything, then it will probably revolutionize the climate, too, though we don't quite know how. The author argues that we must balance those potential positive future impacts against the "direct" impacts, otherwise known as the real and observable ones.<sup>4</sup> Though there are many examples of this kind of coverage, we'll limit ourselves to one more, from who else but *The New York Times*: ["The Climate Summit Embraces A.I., With Reservations"](https://www.nytimes.com/2023/12/03/climate/artificial-intelligence-climate-change.html).
+
+ *Entrepreneurs and researchers have dazzled attendees with predictions that the fast-improving technology could accelerate the world’s efforts to combat climate change and adapt to rising temperatures.*
+
+ *But they have also voiced worries about A.I.’s potential to devour energy, and harm humans and the planet.*
+
+ *[The climate summit was] stocked with representatives from Microsoft, Google and other power players in the emerging A.I. industry [...] The United Nations said on the summit’s opening day that it was partnering with Microsoft on an A.I.-powered tool to track whether countries are following through on their pledges to reduce fossil fuel emissions, helping to solve what has been one of the thorniest issues in international climate diplomacy.*
+
+ *Other groups offered research highlighting A.I.’s potential to reduce emissions in manufacturing and food production, help locate new renewable energy projects and balance electricity loads during extreme weather events.*
+
+ It's the exact same argument, presented with that classic view from nowhere: Some say that AI is an observable ecological disaster right now, but others say that it has the potential to be the exact opposite later. Who could possibly decide which side is right?
+
+ Now, compare that credulous coverage of AI-as-climate-savior to the mainstream media's coverage of a much different issue: Medicare for All. Unlike AI solving the climate crisis, this kind of public healthcare is not just possible, but it exists in much of the world. [FAIR.org](https://fair.org), the best media critics in the business, [broke down American media coverage of Medicare for all in 2019](https://fair.org/home/corporate-media-are-here-to-warn-you-medicare-for-all-is-a-very-bad-idea/), in which they conclude that ...
+
+ *... corporate media appear to be almost univocally against the idea, with the flow of doom-mongering stories increasing to a roaring flood as the notion gains more traction among the public.*
+
+ I doubt that anyone in the anglosphere needs convincing on that point. It really wasn't that long ago that Americans had a presidential candidate advocating for universal healthcare and, simultaneously, a pandemic, during which the failures of our for-profit medical system were laid so painfully bare, only for American media to incredulously discuss how feasible such a kooky socialist scheme might be. Still, FAIR's analysis is not that long, and documents a series of transparently bad faith arguments, often penned by people and organizations with obvious conflicts of interest. From their conclusion:
+
+ *[C]orporate media oppose Medicare for All not because of legitimate queries and concerns about its implementation, but because they are owned by investors with stakes in highly profitable medical and pharmaceutical companies—the very same companies that supply them with millions of dollars each year in advertising.*
+
+ These kinds of vested interests are a throughline between the coverage of these two issues, but with one important difference. Vested interests generally argue against change. This is usually, by their nature, where they end up, because being in power now means being for the status quo. The tech industry delivers disproportionate value to investors because it allows them to, for once, be on the side of "progress." Most revolutions remove those in power, but [so-called](https://theluddite.org/#!post/ai-hype) technological revolutions, though we use the same word, can have the exact opposite effect. They might, for example, grant large tech companies increased access to international climate policy, suddenly positioning megacorporations in the vanguard for progressive change, rather than as the reactionary force that they truly are.
+
+ Conversely, by tut-tutting all our non-technological attempts at progress, no matter how modest, realistic, or achievable, while boosting technological progress as the more realistic alternative, capitalist media creates a for-profit public imaginary, pushing public discourse towards (preferably patentable) ideas that benefit the current regime. In a society so ideologically committed to the belief that markets are fundamentally sound,<sup>5</sup> the outrageous valuations of tech companies reflect the political utility of this capture of our imagination while simultaneously reinforcing it. Apple is worth $3.3 trillion because it creates the future, and it will create the future because it's worth that much. [Tesla is worth as much as the next 10 car companies combined](https://wolfstreet.com/2021/10/26/teslas-market-cap-gigantic-v-next-10-automakers-v-teslas-global-market-share-minuscule/) because Elon Musk is saving us from climate change. Only Musk can save us from climate change because only he has the wealth and power to do so, and if his ideas weren't going to work, then the market would correct.
+
+ This is so successful that arguments for a kinder world, one where we share and take care of each other, are met reflexively in public discourse with counterarguments that such ideas aren't *realistic*. Meanwhile, we are bombarded with reports fawning over technologies that are much more unrealistic, and sometimes literally impossible: carbon capture, self-driving cars, plastic recycling, [most AI-hype apps](https://theluddite.org/#!post/ai-research), [and so on](https://theluddite.org/#!post/technological-antisolutions-revisited). Being kind is so basic, so easy, so self-evidently *realistic*, that we get upset when literal children don't do it, yet, somehow, we're convinced that our current world, with its absurd implausibilities — from overpriced printer cartridges, to [cars getting bigger during the climate crisis](https://theluddite.org/#!cars-getting-bigger), to for-profit medical debt collection — is somehow more realistic than sharing.
+
+ When [Bill Gates argues that intellectual property matters more than vaccine access for the world's poor](https://www.wired.com/story/opinion-the-world-loses-under-bill-gates-vaccine-colonialism/), we ought to respond by saying that this isn't just stupid and cruel, but unrealistic. Instead, we get tidy anecdote of the unique value that technology offers investors: Those companies are heroes and, simultaneously, successfully argued against waiving the patents for the vaccines because it would disincentivize future research and development. In other words, it is worth sacrificing non-technological progress now because, otherwise, we might have less technological progress later.
+
+---
+
+ 1. I've argued before that ["tech," as a category, has limited utility](https://theluddite.org/#!post/understanding-x). The argument put forth here won't contradict (or repeat) those arguments, but, hopefully, build on them.
+
+ 2. See also: [this post](https://theluddite.org/#!post/mass-protests-and-social-media), [this one](https://theluddite.org/#!post/is-tech-apolitical), and even, at least as of this writing, [our "about" page](https://theluddite/org/#!about).
+
+ 3. Thanks to [Anthony Bucci](https://bucci.onl/about.html) for pointing out that the author of that article works at Microsoft, which has an obvious interest in greenwashing its AI endeavors.
+
+ 4. There's an interesting parallel here to carbon credits, which allow polluters to offset today's emissions with future so-called "avoided emissions." Say I was planning on cutting down this here forest, but then decide not to because you give me money not to cut it, the carbon that this forest stores for the next N years, when compared to the "baseline" of cutting it down, all count towards that credit.
+
+ 5. Though some do argue that markets only work well with "proper regulation." This is a particularly frustrating stance because it can't be falsified. If you believe that there exists some proper regulations such that markets work well, then you can dismiss the results of any experimentation with markets on those grounds. This is how people can still believe in markets as being ontologically useful, despite our current little experiment with them, during which we seem to be destroying the entire planet, i.e. the worst possible outcome of any economic system.
+
+---
+
+ *Thanks for reading! If you liked it, consider [subscribing](https://theluddite.org/subscribe.html) or leaving a tip: [BuyMeACoffee.com](https://buymeacoffee.com/theluddite), [Stripe](https://buy.stripe.com/00g5le0GY2cEaooeUU), [all options](/support.html).*

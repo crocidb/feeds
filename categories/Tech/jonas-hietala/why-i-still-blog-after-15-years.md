@@ -1,0 +1,185 @@
+---
+title = "Why I still blog after 15 years"
+description = "Time flies when you’re having fun.Before you know it, your little babies have started school, you celebrate the 30th anniversary of Jurassic Park, and that little blog you started have now been going for 15 years.15 years is a long time; longer than I’ve been waiting fo"
+date = "2025-05-04T06:50:38Z"
+url = "http://jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.165242158Z"
+seen = true
+---
+
+>
+>
+> Time flies when you’re having fun.
+>
+>
+
+Before you know it, your little babies have started school, you celebrate the *30th anniversary* of Jurassic Park, and that little blog you started have now been going for 15 years.
+
+*15 years* is a long time; longer than I’ve been waiting for *Winds of Winter*, and that wait has felt like an eternity. How did I—who frequently abandon projects for the next shiny thing—manage to continue this blog for so long?
+
+I’m as surprised as anyone but I’ve tried to make a retrospective of how this may have happened.
+
+[Why I started the blog](#Why-I-started-the-blog)
+----------
+
+I started this blog because I wanted to create a bunch of [fast game prototypes](/projects/#games) and I wanted somewhere I could write about my plans and, ultimately, the games.
+
+You see, I was a budding programmer and I wanted to learn how to program by making a game. Not a simple game like *Tetris*—that would be way too sensible—no, I wanted to make a big RTS game, like [StarCraft](https://en.wikipedia.org/wiki/StarCraft) or [Supreme Commander](https://en.wikipedia.org/wiki/Supreme_Commander_(video_game)). And to do that you needed a **game engine**.
+
+So I got stuck developing my engine with truly groundbreaking features such as:
+
+* A menu with keyboard *and* mouse support.
+* A console you could bring up with `F2` where you could update variables (such as unit speed) without having to recompile.
+* You could select units with proper `Ctrl`, `Shift`, and right click behavior.
+
+… But, embarrassingly, I didn’t have anything even resembling a game, and with the development speed I had I doubt I’d be finished to this day.
+
+I’d gotten stuck in the **Game Engine Trap**, and I hated it.
+
+Then I found *The Experimental Gameplay Project* (of [World of Goo](https://store.steampowered.com/app/22000/World_of_Goo/) fame) that promoted the idea that you should be able to create a game prototype in just 7 days. That sounded like the perfect cure against the **Game Engine Trap**, so I created this blog to document my progress.
+
+[Why I’ve continued to blog](#Why-Ive-continued-to-blog)
+----------
+
+While the blog fulfilled it’s initial purpose as I developed around a dozen [game prototypes](/projects/#games) that got me out of the **Game Engine Trap** (and that gave me a small “game engine” library at the end), I soon started write about other things.
+
+There are a number of reasons I continued to blog:
+
+1. I enjoy writing.
+
+   I realize now that the biggest reason I blog is that I enjoy the writing process. I can’t put my finger on why, I just generally *like* it.
+
+   This isn’t always true though and I’ve had years where I’ve barely written anything at all ([2022](/blog/2022) for example). Sometimes I’ve had to force myself to write something.
+
+   I guess the motivation ebbs and flows sometimes.
+
+2. Writing helps me think more clearly and helps me flesh out ideas.
+
+   The act of writing something down helps me find errors in my thinking and helps me consider different viewpoints. Rewriting the text you’ve written has a similar benefit to refactoring your code; your thoughts will be more polished afterwards.
+
+3. Publishing something forces me to do better.
+
+   If I’m going to put something out there I’m going to re-read and rework my text/code/ideas more than if I had kept it for myself. (Even if nobody will read your posts, the mere act of putting something out there has this effect I think.)
+
+   For example, [my custom keyboard layout](/series/t-34/) wouldn’t have been nearly as well-developed if I hadn’t published it for everyone to see.
+
+   Being more thoughtful about how I write is something I’ve become more cognizant of as the years have gone by. My first posts where little more than a stream of thoughts, while the larger posts I gravitate towards today have gone through multiple revisions and rewrites before I publish them.
+
+   At any time I have several drafts that I’m writing on, but many of them never gets published. Sometimes I lose interest, and other times I see that the post won’t become the polished masterpiece (or at least, not a pile of dung), so I abandon it.
+
+4. The blog is a place to document my personal projects.
+
+   Over the years I’ve done [other projects](/projects), such as [built a 3D printer](/series/voron_trident/) and [wrote a book](/series/making-cryptobook). It’s nice to have a place where I can write about them.
+
+5. Looking at a log of things I’ve done makes me feel better.
+
+   I’ve been doing a small [yearly review](/blog/tags/yearly_review) every year where I try to list the highlights of the past year. It’s been super helpful for me as it helps counteract the [depressing feeling](/blog/2023/03/14/battling_burnout) that nothing has happened and that I haven’t done anything.
+
+   Doing a yearly review of some sort is a practice I highly recommend everyone to try, and of course you don’t have to publish it for everyone to see.
+
+6. I enjoy developing the blog as a project that exclusively solves my problems.
+
+   Programming is my biggest hobby and I can’t see myself ever stopping. The blog is a great project as it’s something that exists only for me so I can rewrite, refactor, and add whatever silly features I want and I only have myself to answer to. It’s a nice feeling.
+
+7. Blogging helps me become a better writer, which in turns helps me become a better developer.
+
+   I think communicating well is an important and underrated part of being an effective software developer. Writing well is a skill that can be developed by practice, and maintaining a blog is a pretty good way to practice I’d say.
+
+   No, dumping a stream of thought into ChatGPT isn’t good enough.
+
+### [My motivations aren’t dependent on external feedback](#My-motivations-arent-dependent-on-external-feedback) ###
+
+It’s important to point out that it’s not external feedback that has kept me going all these years. Yes, of course, it’s nice to get the occasional email with compliments, but that’s just a bonus.
+
+I keep this blog for me to write, not necessarily for others to read.
+
+Many of these kinds of retrospectives contain graphs of views over time or the most popular posts; but I’m not showing it to you because I can’t—I don’t keep any statistics whatsoever.
+
+I don’t really care—and I don’t want to care—about how many readers I have or what posts are and aren’t popular. I worry that if I add statistics to the blog it’ll change from an activity I perform for the activity’s sake, to an exercise in hunting clicks where I write for others instead of for myself.
+
+If I were chasing views I would certainly not have continued to blog for as long as I have, and I’d have missed out on the [many benefits](#Why-Ive-continued-to-blog) I’ve gotten from the blog.
+
+[Evolution of the tech stack](#Evolution-of-the-tech-stack)
+----------
+
+One of the reasons I’ve been blogging so long is that I’ve been able to play around with the tech stack of the blog. I’ve changed the tech stack a number of times; from choosing languages I wanted to learn, to a boring setup that “just works”, and back again.
+
+\~ 2008
+
+I started out with PHP using the [Kohana Framework](https://kohanaframework.org/) and I still have fond memories of their excellent documentation. Although I had figured out how to create a website, it never graduated to a real blog.
+
+Early 2009
+
+Then I moved on to rewrite the site in Perl using [Mojolicious](https://www.mojolicious.org/). I’m not sure my efforts ever resulted in anything tangible but I remember if was fun to play around with.
+
+July 2009
+
+I stumbled upon the idea of using a static site for my blog and therefore abandoned Perl for [Jekyll](https://jekyllrb.com/), a popular static site generator at that time.
+
+I believe it was a smart choice because it helped me [start writing](/blog/2009/07/21/the_first_worst_post), instead of jerking around with cool tech.
+
+\~ July 2013
+
+Eventually, I grew tired of the boring backend that just got the job done and in my quest to learn Haskell I replaced the generator with [Hakyll](https://jaspervdj.be/hakyll/), another static site generator with a pretty neat DSL.
+
+July 2013
+
+The earliest Git commit on record. I’m fairly sure I used Git before this point  
+ (I abandoned SVN for my games in 2009).
+
+2013–2022
+
+Sadly, I never truly graduated from the “throw shit at the wall until it sticks” stage of my Haskell journey, which is why I barely added any features to the blog for many years.
+
+August 2022
+
+Having outgrown existing solutions I decided to [join the Rewrite in Rust club](/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit) (or is it a cult?)
+
+Religious weirdness aside, having complete control of the site generator made it fun again to [tinker and add small features](/blog/2024/07/09/microfeatures_in_my_blog).
+
+2022–2024
+
+Honestly though, my favorite piece of technology on the blog is [CSS](/blog/tags/css/). I just really like to spend time to fiddle with [the design](/blog/2023/10/04/giving_the_blog_a_facelift/) and to make small tweaks here and there. I do use [Sass](https://sass-lang.com/) but 95% is just plain CSS.
+
+Modern CSS is honestly great.
+
+February 2024
+
+Almost by accident I [started using Djot](/blog/2024/02/02/blogging_in_djot_instead_of_markdown) instead of Markdown to write my posts. I couldn’t find a Tree-sitter grammar for Djot [so I created one](/blog/2024/03/19/lets_create_a_tree-sitter_grammar).
+
+May 2024
+
+I’m in the process of [connecting the site generator to Neovim](/series/extending_neovim_for_my_blog/) to provide autocomplete, diagnostics, jumping between posts, and other cool features.
+
+There’s lots of potential for spending *tons* of time in this swamp but these IDE-like features really elevate the writing experience.
+
+At the moment the blogging software is a whole project in and of itself (by design; it’s a fun project to tinker with).
+
+[Posts have changed focus and increased in scope](#Posts-have-changed-focus-and-increased-in-scope)
+----------
+
+:post-stats-graph:
+
+It probably comes as no surprise that my posts have changed a lot since I started the blog. I made the above visualization that counts the words of each post and plots them on a time axis, together with loose grouping of the type of post.
+
+I have two main takeaways:
+
+1. The posts have grown larger and more ambitious.
+
+   In the beginning I treated the blog almost like a Twitter/X feed with short updates on my game making progress. Now I spend weeks or even months slowly working away on a post until I feel it’s interesting and polished enough to publish.
+
+2. As my interests have changed, so has the focus of my posts.
+
+   I only write about my hobbies or things that I’m interested in at that moment so it’s only natural that the theme of the posts have changed. Gaming related posts have given way for more programming and the occasional meat-space related project.
+
+### [What does the future bring?](#What-does-the-future-bring) ###
+
+I find almost find it obvious that the blog has changed so much during the 15 years of it’s existence; *of course* my posts would grow more ambitious as my writing matured and I’d *obviously* start gravitating away from games towards other projects.
+
+Naturally, it’s just a lie I tell myself with the benefit of hindsight.
+
+Predicting the future is impossible and I have no idea what the blog will look like 15 years from now. While it *feels* like I’ll keep blogging the same way, it would be foolish to claim that as a fact.
+
+Sometimes it’s best to stop worrying and just enjoy the ride.

@@ -1,0 +1,30 @@
+---
+title = "Elon Musk Is Not The Problem With Twitter"
+description = " Elon Musk's ownership and comical mismanagement of Twitter is an opportunity to question a model of the internet in which it is possible for one deranged lunatic to purchase our de facto public square. This dichotomy we've set up in the last 10 years where on one side is a curat"
+date = "2022-10-01T00:00:00Z"
+url = "https://theluddite.org/post/musk-twitter.html"
+author = ""
+text = ""
+lastupdated = "2025-10-22T08:57:31.557986735Z"
+seen = true
+---
+
+ Elon Musk's ownership and comical mismanagement of Twitter is an opportunity to question a model of the internet in which it is possible for one deranged lunatic to purchase our de facto public square.
+
+ This dichotomy we've set up in the last 10 years where on one side is a curated tech world brought to you by "responsible" tech companies and the other side is chaos, hacks, and disinformation is false. That's how you end up with a childlike billionaire buying one of the most important communication platforms. That's how you end up with the Apple or Facebook ecosystem - walled gardens entirely controlled by one organization.
+
+ If we look at the parts of the web that are robust, they're things no one can own. Most readers of this blog probably take for granted that anyone anywhere can host a website. So long as a server is connected to the internet and willing to speak the right language (i.e. protocol), any browser will fetch the data from the server and render it, anywhere in the world. This is a remarkable achievement, and a fundamentally anticapitalist vision of a digital world owned by no one in particular.
+
+ Alternatively, consider email. Any company can have an email server. Of course it has challenges (a topic for another post), but those challenges are constantly being worked on by many people across the web, and as a result, email still works and is useful 50 years after its invention.
+
+ The real problem with Twitter is one that is reflected across many parts of the internet: corporations are forcing the internet away from decentralized protocols owned by no one to platforms that they control entirely.
+
+ This is why over the last ten years or so, companies have begun forcing you to install mobile apps. The vast majority of apps do absolutely nothing that a website can't do, and yet every company tries to force you to use their mobile app even though it's the same as their mobile site (unless they break their mobile site on purpose). It's so they can track you better. It's so people like me can't poke around their source as easily and see the sketchy shit they're doing. It's so we can't use adblocker to get around their ads. It's so that we are forced to live by their rules within the walls they have created.
+
+ We know what happens when the open internet balkanizes into small walled gardens made by big tech companies because we're living through the early stages of it now. They compete for your attention. They try to squeeze every single moment of human life out of you. They will actively encourage bad faith actors to weaponize the web in order to drive engagement and maximize profits. They will do this at the expense of human rights, global health, and civil society. Their engagement maximizing algorithms will contribute ethnic cleansings.
+
+ I hope Twitter dies. If nothing else, it would be extremely gratifing to watch a charlatan who happens to be the world's richest man be publicly humiliated, but that isn't the end of this story. It wll only be the end of the loudest, stupidest part. The open internet is slowly collapsing into small fiefdoms, whether or not Twitter survives.
+
+---
+
+ *Thanks for reading! If you liked it, consider [subscribing](https://theluddite.org/subscribe.html) or leaving a tip: [BuyMeACoffee.com](https://buymeacoffee.com/theluddite), [Stripe](https://buy.stripe.com/00g5le0GY2cEaooeUU), [all options](/support.html).*

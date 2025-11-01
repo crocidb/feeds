@@ -1,0 +1,66 @@
+---
+title = "ghc 8.8.3 cannot find cabal 3.0.0.0 packages"
+description = "I’ve been using cabal to manage my Haskell dependencies for years, but when I last updated my system it suddenly stopped working. I installed my dependencies with cabal install xmonad, and checked that it’s installed under ~/.cabal:$ ls .cabal/bin/xmonad@But still when "
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2020/05/09/ghc_cannot_find_cabal_packages/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.397114631Z"
+seen = true
+---
+
+I’ve been using cabal to manage my Haskell dependencies for years, but when I last updated my system it suddenly stopped working. I installed my dependencies with `cabal install xmonad`, and checked that it’s installed under `~/.cabal`:
+
+```
+$ ls .cabal/bin/
+xmonad@
+
+```
+
+But still when I go to compile my xmonad config file ghc says it cannot find it:
+
+```
+Could not find module ‘XMonad’
+
+```
+
+And indeed when I run `ghc-pkg list` it does not list xmonad. That’s weird.
+
+```
+$ cabal --version
+cabal-install version 3.0.0.0
+
+```
+
+```
+$ ghc --version
+The Glorious Glasgow Haskell Compilation System, version 8.8.3
+
+```
+
+Apparently this is [a known issue](https://github.com/haskell/cabal/issues/6262) (including the “blame game” if it’s a cabal or a ghc issue, but that doesn’t make it any less annoying for us who just want it work). The [ghc issue](https://gitlab.haskell.org/ghc/ghc/issues/17341) is still open.
+
+Fortunately there’s a solution.
+
+We can manually specify a package db for ghc-pkg so it’ll find our cabal modules:
+
+```
+$ ghc-pkg --package-db ~/.cabal/store/ghc-8.8.3/package.db list
+...
+xmonad-0.15
+xmonad-contrib-0.16
+...
+
+```
+
+And to make it permanent we can symlink the `package.db` file as a ghc config:
+
+```
+$ mkdir -p ~/.ghc/x86_64-linux-8.8.3/
+$ ln -s ~/.cabal/store/ghc-8.8.3/package.db ~/.ghc/x86_64-linux-8.8.3/package.conf.d
+
+```
+
+The name of the folder `x86_64-linux-8.8.3` may differ, this one worked for me.
+
+And now `ghc-pkg list` should find xmonad and compiling with ghc should find our missing cabal modules.

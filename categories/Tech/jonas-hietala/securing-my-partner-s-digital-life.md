@@ -1,0 +1,138 @@
+---
+title = "Securing my partner's digital life"
+description = "I’ve been with Veronica for over a decade now and I think I’m starting to know her fairly well. Yet she still manages to surprise me. For instance, a couple of weeks ago she came and asked me about email security:I worry that my email password is too weak. Can you help me cha"
+date = "2025-02-02T14:37:32Z"
+url = "http://jonashietala.se/blog/2025/01/20/securing_my_partners_digital_life/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.119980899Z"
+seen = true
+---
+
+I’ve been with Veronica for over a decade now and I think I’m starting to know her fairly well. Yet she still manages to surprise me. For instance, a couple of weeks ago she came and asked me about email security:
+
+>
+>
+> I worry that my email password is too weak. Can you help me change email address and make it secure?
+>
+>
+
+It was completely unexpected—but I’m all for it.
+
+![](/images/it_superhero.jpg)
+
+[The action plan](#The-action-plan)
+----------
+
+All heroic journeys needs a plan; here’s mine:
+
+1. Buy her a domain name (her `.com` surname was available).
+2. Migrate her email to [Fastmail](https://www.fastmail.com/).
+3. Setup [Bitwarden](https://bitwarden.com/) as a password manager.
+4. Use a [YubiKey](https://www.yubico.com/products/yubikey-5-overview/) to secure the important services.
+
+### [Why a domain?](#Why-a-domain) ###
+
+If you ever want (or need) to change email providers it’s very nice to have your own domain. For instance, Veronica has a `hotmail.com` address but she can’t bring that with her if she moves to [Fastmail](https://www.fastmail.com/).
+
+Worse, what if she gets locked out of her Outlook account for some reason? It might happen if you forget your password, someone breaks into your account, or even by accident.
+
+For example, [Apple users recently got locked out of their Apple IDs](https://9to5mac.com/2024/04/26/signed-out-of-apple-id-account-problem-password/) without any apparent reason and Gmail [has](https://news.ycombinator.com/item?id=32862713) been [notorious](https://mailchi.mp/shwood/bamboozlers-514882?e=4be3990d97) about [locking out](https://news.ycombinator.com/item?id=34116361) users [for no reason](https://news.ycombinator.com/item?id=25176151). Some providers may be better but this is a systemic problem that can happen at any service.
+
+In almost all cases, your email is your key to the rest of your digital life. The email address is your username and to reset your password you use your email. If you lose access to your email you lose everything.
+
+When you control your domain, you can point the domain to a new email provider and continue with your life.
+
+### [Why pay for email?](#Why-pay-for-email) ###
+
+One of the first things Veronica told me when I proposed that she’d change providers was that she didn’t want to pay. It’s a common sentiment online that email must be cheap (or even free).
+
+I don’t think that email is the area where cost should be the most significant factor. As I argued for in [why you should own your email’s domain](#Why-a-domain), your email is your most important digital asset. If email is so important, why try to be cheap about it? You should spend your money on the important things and shouldn’t spend money on the unimportant things.
+
+Paying for email gives you a couple of nice things:
+
+* Human support.
+
+  It’s all too easy to get shafted by algorithms where you might get banned because you triggered some edge case (such as resetting your password outside your usual IP address).
+
+* Ability to use your own domain.
+
+  Having a custom domain is a paid feature at most email providers.
+
+* A long-term viable business.
+
+  How do you run an email company if you don’t charge for it?  
+  *(You sell out your users or you close your business.)*
+
+### [Why a password manager?](#Why-a-password-manager) ###
+
+The best thing you can do security wise is to adopt a password manager. Then you don’t have to try to remember dozens of passwords (leading to easy-to-remember and duplicate passwords) and can focus on remembering a single (stronger) password, confident that the password manager will remember all the rest.
+
+“Putting all your passwords in one basket” is a concern of course but I think the pros outweigh the cons.
+
+### [Why a ](#Why-a-YubiKey)[YubiKey](https://www.yubico.com/products/yubikey-5-overview/)? ###
+
+To take digital security to the next level you should use [two-factor authentication (2FA)](https://www.microsoft.com/en-us/security/business/security-101/what-is-two-factor-authentication-2fa). 2FA is an extra “thing” in addition to your password you need to be able to login. It could be a code sent to your phone over SMS (insecure), to your email (slightly better), a code from a 2FA app on your phone such as [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) (good), or from a hardware token (most secure).
+
+It’s easy to think that I went with a [YubiKey](https://www.yubico.com/products/yubikey-5-overview/) because it’s the most secure option; but the biggest reason is that a [YubiKey](https://www.yubico.com/products/yubikey-5-overview/) is more convenient than a 2FA app.
+
+With a 2FA app you have to whip out your phone, open the 2FA app, locate the correct site, and then copy the TOTP code into the website (quickly, before the code changes). It’s honestly not that convenient, even for someone like me who’s used this setup for years.
+
+With a [YubiKey](https://www.yubico.com/products/yubikey-5-overview/) you plug it into a USB port and press it when it flashes. Or on the phone you can use NFC. NFC is slightly more annoying compared to plugging it in as you need to move/hold it in a specific spot, yet it’s still preferable to having to jump between apps on the phone.
+
+There are hardware keys other than [YubiKey](https://www.yubico.com/products/yubikey-5-overview/) of course. I’ve used [YubiKey](https://www.yubico.com/products/yubikey-5-overview/) for years and have a good experience. Don’t fix what isn’t broken.
+
+[The setup](#The-setup)
+----------
+
+Here’s a few quick notes on how I setup her new accounts:
+
+### [Password management with Bitwarden](#Password-management-with-Bitwarden) ###
+
+The first thing we did was setup [Bitwarden](https://bitwarden.com/) as the password manager for her. I chose the family plan so I can handle the billing.
+
+To give her access I installed [Bitwarden](https://bitwarden.com/) as:
+
+1. An app on her phone
+2. A browser plugin on her computer
+
+I gave her a [YubiKey](https://www.yubico.com/products/yubikey-5-overview/) and registered it with [Bitwarden](https://bitwarden.com/) for additional security. As a backup I also registered my own [YubiKey](https://www.yubico.com/products/yubikey-5-overview/)s on her account; if she loses her key we still have others she can use.
+
+Although it was a bit confusing for her I think she appreciates not having to remember a dozen different passwords and can simply remember one (stronger) password. We can also share passwords easily via [Bitwarden](https://bitwarden.com/) (for news papers, Spotify, etc).
+
+The [YubiKey](https://www.yubico.com/products/yubikey-5-overview/) itself is very user friendly and she hasn’t run into any usability issues.
+
+### [Email on Fastmail](#Email-on-Fastmail) ###
+
+With the core security up and running the next step was to change her email:
+
+1. Gave her an email address on [Fastmail](https://www.fastmail.com/) with her own domain (`<firstname>@<lastname>.com`).
+
+   She has a basic account that I manage (there’s a [Duo plan](https://www.fastmail.help/hc/en-us/articles/8033939068815-2024-pricing-and-plan-updates) that I couldn’t migrate to at this time).
+
+2. I secured the account with our [YubiKey](https://www.yubico.com/products/yubikey-5-overview/)s and a generated password stored in [Bitwarden](https://bitwarden.com/).
+
+3. We bolstered the security of her old Hotmail account by generating a new password and registering our [YubiKey](https://www.yubico.com/products/yubikey-5-overview/)s.
+
+4. Forward all email from her old Hotmail address to her new address.
+
+With this done she has a secure email account with an email address that she owns.
+
+As is proper she’s been changing her contact information and changing email address in her other services. It’s a slow process but I can’t be too critical—I still have a few services that use my old Gmail address even though I migrated to my own domain more than a decade ago.
+
+### [Notes on recovery and redundancy](#Notes-on-recovery-and-redundancy) ###
+
+It’s great to worry about weak phishing, weak passwords, and getting hacked. But for most people the much bigger risk is to forget your password or lose your second factor auth, and get locked out that way.
+
+To reduce the risk of losing access to her accounts we have:
+
+* Multiple [YubiKey](https://www.yubico.com/products/yubikey-5-overview/)s for all accounts.
+* The recovery codes for all accounts are written down and secured.
+* My own accounts can recover her [Bitwarden](https://bitwarden.com/) and [Fastmail](https://www.fastmail.com/) accounts via their built-in recovery functionality.
+
+[Perfect is the enemy of good](#Perfect-is-the-enemy-of-good)
+----------
+
+Some go further than we’ve done here, others do less, and I think that’s fine. It’s important to not compare yourself with others too much; even small security measures makes a big difference in practice.
+
+Not doing anything at all because you feel overwhelmed is worse than doing something, even something simple as making sure you’re using a strong password for your email account.

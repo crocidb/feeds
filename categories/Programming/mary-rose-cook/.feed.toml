@@ -1,0 +1,9 @@
+title = "Mary Rose Cook"
+description = """
+Mary Rose Cook's website.  I'm a staff product engineer and tech lead at Airtable in San Francisco.
+"""
+url = "https://maryrosecook.com/"
+feed_url = "https://maryrosecook.com/blog/feed.xml"
+author = ""
+slug = "mary-rose-cook"
+lastupdated = "2025-10-31T14:47:19.652794810Z"

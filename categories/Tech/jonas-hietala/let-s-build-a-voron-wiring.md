@@ -1,0 +1,248 @@
+---
+title = "Let's build a VORON: Wiring"
+description = "Dread it. Run from it. Wiring arrives all the same.It’s time for the part of my VORON build that I’ve been dreading: the wiring.It’s scary because I really have no clue what I’m doing, and mistakes can be very costly and time-consuming.I’ve taken my time to double- and triple-c"
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2023/11/11/lets_build_a_voron_wiring/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.300271989Z"
+seen = true
+---
+
+> Dread it. Run from it. Wiring arrives all the same.
+
+It’s time for the part of my VORON build that I’ve been dreading: the wiring.
+
+It’s scary because I really have no clue what I’m doing, and mistakes can be very costly and time-consuming.
+
+I’ve taken my time to double- and triple-check everything, and I took lots of pictures. I ran into some issues I’ll document here, but this post will mostly be filled with pictures to gawp at.
+
+Cable chains
+==========
+
+There wasn’t a ton of instructions on the cable chains, but I felt it went well.
+
+I made some big mistakes here that caused major headache later on, but [more on that later](#lack-of-range-for-the-toolhead). ![](/images/trident/chain3.jpg) It was fiddly, but not the end of the world. [![](/images/trident/chain1.jpg)](/images/trident/chain1.jpg) [![](/images/trident/chain2.jpg)](/images/trident/chain2.jpg) ![](/images/trident/loose_top.jpg) [![](/images/trident/hidden_side.jpg)](/images/trident/hidden_side.jpg) [![](/images/trident/hidden_side_chain.jpg)](/images/trident/hidden_side_chain.jpg) ![](/images/trident/top_motor_cables.jpg) If we make the wires pretty from the start, we can just continue like that?
+
+Main power
+==========
+
+Yes, I guess I should’ve connected main power before connecting the motor cables, but the octopus isn’t connected yet so it’s fine…
+
+![](/images/trident/mains.jpg) I triple-checked that I don’t mix colors and I checked again that I connected it to the outlet properly.
+
+Note that it says “TO 5V PSU” on the PSU cable. I think that’s a typo…
+
+![](/images/trident/mains_light.jpg) The green light turns on! I’m glad it didn’t burn up yet…
+
+Octopus power
+==========
+
+According to the docs, the SSR should connect to `HE0` instead of `BED_OUT`. Fine.
+
+![](/images/trident/octo_power.jpg) The Octopus has the required power, but I didn’t check if it turns on at this point… ![](/images/trident/octo_power2.jpg) I mixed the 3 and 4 inputs on the SSR, but luckily I caught it when double or triple-checking.
+
+Breakout cables
+==========
+
+I’m following LDO’s wiring guide and the breakout cables are next.
+
+[![](/images/trident/breakout1.jpg)](/images/trident/breakout1.jpg) [![](/images/trident/breakout2.jpg)](/images/trident/breakout2.jpg)
+
+Wrong hotend cable?
+----------
+
+When I was about to connect the hotend cable I noticed a problem.
+
+In the [wiring guide](https://docs.ldomotors.com/en/voron/voron-trident/wiring_guide_250_rev_a) it says that I should connect the hotend to `BED_OUT`:
+
+>
+>
+> |Breakout PCB|Cable label (breakout)|Controller|Cable label (controller)|
+> |------------|----------------------|----------|------------------------|
+> |HE0 \*\*\*\*|         HE0          | HE0/PA2  |        BED\_OUT        |
+>
+>
+> \*\*\*\*The BED\_OUT port in the Octopus controller carries more current than the HE ports, this allows you to use super high power hotends such as the Phaetus Rapido.
+>
+>
+
+But the cable that I got doesn’t fit:
+
+![](/images/trident/wrong_hotend_cable.jpg) The hotend cable has “pin” type connectors. ![](/images/trident/right_cable_connector.jpg)
+
+What I want is “U” type connectors.  
+ (I later found them on Amazon as “fork spade” terminals.)
+
+My suspicion is that I got the wrong cable because the [V2.4 wiring guide](https://docs.ldomotors.com/en/voron/voron2/wiring_guide_rev_c) specifies that the cable goes into `HE0` and `SSR` goes to `BED_OUT`, while the Trident has it reversed.
+
+I complained about this to 3DJake (where I bought the kit from), who reached out to LDO where I got the response that they’re sorry, but I can connect the hotend to `HE1` and change something in `printer.cfg` to make it work.
+
+Not ideal as I do have the Phaetus Rapido, and according to LDO’s [V2.4 errata](https://docs.ldomotors.com/en/voron/voron2/kit-errata) it’s advisable to switch:
+
+>
+>
+> It has been reported that the Rapido hotend (by Phaetus) draws a large amount of current during initial heat-up. If you are using this hotend with our kit, please consider swapping the bed and hotend connections at the Octopus side.
+>
+>
+
+I’m not thrilled about it, but I guess I need to find some spade terminals and change the wires later.
+
+Full picture
+----------
+
+![](/images/trident/breakout.jpg) A better overview of the wiring with breakout cables (and other things).
+
+Raspberry
+==========
+
+The Raspberry Pi uses 5V from the Octopus via some PCBs:
+
+![](/images/trident/raspberry.jpg) The Raspberry Pi is connected.
+
+Other small details
+==========
+
+The major things are done, but there are more things that needs to be fixed.
+
+LEDs
+----------
+
+I got a cute little PCB for connecting two LED strips in the kit.
+
+![](/images/trident/led_pcb.jpg)
+
+It’s neat. I like it.  
+ (I later moved the LED wire so it goes down in the front instead of behind the belts.)
+
+![](/images/trident/leds_mounted.jpg) I wasn’t sure how to mount the LEDs, so I added a wire cover below the LED strips to give it a platform to attach on.
+
+Controller fan
+----------
+
+I should’ve gotten another PCB mount to mount the fan PCB, but I didn’t get one from the print-it-forward service. Maybe I should’ve mounted the fan PCB with the mount instead of the LED PCB, but I couldn’t be bothered.
+
+![](/images/trident/fan_pcb.jpg) Some tape to prevent shorts. ![](/images/trident/fan_pcb2.jpg) It was hell to get it mounted. Why didn’t I do this before adding wires…? ![](/images/trident/remove_wire_first.jpg) The wire is stuck between the fan and the plastic part, oops.
+
+Display mount
+----------
+
+I didn’t manage to get the display mount to work properly. The screws didn’t align properly and the display cover constantly fell off.
+
+![](/images/trident/mount2.jpg) There’s a space here that I couldn’t close no matter how hard I pushed. ![](/images/trident/mount_bad.jpg) The screw hole is slightly off.
+
+I had to use tape to keep it all together:
+
+![](/images/trident/mount_bad3.jpg) Tape for the cover so it doesn’t fall off. ![](/images/trident/mount_bad4.jpg) Tape for the sides.
+
+It works I guess but I need to print new mounts when I get the printer up and running. I believe the problem is that I have the 2.1 version of the display, while the mount is for the 2.0 version.
+
+The bed
+----------
+
+I had delayed installing the bed, but with the wiring needing to be done it was time to install the bed.
+
+I was a bit worried about applying the magnetic sheet, but I think I managed to do it without any bubbles.
+
+![](/images/trident/bed_wired.jpg) The bed is installed and ready.
+
+Maybe the Z-endstop is completely unnecessary as I’m going to run Tap? Probably, but as it’s already installed I won’t bother ripping it out now.
+
+Missing Toolhead cables
+----------
+
+When [assembling the stealthburner](/blog/2023/10/18/lets_build_a_voron_toolhead/#stealthburner-assembly) I couldn’t connect the hotend to the toolhead PCB because the connectors didn’t match, and I also didn’t have a cable from the Tap PCB to the toolhead PCB. It was time to rectify that.
+
+I didn’t do it when building the toolhead because I didn’t have the tools for it. So I ordered wire strippers, a crimping tool, JST connectors and some wire from Amazon.
+
+No, I didn’t have a wire stripper and I’ve never created a cable before. ![](/images/trident/crimp.jpg) Crimping was fiddly but after a dozen attempts I think I got it down.
+
+After I painstakingly created the Tap cable—with a 3-pin JST on each end—I noticed that the Tap PCB required a smaller connector than the ones I had. Oh no… Do I have to order *another* connector kit?
+
+But luckily the Tap kit came with one such connector. (Please don’t break it.)
+
+So I tried to change it… But after trying for some time I noticed that the wires I had were too thick, and didn’t fit this smaller connector. I nearly destroyed the connector while trying to insert the wires…
+
+Things aren’t going my way, maybe I need to order (and wait for) new wire?
+
+But wait!
+
+Remember how I complained about the hotend cables having the wrong connector? Turns out the Rapido comes with extension cables with the connectors I wanted. The thermistor extension cable has thinner wires and the same JST connector I have…
+
+Maybe I could shorten that cable and use the leftover wire for the Tap cable?
+
+![](/images/trident/short_cable.jpg) A shortened extension cable for the hotend thermistor. ![](/images/trident/own_cable.jpg) Behold! My glorious cable!
+
+I’ve spent an embarrassing amount of time and energy just to create this single cable. It makes me *really* appreciate that the LDO kit comes with pre-made wiring, I can’t imagine the frustration if I had to create all wiring from scratch (there’s a *lot* of it).
+
+One problem I still have is the excessive wiring coming out from the toolhead, and I don’t really know what to do with it.
+
+![](/images/trident/cable_bundle2.jpg) Too many cables. Should I try to hide it inside the cable chain?
+
+Maybe I could try to shorten them all… But I’m not skilled or brave enough to try.
+
+![](/images/trident/cable_bundle.jpg) It’s not pretty… It sort of ruins the nice looking toolhead don’t you think?
+
+Gantry racking
+==========
+
+When building the printer I’ve been jumping around a little, and somewhere in the middle of the wiring I decided I should try to [solve the gantry racking](https://www.youtube.com/watch?v=cOn6u9kXvy0).
+
+I had noticed that the gantry catches a little when moving it around, and I got a tip from the [VORON forum](https://forum.vorondesign.com/) that I should rack the gantry to try to fix it.
+
+And it did solve the issue! The movement isn’t as smooth as in [NERO 3D’s video](https://www.youtube.com/watch?v=cOn6u9kXvy0), but at least it doesn’t catch anywhere.
+
+I did this with the motors and everything connected, which is NOT recommended as it may damage the components. At one point I saw the display flashing and thought “huh, that’s weird”, but clueless as I am the implications didn’t register at that time.
+
+Yeah I know that NERO 3D said to watch out for it in the gantry racking video, but it had slipped my mind. Now I’m really worried that I’ve screwed myself over in a major way.
+
+Lack of range for the toolhead
+==========
+
+After installing the bed and racking the gantry, I noticed a big issue with the toolhead: it doesn’t reach the corners of the bed and the bed doesn’t reach up to the toolhead.
+
+![](/images/trident/short_x.jpg) The toolhead is at max x, but it’s far from the edge. ![](/images/trident/short_y.jpg) The toolhead doesn’t reach the edge on the y-axis either. ![](/images/trident/short_z.jpg) I tried to raise the bed as high as possible, but it doesn’t come close to the toolhead, let alone raising it for tap to function.
+
+Turns out I had made a mistake when installing the cable chains, as they’re all too short and they max out too soon, stopping the movement.
+
+There were 4 extra links in the kit, but I didn’t know what to do with them so I forgot about them and took for granted that the three cable chains would work as-is. Maybe this is assumed knowledge, but when installing them—and before running the wires through—I should’ve checked the range of motion to be sure they were long enough.
+
+Now I had to break open the chains and add the extra links afterwards. This was super annoying because I had to pull more wire to the chains, meaning I had to undo all the wiring work for all the motors and toolhead cables.
+
+![](/images/trident/redo_chain.jpg) Opening up the xy cable chains.
+
+I added two links to the z chain and one link each to the x and y chains. For x and y I also had to add some extra space by offsetting them so the chains aren’t flush to the edge of the extrusion holder or toolhead.
+
+![](/images/trident/redo_chain2.jpg)
+
+I had to add some extra spacing on the x and y chains to get the required range of motion. I wish I hadn’t clipped away the tab, so I could zip tie the cables to it.
+
+[![](/images/trident/redo_chain3.jpg)](/images/trident/redo_chain3.jpg) [![](/images/trident/redo_chain4.jpg)](/images/trident/redo_chain4.jpg)
+
+It’s all coming together
+==========
+
+![](/images/trident/full_wiring.jpg)
+
+All the wiring is in place.  
+ (You may notice an unconnected cable in the upper right, it’s for the Nevermore filter I haven’t built yet).
+
+I may clean it up a bit after I’ve verified that things work. It may not be [r/cableporn](https://www.reddit.com/r/cableporn/) neat, but it could be worse.
+
+![](/images/trident/nice_wires2.jpg) A better overview of the wiring with skirts and all.
+
+Let there be light
+==========
+
+With everything prepared I closed my hands, curled my toes, and clenched my ass and turned on the power…
+
+And the lights are glowing! *Huzzah!*
+
+![](/images/trident/octopus_lights.jpg)
+
+The lights are glowing, and there’s no smoke from the Octopus.  
+ I disconnected the hotend and Raspberry as a safety measure before turning it on.
+
+![](/images/trident/pi_lights.jpg) The Raspberry Pi also has some lights when turned on.
+
+The status lights are promising, but I can’t tell for sure before flashing.

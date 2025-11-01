@@ -1,0 +1,744 @@
+---
+title = "Automating the Hue Tap Dial Switch in Elixir via MQTT"
+description = "I recently bought a couple of Hue Tap Dial switches for our house to enhance our smart home. We have quite a few smart lights and I figured [the tap dial](https://www.philips-hue"
+date = "2025-09-02T18:20:32Z"
+url = "http://jonashietala.se/blog/2025/09/01/automating_the_hue_tap_dial_switch_in_elixir_via_mqtt/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.094943838Z"
+seen = true
+---
+
+![](/images/hue_tap_dial.jpg)
+
+I recently bought a couple of [Hue Tap Dial](https://www.philips-hue.com/sv-se/p/hue-tap-dial-switch/8719514440999) switches for our house to enhance our smart home. We have quite a few smart lights and I figured [the tap dial](https://www.philips-hue.com/sv-se/p/hue-tap-dial-switch/8719514440999)—with it’s multiple buttons and rotary dial—would be a good fit.
+
+Since I’ve been moving away from standard Home Assistant automations to [my own automation engine in Elixir](/blog/2024/10/08/writing_home_assistant_automations_using_genservers_in_elixir/) I had to figure out how best to integrate the tap dial.
+
+At first I tried to rely on my existing [Home Assistant](https://www.home-assistant.io/) connection but I realized that it’s better to bypass [Home Assistant](https://www.home-assistant.io/) and go directly via [MQTT](https://mqtt.org/), as I already use [Zigbee2MQTT](https://www.zigbee2mqtt.io/) as the way to get Zigbee devices into [Home Assistant](https://www.home-assistant.io/).
+
+This post walks through how I set it all up and I’ll end up with an example of how I control multiple Zigbee lights from one dial via Elixir.
+
+In the [post about my automation engine](/blog/2024/10/08/writing_home_assistant_automations_using_genservers_in_elixir/) I demonstrated how I controlled lights from Elixir via [Home Assistant](https://www.home-assistant.io/) states and actions. For the devices that supports it, it’s better to communicate directly over [MQTT](https://mqtt.org/) as you’ll get better latency and more features. Since then I’ve converted over most of my automations to be [MQTT](https://mqtt.org/) based.
+
+[The direct zigbee binding is good but not great](#The-direct-zigbee-binding-is-good-but-not-great)
+----------
+
+I’m a huge fan of using direct bindings in Zigbee to directly pair switches to lights. This way the interaction is much snappier; instead of going through:
+
+```
+device 1 -> zigbee2mqtt -> controller -> zigbee2mqtt -> device 2
+
+```
+
+The communication can instead go:
+
+```
+device 1 -> device 2
+
+```
+
+It works if my server is down, which is a huge plus for important functionality such as turning on the light in the middle of the night when one of the kids have soiled the bed. That’s *not* the time you want to debug your homelab setup!
+
+The [Hue Tap Dial](https://www.philips-hue.com/sv-se/p/hue-tap-dial-switch/8719514440999) can be bound to lights with [Zigbee2MQTT](https://www.zigbee2mqtt.io/) and dimming the lights with the dial feels very smooth and nice. You can also rotate the dial to turn on and off the light, like a normal dimmer switch.
+
+Unfortunately, if you want to bind the dimmer it also binds the hold of *all* of the four buttons to turn off the light, practically blocking the hold functionality if you use direct binding. There’s also no way to directly bind a button press to turn on or toggle the light—dimming and hold to turn off is what you get.
+
+To add more functionality you have to use something external; a Hue Bridge or [Home Assistant](https://www.home-assistant.io/) with a Zigbee dongle works, but I wanted to use Elixir.
+
+[Communicating with MQTT in Elixir](#Communicating-with-MQTT-in-Elixir)
+----------
+
+The first thing we need to do is figure out is how to receive MQTT messages and how to send updates to Zigbee devices.
+
+I use [Zigbee2MQTT](https://www.zigbee2mqtt.io/) as the Zigbee to MQTT bridge and [mosquitto](https://github.com/eclipse-mosquitto/mosquitto) as my MQTT server. Messages may look different if you’re using another setup.
+
+### [Connecting and subscribing to changes](#Connecting-and-subscribing-to-changes) ###
+
+I found the [tortoise311](https://hexdocs.pm/tortoise311/0.12.1/introduction.html) library that implements an MQTT client and it was quite pleasant to use.
+
+First we’ll start a `Tortoise311.Connection` in our main Supervisor tree:
+
+```
+{Tortoise311.Connection,
+ [
+   # Remember to generate a unique id if you want to connect multiple clients
+   # to the same MQTT service.
+   client_id: :my_unique_client_id,
+   # They don't have to be on the same server.
+   server: {Tortoise311.Transport.Tcp, host: "localhost", port: 1883},
+   # Messages will be sent to `Haex.MqttHandler`.
+   handler: {Haex.MqttHandler, []},
+   # Subscribe to all events under `zigbee2mqtt`.
+   subscriptions: [{"zigbee2mqtt/+", 0}]
+ ]},
+
+```
+
+The `zigbee2mqtt` base topic is configurable in Zigbee2MQTT and you may need to tweak it for your setup.
+
+I’ll also add [Phoenix PubSub](https://hexdocs.pm/phoenix_pubsub/Phoenix.PubSub.html) to the Supervisor, which we’ll use to propagate MQTT messages to our automation:
+
+```
+{Phoenix.PubSub, name: Haex.PubSub},
+
+```
+
+When starting `Tortoise311.Connection` above we configured it to call the `Haex.MqttHandler` whenever an MQTT message we’re subscribing to is received. Here we’ll simply forward any message to our PubSub, making it easy for anyone to subscribe to any message, wherever they are:
+
+```
+defmodule Haex.MqttHandler do
+  use Tortoise311.Handler
+  alias Phoenix.PubSub
+
+  def handle_message(topic, payload, state) do
+    payload = Jason.decode!(payload)
+    PubSub.broadcast!(Haex.PubSub, Enum.join(topic, "/"), {:mqtt, topic, payload})
+    {:ok, state}
+  end
+end
+
+```
+
+Then in our automation (which in [my automation system](/blog/2024/10/08/writing_home_assistant_automations_using_genservers_in_elixir/) is a regular GenServer) we can subscribe to the events the Tap Dial creates:
+
+```
+defmodule Automation.TapDialExample do
+  use GenServer
+  alias Phoenix.PubSub
+
+  @impl true
+  def init(_opts) do
+    # `My tap dial` is the name of the tap dial in zigbee2mqtt.
+    PubSub.subscribe(Haex.PubSub, "zigbee2mqtt/My tap dial")
+    {:ok, %{}}
+  end
+
+  @impl true
+  def handle_info({:mqtt, _topic, payload}, state) do
+    dbg(payload)
+    {:noreply, state}
+  end
+end
+
+```
+
+If everything is setup correctly we should see messages like these when we operate the Tap Dial:
+
+```
+payload #=> %{
+  "action" => "button_1_press_release",
+  ...
+}
+
+payload #=> %{
+  "action" => "dial_rotate_right_step",
+  "action_direction" => "right",
+  "action_time" => 15,
+  "action_type" => "step",
+  ...
+}
+
+```
+
+### [Controlling devices](#Controlling-devices) ###
+
+To change the state of a device we should send a json payload to the “set” topic. For example, to turn off a light named `My hue light` we should send the payload `{"state": "OFF"}` to `zigbee2mqtt/My hue light/set`.
+
+Here’s a function to send payloads to our light:
+
+```
+def set(payload) do
+  Tortoise311.publish(
+    # Important that this id matches the `client_id`
+    # we gave to Tortoise311.Connection.
+    :my_unique_client_id,
+    "zigbee2mqtt/My hue light/set",
+    Jason.encode!(payload)
+  )
+end
+
+```
+
+The payloads and capabilities are different for each device; [here’s the information](https://www.zigbee2mqtt.io/devices/9290024688.html) for the Hue light I’m using in this example.
+
+[Button presses](#Button-presses)
+----------
+
+With the MQTT communication done, we can start writing some automations.
+
+### [Normal press](#Normal-press) ###
+
+Here’s how we can toggle the light on/off when we click the first button on the dial in our GenServer:
+
+```
+def handle_info({:mqtt, _topic, %{"action" => "button_1_press_release"}}, state) do
+  set(%{state: "TOGGLE"})
+  {:noreply, state}
+end
+
+```
+
+(Remember that we subscribed to the `"zigbee2mqtt/My tap dial"` topic during `init`.)
+
+### [Hold](#Hold) ###
+
+You can also hold a button, which generates a `hold` and a `hold_release` event. Here’s how to use them to start moving through the hues of a light when you hold down a button and stop when you release it.
+
+```
+def handle_info({:mqtt, _topic, %{"action" => "button_3_hold"}}, state) do
+  set(%{hue_move: 40, color: %{saturation: 100}})
+  {:noreply, state}
+end
+
+def handle_info({:mqtt, _topic, %{"action" => "button_3_hold_release"}}, state) do
+  set(%{hue_move: 0})
+  {:noreply, state}
+end
+
+```
+
+### [Double clicking](#Double-clicking) ###
+
+How about double clicking?  
+ You could track the timestamp of the presses in the GenServer state and check the duration between them to determine if it’s a double click or not; maybe something like this:
+
+```
+def handle_info({:mqtt, _topic, %{"action" => "button_2_press_release"}}, state) do
+  double_click_limit = 350
+
+  now = DateTime.utc_now()
+
+  if state[:last_press] &&
+       DateTime.diff(now, state[:last_press], :millisecond) < double_click_limit do
+    # If we double clicked.
+    set(%{color: %{hue: 60}})
+    {:noreply, Map.delete(state, :last_press)}
+  else
+    # If we single clicked.
+    set(%{color: %{hue: 180}})
+    {:noreply, Map.put(state, :last_press, now)}
+  end
+end
+
+```
+
+This however executes an action on the first and second click. To get around that we could add a timeout for the first press by sending ourselves a delayed message, with the downside of introducing a small delay for single clicks:
+
+```
+def handle_info({:mqtt, _topic, %{"action" => "button_2_press_release"}}, state) do
+  double_click_limit = 350
+
+  now = DateTime.utc_now()
+
+  if state[:last_press] &&
+       DateTime.diff(now, state[:last_press], :millisecond) < double_click_limit do
+    set(%{color: %{hue: 180}})
+
+    # The double click clause is the same as before except we also remove `click_ref`
+    # to signify that we've handled the interaction as a double click.
+    state =
+      state
+      |> Map.delete(:last_press)
+      |> Map.delete(:click_ref)
+
+    {:noreply, state}
+  else
+    # When we first press a key we shouldn't execute it directly,
+    # instead we send ourself a message to handle it later.
+    # Use `make_ref` signify which press we should handle.
+    ref = make_ref()
+    Process.send_after(self(), {:execute_single_press, ref}, double_click_limit)
+
+    state =
+      state
+      |> Map.put(:last_press, now)
+      |> Map.put(:click_ref, ref)
+
+    {:noreply, state}
+  end
+end
+
+# This is the delayed handling of a single button press.
+def handle_info({:execute_single_press, ref}, state) do
+  # If the stored reference doesn't exist we've handled it as a double click.
+  # If we press the button many times (completely mash the button) then
+  # we might enter a new interaction and `click_ref` has been replaced by a new one.
+  # This equality check prevents such a case, allowing us to only act on the very
+  # last press.
+  # This is also useful if we in the future want to add double clicks to other buttons.
+  if state[:click_ref] == ref do
+    set(%{color: %{hue: 60}})
+    {:noreply, Map.delete(state, :click_ref)}
+  else
+    {:noreply, state}
+  end
+end
+
+```
+
+You can generalize this concept to triple presses and beyond by keeping a list of timestamps instead of the singular one we use in `:last_press`, but I personally haven’t found a good use-case for them.
+
+You might be able to utilize [Process.cancel\_timer/2](https://hexdocs.pm/elixir/Process.html#cancel_timer/2) as an alternative to the [make\_ref/0](https://hexdocs.pm/elixir/Kernel.html#make_ref/0) approach I’m using. In theory I guess it’s the better approach as you don’t need to process obsolete messages but ~~I’m too lazy to rewrite it~~ I leave that as an exercise to the reader.
+
+[Dimming](#Dimming)
+----------
+
+Now, let’s see if we can create a smooth dimming functionality. This is [surprisingly problematic](https://community.home-assistant.io/t/philips-tap-dial-switch-with-double-tap-and-4-dial-actions/618988/106) but let’s see what we can come up with.
+
+Rotating the dial produces a few different actions:
+
+```
+dial_rotate_left_step
+dial_rotate_left_slow
+dial_rotate_left_fast
+dial_rotate_right_step
+dial_rotate_right_slow
+dial_rotate_right_fast
+brightness_step_up
+brightness_step_down
+
+```
+
+Let’s start with `dial_rotate_*` to set the `brightness_step` attribute of the light:
+
+```
+def handle_info({:mqtt, _topic, %{"action" => "dial_rotate_" <> type}}, state) do
+  speed = rotate_speed(type)
+  set(%{brightness_step: speed})
+  {:noreply, state}
+end
+
+defp rotate_speed("left_" <> speed), do: -rotate_speed(speed)
+defp rotate_speed("right_" <> speed), do: rotate_speed(speed)
+defp rotate_speed("step"), do: 10
+defp rotate_speed("slow"), do: 20
+defp rotate_speed("fast"), do: 45
+
+```
+
+This works, but the transitions between the steps aren’t smooth as the light immediately jumps to a new brightness value.
+
+With a transition we can smooth it out:
+
+```
+# I read somewhere that 0.4 is standard for Philips Hue.
+set(%{brightness_step: speed, transition: 0.4})
+
+```
+
+It’s actually fairly decent (when the stars align).
+
+There’s also an `action_time` attribute that’s sent together with `dial_rotate_*`, signifying how long the action took. I tried to incorporate it into the dimmer calculation but I didn’t manage to integrate it in a way that felt like an improvement over the simpler approach outlined above.
+
+As an alternative implementation we can try to use the `brightness_step_*` actions:
+
+```
+def handle_info(
+      {:mqtt, _topic,
+       %{
+         "action" => "brightness_step_" <> dir,
+         "action_step_size" => step
+       }},
+      state
+    ) do
+  step =
+    case dir do
+      "up" -> step
+      "down" -> -step
+    end
+
+  # Dimming was a little slow, adding a factor speeds things up.
+  set(%{brightness_step: step * 1.5, transition: 0.4})
+  {:noreply, state}
+end
+
+```
+
+This implementation lets the tap dial itself provide the amount of steps and I do think it feels better than the `dial_rotate_*` implementation.
+
+Note that this won’t completely turn off the light and it’ll stop at brightness `1`. We can instead provide `brightness_step_onoff: step` to allow the dimmer to turn on and off the light too.
+
+When I first implemented this the dimming was really choppy and felt awful, which led me to create a more elaborate implementation that ultimately spawned this blog post.
+
+As I’m rewriting this post I’ve noticed the choppiness in my more elaborate implementation too (leading me to delete it entirely).
+
+I think it’s due to the unreliable latency in the Zigbee network that occasionally cause delays that mess up the responsiveness, regardless of the implementation. Sometimes you’ll get a long delay before you receive a message or you might get a bunch of messages at the same time.
+
+I guess the only way to *really* fix this is to bind the dial to the light directly.
+
+### [Other types of transitions](#Other-types-of-transitions) ###
+
+One of the reasons I wanted a custom implementation was to be able to do other things with the rotary dial.
+
+For example, maybe I’d like to alter the hue of light by rotating? All we have to do is set the hue instead of the brightness:
+
+```
+set(%{hue_step: step * 0.75, transition: 0.4})
+
+```
+
+(This produces a very cool effect!)
+
+Another idea is to change the volume by rotating. Here’s the code that I use to control the volume of our kitchen speakers (via Home Assistant, not MQTT):
+
+```
+rotate: fn step ->
+  # A step of 8 translates to a volume increase of 3%
+  volume_step = step / 8 * 3 / 100
+
+  # Clamp volume to not accidentally set a very loud or silent volume.
+  volume =
+    # HAStates stores the current states in memory whenever a state is changed.
+    (HAStates.get_attribute(kitchen_player_ha(), :volume_level, 0.2) + volume_step)
+    |> Math.clamp(0.05, 0.6)
+
+  # Calls the `media_player.volume_set` action.
+  MediaPlayer.set_volume(kitchen_player_ha(), volume)
+  # Prevents a possible race condition where we use the old volume level
+  # stored in memory for the next rotation.
+  HAStates.override_attribute(kitchen_player_ha(), :volume_level, volume)
+end
+
+```
+
+[A use-case: the boys bedroom](#A-use-case-the-boys-bedroom)
+----------
+
+We’ve got a bunch of lights in the boys bedroom that we can control and it’s a good use-case for a device such as the Tap Dial.
+
+### [Lights to control](#Lights-to-control) ###
+
+These are the lights we can control in the room:
+
+* A ceiling light with color ambiance
+* A window light with white ambiance
+* A floor lamp with white ambiance
+* Night lights for both Loke and Isidor, with color ambiance
+* A lava lamp for Loke, connected to a smart plug
+
+(Yes, I need to get a lava light for Isidor too. They’re awesome!)
+
+The window light isn’t controlled by the tap dial and there are other automations that controls circadian lighting for most of the lights.
+
+### [Use Zigbee direct binding](#Use-Zigbee-direct-binding) ###
+
+I’m opting to use direct binding because of two reasons:
+
+1. Direct binding allows us to dim the light even if the smart home server is down.
+2. Despite my efforts, the dimming automation has some latency issues.
+
+Even though it overrides the hold functionality I think direct binding for lights is the way to go.
+
+### [The functionality](#The-functionality) ###
+
+These are the functions for the tap dial in the boys room:
+
+* **Rotate**: Dim brightness of ceiling light (direct binding)
+* **Hold any**: Turns off the ceiling light (direct binding)
+* **Click 1**: Toggle ceiling light on/off
+* **Double click 1**: Toggle max brightness for ceiling light on/off
+* **Click 2**: Each click goes through different colors for the ceiling light
+* **Click 3**: Toggle floor lamp on/off
+* **Double click 3**: Toggle Isidor’s night light on/off
+* **Hold 3**: Loop through the hue of Isidor’s night light
+* **Click 4**: Toggle Loke’s lava lamp on/off
+* **Double click 4**: Toggle Loke’s night light on/off
+* **Hold 4**: Loop through the hue of Loke’s night light
+
+There’s many different ways you can design the interactions and I may switch it up in the future, but for now this works well.
+
+While I normally wouldn’t use direct bindings together with hold functionality (as here it will also turn off the ceiling light), in this case I think it works well.
+
+[A generalized tap dial controller](#A-generalized-tap-dial-controller)
+----------
+
+The code I’ve shown you so far has been a little simplified to explain the general approach. As I have several tap dials around the house I’ve made a general tap dial controller with a more declarative approach.
+
+For example, here’s how the tap dial in the boys room is defined:
+
+```
+TapDialController.start_link(
+  device: boys_room_tap_dial(),
+  scene: 0,
+  rotate: fn _step ->
+    # This disables the existing circadian automation.
+    # I found that manually disabling it is more reliable than trying to
+    # detect external changes over MQTT as messages may be delayed and arrive out of order.
+    LightController.set_manual_override(boys_room_ceiling_light(), true)
+  end,
+  button_1: %{
+    click: fn ->
+      Mqtt.set(boys_room_ceiling_light(), %{state: "TOGGLE"})
+    end,
+    double_click: fn ->
+      # This function compares the current light status and sets it to 100%
+      # or reverts back to circadian lighting (if setup for the light).
+      HueLights.toggle_max_brightness(boys_room_ceiling_light())
+    end
+  },
+  button_2: %{
+    click: fn state ->
+      # The light controller normally uses circadian lighting to update
+      # the light. Setting manual override pauses circadian lighting,
+      # allowing us to manually control the light.
+      LightController.set_manual_override(boys_room_ceiling_light(), true)
+      # This function steps through different light states for the ceiling light
+      # (hue 0..300 with 60 intervals) and stores it in `state`.
+      next_scene(state)
+    end
+  },
+  button_3: %{
+    click: fn ->
+      Mqtt.set(boys_room_floor_light(), %{state: "TOGGLE"})
+    end,
+    double_click: fn ->
+      Mqtt.set(isidor_sleep_light(), %{state: "TOGGLE"})
+    end,
+    hold: fn ->
+      Mqtt.set(isidor_sleep_light(), %{hue_move: 40, color: %{saturation: 100}})
+    end,
+    hold_release: fn ->
+      Mqtt.set(isidor_sleep_light(), %{hue_move: 0})
+    end
+  },
+  button_4: %{
+    click: fn ->
+      Mqtt.set(loke_lava_lamp(), %{state: "TOGGLE", brightness: 254})
+    end,
+    double_click: fn ->
+      Mqtt.set(loke_sleep_light(), %{state: "TOGGLE"})
+    end,
+    hold: fn ->
+      Mqtt.set(loke_sleep_light(), %{hue_move: 40, color: %{saturation: 100}})
+    end,
+    hold_release: fn ->
+      Mqtt.set(loke_sleep_light(), %{hue_move: 0})
+    end
+  }
+)
+
+```
+
+I’m not going to go through the implementation of the controller in detail. Here’s the code you can read through if you want:
+
+```
+defmodule Haex.Mqtt.TapDialController do
+  use GenServer
+  alias Haex.Mqtt
+  alias Haex.Mock
+  require Logger
+
+  @impl true
+  def init(opts) do
+    # This allows us to setup expectations and to collect what messages
+    # the controller sends during unit testing.
+    if parent = opts[:parent] do
+      Mock.allow(parent, self())
+    end
+
+    device = opts[:device] || raise "Must specify `device`, got: #{inspect(opts)}"
+
+    # Just subscribes to pubsub under the hood.
+    Mqtt.subscribe_events(device)
+
+    state =
+      Map.new(opts)
+      |> Map.put_new(:double_click_timeout, 350)
+
+    {:ok, state}
+  end
+
+  def start_link(opts) do
+    GenServer.start_link(__MODULE__, opts)
+  end
+
+  @impl true
+  def handle_info({:mqtt, _topic, payload}, state) do
+    case parse_action(payload) do
+      {:button, button, fun} ->
+        # We specify handlers with `button_3: %{}` specs.
+        case fetch_button_handler(button, state) do
+          {:ok, spec} ->
+            # Dispatch to action handlers, such as `handle_hold` and `handle_press_release`.
+            fun.(spec, state)
+
+          :not_found ->
+            {:noreply, state}
+        end
+
+      {:rotate, step} ->
+        case fetch_rotate_handler(state) do
+          {:ok, cb} ->
+            call_handler(cb, step, state)
+
+          :not_found ->
+            {:noreply, state}
+        end
+
+      :skip ->
+        {:noreply, state}
+    end
+  end
+
+  def handle_info({:execute_single_press, ref, cb}, state) do
+    # Only execute the callback for the last action.
+    if state[:click_ref] == ref do
+      call_handler(cb, Map.delete(state, :click_ref))
+    else
+      {:noreply, state}
+    end
+  end
+
+  defp handle_press_release(spec, state) do
+    single_click_handler = spec[:click]
+    double_click_handler = spec[:double_click]
+
+    cond do
+      double_click_handler ->
+        now = DateTime.utc_now()
+
+        valid_double_click? =
+          state[:last_press] &&
+            DateTime.diff(now, state[:last_press], :millisecond) < state.double_click_timeout
+
+        if valid_double_click? do
+          # Execute a double click immediately.
+          state =
+            state
+            |> Map.delete(:last_press)
+            |> Map.delete(:click_ref)
+
+          call_handler(double_click_handler, state)
+        else
+          # Delay single click to see if we get a double click later.
+          ref = make_ref()
+
+          Process.send_after(
+            self(),
+            {:execute_single_press, ref, single_click_handler},
+            state.double_click_timeout
+          )
+
+          state =
+            state
+            |> Map.put(:last_press, now)
+            |> Map.put(:click_ref, ref)
+
+          {:noreply, state}
+        end
+
+      single_click_handler ->
+        # No double click handler, so we can directly execute the single click.
+        call_handler(single_click_handler, state)
+
+      true ->
+        {:noreply, state}
+    end
+  end
+
+  defp handle_hold(spec, state) do
+    call_handler(spec[:hold], state)
+  end
+
+  defp handle_hold_release(spec, state) do
+    call_handler(spec[:hold_release], state)
+  end
+
+  defp call_handler(nil, state) do
+    {:noreply, state}
+  end
+
+  defp call_handler(handler, state) do
+    # If a callback expects one argument we'll also send the state,
+    # otherwise we simply call it.
+    case Function.info(handler)[:arity] do
+      0 ->
+        handler.()
+        {:noreply, state}
+
+      1 ->
+        {:noreply, handler.(state)}
+
+      x ->
+        Logger.error(
+          "Unsupported cb arity `#{x}` for #{state.device} tap dial expecting 0 or 1 args"
+        )
+
+        {:noreply, state}
+    end
+  end
+
+  defp call_handler(nil, _arg1, state) do
+    {:noreply, state}
+  end
+
+  defp call_handler(handler, arg1, state) do
+    case Function.info(handler)[:arity] do
+      1 ->
+        handler.(arg1)
+        {:noreply, state}
+
+      2 ->
+        {:noreply, handler.(arg1, state)}
+
+      x ->
+        Logger.error(
+          "Unsupported cb arity `#{x}` for #{state.device} tap dial  expecting 1 or 2 args"
+        )
+
+        {:noreply, state}
+    end
+  end
+
+  defp parse_action(%{"action" => "brightness_step_" <> dir, "action_step_size" => step}) do
+    step =
+      case dir do
+        "up" -> step
+        "down" -> -step
+      end
+
+    {:rotate, step}
+  end
+
+  defp parse_action(%{"action" => action}) do
+    case Regex.run(~r/button_(\d)_(\w+)/, action, capture: :all_but_first) do
+      [button, "press_release"] ->
+        {:button, String.to_integer(button), &handle_press_release/2}
+
+      [button, "hold"] ->
+        {:button, String.to_integer(button), &handle_hold/2}
+
+      [button, "hold_release"] ->
+        {:button, String.to_integer(button), &handle_hold_release/2}
+
+      _ ->
+        :skip
+    end
+  end
+
+  defp parse_action(_action) do
+    Logger.debug("Skip fallback tap dial action: #{inspect(action)}")
+    :skip
+  end
+
+  defp fetch_button_handler(button, state) do
+    spec = state["button_#{button}" |> String.to_atom()]
+
+    if spec do
+      {:ok, Map.put(spec, :button, button)}
+    else
+      :not_found
+    end
+  end
+
+  defp fetch_rotate_handler(state) do
+    if spec = state[:rotate] do
+      {:ok, spec}
+    else
+      :not_found
+    end
+  end
+end
+
+```
