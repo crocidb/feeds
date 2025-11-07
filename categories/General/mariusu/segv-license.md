@@ -6,8 +6,9 @@ url = "https://xn--gckvb8fzb.com/segv/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2025-10-31T14:47:07.916744351Z"
-seen = false
+seen = true
 ---
+
 TERMS AND CONDITIONS
 ----------
 
