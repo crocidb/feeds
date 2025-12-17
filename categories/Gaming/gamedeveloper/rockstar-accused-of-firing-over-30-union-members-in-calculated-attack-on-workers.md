@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/rockstar-accused-of-firing-over-30
 author = "Chris Kerr"
 text = ""
 lastupdated = "2025-11-07T14:09:14.082769990Z"
-seen = false
+seen = true
 ---
+

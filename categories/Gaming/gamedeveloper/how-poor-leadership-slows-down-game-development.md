@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/production/how-poor-leadership-slows-down-g
 author = "Bryant Francis"
 text = ""
 lastupdated = "2025-11-07T14:09:14.054996461Z"
-seen = false
+seen = true
 ---
+

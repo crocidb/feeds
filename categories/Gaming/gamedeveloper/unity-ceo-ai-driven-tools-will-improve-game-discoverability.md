@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/unity-ceo-says-increase-in-new-gam
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-11-07T14:09:14.044466946Z"
-seen = false
+seen = true
 ---
+

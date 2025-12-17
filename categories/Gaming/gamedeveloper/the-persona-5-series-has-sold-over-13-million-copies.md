@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-persona-5-series-has-sold-over
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-11-07T14:09:14.058515889Z"
-seen = false
+seen = true
 ---
+

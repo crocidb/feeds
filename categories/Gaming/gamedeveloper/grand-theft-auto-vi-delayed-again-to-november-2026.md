@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/grand-theft-auto-vi-delayed-again-
 author = "Bryant Francis"
 text = ""
 lastupdated = "2025-11-07T14:09:14.012927570Z"
-seen = false
+seen = true
 ---
+

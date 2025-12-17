@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/outsourcing-studio-atomhawk-closes
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-11-07T14:09:14.051490452Z"
-seen = false
+seen = true
 ---
+

@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/former-atari-board-member-appointe
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-11-07T14:09:14.065476336Z"
-seen = false
+seen = true
 ---
+

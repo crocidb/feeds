@@ -6,8 +6,9 @@ url = "https://critical-distance.com/2025/11/02/november-2nd-2/"
 author = "Chris Lawrence"
 text = ""
 lastupdated = "2025-11-07T14:09:16.226199579Z"
-seen = false
+seen = true
 ---
+
 Welcome back readers.
 
 We’re back with 20 new picks of all shapes and sizes to greet November (though that’s not to say we’re done with October). I promise I’ll plug our own stuff again next week, but for now if you’ve got a few bucks to spare I’m going to propose you send it to [The Jamaican government’s official portal for Hurricane Melissa relief](https://supportjamaica.gov.jm/?utm_source=calzone.beehiiv.com&utm_medium=referral&utm_campaign=hurricanes-and-boss-fights) instead.

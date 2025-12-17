@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/subnautica-owner-krafton-outlines-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2025-11-07T14:09:14.061975218Z"
-seen = false
+seen = true
 ---
+

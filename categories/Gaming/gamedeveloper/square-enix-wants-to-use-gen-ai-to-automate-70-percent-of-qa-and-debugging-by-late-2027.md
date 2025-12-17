@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/square-enix-wants-to-use-gen-ai-to
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-11-07T14:09:14.023381586Z"
-seen = false
+seen = true
 ---
+

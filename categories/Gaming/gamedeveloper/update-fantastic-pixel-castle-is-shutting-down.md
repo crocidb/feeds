@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/fantastic-pixel-castle-at-risk-of-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2025-11-07T14:09:14.077840765Z"
-seen = false
+seen = true
 ---
+

@@ -6,8 +6,9 @@ url = "https://pluralistic.net/2025/11/05/xor-xand-xnor-nand-nor/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2025-11-07T14:09:09.202057591Z"
-seen = false
+seen = true
 ---
+
 [![](https://i0.wp.com/pluralistic.net/wp-content/uploads/2025/11/05Nov2025.jpg?w=840&ssl=1)](https://pluralistic.net/2025/11/06/xor-xand-xnor-nand-nor/)
 
 Today's links

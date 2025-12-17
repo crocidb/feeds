@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/discord-rolls-out-new-teen-safety-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-11-07T14:09:14.030356433Z"
-seen = false
+seen = true
 ---
+

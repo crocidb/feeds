@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-game-awards-confirms-its-futur
 author = "Bryant Francis"
 text = ""
 lastupdated = "2025-11-07T14:09:14.016368089Z"
-seen = false
+seen = true
 ---
+

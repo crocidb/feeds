@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/mobile/google-to-reduce-play-store-fees-aft
 author = "Bryant Francis"
 text = ""
 lastupdated = "2025-11-07T14:09:14.040967357Z"
-seen = false
+seen = true
 ---
+

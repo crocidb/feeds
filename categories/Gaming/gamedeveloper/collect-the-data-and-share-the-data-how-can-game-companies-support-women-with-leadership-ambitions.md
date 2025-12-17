@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/-collect-the-data-and-share-the-da
 author = "Chris Kerr"
 text = ""
 lastupdated = "2025-11-07T14:09:14.047985074Z"
-seen = false
+seen = true
 ---
+

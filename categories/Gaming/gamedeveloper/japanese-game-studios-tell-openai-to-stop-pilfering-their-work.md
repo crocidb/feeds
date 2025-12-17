@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/japanese-game-studios-demand-opena
 author = "Chris Kerr"
 text = ""
 lastupdated = "2025-11-07T14:09:14.080276513Z"
-seen = false
+seen = true
 ---
+

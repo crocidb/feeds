@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/book-excerpt-the-game-needs-to-cha
 author = "Patrick Prax"
 text = ""
 lastupdated = "2025-11-07T14:09:14.019816578Z"
-seen = false
+seen = true
 ---
+

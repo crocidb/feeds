@@ -6,5 +6,6 @@ url = "https://www.gamedeveloper.com/business/ea-says-it-will-retain-creative-co
 author = "Chris Kerr"
 text = ""
 lastupdated = "2025-11-07T14:09:14.068996184Z"
-seen = false
+seen = true
 ---
+
