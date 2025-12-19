@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/on-generative-ai-imagery/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2025-12-10T15:23:56.762916944Z"
-seen = false
+seen = true
 +++
 
 With a growing readership on this very niche website of mine, the amount of reader feedback I receive, primarily via email, but also through the [community channel](/contact/#xmpp), has noticeably increased. This is something that brings me joy, and I’m happy to respond to everyone who reaches out, whether that’s with replies to questions, help on specific topics, or just a simple “thank you” message.

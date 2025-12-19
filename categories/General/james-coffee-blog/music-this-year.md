@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/15/music-this-year/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.145965567Z"
-seen = false
+seen = true
 +++
 
 For the last [two](https://jamesg.blog/2024/12/05/spotify-wrapped-2024) [years](https://jamesg.blog/2023/11/29/spotify-wrapped), I have posted my Spotify Wrapped updates to my website. I think they serve as much as a reminder to me about what music I was listening to as being potentially interesting to you (I hope, maybe?). This year I moved to Apple Music part-way through the year so my update is a bit fragmented but, as with the last two years, Taylor Swift came up on top of my recap.

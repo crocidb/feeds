@@ -6,7 +6,7 @@ url = "https://tomrenner.com/posts/ttmmt-3/"
 author = "Tom Renner on My place to put things"
 text = ""
 lastupdated = "2025-12-17T22:54:02.212013400Z"
-seen = false
+seen = true
 +++
 
 >

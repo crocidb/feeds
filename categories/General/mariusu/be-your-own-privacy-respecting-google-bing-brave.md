@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/be-your-own-privacy-respecting-google-bing-brav
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2025-12-10T15:23:56.760912971Z"
-seen = false
+seen = true
 +++
 
 Search engines have long been a hot topic of debate, particularly among the tinfoil-hat-wearing circles on the internet. After all, these platforms are in a unique position to collect vast amounts of user data and identify individuals with unsettling precision. However, with the shift from traditional web search, driven by search queries and result lists, to a LLM-powered *question-and-answer* flow across major platforms, concerns have grown and it’s no longer just about privacy:

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/19/snow/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.480401359Z"
-seen = false
+seen = true
 +++
 
 *The snow looks like drops of moonlight* I thought to myself as the cool light from the street lamps illuminated the falling snow. *It’s beautiful. I have never seen anything like it.*

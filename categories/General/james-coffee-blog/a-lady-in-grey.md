@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/15/a-lady-in-grey/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.134490683Z"
-seen = false
+seen = true
 +++
 
 I *love* thinking about the use of colour in painting. Impressionist paintings never cease to make me smile; their colour illuminates me as it does the places they depict (oh! how wonderful art can be!). I also love paintings that use grey and white, both sparingly and as part of a broader theme.

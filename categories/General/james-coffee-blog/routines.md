@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/19/routines/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.477041428Z"
-seen = false
+seen = true
 +++
 
 Over the last few weeks I have been working on rebuilding my morning routine.

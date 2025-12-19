@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/15/cleaning-the-artemis-database/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.153358925Z"
-seen = false
+seen = true
 +++
 
 If you are a user of [Artemis](https://artemis.jamesg.blog), the calm web reader I maintain, you may have noticed that there has been more downtime than usual lately. This is largely because of a difficult database task on which I have been working.

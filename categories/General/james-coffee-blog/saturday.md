@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/29/saturday/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.446037161Z"
-seen = false
+seen = true
 +++
 
 Last week I ran a [meetup for writers on the web](https://events.indieweb.org/2025/11/homebrew-website-club-writing-edition-zGoNxYZCrJhC). During the session, I brought up the topic of distance in writing. [1] We explored the topic in various ways – the distance between writing and publishing, the distance between reader and writer, how distance varies. As I write, I am thinking about the distance of poetic writing.

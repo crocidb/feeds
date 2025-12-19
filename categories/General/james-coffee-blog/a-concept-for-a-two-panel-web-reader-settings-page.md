@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/09/two-panel-reader-settings-page/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.435902197Z"
-seen = false
+seen = true
 +++
 
 For a while, I have had an idea for [Artemis](https://artemis.jamesg.blog) – the calm web reader I maintain – to have a page that shows your feed and feed settings on the same page.

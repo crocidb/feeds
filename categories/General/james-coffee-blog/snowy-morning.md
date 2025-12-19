@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/24/snowy-morning/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.460171661Z"
-seen = false
+seen = true
 +++
 
 On the cusp of the snowy doorstep, I felt a child-like excitement. I wanted to run outside and embrace the snow — the first proper snow, as we would say here, in at least a year. *This is the kind of snow that will lie on the ground.*, I thought. The snow flakes were thick, leaving a white blanket over the whole countryside.

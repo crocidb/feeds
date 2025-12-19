@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/17/nicest-thing/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.123601245Z"
-seen = false
+seen = true
 +++
 
 [Lou](https://louplummer.lol/nice-stranger/) wrote a blog post asking the question “What is the nicest thing a stranger has ever done for you?” I read his blog post and then spent some time thinking about how I would answer. One moment comes to mind.

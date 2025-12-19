@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/15/words-and-making-coffee/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.142087749Z"
-seen = false
+seen = true
 +++
 
 Sometimes, I feel pressure to write about more serious topics on my website. *Surely I have something I can say!* While I do love writing the occasional technical blog post here, thoughts on the future of the web, or ideas on another topic, I sometimes feel a bit stuck when I feel like I *have* to write something ✨ of consequence ✨. Indeed, I am delighted by the potential for blogs as an open forum to share ideas. But, so too am I delighted by their potential for… delight!

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/15/indieweb-book-club-design/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.149555397Z"
-seen = false
+seen = true
 +++
 
 This month’s [IndieWeb Book Club](https://indieweb.org/IndieWeb_Book_Club) book, the [Non-Designer’s Design Book by Robin Williams](https://openlibrary.org/books/OL8667671M/The_Non-Designer's_Design_Book), felt like it was written for me. One of my goals this year was to learn more about design, so I was delighted to see this book on the list.

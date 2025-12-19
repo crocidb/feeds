@@ -6,7 +6,7 @@ url = "blog/algebraic-music/index.html"
 author = "Sandy Maguire"
 text = ""
 lastupdated = "2025-12-10T15:24:03.334540433Z"
-seen = false
+seen = true
 +++
 
 For the last few months, I’ve been trying to come up with a nice, denotational basis for what music *is.* But I’m running out of steam on the project, so I thought I’d write what I’ve figured out, and what I’ve tried but doesn’t work. Hopefully this will inspire someone to come tell me what I’m being stupid about and help get the whole process unstuck.

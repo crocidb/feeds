@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/now/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2025-12-10T15:23:56.757694718Z"
-seen = false
+seen = true
 +++
 
 * Working on [Zeit](https://zeit.observer)

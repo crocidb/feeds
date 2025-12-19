@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/13/monet/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.483962599Z"
-seen = false
+seen = true
 +++
 
 On the ground floor of the Musee de l’Orangerie in Paris – a long building by the river banks of the Seine, and at the start of the Jardin des Tuileries – there is an exhibit of eight Monet paintings. The [museum website introduces the paintings](https://www.musee-orangerie.fr/en/node/197502) like so:

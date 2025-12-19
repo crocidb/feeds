@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2025-12-10T15:24:02.177528237Z"
-seen = false
+seen = true
 +++
 
 There's an old compiler-building tutorial that has become part of the field's lore: the [Let's Build a Compiler](https://compilers.iecc.com/crenshaw/) series by Jack Crenshaw (published between 1988 and 1995).

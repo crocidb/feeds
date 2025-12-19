@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/05/a-new-home-page/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.442612950Z"
-seen = false
+seen = true
 +++
 
 I have been thinking about redesigning my website for a while. I wrote a bit about [one of the design directions I explored](https://jamesg.blog/2025/11/29/experimenting-with-web-design) recently. I loved doing the design part of the project, but knew there would be several hours of work to integrate the new style into my website.

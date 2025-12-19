@@ -6,7 +6,7 @@ url = "https://blog.fogus.me/games/checkers-arcade.html"
 author = "fogus"
 text = ""
 lastupdated = "2025-12-10T15:24:06.563867572Z"
-seen = false
+seen = true
 +++
 
 Whereby I talk about turning a common American Checkers set into an "arcade" for deep games of abstract strategy.

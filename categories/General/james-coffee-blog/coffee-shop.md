@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/17/coffee-shop/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.119973105Z"
-seen = false
+seen = true
 +++
 
 I read The Frugal Gamer’s post “[If you were going to open up a shop, what would you sell?](https://www.thefrugalgamer.net/blog/2025/12/16/if-you-were-going-to-open-up-a-shop-what-would-you-sell/)” with great joy. Like The Frugal Gamer, I too am bundled up inside bracing the weather. I was hoping to go for a walk but the rain and wind has convinced me to stay inside and instead huddle around a warm beverage. Which brings me to my answer.

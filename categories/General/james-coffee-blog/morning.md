@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/13/morning/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.156677287Z"
-seen = false
+seen = true
 +++
 
 I am sitting on a train, looking — or at least aspirationally looking — in equal measures downward at my phone as well as to the horizon. The sun is rising above the hills; yellow peeks through the light, low clouds.

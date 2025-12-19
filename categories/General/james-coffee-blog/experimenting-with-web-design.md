@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/29/experimenting-with-web-design/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.452735434Z"
-seen = false
+seen = true
 +++
 
 Every so often I open developer tools in the web browser and start tinkering with my website. I love experimenting with different design directions, not necessarily in pursuit of a complete design so much as fuelled by a sense of curiosity. *What would it look like if I made my web pages wider? What would I do with the extra room? Would this help me create grids of images that would be easier to peruse? What would it look like if my accent colour was on the left side of a page?*

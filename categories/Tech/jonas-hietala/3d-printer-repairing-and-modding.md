@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2025/12/02/3d_printer_repairing_and_modding/i
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2025-12-10T15:23:53.409003961Z"
-seen = false
+seen = true
 +++
 
 ![](/images/jw_mods/modded_front.jpg)

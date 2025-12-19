@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/disable-javascript-org/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2025-12-10T15:23:56.755659386Z"
-seen = false
+seen = true
 +++
 
 With several posts on this website attracting significant views in the last few months I had come across **plenty** of *feedback* on the [tab gimmick](/faq/#tab) [implemented last quarter](/updates-2025-q3/#site-updates). While the replies that I came across on platforms like the *Fediverse* and *Bluesky* were lighthearted and oftentimes with humor, the visitors coming from traditional link aggregators sadly weren’t as amused about it. Obviously a large majority of people disagreeing with the core message behind this *prank* appear to be web developers, who’s very existence quite literally depends on JavaScript, and who didn’t hold back to express their anger in the comment sections as well as through direct emails. Unfortunately, most commenters are missing the point.

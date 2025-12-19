@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/20/winter-sunset/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.470124657Z"
-seen = false
+seen = true
 +++
 
 A dusting of snow blankets hills in the distance, left over from the snowfall two evenings ago. There are thin light clouds above the hills through which the sky peeks. On the horizon, separating the snowy white hills from the light grey clouds, there is a hint of a pale red, cast from the sun setting at the opposite end of the sky.

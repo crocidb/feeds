@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/19/resonance/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.473570587Z"
-seen = false
+seen = true
 +++
 
 I have been listening to a [podcast interview between Ezra Klein and Brian Eno](https://huffduffer.com/adactio/710457). In it, Eno referenced the concept of the “premature sheen.” I stopped what I was doing, paused the podcast, and started to think about what those words meant.

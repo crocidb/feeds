@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/09/what-i-have-been-reading-lately/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.439272859Z"
-seen = false
+seen = true
 +++
 
 For a while I have wanted to make a bookshelf page on my website but such a page comes with the feeling that I should keep it up to date, a continuing obligation. I don’t want to keep a list of all the books I have read on my website right now, but I do want to share a few titles that I have been reading lately and have enjoyed. If you’re looking for a book to read, I have a few recommendations below!

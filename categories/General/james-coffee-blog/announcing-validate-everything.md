@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/28/validate-everything/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.456725361Z"
-seen = false
+seen = true
 +++
 
 Today the [IndieWeb community hosted a Create Day event](https://events.indieweb.org/2025/11/indieweb-black-friday-create-day-build-don-t-buy-C044CcYllKyt) in which participants were invited to make something on the web. The theme of the event was “Build Don't Buy”, an invitation to make something this Black Friday.

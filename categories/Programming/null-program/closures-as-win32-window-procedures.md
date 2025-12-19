@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2025/12/12/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2025-12-17T22:54:18.098955213Z"
-seen = false
+seen = true
 +++
 
 Back in 2017 I wrote [about a technique for creating closures in C](/blog/2017/01/08/) using [JIT-compiled](/blog/2015/03/19/) wrapper. It’s neat, though rarely necessary in real programs, so I don’t think about it often. I applied it to `qsort`, which [sadly](/blog/2023/02/11/) accepts no context pointer. More practical would be working around [insufficient custom allocator interfaces](/blog/2023/12/17/), to create allocation functions at run-time bound to a particular allocation region. I’ve learned a lot since I last wrote about this subject, and [a recent article](https://lowkpro.com/blog/creating-c-closures-from-lua-closures.html) had me thinking about it again, and how I could do better than before. In this article I will enhance Win32 window procedure callbacks with a fifth argument, allowing us to more directly pass extra context. I’m using [w64devkit](https://github.com/skeeto/w64devkit) on x64, but the everything here should work out-of-the-box with any x64 toolchain that speaks GNU assembly.

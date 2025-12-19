@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/22/icebreakers/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.466854275Z"
-seen = false
+seen = true
 +++
 
 This evening I hosted an online event about writing and writing on the web. “Writing” is a broad topic, so I wanted a way to help get the discussion going. A few weeks ago, I tried an ice breaker question in an event which went well, so I decided I’d try one again this evening.

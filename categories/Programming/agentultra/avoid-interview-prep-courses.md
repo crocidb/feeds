@@ -6,7 +6,7 @@ url = "https://agentultra.com/blog/avoid-interview-prep-courses/index.html"
 author = "James"
 text = ""
 lastupdated = "2025-12-10T15:24:04.122995108Z"
-seen = false
+seen = true
 +++
 
 Musings and ramblings on programming and things

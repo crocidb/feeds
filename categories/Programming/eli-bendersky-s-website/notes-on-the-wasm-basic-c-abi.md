@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2025/notes-on-the-wasm-basic-c-abi/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2025-12-10T15:24:02.184676317Z"
-seen = false
+seen = true
 +++
 
 The [WebAssembly/tool-conventions](https://github.com/WebAssembly/tool-conventions/tree/main) repository contains "Conventions supporting interoperability between tools working with WebAssembly".

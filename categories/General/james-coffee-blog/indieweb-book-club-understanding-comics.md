@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/15/understanding-comics/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.138338911Z"
-seen = false
+seen = true
 +++
 
 The [IndieWeb Book Club](https://indieweb.org/IndieWeb_Book_Club) choice for November 2025 was Scott McCloud’s *Understanding Comics*. I wanted to write a post about this book, but I have lately found myself spending a lot of time reading books rather than writing. My time recently has reminded me of how much I love reading, especially fiction and manga.

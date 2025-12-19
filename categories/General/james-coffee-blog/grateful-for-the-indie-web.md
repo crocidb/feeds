@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/17/grateful-for-the-indie-web/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.116173307Z"
-seen = false
+seen = true
 +++
 
 We just finished our last [Homebrew Website Club Europe](https://events.indieweb.org/tag/gmt/archive) event of the year. We spent the time chatting about the last year on our websites – what we made, what we are proud of, what we learned – and looked ahead to what we may be interested in doing next year. One question came to mind during the event: what are you grateful for in the indie web this year?

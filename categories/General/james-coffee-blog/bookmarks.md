@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/22/bookmarks/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.463482113Z"
-seen = false
+seen = true
 +++
 
 My copy of Stephen King’s *On Writing* has been sitting on the shelf for a while. Why I stopped reading the book is one of those things lost to time. But about two weeks ago, I went to my bookshelves and picked out the two books that I had started but not finished yet. *I could finish these now,* I thought. I remembered enjoying what I had read so far.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/12/15/brainstorming-visual-search-for-the-web/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-17T22:54:13.127199564Z"
-seen = false
+seen = true
 +++
 
 When I am chatting about a website with friends, sometimes I forget the name of the website. I remember what the site is about, and often remember visual details about the site, too. A few months ago, I described a website that aggregated blogs and also mentioned it had a yellow background. I could remember the purpose of the site and its colour and rough layout, but not the name. (The site was [Minifeed](https://minifeed.net/welcome); I am in awe of the person who found the website based on my description.)

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/29/little-moments-of-joy/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.449276994Z"
-seen = false
+seen = true
 +++
 
 I was thinking about a design for a web page yesterday that I wanted to build with a few illustrations. I remembered that there was a site with old-timey illustrations that were available in the public domain. I thought *I have no idea how to find this website!*

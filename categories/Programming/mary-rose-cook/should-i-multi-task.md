@@ -6,7 +6,7 @@ url = "https://maryrosecook.com/blog/post/should-i-multi-task"
 author = ""
 text = ""
 lastupdated = "2025-12-10T15:24:06.087778005Z"
-seen = false
+seen = true
 +++
 
 LLMs take time to generate code. I’ve set things up so I can switch to another task while I wait. But, surprisingly, I’ve found this is usually the wrong idea.

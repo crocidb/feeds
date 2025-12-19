@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/12/studying-art-history/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.490786221Z"
-seen = false
+seen = true
 +++
 
 Over the last few months, I have been taking a part-time online course with the V&A focused on the history of art. The course has taken me through eras from Classical art and sculpture all the way to Impressionism, Cubism, and Surrealism. With every lecture, I feel like my mind is being opened, both by the pieces of art I study and the context around the art – the cultural commentary that arose from pivotal art works, how technology changed art, and more.

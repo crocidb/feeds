@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2025/11/12/whats-in-my-inventory/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:59.487321581Z"
-seen = false
+seen = true
 +++
 
 Wherever I go, I usually bring my backpack. In it, I always keep a few things. First, I try to always bring a book with me. I usually pack a book to read before I leave the house, for the book I am reading is either at my bedside or next to my chair. Right now, I am reading *the art of explanation* by Ron Atkins, a book about how to communicate clearly written by a senior reporter at the BBC. If I am out and about, I might read in a cafe, on the train, or really anywhere that I can sit down and relax.
