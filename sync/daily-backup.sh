@@ -2,14 +2,19 @@
 # Daily backup: commit any changes in /data and push to GitHub.
 # Runs at midnight UTC via cron (registered in Containerfile).
 
-DATA_DIR="/data"
+REPO_DIR="/repo"
+DATA_DIR="/repo/library"
 REMOTE="${GIT_REMOTE:-origin}"
 BRANCH="${GIT_BRANCH:-main}"
 DATE=$(date -u +%Y-%m-%d)
 
 echo "[daily-backup] Starting backup for $DATE..."
 
-cd "$DATA_DIR"
+# Ensure GitHub host key is trusted
+mkdir -p /root/.ssh
+ssh-keyscan github.com >> /root/.ssh/known_hosts 2>/dev/null
+
+cd "$REPO_DIR"
 
 # Pull first to incorporate any remote changes before committing
 git pull "$REMOTE" "$BRANCH" || echo "[daily-backup] Warning: git pull failed."
@@ -25,6 +30,6 @@ else
 fi
 
 git push "$REMOTE" "$BRANCH" && echo "[daily-backup] Pushed to $REMOTE/$BRANCH." \
-    || echo "[daily-backup] Warning: git push failed."
+    || { echo "[daily-backup] Warning: git push failed."; git remote -v; ssh -T git@github.com; }
 
 echo "[daily-backup] Done."
