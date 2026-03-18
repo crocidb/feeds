@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  feeds-sync:
+    build:
+      context: .
+      dockerfile: Containerfile
+    ports:
+      - "93284:93284"
+    volumes:
+      # Bind mount the feeds data directory (one level up from sync/)
+      # Adjust this path to wherever the feeds directory lives on the host
+      - ../library/:/data
+      # SSH key for git push to GitHub (read-only)
+      - ~/.ssh:/root/.ssh:ro
+    environment:
+      WEBDAV_USER: ${WEBDAV_USER:-admin}
+      WEBDAV_PASS: ${WEBDAV_PASS:-changeme}
+      GIT_REMOTE: ${GIT_REMOTE:-origin}
+      GIT_BRANCH: ${GIT_BRANCH:-main}
+      GIT_USER_NAME: ${GIT_USER_NAME:-feeds-sync}
+      GIT_USER_EMAIL: ${GIT_USER_EMAIL:-feeds-sync@localhost}
+    restart: unless-stopped
