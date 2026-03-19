@@ -6,7 +6,7 @@ url = "https://crocidb.com/about/"
 author = "Bruno Croci"
 text = ""
 lastupdated = "2026-02-11T20:17:03.501393855Z"
-seen = false
+seen = true
 +++
 
 Hello! I’m a programmer, gamedev and hobbist artist, originally from *São Paulo, Brazil*, now based in *Düsseldorf, Germany*. I’m a very curious and creative person, I feel pleasure by creating things, above everything. As a professional video game programmer, and currently working as a **Senior Audio Programmer** for **Ubisoft Düsseldorf**, my background spans gameplay, generalist, and audio programming. I’m genuinely passionate about all aspects of video game development – diving into everything from engines and systems to graphics, audio, and of course, crafting engaging gameplay. I’ve had the opportunity to contribute to titles such as **Assassin’s Creed Nexus VR**, **XDefiant**, **Angest**, **Rock&Rails**, **Conflict0: Shattered**, and **Jake ’n Tess: Finding Monsters**.

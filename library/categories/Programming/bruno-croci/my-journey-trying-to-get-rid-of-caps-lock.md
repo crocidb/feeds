@@ -6,7 +6,7 @@ url = "https://crocidb.com/post/my-journey-trying-to-get-rid-of-caps-lock/"
 author = "Bruno Croci"
 text = ""
 lastupdated = "2026-03-18T21:57:50.245498337Z"
-seen = false
+seen = true
 +++
 
 The first time I ever used a typewriter, it was already a vintage device. It was my aunt’s old machine, and I suspect it was already pretty much gimmicky by her time too. For a kid who had no computer in the late 90s, it was really cool to sit down and bash my tiny fingers to get some barely visible text on an A4 paper.
