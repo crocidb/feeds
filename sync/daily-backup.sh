@@ -16,8 +16,12 @@ ssh-keyscan github.com >> /root/.ssh/known_hosts 2>/dev/null
 
 cd "$REPO_DIR"
 
-# Pull first to incorporate any remote changes before committing
-git pull "$REMOTE" "$BRANCH" || echo "[daily-backup] Warning: git pull failed."
+# Pull first (rebase local commits on top of remote to avoid diverged histories)
+if ! git pull --rebase "$REMOTE" "$BRANCH"; then
+    echo "[daily-backup] ERROR: git pull --rebase failed. Aborting to avoid push conflict."
+    git rebase --abort 2>/dev/null || true
+    exit 1
+fi
 
 git add -A
 
