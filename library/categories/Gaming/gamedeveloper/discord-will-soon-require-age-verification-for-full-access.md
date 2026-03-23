@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/discord-will-soon-require-age-ver
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.590807948Z"
-seen = false
+seen = true
 +++
 

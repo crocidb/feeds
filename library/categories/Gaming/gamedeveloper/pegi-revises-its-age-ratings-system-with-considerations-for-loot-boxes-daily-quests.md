@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/pegi-revises-its-age-ratings-syste
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-03-18T21:57:42.714769955Z"
-seen = false
+seen = true
 +++
 

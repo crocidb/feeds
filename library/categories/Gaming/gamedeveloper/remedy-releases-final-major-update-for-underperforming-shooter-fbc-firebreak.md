@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/remedy-releases-final-major-update
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.622278165Z"
-seen = false
+seen = true
 +++
 

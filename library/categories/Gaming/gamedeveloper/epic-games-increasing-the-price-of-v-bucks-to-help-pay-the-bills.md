@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/epic-games-increasing-the-price-of
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-03-18T21:57:42.823317088Z"
-seen = false
+seen = true
 +++
 

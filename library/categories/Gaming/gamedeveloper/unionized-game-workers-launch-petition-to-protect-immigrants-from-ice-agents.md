@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/unionized-game-workers-launch-pe
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.702500389Z"
-seen = false
+seen = true
 +++
 

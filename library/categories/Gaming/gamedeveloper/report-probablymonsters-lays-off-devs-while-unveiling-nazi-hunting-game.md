@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-probablymonsters-lays-off-d
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-02-11T20:16:56.616685825Z"
-seen = false
+seen = true
 +++
 

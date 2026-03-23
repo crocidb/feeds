@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/arc-raiders-dev-mutually-parts-way
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-18T21:57:42.611683774Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "http://ratfactor.com/b/the-art-of-doing-science-and-engineering"
 author = "Dave Gauer"
 text = ""
 lastupdated = "2026-03-18T22:16:03.408369840Z"
-seen = false
+seen = true
 +++
 
 My rather long book review and/or collection of notes from reading Richard W. Hamming's opus.

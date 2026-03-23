@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/titanium-court-wins-seumas-mcnally
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.740040157Z"
-seen = false
+seen = true
 +++
 

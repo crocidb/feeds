@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ustwo-games-makes-layoffs-to-suppo
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.604788526Z"
-seen = false
+seen = true
 +++
 

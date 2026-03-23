@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/uk-retailer-game-closing-remaining
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-02-11T20:16:56.644502124Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/mattel-acquires-control-of-mobile-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.545437160Z"
-seen = false
+seen = true
 +++
 

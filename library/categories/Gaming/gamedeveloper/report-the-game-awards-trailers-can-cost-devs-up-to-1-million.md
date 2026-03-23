@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/report-the-game-awards-trailers-c
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-12-17T22:54:07.124593205Z"
-seen = false
+seen = true
 +++
 

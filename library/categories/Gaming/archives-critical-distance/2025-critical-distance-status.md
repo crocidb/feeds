@@ -6,7 +6,7 @@ url = "https://critical-distance.com/2026/02/25/2025-critical-distance-status/"
 author = "Zach Alexander"
 text = ""
 lastupdated = "2026-03-18T21:57:39.765273059Z"
-seen = false
+seen = true
 +++
 
 Once again, it’s time to check in on the finances for Critical Distance.

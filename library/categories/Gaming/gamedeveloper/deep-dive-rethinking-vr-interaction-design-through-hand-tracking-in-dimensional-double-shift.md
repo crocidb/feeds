@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/extended-reality/deep-dive-rethinking-vr-in
 author = " Marc Huet, Emma Atkinson, Alex Coverte"
 text = ""
 lastupdated = "2026-02-11T20:16:56.619180415Z"
-seen = false
+seen = true
 +++
 

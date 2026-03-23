@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/uk-prime-minister-promises-to-look
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-12-17T22:54:07.127812738Z"
-seen = false
+seen = true
 +++
 

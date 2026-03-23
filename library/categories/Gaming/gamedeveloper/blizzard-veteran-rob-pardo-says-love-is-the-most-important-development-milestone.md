@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/blizzard-veteran-rob-pardo-says-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.721963374Z"
-seen = false
+seen = true
 +++
 

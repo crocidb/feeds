@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/google-cloud-s-vision-for-ai-in-
 author = "Alissa McAloon"
 text = ""
 lastupdated = "2026-03-18T21:57:42.791448860Z"
-seen = false
+seen = true
 +++
 

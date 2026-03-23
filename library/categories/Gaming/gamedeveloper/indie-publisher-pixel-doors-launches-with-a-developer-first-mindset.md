@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/indie-publisher-pixel-doors-launch
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-02-11T20:16:56.635816024Z"
-seen = false
+seen = true
 +++
 

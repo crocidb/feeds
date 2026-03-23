@@ -6,7 +6,7 @@ url = "http://ratfactor.com/openbsd/blog-13-moving-to-openbsd-dot-amsterdam"
 author = "Dave Gauer"
 text = ""
 lastupdated = "2026-03-18T22:16:03.414381182Z"
-seen = false
+seen = true
 +++
 
 This website has moved to a new OS and web server and host! You shouldn't really notice anything different, but there are probably more broken links than usual...

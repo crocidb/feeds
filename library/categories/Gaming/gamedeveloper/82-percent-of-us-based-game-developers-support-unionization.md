@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/survey-82-percent-of-us-based-game
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.655600253Z"
-seen = false
+seen = true
 +++
 

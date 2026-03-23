@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/split-fiction-s-final-level-concept-
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-03-18T21:57:42.774956135Z"
-seen = false
+seen = true
 +++
 

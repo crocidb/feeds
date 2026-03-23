@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/id-software-workers-form-wall-to-w
 author = "Bryant Francis"
 text = ""
 lastupdated = "2025-12-17T22:54:07.111781982Z"
-seen = false
+seen = true
 +++
 

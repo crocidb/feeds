@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/valve-says-5-836-titles-earned-ove
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.786210468Z"
-seen = false
+seen = true
 +++
 

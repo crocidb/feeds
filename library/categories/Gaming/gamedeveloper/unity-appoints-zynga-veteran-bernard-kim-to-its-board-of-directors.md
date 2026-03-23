@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/unity-appoints-zynga-veteran-berna
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-02-11T20:16:56.549016790Z"
-seen = false
+seen = true
 +++
 

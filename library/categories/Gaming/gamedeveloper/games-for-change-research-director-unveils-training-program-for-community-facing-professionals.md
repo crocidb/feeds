@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/rachel-kowert-announces-evidence-b
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-18T21:57:42.638296879Z"
-seen = false
+seen = true
 +++
 

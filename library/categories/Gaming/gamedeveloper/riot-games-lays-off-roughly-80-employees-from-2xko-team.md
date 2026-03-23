@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/riot-games-lays-off-roughly-80-emp
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-02-11T20:16:56.583846088Z"
-seen = false
+seen = true
 +++
 

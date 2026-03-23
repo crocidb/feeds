@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/us-based-tariffs-impact-38-of-busi
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-02-11T20:16:56.621666576Z"
-seen = false
+seen = true
 +++
 

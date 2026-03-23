@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/clair-obscur-and-dispatch-lead-baf
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-18T21:57:42.682583674Z"
-seen = false
+seen = true
 +++
 

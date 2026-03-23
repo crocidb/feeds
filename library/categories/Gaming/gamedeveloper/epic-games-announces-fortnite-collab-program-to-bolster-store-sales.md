@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/epic-games-announces-fortnite-coll
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-02-11T20:16:56.640767514Z"
-seen = false
+seen = true
 +++
 

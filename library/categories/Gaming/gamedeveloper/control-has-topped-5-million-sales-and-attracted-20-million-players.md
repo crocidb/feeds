@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/control-has-topped-5-million-sales
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.559792420Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/mobile-studio-ares-interactive-sec
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.633940235Z"
-seen = false
+seen = true
 +++
 

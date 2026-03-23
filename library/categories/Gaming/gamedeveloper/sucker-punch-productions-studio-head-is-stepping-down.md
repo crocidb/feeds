@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/sucker-punch-productions-studio-he
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-12-17T22:54:07.095792876Z"
-seen = false
+seen = true
 +++
 

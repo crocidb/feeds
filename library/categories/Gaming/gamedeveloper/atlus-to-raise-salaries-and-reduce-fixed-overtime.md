@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/atlus-to-increase-salaries-and-red
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-18T21:57:42.645597425Z"
-seen = false
+seen = true
 +++
 

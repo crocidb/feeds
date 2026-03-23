@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/roblox-announces-ai-powered-object
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-02-11T20:16:56.626609325Z"
-seen = false
+seen = true
 +++
 

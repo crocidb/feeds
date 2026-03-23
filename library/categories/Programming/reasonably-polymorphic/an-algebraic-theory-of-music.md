@@ -6,7 +6,7 @@ url = "blog/more-algebraic-music/index.html"
 author = "Sandy Maguire"
 text = ""
 lastupdated = "2026-02-11T20:17:05.601681752Z"
-seen = false
+seen = true
 +++
 
 In my last post, I was [struggling towards an algebraic theory of music.](/blog/algebraic-music/) This idea has been burning in my mind ever since, and I wanted to give some updates with where I’ve landed.

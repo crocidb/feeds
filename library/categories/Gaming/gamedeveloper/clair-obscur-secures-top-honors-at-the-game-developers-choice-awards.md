@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/gdca-2026"
 author = "Alissa McAloon"
 text = ""
 lastupdated = "2026-03-18T21:57:42.692389592Z"
-seen = false
+seen = true
 +++
 

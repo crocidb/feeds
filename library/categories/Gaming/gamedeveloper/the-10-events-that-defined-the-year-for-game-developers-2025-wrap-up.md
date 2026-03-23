@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/game-developer-s-2025-wrap-up-the-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2025-12-17T22:54:07.108687298Z"
-seen = false
+seen = true
 +++
 

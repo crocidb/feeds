@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/using-choreography-to-enhance-battle
 author = "Alessandro Fillari"
 text = ""
 lastupdated = "2026-03-18T21:57:42.632172122Z"
-seen = false
+seen = true
 +++
 

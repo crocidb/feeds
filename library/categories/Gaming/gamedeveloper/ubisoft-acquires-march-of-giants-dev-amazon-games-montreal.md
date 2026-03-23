@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ubisoft-acquires-march-of-giants-d
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-12-17T22:54:07.102315182Z"
-seen = false
+seen = true
 +++
 

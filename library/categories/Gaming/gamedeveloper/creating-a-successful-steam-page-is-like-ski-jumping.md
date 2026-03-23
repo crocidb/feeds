@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/creating-a-successful-steam-page-i
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-03-18T21:57:42.710020663Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-nintendo-switch-2-has-topped-1
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.645736744Z"
-seen = false
+seen = true
 +++
 

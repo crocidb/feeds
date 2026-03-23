@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/valve-argues-mystery-boxes-are-wid
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-18T21:57:42.747989825Z"
-seen = false
+seen = true
 +++
 

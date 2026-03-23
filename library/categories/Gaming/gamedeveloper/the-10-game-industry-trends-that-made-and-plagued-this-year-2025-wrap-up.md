@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/game-developer-s-2025-wrap-up-the-
 author = "Bryant Francis, Danielle Riendeau, Alissa McAloon"
 text = ""
 lastupdated = "2025-12-19T13:15:16.291301729Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/how-improvisation-and-kicking-a-ball
 author = "Alessandro Fillari"
 text = ""
 lastupdated = "2026-03-18T21:57:42.595434280Z"
-seen = false
+seen = true
 +++
 

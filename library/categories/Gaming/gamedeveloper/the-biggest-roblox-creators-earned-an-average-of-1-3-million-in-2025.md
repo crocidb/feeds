@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-biggest-roblox-creators-earned
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.594322147Z"
-seen = false
+seen = true
 +++
 

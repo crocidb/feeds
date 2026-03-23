@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ubisoft-team-lead-suspended-for-pu
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.651887294Z"
-seen = false
+seen = true
 +++
 

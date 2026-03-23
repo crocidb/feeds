@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/amd-boss-indicates-next-gen-xbox-c
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-02-11T20:16:56.637037284Z"
-seen = false
+seen = true
 +++
 

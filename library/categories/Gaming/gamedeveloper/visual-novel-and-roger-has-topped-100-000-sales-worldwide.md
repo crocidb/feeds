@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/visual-novel-and-roger-has-topped-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.656151439Z"
-seen = false
+seen = true
 +++
 

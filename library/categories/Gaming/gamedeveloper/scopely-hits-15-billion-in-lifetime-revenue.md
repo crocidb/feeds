@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/scopely-hits-15-billion-in-lifetim
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-03-18T21:57:42.820205718Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/this-is-how-the-rng-works-as-an-equa
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.808115760Z"
-seen = false
+seen = true
 +++
 

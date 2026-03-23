@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/microsoft-says-xbox-play-anywhere-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.765451359Z"
-seen = false
+seen = true
 +++
 

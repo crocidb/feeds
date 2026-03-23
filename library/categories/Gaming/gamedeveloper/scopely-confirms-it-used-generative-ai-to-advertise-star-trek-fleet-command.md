@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/scopely-confirms-it-used-generati
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.608394736Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/raw-fury-boss-pim-holfve-is-the-ne
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.661900039Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/four-tips-for-pitching-your-game-t
 author = "Alissa McAloon"
 text = ""
 lastupdated = "2026-02-11T20:16:56.614166426Z"
-seen = false
+seen = true
 +++
 

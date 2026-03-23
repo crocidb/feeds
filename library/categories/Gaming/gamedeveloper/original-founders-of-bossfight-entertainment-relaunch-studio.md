@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/original-founders-of-bossfight-ent
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-18T21:57:42.804934225Z"
-seen = false
+seen = true
 +++
 

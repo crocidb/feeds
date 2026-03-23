@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/peak-co-developer-aggro-crab-share
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.813042365Z"
-seen = false
+seen = true
 +++
 

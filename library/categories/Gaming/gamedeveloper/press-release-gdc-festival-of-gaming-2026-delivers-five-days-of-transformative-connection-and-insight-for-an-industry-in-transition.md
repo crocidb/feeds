@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/rebranded-gdc-festival-of-gaming-a
 author = "[GDC]"
 text = ""
 lastupdated = "2026-03-18T21:57:42.687571637Z"
-seen = false
+seen = true
 +++
 

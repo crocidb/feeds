@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/krafton-loses-lawsuit-is-ordered-t
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-03-18T21:57:42.672414765Z"
-seen = false
+seen = true
 +++
 

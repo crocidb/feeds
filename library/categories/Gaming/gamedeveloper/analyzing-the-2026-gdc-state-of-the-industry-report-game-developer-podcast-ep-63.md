@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/analyzing-the-2026-gdc-state-of-th
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-02-11T20:16:56.650663714Z"
-seen = false
+seen = true
 +++
 

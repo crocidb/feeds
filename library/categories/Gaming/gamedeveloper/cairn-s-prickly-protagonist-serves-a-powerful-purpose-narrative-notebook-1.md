@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/cairn-s-prickly-protagonist-serves-a
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-02-11T20:16:56.563326889Z"
-seen = false
+seen = true
 +++
 

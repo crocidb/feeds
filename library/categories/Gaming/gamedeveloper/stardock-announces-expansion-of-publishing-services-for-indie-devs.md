@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/stardock-announces-expansion-of-pu
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-18T21:57:42.796214878Z"
-seen = false
+seen = true
 +++
 

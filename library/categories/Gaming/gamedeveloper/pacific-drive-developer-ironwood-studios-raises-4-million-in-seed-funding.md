@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/pacific-drive-developer-ironwood-s
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.552572180Z"
-seen = false
+seen = true
 +++
 

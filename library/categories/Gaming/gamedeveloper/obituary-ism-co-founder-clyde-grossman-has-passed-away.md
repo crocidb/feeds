@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/obituary-ism-co-founder-clyde-gros
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-18T21:57:42.678160116Z"
-seen = false
+seen = true
 +++
 

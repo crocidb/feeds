@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ubisoft-union-representatives-call
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.646963524Z"
-seen = false
+seen = true
 +++
 

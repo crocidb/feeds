@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/programming/clair-obscur-expedition-33-was-
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-03-18T21:57:42.779071706Z"
-seen = false
+seen = true
 +++
 

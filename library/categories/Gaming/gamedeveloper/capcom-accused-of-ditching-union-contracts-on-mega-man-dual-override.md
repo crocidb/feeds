@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/capcom-accused-of-ditching-union-c
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.800805655Z"
-seen = false
+seen = true
 +++
 

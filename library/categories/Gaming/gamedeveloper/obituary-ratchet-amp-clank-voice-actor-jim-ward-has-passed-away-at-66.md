@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/obituary-jim-ward-voice-of-captain
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-12-17T22:54:07.118095579Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/here-s-where-to-find-game-developer-
 author = "Alissa McAloon"
 text = ""
 lastupdated = "2026-03-18T21:57:42.759755775Z"
-seen = false
+seen = true
 +++
 

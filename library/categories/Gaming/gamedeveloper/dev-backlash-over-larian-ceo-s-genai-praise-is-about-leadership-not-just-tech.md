@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/dev-backlash-to-larian-ceo-s-ai-
 author = "Bryant Francis"
 text = ""
 lastupdated = "2025-12-19T13:15:16.288731043Z"
-seen = false
+seen = true
 +++
 

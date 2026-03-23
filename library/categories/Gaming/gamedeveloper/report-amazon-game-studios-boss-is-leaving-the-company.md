@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-amazon-game-studios-boss-is
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-02-11T20:16:56.656826373Z"
-seen = false
+seen = true
 +++
 

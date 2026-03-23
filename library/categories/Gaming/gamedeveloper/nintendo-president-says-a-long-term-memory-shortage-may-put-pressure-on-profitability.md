@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nintendo-president-says-an-ongoing
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.601287867Z"
-seen = false
+seen = true
 +++
 

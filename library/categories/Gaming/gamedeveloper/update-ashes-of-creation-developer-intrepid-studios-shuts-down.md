@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-ashes-of-creation-developer
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.572943179Z"
-seen = false
+seen = true
 +++
 

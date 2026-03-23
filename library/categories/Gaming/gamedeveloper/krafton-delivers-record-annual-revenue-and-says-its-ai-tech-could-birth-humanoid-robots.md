@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/krafton-delivers-record-annual-r
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.556052480Z"
-seen = false
+seen = true
 +++
 

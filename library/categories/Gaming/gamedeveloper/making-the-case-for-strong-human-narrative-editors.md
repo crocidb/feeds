@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/making-the-case-for-strong-human-nar
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-03-18T21:57:42.732270137Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/microsoft-quietly-retires-this-is
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.762905730Z"
-seen = false
+seen = true
 +++
 

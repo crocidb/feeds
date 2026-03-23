@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/krafton-to-invest-1-billion-into-s
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.666403301Z"
-seen = false
+seen = true
 +++
 

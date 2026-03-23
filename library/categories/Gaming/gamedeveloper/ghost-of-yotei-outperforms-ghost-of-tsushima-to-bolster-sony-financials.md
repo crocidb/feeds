@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ghost-of-yotei-outperforms-ghost-o
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.624139956Z"
-seen = false
+seen = true
 +++
 

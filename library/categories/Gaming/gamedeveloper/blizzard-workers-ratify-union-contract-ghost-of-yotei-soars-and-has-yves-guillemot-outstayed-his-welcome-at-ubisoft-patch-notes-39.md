@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/blizzard-workers-ratify-union-cont
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-02-11T20:16:56.611686306Z"
-seen = false
+seen = true
 +++
 

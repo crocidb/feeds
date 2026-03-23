@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/lightspeed-studios-unveils-propr
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-18T21:57:42.706584260Z"
-seen = false
+seen = true
 +++
 

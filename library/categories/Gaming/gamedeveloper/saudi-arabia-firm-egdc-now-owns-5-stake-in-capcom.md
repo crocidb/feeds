@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/saudi-arabia-firm-egdc-now-owns-5-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-18T21:57:42.650049109Z"
-seen = false
+seen = true
 +++
 

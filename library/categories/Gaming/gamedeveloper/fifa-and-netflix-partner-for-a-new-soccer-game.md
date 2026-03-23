@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/fifa-and-netflix-partner-for-a-new
 author = "Diego Argüello"
 text = ""
 lastupdated = "2025-12-19T13:15:16.293783470Z"
-seen = false
+seen = true
 +++
 
