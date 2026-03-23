@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/01/03/2025_in_review/index.html"
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-02-11T20:16:55.193321533Z"
-seen = false
+seen = true
 +++
 
 It’s time for a [yearly review](/blog/tags/yearly_review) again. Time flies.

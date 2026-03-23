@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/the-toil-of-blog-art"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-02-11T20:17:01.307214596Z"
-seen = false
+seen = true
 +++
 
 When writing a technical blog, the first 90% of every article is a lot easier than the final 10%. Sometimes, the challenge is collecting your own thoughts; I remember walking through the forest and talking to myself about the articles about [Gödel’s beavers](https://lcamtuf.substack.com/p/monkeys-typewriters-and-busy-beavers) or [infinity](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract). Other times, the difficulty is the implementation of an idea. I sometimes spend days in the workshop or writing code to get, say, the throwaway image of a [square-wave spectrogram](https://lcamtuf.substack.com/p/is-the-frequency-domain-a-real-place) at the end of a whimsical post.

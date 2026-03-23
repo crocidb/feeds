@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/cursed-circuits-2-switched-capacitor"
 author = "lcamtuf"
 text = ""
 lastupdated = "2025-12-10T15:23:59.102115152Z"
-seen = false
+seen = true
 +++
 
 In the [previous post on this Substack](https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage), we looked at charge pump circuits and the mildly cursed example of a capacitor-based voltage halver. I find these topologies interesting because they are very simple, yet they subvert the usual way of thinking about what a capacitors can or cannot do.

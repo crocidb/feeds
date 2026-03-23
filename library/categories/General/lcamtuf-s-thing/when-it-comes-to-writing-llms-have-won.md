@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/when-it-comes-to-writing-llms-have"
 author = "lcamtuf"
 text = ""
 lastupdated = "2025-12-10T15:23:59.117670660Z"
-seen = false
+seen = true
 +++
 
 As a middling author, I find it fairly easy to sniff out LLM-generated articles. I see such content almost daily on Hacker News — and mind you, that’s the home of a fairly discerning, tech-savvy crowd; the proportion of generative AI on my other social media is higher than that. I understand the economics of it and I know the output is good enough for most readers. Still, from the perspective of a writer, it stings to see that the robots are winning the zero-sum contest for human attention on the internet.

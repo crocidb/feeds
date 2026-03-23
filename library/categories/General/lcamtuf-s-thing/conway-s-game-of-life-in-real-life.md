@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/conways-game-of-life-in-real-life"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-03-19T13:44:50.138394439Z"
-seen = false
+seen = true
 +++
 
 A while back, I posted the following on social media:

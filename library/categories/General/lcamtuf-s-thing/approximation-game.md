@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/approximation-game"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-03-18T21:57:45.306489043Z"
-seen = false
+seen = true
 +++
 
 In some of the earlier articles on this blog, we talked about the [nature of real numbers](https://lcamtuf.substack.com/p/unreal-numbers) and the [meanings of infinity](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract). The theory outlined in these posts is interesting but also hopelessly abstract. It’s as if we’re inventing make-believe worlds that have no discernible connection to reality.

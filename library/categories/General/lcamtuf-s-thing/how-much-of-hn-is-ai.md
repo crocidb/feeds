@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-03-18T21:57:45.298971534Z"
-seen = false
+seen = true
 +++
 
 I have a complicated relationship with [Hacker News](https://news.ycombinator.com). The site is the most important aggregator of geek news and a major source of traffic to this blog. At the same time, it has a fair number of toxic commenters, making it a dependable source of insults hurled in my general direction; if you want a taste, [this article](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract) has been called “watered-down” and “slop”.

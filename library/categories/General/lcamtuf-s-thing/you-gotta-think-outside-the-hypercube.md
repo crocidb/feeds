@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/you-gotta-think-outside-the-hypercube"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-02-11T20:17:01.296853276Z"
-seen = false
+seen = true
 +++
 
 If you’re a nerd, you probably have encountered visualizations of a *tesseract:* a four-dimensional equivalent of a cube. Heck, various representations of the shape have made it into blockbuster sci-fi films, music videos, and more.

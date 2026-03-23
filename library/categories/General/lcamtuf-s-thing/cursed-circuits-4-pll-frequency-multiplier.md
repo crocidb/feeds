@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/cursed-circuits-4-pll-frequency-multiplier
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-02-11T20:17:01.324436164Z"
-seen = false
+seen = true
 +++
 
 Welcome to another installment of *Cursed Circuits.* My goal for the series is to highlight a small collection of common yet mind-bending circuits that must’ve taken a stroke of genius to invent, but that are usually presented on the internet without explaining how or why they work.

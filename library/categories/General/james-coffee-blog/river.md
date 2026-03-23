@@ -1,0 +1,22 @@
++++
+title = "River"
+description = "The verdant foliage on the steep hillside, the path that you know was made just for this place — the wooden planks delineating where to walk, the stairs up and down following the ebb and flow of the hill, the bridges that wove through the trees and over the edge of the river. I w"
+date = "2026-03-21T00:00:00Z"
+url = "https://jamesg.blog/2026/03/21/river"
+author = "James' Coffee Blog"
+text = ""
+lastupdated = "2026-03-23T12:35:23.605107810Z"
+seen = false
++++
+
+The verdant foliage on the steep hillside, the path that you know was made just for this place — the wooden planks delineating where to walk, the stairs up and down following the ebb and flow of the hill, the bridges that wove through the trees and over the edge of the river. I was in awe. *I have never been on a path like this before.* All around: Nature; life.
+
+I have walked by the river before, but never at this exact point. As I walked, I noticed signs for fishing. *I wonder when salmon season is.* I saw nobody fishing, but I did see the occasional person walking their dog, as well as a group of hikers following the path. Otherwise, the only sound in the air was that of the rolling river. Flowing water calms me.
+
+Continuing to walk, I found a place to stop. There was a bench there. I didn’t sit down, though: I stood by the river so I could see further up and downstream.
+
+I wondered who else has come here to enjoy the river; who else has stopped exactly where I was standing, listening to the water. The clear water. The water so clear I could see the river bed: the pebbles and the kind of grass that grows under water. And… tadpoles! The sight brought me back to primary school when I first learned about them. *I can’t recall the last time I saw a tadpole in the water.* I felt the magic of rediscovery.
+
+Standing still, watching the water flow, I wondered: Why does something moving so fast make me feel still? Is it the shimmer of the light reflecting off the river? The sound of falling water? The best answer I could devise is of two words: here, Nature.
+
+I stood for innumerable moments gazing at the river: watching the water flow, the tadpoles swim, the occasional duck soar over the water. I thought about how I wanted to keep standing here to watch the water flow, to hear the birds sing, to feel Spring. I heard new birdsong. I felt the gentle breeze on my neck. I smelled the wild garlic, so potent that it pierced through my light cold in the way that only Nature knows how. I heard the song of a bird I don’t think I have heard before.

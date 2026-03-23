@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/whats-the-deal-with-eulers-identity"
 author = "lcamtuf"
 text = ""
 lastupdated = "2025-12-10T15:23:59.122415939Z"
-seen = false
+seen = true
 +++
 
 Perhaps the most famous equation in pop mathematics is Euler’s identity:

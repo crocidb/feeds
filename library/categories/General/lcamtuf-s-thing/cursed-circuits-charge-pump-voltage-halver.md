@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage"
 author = "lcamtuf"
 text = ""
 lastupdated = "2025-12-10T15:23:59.106795982Z"
-seen = false
+seen = true
 +++
 
 In the spring of 2023, when this Substack had only a handful of subscribers, I posted a primer on [voltage adjustment in electronic circuits](https://lcamtuf.substack.com/p/the-magic-of-dc-dc-voltage-conversion). The article opened with a brief discussion of linear regulators, and then promptly threw them under the bus in favor of more efficient charge pumps and inductor-based topologies.

@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/unreal-numbers"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-03-18T21:57:45.313517037Z"
-seen = false
+seen = true
 +++
 
 A while ago, I posted an article about the 19th and early 20th century quest to [derive mathematics from the principles of formal logic](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract). We kicked off with Peano arithmetic, which built natural numbers from two ad-hoc constructs: an element representing zero and an abstract “successor” function *S(…)*.

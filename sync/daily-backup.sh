@@ -16,13 +16,6 @@ ssh-keyscan github.com >> /root/.ssh/known_hosts 2>/dev/null
 
 cd "$REPO_DIR"
 
-# Pull first (rebase local commits on top of remote to avoid diverged histories)
-if ! git pull --rebase "$REMOTE" "$BRANCH"; then
-    echo "[daily-backup] ERROR: git pull --rebase failed. Aborting to avoid push conflict."
-    git rebase --abort 2>/dev/null || true
-    exit 1
-fi
-
 git add -A
 
 # Only commit if there are staged changes
@@ -31,6 +24,13 @@ if git diff --cached --quiet; then
 else
     git commit -m "daily backup $DATE"
     echo "[daily-backup] Committed changes."
+fi
+
+# Pull first (rebase local commits on top of remote to avoid diverged histories)
+if ! git pull --rebase "$REMOTE" "$BRANCH"; then
+    echo "[daily-backup] ERROR: git pull --rebase failed. Aborting to avoid push conflict."
+    git rebase --abort 2>/dev/null || true
+    exit 1
 fi
 
 git push "$REMOTE" "$BRANCH" && echo "[daily-backup] Pushed to $REMOTE/$BRANCH." \

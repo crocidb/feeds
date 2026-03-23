@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/03/19/jargon-watch/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-03-19T13:44:39.429706406Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/19Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/19/jargon-watch/)

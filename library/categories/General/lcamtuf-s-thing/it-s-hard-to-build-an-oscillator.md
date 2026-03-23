@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator"
 author = "lcamtuf"
 text = ""
 lastupdated = "2025-12-10T15:23:59.114124180Z"
-seen = false
+seen = true
 +++
 
 There’s an old electronics joke that if you want to build an oscillator, you should try building an amplifier. One of the fundamental criteria for oscillation is the presence of signal gain; without it, any oscillation is bound to decay, just like a swing that’s no longer being pushed must eventually come to a stop.

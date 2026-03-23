@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/cursed-circuits-3-true-mathematics"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-02-11T20:17:01.334855414Z"
-seen = false
+seen = true
 +++
 
 In the previous installments of *Cursed Circuits*, we looked at two switched capacitor circuits: the [voltage halver](https://lcamtuf.substack.com/p/cursed-circuits-charge-pump-voltage) and the [capacitor lowpass filter](https://lcamtuf.substack.com/p/cursed-circuits-2-switched-capacitor).

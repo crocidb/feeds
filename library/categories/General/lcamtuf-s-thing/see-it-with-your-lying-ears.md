@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/see-it-with-your-lying-ears"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-02-11T20:17:01.315726695Z"
-seen = false
+seen = true
 +++
 
 For the past couple of weeks, I couldn’t shake off an intrusive thought: raster graphics and audio files are awfully similar — they’re sequences of analog measurements — so what would happen if we apply the same transformations to both?…

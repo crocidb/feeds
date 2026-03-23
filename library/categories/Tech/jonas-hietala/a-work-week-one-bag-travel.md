@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/03/10/a_work_week_one_bag_travel/index.h
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-03-18T22:15:52.202052833Z"
-seen = false
+seen = true
 +++
 
 >

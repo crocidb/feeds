@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/its-all-a-blur"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-02-11T20:17:01.285940727Z"
-seen = false
+seen = true
 +++
 
 If you follow information security discussions on the internet, you might have heard that blurring an image is not a good way of redacting its contents. This is supposedly because blurring algorithms are reversible.
