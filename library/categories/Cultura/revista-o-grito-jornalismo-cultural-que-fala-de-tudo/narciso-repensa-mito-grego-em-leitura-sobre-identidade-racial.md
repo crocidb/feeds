@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/narciso-repensa-mito-grego-em-leitura-sobre-ide
 author = "Alexandre Cunha"
 text = ""
 lastupdated = "2026-03-23T12:35:18.463343144Z"
-seen = false
+seen = true
 +++
 
 “Narciso” repensa mito grego em leitura sobre identidade racial

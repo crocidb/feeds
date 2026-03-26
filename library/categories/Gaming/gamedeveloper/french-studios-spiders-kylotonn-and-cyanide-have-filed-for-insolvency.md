@@ -1,0 +1,11 @@
++++
+title = "French studios Spiders, Kylotonn, and Cyanide have filed for insolvency"
+description = "All three are owned by publisher Nacon, which filed for insolvency earlier this year after missing a loan repayment."
+date = "2026-03-24T11:14:21Z"
+url = "https://www.gamedeveloper.com/business/french-studios-spiders-kylotonn-and-cyanide-have-filed-for-insolvency"
+author = "Chris Kerr"
+text = ""
+lastupdated = "2026-03-25T18:57:42.128449094Z"
+seen = false
++++
+

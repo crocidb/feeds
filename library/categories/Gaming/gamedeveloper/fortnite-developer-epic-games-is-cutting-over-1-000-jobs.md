@@ -1,0 +1,11 @@
++++
+title = "Fortnite developer Epic Games is cutting over 1,000 jobs"
+description = "Epic boss Tim Sweeney shared the news with employees while acknowledging Fortnite remains 'one of the most successful games in the world.'"
+date = "2026-03-24T14:56:52Z"
+url = "https://www.gamedeveloper.com/business/fortnite-developer-epic-games-is-cutting-1-000-jobs"
+author = "Chris Kerr"
+text = ""
+lastupdated = "2026-03-25T18:57:42.019512310Z"
+seen = false
++++
+
