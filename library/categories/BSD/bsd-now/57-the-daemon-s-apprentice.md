@@ -1,0 +1,95 @@
++++
+title = "57: The Daemon's Apprentice"
+description = "We're back from EuroBSDCon! This week we'll be talking with Steve Wills about mentoring new BSD developers. If you've ever considered becoming a developer or helping out, it's actually really easy to get involved. We've also got all the BSD news for the week and answers to your e"
+date = "2014-10-01T12:00:00Z"
+url = "https://www.bsdnow.tv/57"
+author = "feedback@bsdnow.tv (JT Pennington)"
+text = ""
+lastupdated = "2026-03-26T14:37:51.208338500Z"
+seen = false
++++
+
+We're back from EuroBSDCon! This week we'll be talking with Steve Wills about mentoring new BSD developers. If you've ever considered becoming a developer or helping out, it's actually really easy to get involved. We've also got all the BSD news for the week and answers to your emails, on BSD Now - the place to B.. SD.
+
+This episode was brought to you by
+----------
+
+[![iXsystems - Enterprise servers and storage for open source](/images/iXlogo2.png)](http://www.ixsystems.com/bsdnow)[![Tarsnap - online backups for the truly paranoid](/images/tarsnap1.png)](http://www.tarsnap.com/bsdnow)
+
+---
+
+Headlines
+----------
+
+### [NetBSD at Hiroshima Open Source Conference](http://mail-index.netbsd.org/netbsd-advocacy/2014/09/26/msg000669.html) ###
+
+* NetBSD developers are hard at work, putting NetBSD on everything they can find
+* At a technology conference in Hiroshima, some developers brought their exotic machines to put on display
+* As usual, there are lots of pictures and a nice report from the conference \*\*\*
+
+### [FreeBSD's Linux emulation overhaul](https://svnweb.freebsd.org/ports?limit_changes=0&view=revision&revision=368845) ###
+
+* For a long time, FreeBSD's emulation layer has been based on an ancient Fedora 10 system
+* If you've ever needed to install Adobe Flash on BSD, you'll be stuck with all this extra junk
+* With some recent work, that's been replaced with a recent CentOS release
+* This opens up the door for newer versions of Skype to run on FreeBSD, and maybe even Steam someday \*\*\*
+
+### [pfSense 2.2-BETA](https://blog.pfsense.org/?p=1449) ###
+
+* Big changes are coming in pfSense land, with their upcoming 2.2 release
+* We [talked to the developer](http://www.bsdnow.tv/episodes/2014_02_19-a_sixth_pfsense) a while back about future plans, and now they're finally out there
+* The 2.2 branch will be based on FreeBSD 10-STABLE (instead of 8.3) and include lots of performance fixes
+* It also includes some security updates, lots of package changes and updates and much more
+* You can check the [full list of changes](https://doc.pfsense.org/index.php/2.2_New_Features_and_Changes) on their wiki \*\*\*
+
+### [NetBSD on the Raspberry Pi](http://www.cambus.net/netbsd-on-the-raspberry-pi/) ###
+
+* This article shows how you can install NetBSD on the ever-so-popular Raspberry Pi
+* As of right now, you'll need to use a -CURRENT snapshot to do it
+* It also shows how to grow the filesystem to fill up an SD card, some pkgsrc basics and how to get some initial things set up
+* Can anyone find something that you can't install NetBSD on? \*\*\*
+
+Interview - Steve Wills - [swills@freebsd.org](mailto:swills@freebsd.org) / [@swills](https://twitter.com/swills)
+----------
+
+Mentoring new BSD developers
+
+---
+
+News Roundup
+----------
+
+### [MidnightBSD 0.5 released](http://www.midnightbsd.org/notes/) ###
+
+* We don't hear a whole lot about MidnightBSD, but they've just released version 0.5
+* It's got a round of the latest FreeBSD security patches, driver updates and various small things
+* Maybe one of their developers could come on the show sometime and tell us more about the project \*\*\*
+
+### [BSD Router Project 1.52 released](http://sourceforge.net/projects/bsdrp/files/BSD_Router_Project/1.52/) ###
+
+* The newest update for the BSD Router Project is out
+* This version is based on a snapshot of 10-STABLE that's very close to 10.1-RELEASE
+* It's mostly a bugfix release, but includes some small changes and package updates \*\*\*
+
+### [Configuring a DragonFly BSD desktop](http://www.dragonflydigest.com/2014/09/19/14751.html) ###
+
+* We've done tutorials on how to set up a FreeBSD or OpenBSD desktop, but maybe you're more interested in DragonFly
+* In this post from Justin Sherrill, you'll learn some of the steps to do just that
+* He pulled out an old desktop machine, gave it a try and seems to be pleased with the results
+* It includes a few Xorg tips, and there are some comments about the possibility of making a GUI DragonFly installer \*\*\*
+
+### [Building a mini-ITX pfSense box](http://pakitong.blogspot.com/2014/09/jetway-j7f2-four-lan-mini-itx-for.html) ###
+
+* Another week, another pfSense firewall build post
+* This time, the author is installing to a Jetway J7F2, a mini-ITX device with four LAN ports
+* He used to be a m0n0wall guy, but wanted to give the more modern pfSense a try
+* Lots of great pictures of the hardware, which we always love \*\*\*
+
+Feedback/Questions
+----------
+
+* [Damian writes in](http://slexy.org/view/s2184TfOKD)
+* [Jan writes in](http://slexy.org/view/s20uAdTwLv)
+* [Dale writes in](http://slexy.org/view/s20es52IgZ)
+* [Joe writes in](http://slexy.org/view/s2mjulpac6)
+* [Bostjan writes in](http://slexy.org/view/s2BvNC8cgi) \*\*\*

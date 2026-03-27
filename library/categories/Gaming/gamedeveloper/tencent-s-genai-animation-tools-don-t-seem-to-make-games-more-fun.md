@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/art/tencent-s-genai-animation-tools-don-t-s
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-03-25T18:57:42.073673727Z"
-seen = false
+seen = true
 +++
 

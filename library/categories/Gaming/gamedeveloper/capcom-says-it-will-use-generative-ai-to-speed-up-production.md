@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/capcom-says-it-will-use-generative
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-23T19:25:38.427720611Z"
-seen = false
+seen = true
 +++
 

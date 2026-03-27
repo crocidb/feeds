@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/reforged-studios-acquires-super-me
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-25T18:57:42.046628976Z"
-seen = false
+seen = true
 +++
 

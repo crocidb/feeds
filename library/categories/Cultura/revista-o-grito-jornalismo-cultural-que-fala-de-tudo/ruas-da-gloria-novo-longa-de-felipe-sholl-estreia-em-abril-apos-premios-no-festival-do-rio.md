@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/ruas-da-gloria-novo-longa-de-felipe-sholl-estre
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-19T13:44:44.153899273Z"
-seen = false
+seen = true
 +++
 
 O filme *Ruas da Glória*, dirigido e roteirizado por **Felipe Sholl**, acompanha a trajetória de Gabriel (Caio Macedo), um jovem professor de literatura que acaba de se mudar para a cidade. Ao conhecer Adriano (Alejandro Claveaux) vive uma paixão arrebatadora que rapidamente se transforma em obsessão. O longa estreia em circuito comercial no dia 2 de abril depois de passar pela Mostra Internacional de Cinema de São Paulo e no **[Festival do Rio](https://revistaogrito.com/assunto/festival-do-rio/)** (onde ganhou os Troféus de Melhor Atriz Coadjuvante para Diva Menner e de Melhor Ator Coadjuvante para Alejandro Claveaux)

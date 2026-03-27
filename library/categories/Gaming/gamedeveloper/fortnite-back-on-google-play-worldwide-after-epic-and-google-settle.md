@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/fortnite-back-on-google-play-world
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-20T10:31:36.464450268Z"
-seen = false
+seen = true
 +++
 

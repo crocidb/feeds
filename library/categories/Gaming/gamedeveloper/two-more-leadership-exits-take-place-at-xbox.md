@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/two-more-leadership-exists-took-pl
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-23T19:25:38.520404090Z"
-seen = false
+seen = true
 +++
 

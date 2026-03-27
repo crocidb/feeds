@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/unico-romance-de-dalton-trevisan-sera-lancado-p
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-18T21:57:38.836237347Z"
-seen = false
+seen = true
 +++
 
 A editora Todavia dá continuidade à publicação da obra completa de **Dalton Trevisan** com o relançamento de ***A Polaquinha***, originalmente publicado em 1985. O livro destaca-se como o único romance escrito pelo autor, que concentrou sua trajetória em contos, e marca a primeira vez em que uma mulher assume os papéis de narradora e protagonista em sua bibliografia.

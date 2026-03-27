@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/com-recorde-de-inscricoes-curta-na-serra-anunci
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-18T21:57:38.775751091Z"
-seen = false
+seen = true
 +++
 
 O Curta na Serra – Festival de Cinema ao Ar Livre divulgou a programação completa de sua sétima edição. Realizado em Serra Negra, distrito de Bezerros (PE), no Agreste pernambucano, o evento se consolida como um dos mais relevantes do calendário audiovisual nacional.

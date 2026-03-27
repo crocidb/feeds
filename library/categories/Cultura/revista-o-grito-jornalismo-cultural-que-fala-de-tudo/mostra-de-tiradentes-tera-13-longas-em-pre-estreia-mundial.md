@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/mostra-de-tiradentes-tera-13-longas-em-pre-estr
 author = "Agência Brasil"
 text = ""
 lastupdated = "2026-02-11T20:16:24.109789557Z"
-seen = false
+seen = true
 +++
 
 A **Mostra de Cinema de Tiradentes**, considerada a primeira grande vitrine do cinema brasileiro no calendário anual de festivais, divulgou nesta semana a programação das mostras competitivas **Olhos Livres e Aurora**, que integram a 29ª edição do evento.![ebc](https://agenciabrasil.ebc.com.br/ebc.png?id=1674338&o=node)\<img decoding="async" src="https://agenciabrasil.ebc.com.br/ebc.png?id=1674338&amp;o=node" alt="ebc"\>![ebc](https://agenciabrasil.ebc.com.br/ebc.gif?id=1674338&o=node)\<img decoding="async" src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1674338&amp;o=node" alt="ebc"\>

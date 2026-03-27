@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/whoops-pearl-abyss-forgot-to-men
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-23T12:35:19.013600270Z"
-seen = false
+seen = true
 +++
 

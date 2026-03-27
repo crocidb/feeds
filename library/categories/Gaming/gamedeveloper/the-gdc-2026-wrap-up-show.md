@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-gdc-2026-wrap-up-show"
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-03-23T12:35:19.023321281Z"
-seen = false
+seen = true
 +++
 

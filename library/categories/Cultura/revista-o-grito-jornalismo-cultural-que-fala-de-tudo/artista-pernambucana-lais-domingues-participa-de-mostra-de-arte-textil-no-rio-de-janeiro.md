@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/artista-pernambucana-lais-domingues-participa-d
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-18T21:57:38.847467400Z"
-seen = false
+seen = true
 +++
 
 A artista pernambucana **Laís Domingues** integra a exposição *Tecendo histórias – arte têxtil latino-americana*, promovida pelo Instituto Artistas Latinas, que abre em 14 de março e segue até 14 de junho no Sesc Tijuca, no Rio de Janeiro. A mostra reúne trabalhos de 11 artistas e dois coletivos do Brasil, Argentina, Guatemala e Peru que utilizam técnicas como bordado, tecelagem e costura em diálogo com questões estéticas e políticas contemporâneas. A curadoria é de **Francela Carrera**, com colaboração de **Ana Carla Soler** e **Carolina Rodrigues**.

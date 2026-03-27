@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/se-mapping-traz-projecoes-ao-ar-livre-inspirada
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-18T21:57:38.780433814Z"
-seen = false
+seen = true
 +++
 
 O SE Mapping, festival cultural gratuito que une arte, tecnologia e memória em uma experiência inédita, acontece de 20 a 22 de março em Aracaju. O evento traz projeções gigantes e tem como proposta explorar a história e cultura de Sergipe, desde os povos originários Kariri-Xocós até a ativista e historiadora sergipana Maria Beatriz Nascimento. O evento também oferece oficinas, passeios guiados, feira de economia criativa, performances musicais e apresentações de cultura popular. 

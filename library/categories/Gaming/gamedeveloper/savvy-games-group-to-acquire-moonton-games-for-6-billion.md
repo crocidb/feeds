@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/savvy-games-group-agreed-to-buy-mo
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-23T12:35:19.020120944Z"
-seen = false
+seen = true
 +++
 

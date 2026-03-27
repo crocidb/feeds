@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/actors-awards-esnoba-filmes-em-lingua-nao-ingle
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-02-11T20:16:24.113351327Z"
-seen = false
+seen = true
 +++
 
 O **Actors Awards** (novo nome do SAG Awards), organizado pelo **Sindicato de Atores de Hollywood**, divulgou a lista dos indicados ao prêmio este ano.

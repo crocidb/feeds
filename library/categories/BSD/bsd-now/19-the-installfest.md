@@ -1,0 +1,111 @@
++++
+title = "19: The Installfest"
+description = """We've got some special treats for you this week on the show. It's the long-awaited "installfest" segment, where we go through the installer of each of the different BSDs. Of course we also have your feedback and the latest news as well... and... we even have our very first viewer"""
+date = "2014-01-08T13:00:00Z"
+url = "https://www.bsdnow.tv/19"
+author = "feedback@bsdnow.tv (JT Pennington)"
+text = ""
+lastupdated = "2026-03-26T14:37:51.277435577Z"
+seen = false
++++
+
+We've got some special treats for you this week on the show. It's the long-awaited "installfest" segment, where we go through the installer of each of the different BSDs. Of course we also have your feedback and the latest news as well... and... we even have our very first viewer contest! There's a lot to get to today on BSD Now - the place to B.. SD.
+
+This episode was brought to you by
+----------
+
+[![iXsystems - Enterprise Servers and Storage For Open Source](/images/iXlogo2.png)](http://www.ixsystems.com/bsdnow)
+
+---
+
+Headlines
+----------
+
+### [FreeBSD's new testing infrastructure](https://lists.freebsd.org/pipermail/freebsd-hackers/2013-December/044009.html) ###
+
+* A new test suite was added to FreeBSD, with 3 powerful machines available
+* Both -CURRENT and stable/10 have got the test suite build infrastructure in place
+* Designed to help developers test and improve major scalability across huge amounts of CPUs and RAM
+* More details [available here](http://julipedia.meroh.net/2013/12/introducing-freebsd-test-suite.html)
+* Could the iXsystems monster server be involved...? \*\*\*
+
+### [OpenBSD gets signify](http://marc.info/?l=openbsd-cvs&m=138845902916897&w=2) ###
+
+* At long last, OpenBSD gets support for signed releases!
+* For "the world's most secure OS" it was very easy to MITM kernel patches, updates, installer isos, everything
+* A commit to the -current tree reveals a new "signify" tool is currently being kicked around
+* More details in [a blog post](http://www.tedunangst.com/flak/post/signify) from the guy who committed it
+* Quote: "yeah, briefly, the plan is to sign sets and packages. that's still work in progress." \*\*\*
+
+### [Faces of FreeBSD](http://freebsdfoundation.blogspot.ca/2013/12/faces-of-freebsd-isabell-long.html) ###
+
+* This time they interview Isabell Long
+* She's a volunteer staff member on the freenode IRC network
+* In 2011, she participated in the Google Code-In contest and became involved with documentation
+* "The new committer mentoring process proved very useful and that, plus the accepting community of FreeBSD, are reasons why I stay involved." \*\*\*
+
+### [pkgsrc-2013Q4 branched](http://mail-index.netbsd.org/pkgsrc-users/2013/12/31/msg019107.html) ###
+
+* The quarterly pkgsrc branch from NetBSD is out
+* 13472 total packages for NetBSD-current/amd64 + 13049 binary packages built with clang!
+* Lots of numbers and stats in the announcement
+* pkgsrc works on quite a few different OSes, not just NetBSD
+* See [our interview](http://www.bsdnow.tv/episodes/2013_11_20-collecting_shells) with Amitai Schlair for a bit about pkgsrc \*\*\*
+
+### [OpenBSD on Google's Compute Engine](http://marc.info/?l=openbsd-misc&m=138610199311393&w=2) ###
+
+* Google Compute Engine is a "cloud computing" platform similar to EC2
+* Unfortunately, they only offer poor choices for the OS (Debian and CentOS)
+* Recently it's been announced that there is a custom OS option
+* It's using a WIP virtio-scsi driver, lots of things still need more work
+* Lots of technical and networking details about the struggles to get OpenBSD working on it \*\*\*
+
+The Installfest
+----------
+
+We'll be showing you the installer of each of the main BSDs. As of the date this episode airs, we're using:
+
+* FreeBSD 10.0
+* OpenBSD 5.4
+* NetBSD 6.1.2
+* DragonflyBSD 3.6
+* PCBSD 10.0 \*\*\*
+
+News Roundup
+----------
+
+### [Building an OpenBSD wireless access point](http://ctors.net/2013/12/30/openbsd_wireless_access_point) ###
+
+* A neat write up we found around the internet about making an OpenBSD wifi router
+* Goes through the process of PXE booting, installing base, using a serial console, setting up networking and wireless
+* Even includes a puffy sticker on the Soekris box at the end, how cute \*\*\*
+
+### [FreeBSD 4.X jails on 10.0](http://blather.michaelwlucas.com/archives/1919) ###
+
+* Blog entry from our buddy [Michael Lucas](http://www.bsdnow.tv/episodes/2013_11_06-year_of_the_bsd_desktop)
+* For whatever reason (an "in-house application"), he needed to run a FreeBSD 4 jail in FreeBSD 10
+* Talks about the options he had: porting software, virtualizing, dealing with slow old hardware
+* He goes through the whole process of making an ancient jail
+* It's "an acceptable trade-off, if it means I don’t have to touch actual PHP code." \*\*\*
+
+### [Unscrewed: a story about OpenBSD](http://www.skeptech.org/blog/2013/01/13/unscrewed-a-story-about-openbsd/) ###
+
+* Pretty long blog post about how a network admin used OpenBSD to save the day
+* To set the tone, "It was 5am, and the network was down"
+* Great war story about replacing expensive routers and networking equipment with cheaper hardware and BSD
+* Mentions a lot of the built in tools and how OpenBSD is great for routers and high security applications \*\*\*
+
+### [PCBSD weekly digest](http://blog.pcbsd.org/2014/01/pc-bsd-weekly-feature-digest-2/) ###
+
+* 10.0-RC3 is out and ready to be tested
+* New detection of ATI Hybrid Graphics, they're working on nVidia next
+* Re-classifying Linux jails as unsupported / experimental \*\*\*
+
+Feedback/Questions
+----------
+
+* [Daniel writes in](http://slexy.org/view/s2uns1hMml)
+* [Erik writes in](http://slexy.org/view/s2MeJNCCiu)
+* [SW writes in](http://slexy.org/view/s21fBXkP2K)
+* [Bostjan writes in[([http://slexy.org/view/s20N9bfkum](http://slexy.org/view/s20N9bfkum))
+* [Samuel writes in](http://slexy.org/view/s20FU9wUO5) \*\*\*

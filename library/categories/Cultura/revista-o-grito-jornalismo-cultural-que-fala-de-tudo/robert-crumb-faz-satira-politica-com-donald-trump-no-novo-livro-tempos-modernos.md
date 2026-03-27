@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/robert-crumb-faz-satira-politica-com-donald-tru
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-02-11T20:16:24.121382387Z"
-seen = false
+seen = true
 +++
 
 **Donald Trump** é um personagem de **Robert Crumb** no livro ***Tempos Modernos***, que será lançado no Brasil este ano pela editora Veneta. Assinado ao lado de **Aline e Sophie Crumb,** a obra é uma antologia em quadrinhos que faz um retrato mordaz do mundo neste início de século.

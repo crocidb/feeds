@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/sidney-gusman-criador-das-graphic-msp-anuncia-s
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-02-11T20:16:24.128865516Z"
-seen = false
+seen = true
 +++
 
 **Sidney Gusman**, editor-chefe da **MSP Estúdios**, anunciou sua saída da empresa após 20 anos. Braço direito de Maurício de Sousa, criador da Turma da Mônica, Gusman foi criador das Graphic MSP, entre diversos outros projetos de sucesso.

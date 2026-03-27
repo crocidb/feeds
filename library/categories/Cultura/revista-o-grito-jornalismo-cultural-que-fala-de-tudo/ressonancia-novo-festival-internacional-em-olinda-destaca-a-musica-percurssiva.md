@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/ressonancia-novo-festival-internacional-em-olin
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-18T21:57:38.842902754Z"
-seen = false
+seen = true
 +++
 
 A cidade de Olinda recebe, de 9 a 11 de abril, a primeira edição do ***Ressonância – Festival Internacional de Percussão do Brasil***. O evento terá shows, oficinas e masterclasses dedicados à música percussiva e tem programação gratuita. A iniciativa vai destacar as diferentes expressões da percussão e presta homenagem a um dos maiores percurssionistas do Brasil e do mundo, **Naná Vasconcelos**, cuja morte completa 10 anos em 2026.

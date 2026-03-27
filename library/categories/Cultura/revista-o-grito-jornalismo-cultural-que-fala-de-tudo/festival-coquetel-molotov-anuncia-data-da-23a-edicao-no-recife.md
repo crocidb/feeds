@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festival-coquetel-molotov-anuncia-data-da-23a-e
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-25T10:19:07.180713638Z"
-seen = false
+seen = true
 +++
 
 O **[No Ar Coquetel Molotov](http://revistaogrito.com/assunto/coquetel-molotov)**, um dos mais importantes festivais de música do País, anunciou a data de sua 23ª edição, marcada para 28 de novembro, no Campus da Universidade Federal de Pernambuco (UFPE), no Recife. Os ingressos já estão à venda pela plataforma [Shotgun](https://shotgun.live/pt-br/events/festival-no-ar-coquetel-molotov-2027).

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-nintendo-slashes-switch-2-p
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-25T18:57:42.101009022Z"
-seen = false
+seen = true
 +++
 

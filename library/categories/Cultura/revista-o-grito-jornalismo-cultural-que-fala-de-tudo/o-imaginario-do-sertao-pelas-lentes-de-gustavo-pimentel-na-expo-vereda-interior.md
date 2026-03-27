@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/o-imaginario-do-sertao-pelas-lentes-de-gustavo-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-18T21:57:38.819195595Z"
-seen = false
+seen = true
 +++
 
 ***Atualização** 18/03: por questões de problemas técnicos identificados nesta terça (17/03) na rede eletrica na Torre Malakoff, a abertura da exposição será adiada para uma nova data, segundo a organização, porém ainda sem previsão.*

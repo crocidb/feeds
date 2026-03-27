@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/phenomena-drag-uma-comunidade-para-fortalecer-a
 author = "Túlio Vasconcelos"
 text = ""
 lastupdated = "2026-03-18T21:57:38.808792431Z"
-seen = false
+seen = true
 +++
 
 Foto: Alan Rodrigues/Divulgação.

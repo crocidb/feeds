@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/crimson-desert-has-topped-2m-sales
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-23T12:35:19.016918917Z"
-seen = false
+seen = true
 +++
 

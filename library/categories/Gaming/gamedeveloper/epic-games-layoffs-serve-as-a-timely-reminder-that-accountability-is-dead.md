@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/epic-games-layoffs-should-remind-y
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-25T18:57:41.883919725Z"
-seen = false
+seen = true
 +++
 

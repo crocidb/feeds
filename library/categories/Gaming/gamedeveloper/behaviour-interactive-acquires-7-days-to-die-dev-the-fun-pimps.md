@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/behaviour-interactive-acquires-7-d
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-25T18:57:41.992425400Z"
-seen = false
+seen = true
 +++
 

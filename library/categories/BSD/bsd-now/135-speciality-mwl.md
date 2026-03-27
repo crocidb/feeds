@@ -1,0 +1,156 @@
++++
+title = "135: Speciality MWL"
+description = "This week on the show, we interview author Michael W Lucas to discuss his new book in the FreeBSDThis episode was brought to you byiXsystems - Enterprise Servers and Storage for Open Source[![DigitalOcean - Simple Clo"
+date = "2016-03-30T12:00:00Z"
+url = "https://www.bsdnow.tv/135"
+author = "feedback@bsdnow.tv (JT Pennington)"
+text = ""
+lastupdated = "2026-03-26T14:37:51.049438322Z"
+seen = false
++++
+
+This week on the show, we interview author Michael W Lucas to discuss his new book in the FreeBSD
+
+This episode was brought to you by
+----------
+
+[![iXsystems - Enterprise Servers and Storage for Open Source](/images/1.png)](http://www.ixsystems.com/bsdnow)[![DigitalOcean - Simple Cloud Hosting, Built for Developers](/images/2.png)](http://www.digitalocean.com/)[![Tarsnap - Online Backups for the Truly Paranoid](/images/3.png)](http://www.tarsnap.com/bsdnow)
+
+---
+
+Headlines
+----------
+
+### [OpenBSD 5.9 Released early](http://undeadly.org/cgi?action=article&sid=20160329181346&mode=expanded) ###
+
+* Finished ahead of schedule! OpenBSD 5.9 has officially landed
+* We’ve been covering some of the ongoing changes as they landed in the tree, but with the official release it’s time to bring you the final list of the new hotness which landed.
+* First up:
+  * Pledge - Over 70%! Of the userland utilities have been converted to use it, and the best part, you probably didn’t even notice
+  * UEFI - Laptops which are pre-locked down to boot UEFI only can now be installed and used - GPT support has also been greatly improved
+  * ‘Less’ was replaced with a fork from Illumos, and has been further improved
+  * Xen DomU support - OpenBSD now plays nice in the cloud
+  * X11 - Broadwell and Bay Trail are now supported
+  * Initial work on making the network stack better support SMP has been added, this is still ongoing, but things are starting to happen
+  * 802.11N! Specifically for the iwn/iwm drivers
+  * In addition to support for UTF-8, most other locales have been ripped out, leaving only C and UTF-8 left standing in the wake
+  * All and all, sounds like a solid new release with plenty of new goodies to play with. Go grab a copy now! \*\*\*
+
+### [New routing table code (ART) enabled in -current](http://undeadly.org/cgi?action=article&sid=20160324093944) ###
+
+* While OpenBSD 5.9 just landed, we also have some interesting work landing right now in -CURRENT as well. Specifically the new routing table code (ART) has landed:
+
+>
+>
+> “I just enabled ART in -current, it will be the default routing table backend in the next snapshots.  
+>  The plan is to squash the possible regressions with this new routing table backend then when we're confident enough, take its route lookup out of the KERNEL\_LOCK(). Yes, this is one of the big steps for our network SMP improvements.  
+>  In order to make progress, we need your help to make sure this new backend works well on your setup. So please, go download the next snapshot and report back.  
+>  If you encounter any routing table regression, please make sure that you cannot reproduce it with your old kernel and include the output of # route -n show  
+>  for the 2 kernels as well as the dmesg in your report.  
+>  I know that simple dhclient(8) based setups work with ART, so please do not flood us too much. It's always great to know that things work, but it's also hard to keep focus ;)  
+>  Thank your very much for your support!”
+>
+>
+>
+> * There you have it folks! If 5.9 is already too stale for you, time to move over to -CURRENT and give the new routing tables a whirl. \*\*\*
+>
+>
+
+### [fractal cells - FreeBSD-based All-In-One solution for software development startups](https://forums.freebsd.org/threads/55561/) ###
+
+* Fractal Cells is a suite that transforms a stock FreeBSD installation into an instant “Startup Software Development Platform”
+* It Integrates ZFS, PostgreSQL, OpenSMTPD, NGINX, OpenVPN, Redmine, Jenkins, Zabbix, Gitlab, and Ansible, all under OpenLDAP common authentication
+* The suite is available under the 2-clause BSD license
+* Provides all of the tools and infrastructure to build your application, including code review, issue tracking, continuous integration, and monitoring
+* An interesting way to make it easier for people to start building new applications and startups on top of FreeBSD \*\*\*
+
+### [LinuxSecrets publishes guide on installing FreeBSD ezJail](http://www.linuxsecrets.com/blog/51freebsd/2016/02/29/1726-installing) ###
+
+* Covers all of the steps of setting up ezjail on FreeBSD
+* Includes the instructions for updating the version of the OS in the jail
+* In a number of places the tutorial uses:  
+   \> cat \<\< EOF \>\> /etc/rc.conf \> setting=”value”
+* Instead, use: sysrc setting=”value”
+* It is safer, and easier to type
+* When you create the jail, if you specify an IP address, it is expected that this IP address is already setup on the host machine
+* If instead you specify: ‘em0|192.168.1.105’ (where em0 is your network interface), the IP address will be added as an alias when the jail starts, and removed from the host when the jail is stopped
+* You can also comma separate a list of addresses to have multiple IPs (possibly on different interfaces) in the jail
+* Although recently posted, this appears as if it might be an update to a previous tutorial, as there are a few old references that have not been updated (pkg\_add, rc.d/ezjail.sh), while the start of the article clearly covers pkg(8) \*\*\*
+
+Interview - Michael W. Lucas - [mwlucas@michaelwlucas.com](mailto:mwlucas@michaelwlucas.com) /
+----------
+
+[@mwlauthor](https://twitter.com/mwlauthor)
+
+* New Book: “FreeBSD Mastery: Specialty Filesystems”
+
+---
+
+News Roundup
+----------
+
+### [NetBSD on Dreamcast](https://github.com/fwbug/dreamcast-slides) ###
+
+* Ahh the dreamcast, so much promise. So much potential. If you are still holding onto your beloved dreamcast hoping that someday Sega will re-enter the console market… Then give it up now!
+* In the meantime, you can now do something more interesting with that box taking up space in the closet. We have a link to a GitHub repo where a user has uploaded his curses-based slide-show for the upcoming Fort-Wayne, Indiana meetup.
+* Aside from the novelty of using a curses-based slide setup, the presenter will also be displaying them from his beloved dreamcast, which “of course” runs NetBSD 7
+* The slide source code is available, which you too can view / compile and find out details of getting NetBSD boot-strapped on the DC. \*\*\*
+
+### [OPNsense 16.1.7 Released](https://opnsense.org/opnsense-16-1-7-released/) ###
+
+* captive portal: add session timeout to status info
+* firewall: fix non-report of errors when filter reload errors couldn’t be parsed
+* proxy: adjust category visibility as not all of them were shown before
+* firmware: fix an overzealous upgrade run when the package tool only changes options
+* firmware: fixed the binary upgrade patch from 15.7.x in FreeBSD’s package tool
+* system: removed NTP settings from general settings
+* access: let only root access status.php as it leaks too much info
+* development: remove the automount features
+* development: addition of “opnsense-stable” package on our way to nightly builds
+* development: opnsense-update can now install locally available base and kernel sets \*\*\*
+
+### [“FreeBSD Mastery: Advanced ZFS” in tech review](http://blather.michaelwlucas.com/archives/2570) ###
+
+* Most of the tech review is finished
+* It was very interesting to hear from many ZFS experts that they learned something from reading the review copy of the book, I was not expecting this
+* Many minor corrections and clarifications have been integrated
+* The book is now being copy edited \*\*\*
+
+### [Why OpenBSD?](http://www.cambus.net/why-openbsd/) ###
+
+* Frederic Cambus gives us a nice perspective piece today on what his particular reasons are for choosing OpenBSD.
+* Frederic is no stranger to UNIX-Like systems, having used them for 20 years now. In particular starting on Slackware back in ‘96 and moving to FreeBSD from 2000-2005 (around the 4.x series)
+* His adventure into OpenBSD began sometime after 2005 (specific time unknown), but a bunch of things left a very good impression on him throughout the years.
+* First, was the ease of installation, with its very minimalistic layout, which was one of the fastest installs he had ever done.
+* Second was the extensive documentation, which extends beyond just manpages, but into other forms of documentation, such as presentations and papers as well.
+* He makes the point about an “ecosystem of quality” that surrounds OpenBSD:
+
+>
+>
+> OpenBSD is an ecosystem of quality. This is the result of a culture of code auditing, reviewing, and a rigorous development process where each commit hitting the tree must be approved by other developers. It has a slower evolution pace and a more carefully planned development model which leads to better code quality overall. Its well deserved reputation of being an ultra secure operating system is the byproduct of a no compromise attitude valuing simplicity, correctness, and most importantly proactivity. OpenBSD also deletes code, a lot of code. Everyone should know that removing code and keeping the codebase modern is probably as important as adding new one. Quoting Saint-Exupery: "It seems that perfection is attained not when there is nothing more to add, but when there is nothing more to remove".
+>
+>
+
+* The article then covers security mechanisms, as well as the defaults which are turned specifically with an eye towards security.
+* All-in-all a good perspective piece about the reasons why OpenBSD is the right choice for Frederic, worth your time to read up on it if you want to learn more about OpenBSD’s differences. \*\*\*
+
+BeastieBits
+----------
+
+* [Call for 2016Q1 quarterly status reports](https://docs.freebsd.org/cgi/getmsg.cgi?fetch=9011+0+current/freebsd-hackers)
+* [FreeBSD Mastery: Advanced ZFS” sponsorships ending soon](http://blather.michaelwlucas.com/archives/2593)
+* [Shawn Webb from HardenedBSD talking about giving away RPi3’s at BSDCan and hacking on them to get FreeBSD working](https://docs.freebsd.org/cgi/getmsg.cgi?fetch=250105+0+archive/2016/freebsd-arm/20160306.freebsd-arm)
+* [xterm(1) now UTF-8 by default](http://undeadly.org/cgi?action=article&sid=20160308204011)
+* [Call For Artists: New Icon Theme](https://blog.pcbsd.org/2016/03/call-for-artists-new-icon-theme/)
+* [Happy 23rd Birthday, src!](http://blog.netbsd.org/tnf/entry/happy_23rd_birthday_src)
+
+---
+
+Feedback/Questions
+----------
+
+* [ Alison - Readahead and Wayland](http://slexy.org/view/s2oqRuXCYW)
+* [ Kenny - Gear](http://slexy.org/view/s2sQ8MxNPh)
+* [ Ben - IPFW2/3](http://slexy.org/view/s20SRvXPZA)
+* [ Brad - ZFS Writeback](http://slexy.org/view/s207mV2Ph1)
+* [ Simon - BSD Toonz](http://slexy.org/view/s202loSWdf) \*\*\*

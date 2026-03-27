@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/bjork-defende-independencia-da-groenlandia-apos
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-02-11T20:16:24.125085306Z"
-seen = false
+seen = true
 +++
 
 A cantora islandesa [**Björk** ](http://revistaogrito.com/assunto/bjork)publicou na última segunda (5) um texto em[ sua conta no Instagram ](https://www.instagram.com/p/DTIXXwIDQBD/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)em que manifesta apoio à **independência da Groenlândia**, território autônomo da Dinamarca, em resposta a declarações recentes do presidente **Donald Trump** sobre a possibilidade de anexação pelo Estados Unidos.

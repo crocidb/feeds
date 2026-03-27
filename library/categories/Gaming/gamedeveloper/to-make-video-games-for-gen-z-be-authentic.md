@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/to-make-video-games-for-gen-z-be-
 author = "Carli Velocci"
 text = ""
 lastupdated = "2026-03-19T16:22:52.726378113Z"
-seen = false
+seen = true
 +++
 

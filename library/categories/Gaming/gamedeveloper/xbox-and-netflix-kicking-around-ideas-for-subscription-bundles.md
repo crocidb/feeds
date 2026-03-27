@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-and-netflix-kicking-around-id
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-25T18:57:41.910942146Z"
-seen = false
+seen = true
 +++
 

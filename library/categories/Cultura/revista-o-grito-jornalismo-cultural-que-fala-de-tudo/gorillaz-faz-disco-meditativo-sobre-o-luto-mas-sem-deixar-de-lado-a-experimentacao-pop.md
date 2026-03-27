@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/gorillaz-the-mountain-critica-india/"
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-03-23T12:35:18.467680249Z"
-seen = false
+seen = true
 +++
 
 Gorillaz faz disco meditativo sobre o luto, mas sem deixar de lado a experimentação pop

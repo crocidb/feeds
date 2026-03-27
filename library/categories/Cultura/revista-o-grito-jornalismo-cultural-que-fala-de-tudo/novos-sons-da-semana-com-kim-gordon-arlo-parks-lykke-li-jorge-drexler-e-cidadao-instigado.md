@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-kim-gordon-arlo-parks-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-18T21:57:38.860349364Z"
-seen = false
+seen = true
 +++
 
 *Toda a semana aqui na **Revista O Grito!** fazemos uma curadoria dos lançamentos musicais com faixas que estão bombando, os destaques nacionais e também novidades que estão fora do radar! Sempre recebemos muitas dicas, releases, sugestões, mas estamos o tempo todo ativamente sugerindo faixas entre a equipe, cavucando playlists e driblando a montanha de novas faixas que chegam aos streamings diariamente.*

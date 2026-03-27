@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/pentiment-director-offers-advice
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-23T19:25:38.460534676Z"
-seen = false
+seen = true
 +++
 

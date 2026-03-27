@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/critica-familia-de-aluguel/"
 author = "Alexandre Cunha"
 text = ""
 lastupdated = "2026-02-11T20:16:24.117204697Z"
-seen = false
+seen = true
 +++
 
 Crítica – “Família de Aluguel”: drama com Brendan Fraser requenta fenômeno da contratação de parentes e amigos no Japão

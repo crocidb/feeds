@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/fortnite-developer-epic-games-is-c
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-25T18:57:42.019512310Z"
-seen = false
+seen = true
 +++
 

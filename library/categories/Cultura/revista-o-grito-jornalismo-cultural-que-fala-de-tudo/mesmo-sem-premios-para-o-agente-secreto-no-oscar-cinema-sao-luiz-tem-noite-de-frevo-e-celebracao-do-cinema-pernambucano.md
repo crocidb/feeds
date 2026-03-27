@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/oscar-sao-luiz-agente-secreto/"
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-18T21:57:38.830497338Z"
-seen = false
+seen = true
 +++
 
 **Fotos por Areli Quirino**

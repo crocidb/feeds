@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ioi-partners-disowns-mindseye-kraf
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-23T12:35:19.026555519Z"
-seen = false
+seen = true
 +++
 

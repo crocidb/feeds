@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/prefeitura-do-recife-anuncia-retomada-do-spa-da
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-18T21:57:38.791513149Z"
-seen = false
+seen = true
 +++
 
 Um dos eventos mais tradicionais das artes visuais em Pernambuco retorna em 2026: o **SPA das Artes** terá uma nova edição entre os dias 19 e 27 de fevereiro, em diversos locais do Recife.

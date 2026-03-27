@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/union-workers-send-a-message-to-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-23T19:25:38.491375987Z"
-seen = false
+seen = true
 +++
 

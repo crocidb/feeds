@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/french-studios-spiders-kylotonn-an
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-25T18:57:42.128449094Z"
-seen = false
+seen = true
 +++
 
