@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/655"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.024405347Z"
-seen = false
+seen = true
 +++
 
 Jails for NetBSD, ARC and L2ARC sizing for Proxmox, Anatomy of bsd.rd, Docker Containers on FreeBSD, Running Time Machine inside a FreeBSD Jail, and more...
