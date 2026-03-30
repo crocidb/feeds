@@ -25,7 +25,8 @@ RCLONE_OPTS="--webdav-url=${FEEDS_HOST} --webdav-user=${FEEDS_USER} --webdav-pas
 
 # Detect if this is the first run (no bisync listings exist yet)
 BISYNC_CACHE_DIR="${HOME}/.cache/rclone/bisync"
-if ! ls "${BISYNC_CACHE_DIR}"/*webdav*.lst 2>/dev/null | grep -q .; then
+LOCAL_DIR_ENCODED=$(echo "$FEEDS_LOCAL_DIR" | sed 's|/|-|g')
+if ! ls "${BISYNC_CACHE_DIR}"/*${LOCAL_DIR_ENCODED}*.lst 2>/dev/null | grep -q .; then
     echo "[sync] First run detected — performing initial resync..."
     RESYNC_FLAG="--resync"
 else
