@@ -1,7 +1,4 @@
 #!/bin/sh
-# Daily backup: commit any changes in /data and push to GitHub.
-# Runs at midnight UTC via cron (registered in Containerfile).
-
 REPO_DIR="/repo"
 DATA_DIR="/repo/library"
 REMOTE="${GIT_REMOTE:-origin}"
@@ -27,7 +24,7 @@ else
 fi
 
 # Pull first (rebase local commits on top of remote to avoid diverged histories)
-if ! git pull --rebase "$REMOTE" "$BRANCH"; then
+if ! git pull --rebase -X theirs "$REMOTE" "$BRANCH"; then
     echo "[daily-backup] ERROR: git pull --rebase failed. Aborting to avoid push conflict."
     git rebase --abort 2>/dev/null || true
     exit 1
