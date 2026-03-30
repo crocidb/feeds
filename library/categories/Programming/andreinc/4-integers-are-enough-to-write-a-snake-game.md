@@ -6,7 +6,7 @@ url = "https://andreinc.net/2022/05/01/4-integers-are-enough-to-write-a-snake-ga
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.194680106Z"
-seen = false
+seen = true
 +++
 
 >

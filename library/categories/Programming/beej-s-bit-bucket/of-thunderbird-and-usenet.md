@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/thunderbird-and-usenet/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.044089070Z"
-seen = false
+seen = true
 +++
 
 For old NNTP froods.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/07/nginx-yyyy-mm-dd-redirect/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.809845432Z"
-seen = false
+seen = true
 +++
 
 Earlier this week a reader pointed out that posts listed on my date archive pages were linking to the wrong URLs. For example, the link for `/2026/01/25/kind-software` would instead be `/2026-01-25-kind-software.md`. This was caused by my static site generator using the markdown file name instead of the post slug when creating the date archive pages.

@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/parallel-programming-openmp/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.017042387Z"
-seen = false
+seen = true
 +++
 
 Intro that includes a link to my OpenMP-enabled Mandelbrot set generator.

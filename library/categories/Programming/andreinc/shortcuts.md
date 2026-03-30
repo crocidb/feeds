@@ -6,7 +6,7 @@ url = "https://andreinc.net/2026/03/09/shortcuts/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.115452601Z"
-seen = false
+seen = true
 +++
 
 >

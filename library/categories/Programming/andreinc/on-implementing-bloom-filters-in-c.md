@@ -6,7 +6,7 @@ url = "https://andreinc.net/2022/03/15/on-implementing-bloom-filters-in-c/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.205347532Z"
-seen = false
+seen = true
 +++
 
 This article assumes the reader is already familiar with the C programming language and some basic concepts concerning hash functions. The target audience (as is often the case on my blog) is undergrad CS students or seasoned developers who, just like me, haven’t learned about Bloom Filters during their University years.

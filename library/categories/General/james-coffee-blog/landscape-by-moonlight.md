@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/18/landscape-by-moonlight"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.599830200Z"
-seen = false
+seen = true
 +++
 
 Whenever I visit an art gallery, there is inevitably a painting that sparks joy, or otherwise leaves me with an impression that sticks with me. Peter Paul Rubens’ [*Landscape by Moonlight*](https://courtauld.ac.uk/highlights/landscape-by-moonlight/) was one such painting.

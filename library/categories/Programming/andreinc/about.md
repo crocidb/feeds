@@ -6,10 +6,10 @@ url = "https://andreinc.net/about/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.270349633Z"
-seen = false
+seen = true
 +++
 
- I’d be flattered to hear from you; you can reach me at andrei.n.ciobanu (hosted on @pm.me).
+I’d be flattered to hear from you; you can reach me at andrei.n.ciobanu (hosted on @pm.me).
 
 My name is Andrei Nicolin Ciobanu, pronounced `[anˈdrej] [t͡ʃoˈbanu] [nikoˈlin]`, or `ahn-DRAY nee-ko-LEEN cho-BAH-noo`.
 

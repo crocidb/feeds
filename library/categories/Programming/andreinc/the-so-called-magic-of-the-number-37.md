@@ -6,7 +6,7 @@ url = "https://andreinc.net/2023/03/01/the-so-called-magic-of-the-number-37/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.183607578Z"
-seen = false
+seen = true
 +++
 
 >

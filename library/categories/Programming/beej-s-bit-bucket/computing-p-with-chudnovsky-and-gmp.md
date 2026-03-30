@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/pi-chudnovsky-gmp/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.006987653Z"
-seen = false
+seen = true
 +++
 
 Crank out as many digits of π as you desire! Limited only by your imagination! Crank out your own modest π in the browser, too! (Limited by 64-bit IEEE-754.)

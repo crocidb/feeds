@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/04/night-time-walking"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.647151239Z"
-seen = false
+seen = true
 +++
 
 > i'll spend my whole life looking for the next best thing  

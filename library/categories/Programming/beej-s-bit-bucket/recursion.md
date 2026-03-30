@@ -6,6 +6,6 @@ url = "http://beej.us/blog/data/recursion/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.033288711Z"
-seen = false
+seen = true
 +++
 

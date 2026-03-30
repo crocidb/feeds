@@ -6,7 +6,7 @@ url = "https://andreinc.net/2022/04/10/a-blog-that-is-a-single-executable-binary
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.197486939Z"
-seen = false
+seen = true
 +++
 
 Contents

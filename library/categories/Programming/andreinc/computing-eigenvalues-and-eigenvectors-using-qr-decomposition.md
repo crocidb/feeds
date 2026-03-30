@@ -6,7 +6,7 @@ url = "https://andreinc.net/2021/01/25/computing-eigenvalues-and-eigenvectors-us
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.231647599Z"
-seen = false
+seen = true
 +++
 
 Contents

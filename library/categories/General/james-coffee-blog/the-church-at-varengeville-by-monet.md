@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/03/the-church-at-varengeville-by-monet"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.653015975Z"
-seen = false
+seen = true
 +++
 
 *I am writing about a few paintings to help me build my description skills. My analyses are not formal or comprehensive. If nothing else, I hope that you enjoy the painting that I feature!*

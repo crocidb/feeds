@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/object-pool/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.008379069Z"
-seen = false
+seen = true
 +++
 
 Featuring goats!

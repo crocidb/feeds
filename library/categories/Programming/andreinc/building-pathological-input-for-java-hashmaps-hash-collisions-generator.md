@@ -6,7 +6,7 @@ url = "https://andreinc.net/2022/09/01/building-pathological-input-for-java-hash
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.190319419Z"
-seen = false
+seen = true
 +++
 
 I recently stumbled upon an article about the [Weierstrass Function](https://en.wikipedia.org/wiki/Weierstrass_function), which led me to another article about [Pathological Objects](https://en.wikipedia.org/wiki/Pathological_(mathematics)) in mathematics—meaning functions, numbers, etc., that have *deviant*, irregular, or counterintuitive properties.

@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/taglines/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-25T19:02:13.620919556Z"
-seen = false
+seen = true
 +++
 
 This page gathers all the rotating taglines used in the site header. The original taglines are in `Romanian` just because I think my language is cool. As a courtesy I’ve added an `English` translation.

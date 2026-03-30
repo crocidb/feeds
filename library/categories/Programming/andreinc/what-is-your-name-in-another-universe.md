@@ -6,7 +6,7 @@ url = "https://andreinc.net/2026/03/27/what-is-your-name-in-another-universe/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-27T13:43:06.165646502Z"
-seen = false
+seen = true
 +++
 
 Weekend articles should be lighter and fun.

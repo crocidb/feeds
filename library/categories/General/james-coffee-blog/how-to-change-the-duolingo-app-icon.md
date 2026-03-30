@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/03/how-to-change-the-duolingo-app-icon"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.664439588Z"
-seen = false
+seen = true
 +++
 
 I am using Duolingo to learn a bit of German. I have been using the app for a while and enjoy the exercises. With that said, I am not a fan of Duolingo’s changing application icons on iOS.

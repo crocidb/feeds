@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/05/take-two"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.630758355Z"
-seen = false
+seen = true
 +++
 
 Trafalgar Square is a special place. The architecture and views are breathtaking. The National Gallery, the church of St. Martins in the Fields, Canada House, and more, all surround the Square. From the right place you can look down Whitehall and see Big Ben.

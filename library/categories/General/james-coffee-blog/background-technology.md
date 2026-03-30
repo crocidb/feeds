@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/06/background-technology/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.820488060Z"
-seen = false
+seen = true
 +++
 
 A while ago, I purchased an [Aranet 4](https://aranet.com/en/home/products/aranet4-home) indoor CO2 monitor. The device has sat on my desk ever since. I started thinking about the Aranet monitor this week because I noticed that, for the first time, the battery was low and needed to be changed.

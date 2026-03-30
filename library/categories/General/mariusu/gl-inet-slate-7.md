@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/gl-inet-slate-7/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-03-18T21:57:46.140842938Z"
-seen = false
+seen = true
 +++
 
 If you happened to have stumbled upon my write-up almost four years ago about [running an open source home area network](/running-an-open-source-home-area-network/), you might know that I’m enjoying a fairly elaborate and mostly FOSS-based infrastructure, that is as lightweight and travel-friendly as possible. Although many things have changed ever since and an update to the original post is well overdue, the fundamentals remained the same: My personal infrastructure has to be as flexible and portable as possible, to fit my ever-changing life.

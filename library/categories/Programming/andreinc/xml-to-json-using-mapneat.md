@@ -6,7 +6,7 @@ url = "https://andreinc.net/2021/02/01/xml-to-json-using-mapneat/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.226050402Z"
-seen = false
+seen = true
 +++
 
 >

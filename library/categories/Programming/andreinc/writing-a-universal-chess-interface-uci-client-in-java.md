@@ -6,7 +6,7 @@ url = "https://andreinc.net/2021/04/22/writing-a-universal-chess-interface-uci-c
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.222079728Z"
-seen = false
+seen = true
 +++
 
 Contents

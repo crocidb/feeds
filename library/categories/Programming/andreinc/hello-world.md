@@ -6,7 +6,7 @@ url = "https://andreinc.net/2010/08/09/hello-world/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.264947497Z"
-seen = false
+seen = true
 +++
 
 My first blog post, in which I am writing `Hello World!`.

@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/digital-sound/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.030667294Z"
-seen = false
+seen = true
 +++
 
 Generate some waveforms!

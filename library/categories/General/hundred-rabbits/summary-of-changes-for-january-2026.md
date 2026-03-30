@@ -6,7 +6,7 @@ url = "https://100r.ca/site/log.html#jan2026"
 author = "Rek Bell"
 text = ""
 lastupdated = "2026-02-11T20:16:58.946361057Z"
-seen = false
+seen = true
 +++
 
 Hey everyone!

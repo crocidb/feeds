@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/17/blossom"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.620103595Z"
-seen = false
+seen = true
 +++
 
 When I write about nature, I sometimes go to my archives and search for what phenomena I am thinking about. I was looking at my previous posts on blossom and saw that I last wrote about the topic on the 5th of April, 2025. I started my post with “One of my favourite times of the year is when trees blossom.” These words are as true today as they were when I first wrote them. I am always glad when I write about nature; I can save a moment for future James to read. The seasons are reflected in the dates in my archive.

@@ -6,7 +6,7 @@ url = "https://andreinc.net/2026/03/12/fresco-the-lightbringer/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.110552762Z"
-seen = false
+seen = true
 +++
 
 Some jokes write themselves. In our case, the electrician wrote it.

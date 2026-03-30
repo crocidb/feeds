@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/11/artemis-account-deletion-back-end/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.771140663Z"
-seen = false
+seen = true
 +++
 
 As I have been building Artemis, I have learned that the account deletion flow requires constant review. For example, whenever I add a new database table, I need to make sure that table is in the account deletion flow. I may also need to create an index in the database so I can efficiently delete columns in a new database table. In addition, as the service has grown, I have realised that a synchronous account deletion process no longer works in many cases.

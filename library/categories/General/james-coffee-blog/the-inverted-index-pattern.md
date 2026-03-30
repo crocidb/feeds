@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/11/the-inverted-index-pattern/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.763988194Z"
-seen = false
+seen = true
 +++
 
 In “[Build a search index in Python](https://jamesg.blog/2024/07/16/build-a-search-index)”, I walked through how to create a search index using the “inverted index” structure. This structure is commonly used in document search.

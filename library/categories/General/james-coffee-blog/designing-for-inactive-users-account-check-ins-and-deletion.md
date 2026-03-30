@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/11/account-check-ins-deletion/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.767528174Z"
-seen = false
+seen = true
 +++
 
 [Artemis](https://artemis.jamesg.blog) has been open for registration with an invite code for over a year. In that time, many people have signed up. With that said, not everyone who signs up will end up using their account. This is par for the course with software. Signing up for an account doesn’t mean someone is going to keep using it.

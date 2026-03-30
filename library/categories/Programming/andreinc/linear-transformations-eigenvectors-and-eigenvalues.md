@@ -6,7 +6,7 @@ url = "https://andreinc.net/2021/01/25/linear-transformations-eigenvectors-and-e
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.234359380Z"
-seen = false
+seen = true
 +++
 
 Contents

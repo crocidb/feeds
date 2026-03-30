@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/html5-canvas-globalcompositeoperation/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.015698702Z"
-seen = false
+seen = true
 +++
 
 Simulate a scratcher or scratch-off in-browser using HTML.

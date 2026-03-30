@@ -6,7 +6,7 @@ url = "https://andreinc.net/2024/01/11/the-math-exams-of-my-life/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.176727518Z"
-seen = false
+seen = true
 +++
 
 The system is flawed

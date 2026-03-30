@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2025/10/19/speeding-up-c-functions-with-a-thread_l
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-03-19T16:26:22.844833552Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2025/10/9af1530f-1aca-4fbc-8796-ff74a1a8b544-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy">

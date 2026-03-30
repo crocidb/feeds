@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/the-mysterious-forces-steering-views-on-hacker-
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-02-11T20:16:58.791385138Z"
-seen = false
+seen = true
 +++
 
 I was initially torn about whether to publish this story, as I don’t have a clear or constructive recommendation on how to resolve the issue. I also didn’t want to come across as a paranoid conspiracy theorist – birds aren’t real, by the way. However, after repeatedly witnessing firsthand how *Y Combinator’s* *Hacker News* platform influences the spread of information and, consequently, opinions within the *tech scene*, I believe this topic deserves to be discussed, even if only briefly.

@@ -6,7 +6,7 @@ url = "https://andreinc.net/2021/11/08/a-tale-of-java-hash-tables/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.215008407Z"
-seen = false
+seen = true
 +++
 
 The intended audience for this article is undergrad students who already have a good grasp of Java, or seasoned Java developers who would like to explore an in-depth analysis of various *hash table* implementations that use *Open Addressing*.

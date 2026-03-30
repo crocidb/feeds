@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/mastodon-comments/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:56.991743122Z"
-seen = false
+seen = true
 +++
 
 Comments powered by Mastodon? Yes, please!

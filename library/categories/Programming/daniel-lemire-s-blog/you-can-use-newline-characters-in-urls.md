@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-03-19T16:26:22.790643663Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/02/Capture-decran-le-2026-02-28-a-14.21.14-150x150.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy">

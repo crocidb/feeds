@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/06/artemis-changelog-8"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.625228622Z"
-seen = false
+seen = true
 +++
 
 I have been working on a few new features for [Artemis](https://artemis.jamesg.blog), the calm web reader I maintain. You can read a summary of what’s new below.

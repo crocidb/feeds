@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/08/noticing/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.796368332Z"
-seen = false
+seen = true
 +++
 
 Last weekend, I went to the National Gallery of Scotland. This time, I started my trip on the bottom floor where all the Scottish art is on display. A few minutes after entering the gallery, I was captivated by paintings of Nature and of Edinburgh. I noticed that one wall was dedicated to breathtaking paintings of Nature, whereas on the other there were monumental, detailed cityscapes.

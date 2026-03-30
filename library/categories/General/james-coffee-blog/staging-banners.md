@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/07/staging-banners/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.806449702Z"
-seen = false
+seen = true
 +++
 
 When I run the Artemis codebase, one of the first things it does is look for an environment variable that indicates what “environment” the application is running in. There are two modes: development and production. If no mode is specified, development mode is set by default.

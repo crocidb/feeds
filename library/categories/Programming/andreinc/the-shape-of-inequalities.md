@@ -6,7 +6,7 @@ url = "https://andreinc.net/2026/03/16/the-shape-of-inequalities/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-19T13:44:54.947972214Z"
-seen = false
+seen = true
 +++
 
 <sub>…symmetry isn’t just a preference for “pretty” shapes.</sub>

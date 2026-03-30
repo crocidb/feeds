@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2025/12/31/the-culture-war-that-we-won/"
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-03-19T16:26:22.813796293Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2025/12/G9gXfT1XgAEsoUQ-150x150.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy">

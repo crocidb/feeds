@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/06/green-energy/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.816909851Z"
-seen = false
+seen = true
 +++
 
 **Update, 7 February 2026:** A reader reached out with an argument that made me reconsider my perspective on this topic. Using a data centre that runs on green energy would be most meaningful when the grid that fuels the energy is running fully on renewables, so that use of the data centre does not use up energy in such a way that other energy users have to rely on non-renewable energy.

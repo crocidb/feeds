@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/c-pointers/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.032008678Z"
-seen = false
+seen = true
 +++
 
 It's really not that bad.

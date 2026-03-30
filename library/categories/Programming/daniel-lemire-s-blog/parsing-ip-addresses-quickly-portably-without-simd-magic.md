@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2025/12/27/parsing-ip-addresses-quickly-portably-w
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-03-19T16:26:22.820752426Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2025/12/Capture-decran-le-2025-12-27-a-18.33.45-150x150.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy">

@@ -6,7 +6,7 @@ url = "https://andreinc.net/2021/10/02/implementing-hash-tables-in-c/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.219015633Z"
-seen = false
+seen = true
 +++
 
 Table of contents

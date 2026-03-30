@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/noises-in-the-distance/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:56.994395862Z"
-seen = false
+seen = true
 +++
 
 A historical retrogaming morality tale.

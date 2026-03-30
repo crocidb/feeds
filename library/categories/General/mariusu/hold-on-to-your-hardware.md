@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-03-18T21:57:46.152717879Z"
-seen = false
+seen = true
 +++
 
 [Tl;dr](#tldr) at the end.

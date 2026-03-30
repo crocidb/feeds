@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/convolution-image-processing/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.009745075Z"
-seen = false
+seen = true
 +++
 
 How to use convolution matrices for common image filters.

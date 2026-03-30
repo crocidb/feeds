@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/17/rewriting"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.617244393Z"
-seen = false
+seen = true
 +++
 
 This weekend I started work on rewriting the static site generator that I use for this website, [Aurora](https://github.com/capjamesg/aurora). I was looking over the codebase and wondered if I could make the code a bit more efficient and easier to understand. I had ideas for new abstractions – things I could do to reduce the amount of code needed.

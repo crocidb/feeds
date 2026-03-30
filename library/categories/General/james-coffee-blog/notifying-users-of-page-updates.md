@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/11/notifying-users-of-page-updates/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.775334214Z"
-seen = false
+seen = true
 +++
 
 Some time in January, I was going through my browser tabs and came across an Artemis tab that had been opened a while ago. But it took me a moment to realise that the tab might be out of date. My eyes went first to the posts from authors to which I have subscribed, then to the dates associated with those posts. When I read the date at the top of the page, I thought: oh, the page is showing posts from a previous day. I need to refresh to see the latest posts.

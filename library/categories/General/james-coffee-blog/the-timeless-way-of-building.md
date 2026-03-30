@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/18/the-timeless-way-of-building"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.585976910Z"
-seen = false
+seen = true
 +++
 
 The book for [this month’s IndieWeb Book Club](https://www.nicksimson.com/posts/2026-the-timeless-way-of-building.html), hosted by Nick, is Christopher Alexander’s book *The Timeless Way of Building*.

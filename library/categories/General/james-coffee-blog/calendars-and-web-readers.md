@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/06/calendars-and-web-readers/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.823894070Z"
-seen = false
+seen = true
 +++
 
 For the last few weeks I have been thinking about the intersection of calendars and web readers.

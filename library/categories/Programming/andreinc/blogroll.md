@@ -6,7 +6,7 @@ url = "https://andreinc.net/blogroll/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.273361612Z"
-seen = false
+seen = true
 +++
 
 Are you new to the web, and is your experience limited to apps and algorithms feeding you “content” (a term that carries a certain irony in my native Romanian language)?

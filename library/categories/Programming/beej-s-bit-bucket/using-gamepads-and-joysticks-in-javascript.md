@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/javascript-gamepad/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:56.995763490Z"
-seen = false
+seen = true
 +++
 
 Let's get some games written!

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/17/sparking-joy"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.614352715Z"
-seen = false
+seen = true
 +++
 
 *I am trading blog post titles with* [*Frances*](https://francescrossley.com/)*. Frances wrote* [*Where art exists in my life*](https://francescrossley.com/where-art-exists-in-my-life/)*. I will be writing “Sparking joy”.*

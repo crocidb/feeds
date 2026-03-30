@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2025/10/15/speed-of-random-number-generators-in-go
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-03-19T16:26:22.847722825Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2025/10/goo-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://lemire.me/blog/wp-content/uploads/2025/10/goo-150x150.jpg 150w, https://lemire.me/blog/wp-content/uploads/2025/10/goo-300x300.jpg 300w, https://lemire.me/blog/wp-content/uploads/2025/10/goo-768x768.jpg 768w, https://lemire.me/blog/wp-content/uploads/2025/10/goo.jpg 777w" sizes="auto, (max-width: 150px) 100vw, 150px">

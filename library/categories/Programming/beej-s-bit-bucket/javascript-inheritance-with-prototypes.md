@@ -6,6 +6,6 @@ url = "http://beej.us/blog/data/javascript-prototypes-inheritance/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.012408090Z"
-seen = false
+seen = true
 +++
 

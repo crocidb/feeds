@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/08/sandwich-questionnaire/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.785978423Z"
-seen = false
+seen = true
 +++
 
 I love sandwiches. Earlier today I was thinking about how you can eat a sandwich at any time of the day. I have eaten sandwiches for breakfast, lunch, and dinner. When I saw Zachary’s “[Sandwich Questionnaire](https://zacharykai.net/notes/sandwiches)“, I thought *I have to respond to this!*

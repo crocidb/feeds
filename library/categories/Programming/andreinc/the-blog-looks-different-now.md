@@ -6,7 +6,7 @@ url = "https://andreinc.net/2026/03/06/the-blog-looks-different-now/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.120190780Z"
-seen = false
+seen = true
 +++
 
 It’s 2026, and my interest in writing was at a new all-time low. Naturally, instead of actually writing, I did what any self-respecting developer does: I spent a week migrating the entire blog from the venerable Jekyll to Hugo. Does this count as ~~programming~~ sophisticated procrastination?

@@ -6,7 +6,7 @@ url = "https://andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-line
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.211415157Z"
-seen = false
+seen = true
 +++
 
 This tutorial is intended for intermediate C developers who want to get some coding practice and, in the process, gain valuable insights into low-level programming and how (some) Virtual Machines operate under the hood.

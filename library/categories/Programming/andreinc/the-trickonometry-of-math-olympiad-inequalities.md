@@ -6,7 +6,7 @@ url = "https://andreinc.net/2025/03/17/the-trickonometry-of-math-olympiad-inequa
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.126102607Z"
-seen = false
+seen = true
 +++
 
 Contents

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/06/the-expanse-of-web-weaving/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.827463520Z"
-seen = false
+seen = true
 +++
 
 Last year, one of my goals was to learn more about design. I wanted to apply what I learned to making web pages. The [*Non-Designer’s Design Book*](https://jamesg.blog/2025/12/15/indieweb-book-club-design) was an influential resource toward the end of the year. While not specifically about web design, the principles within the book – contrast, repetition, alignment, and proximity – were directly applicable to the web.

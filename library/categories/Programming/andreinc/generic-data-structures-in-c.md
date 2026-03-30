@@ -6,10 +6,10 @@ url = "https://andreinc.net/2010/09/30/generic-data-structures-in-c/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.262060706Z"
-seen = false
+seen = true
 +++
 
- Update (2026): This was the first 'real article' I ever wrote. It actually dates back to before 2010, though I didn't publish it until later. I’ve made a few tweaks here and there, but the original 'old code' remains. Please judge it kindly!
+Update (2026): This was the first 'real article' I ever wrote. It actually dates back to before 2010, though I didn't publish it until later. I’ve made a few tweaks here and there, but the original 'old code' remains. Please judge it kindly!
 
 Contents
 ----------

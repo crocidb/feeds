@@ -6,7 +6,7 @@ url = "https://andreinc.net/2011/01/03/evaluate-rpn-expressions-using-haskell-sc
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.255320179Z"
-seen = false
+seen = true
 +++
 
 Contents

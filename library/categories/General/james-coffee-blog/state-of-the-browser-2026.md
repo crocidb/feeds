@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/03/state-of-the-browser-2026"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.659172378Z"
-seen = false
+seen = true
 +++
 
 *State of the Browser was electric.* This is how I summarised my experience at the annual [State of the Browser](https://2026.stateofthebrowser.com) event in London in my notes. I like to capture moments as they happen, then write about them later. The note is the essence of a blog post; the starting point. The note blossoms at home.

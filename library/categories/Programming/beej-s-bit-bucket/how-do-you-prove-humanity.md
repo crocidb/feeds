@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/proof-of-humanity/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:56.993085808Z"
-seen = false
+seen = true
 +++
 
 Reflections on the new wave of AI.

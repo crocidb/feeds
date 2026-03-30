@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/17/starting-playing-maintaining"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.609784225Z"
-seen = false
+seen = true
 +++
 
 I think back to how I used to think about how my finger tips would hurt if I learned to play the guitar. I was right: my fingers do get a bit sore. But with practice playing for longer gets easier. I am so glad I started to play.

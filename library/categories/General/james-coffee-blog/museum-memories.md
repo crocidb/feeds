@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/05/museum-memories"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.634847334Z"
-seen = false
+seen = true
 +++
 
 *This is my entry for this month’s IndieWeb Carnival on the topic “*[*Museum memories*](https://jamesg.blog/2026/03/01/indieweb-carnival-museum-memories/)*”.*

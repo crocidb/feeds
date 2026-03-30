@@ -6,7 +6,7 @@ url = "https://andreinc.net/2010/10/05/converting-infix-to-rpn-shunting-yard-alg
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.258654552Z"
-seen = false
+seen = true
 +++
 
 ---

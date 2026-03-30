@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/08/why-i-love-my-favourite-words/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.789495873Z"
-seen = false
+seen = true
 +++
 
 Every so often, I use the word *delightful* in conversation. *That is delightful!* I try not to use “delightful” too often, but I do like to bring it into a discussion every now and again. It is one of my favourite words.

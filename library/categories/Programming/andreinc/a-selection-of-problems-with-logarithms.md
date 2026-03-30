@@ -6,7 +6,7 @@ url = "/2024/06/06/13-problems-with-logarithms"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-02-11T20:17:07.200497473Z"
-seen = false
+seen = true
 +++
 
 In the landscape of the Romanian 10th-grade Math Olympiad, **logarithms** are a distinct and recurring theme. While they don’t dominate the entire curriculum, a problem involving them is bound to appear, often requiring a deep understanding of algebraic inequalities and identities.

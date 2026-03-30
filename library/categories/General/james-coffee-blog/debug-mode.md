@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/07/debug-mode/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.803077602Z"
-seen = false
+seen = true
 +++
 
 One of the areas of the Artemis codebase that I update the most is the logic that relates to the list of posts published by authors to which a user is subscribed. Because Artemis works with so many different formats of information – web feeds like RSS or h-feed, Mastodon posts, Bluesky posts – there can often be subtle bugs that appear every so often.

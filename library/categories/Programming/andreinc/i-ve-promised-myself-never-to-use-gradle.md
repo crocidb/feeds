@@ -6,7 +6,7 @@ url = "https://andreinc.net/2022/04/01/ive-promised-myself-never-to-use-gradle/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.200020320Z"
-seen = false
+seen = true
 +++
 
 >

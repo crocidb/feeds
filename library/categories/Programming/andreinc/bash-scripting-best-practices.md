@@ -6,7 +6,7 @@ url = "https://andreinc.net/2011/09/04/bash-scripting-best-practices/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.249829404Z"
-seen = false
+seen = true
 +++
 
 A list of best practices for writing bash scripts:

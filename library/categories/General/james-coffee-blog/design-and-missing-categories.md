@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/08/design-and-missing-categories/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.792909933Z"
-seen = false
+seen = true
 +++
 
 Ever since I moved to using Ghost as the tool for publishing my blog posts [1], I have forgotten to add categories to some of my blog posts. My old system had a few `if` statements that would automatically select a category. If none of the rules triggered and I did not choose a category, I could not publish a post until I chose one.

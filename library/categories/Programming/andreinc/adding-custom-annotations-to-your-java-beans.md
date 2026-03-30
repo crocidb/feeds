@@ -6,7 +6,7 @@ url = "https://andreinc.net/2013/09/05/adding-custom-annotations-to-your-java-be
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.244667116Z"
-seen = false
+seen = true
 +++
 
 Java annotations are syntactic meta-information that can be added to your source code. You can annotate classes, methods, variables, parameters, and even [packages](https://puredanger.github.io/tech.puredanger.com/2007/02/28/package-annotations/).

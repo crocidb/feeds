@@ -6,7 +6,7 @@ url = "https://andreinc.net/2026/03/19/the-associations-people-make/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-23T12:35:30.745680138Z"
-seen = false
+seen = true
 +++
 
 <sub>A silly story is easier to remember</sub>

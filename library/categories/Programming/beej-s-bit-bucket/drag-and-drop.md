@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/drag-n-drop/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.011077082Z"
-seen = false
+seen = true
 +++
 
 Learn how it's done, and code your own.

@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/function-pointers-cooperative-multitasking/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.026339883Z"
-seen = false
+seen = true
 +++
 
 Just like Grandma used to multitask.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/10/source-code-editing-web-applications/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.778775234Z"
-seen = false
+seen = true
 +++
 
 Last year, I worked on a [bookmarklet for editing pages on my website](https://jamesg.blog/2025/02/16/my-static-site-editing-bookmarklet). When clicked, the bookmarklet would open the page in GitHub that corresponded with the page I was viewing. I used the bookmarklet so much I [turned it into a browser extension](https://jamesg.blog/2025/05/21/building-an-edit-button-browser-extension), which I still use regularly to edit pages on my (still static) website.

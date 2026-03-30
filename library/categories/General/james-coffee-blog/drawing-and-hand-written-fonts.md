@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/10/drawing-and-hand-written-fonts/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.782454203Z"
-seen = false
+seen = true
 +++
 
 I have been thinking about hand-writing and websites in the background for a little while.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/08/clouds/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.799690552Z"
-seen = false
+seen = true
 +++
 
 I have been waking up with anticipation every morning recently. I say “good morning, world”, and then anxiously peek through the edge of the curtains. I hope for the blue sky.

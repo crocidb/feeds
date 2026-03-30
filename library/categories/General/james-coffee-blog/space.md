@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/18/space"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.591697169Z"
-seen = false
+seen = true
 +++
 
 Two years ago, I visited Greenwich in London. I had been to London before, but Greenwich was that bit further out so I hadn’t made the trip. What drew me to Greenwich was the Royal Observatory and the Prime Meridian line. The day I visited, I had great joy standing over the Prime Meridian line, thinking I had one foot in one meridian and one foot in another.

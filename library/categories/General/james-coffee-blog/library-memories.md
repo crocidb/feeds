@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/18/library-memories"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.596479568Z"
-seen = false
+seen = true
 +++
 
 *One of the ideas* [*Frances*](https://francescrossley.com) *shared when we exchanged blog post titles was to write about a memory from a library. While the prompt “*[*Sparking joy*](https://jamesg.blog/2026/03/17/sparking-joy)*” is the one I ended up writing about, as soon as I started to think about library memories a few ideas came to mind. One memory in particular stands out.*

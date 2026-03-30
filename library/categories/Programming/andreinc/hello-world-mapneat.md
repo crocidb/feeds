@@ -6,7 +6,7 @@ url = "https://andreinc.net/2021/01/31/hello-world-mapneat/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.228944140Z"
-seen = false
+seen = true
 +++
 
 >

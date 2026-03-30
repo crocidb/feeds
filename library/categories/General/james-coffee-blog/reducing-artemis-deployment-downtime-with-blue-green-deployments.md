@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/02/06/blue-green-deployment/"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-02-11T20:17:01.813511041Z"
-seen = false
+seen = true
 +++
 
 [Artemis](https://artemis.jamesg.blog), the calm web reader I maintain, runs as a `systemd` process. When I want to update the software, I deploy the new code to the server and then restart the `systemd` process. This has a significant downside: while the Artemis process is restarting, the software is unavailable to users. During this period – which usually lasts around 5-10 seconds – a maintenance message appears when you try to load any page.

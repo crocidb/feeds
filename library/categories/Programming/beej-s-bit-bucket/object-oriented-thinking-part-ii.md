@@ -6,6 +6,6 @@ url = "http://beej.us/blog/data/object-oriented-programming-2/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:57.029311545Z"
-seen = false
+seen = true
 +++
 

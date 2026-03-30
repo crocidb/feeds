@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/04/guitar-sunset"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.650109951Z"
-seen = false
+seen = true
 +++
 
 The days are getting longer and brighter. The bite of the winter air is being replaced by a delicate breeze. It feels like Spring is here.

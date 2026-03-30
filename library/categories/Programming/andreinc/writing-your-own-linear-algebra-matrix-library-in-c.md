@@ -6,7 +6,7 @@ url = "https://andreinc.net/2021/01/20/writing-your-own-linear-algebra-matrix-li
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-18T21:57:49.241778861Z"
-seen = false
+seen = true
 +++
 
 Contents

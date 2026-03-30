@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/03/girl-on-a-divan-by-berthe-morisot"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-18T21:57:44.674175281Z"
-seen = false
+seen = true
 +++
 
 Berthe Morisot’s *Girl on a Divan*, [displayed in the National Gallery, London](https://www.nationalgallery.org.uk/paintings/berthe-morisot-girl-on-a-divan), caught my eye as soon as I saw it. The painting was the last one I saw in the Impressionist room in the Gallery, but despite having been on my feet for hours before I stood for several minutes looking at the painting from all angles. There was something wonderful about the painting.
