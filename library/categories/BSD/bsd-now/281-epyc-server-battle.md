@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/281"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.669275703Z"
-seen = false
+seen = true
 +++
 
 SCP client vulnerabilities, BSDs vs Linux benchmarks on a Tyan EPYC Server, fame for the Unix inventors, Die IPv4, GhostBSD 18.12 released, Unix in pictures, and more.

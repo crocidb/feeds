@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/67"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.187564386Z"
-seen = false
+seen = true
 +++
 
 Coming up this week on the show, we've got an interview with Patrick Wildt, one of the developers of Bitrig. We'll find out all the details of their OpenBSD fork, what makes it different and what their plans are going forward. We've also got all the week's news and answers to your emails, on BSD Now - the place to B.. SD.

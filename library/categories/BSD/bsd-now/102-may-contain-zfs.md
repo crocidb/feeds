@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/102"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.113294812Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we'll be talking with Peter Toth. He's got a jail management system called "iocage" that's been getting pretty popular recently. Have we finally found a replacement for ezjail? We'll see how it stacks up.

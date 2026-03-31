@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/88"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.144345729Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be talking with Ed Schouten about CloudABI. It's a new application binary interface with a strong focus on isolation and restricted capabilities. As always, all this week's BSD news and answers to your emails, on BSD Now - the place to B.. SD.

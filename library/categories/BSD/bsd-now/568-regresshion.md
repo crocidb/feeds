@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/568"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.177047330Z"
-seen = false
+seen = true
 +++
 
 regreSSHion vulnerability, Improving and debugging FreeBSDs Intel wifi support, FreeBSD adds an implementation of the 9P filesystem, FreeBSD Zero to Desktop Speedrun Challenge, Why and how to run your own FreeBSD package cache, Game of Trees Hub, Why Does FreeBSD Default to Csh/Tcsh, and more

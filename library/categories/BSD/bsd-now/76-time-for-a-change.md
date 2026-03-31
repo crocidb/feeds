@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/76"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.167890460Z"
-seen = false
+seen = true
 +++
 
 This week, we'll be talking to Henning Brauer about OpenNTPD and its recently revived portable version. After that, we'll be discussing different ways to securely tunnel your traffic: specifically OpenVPN, IPSEC, SSH and Tor. All that and the latest news, coming up on BSD Now - the place to B.. SD.

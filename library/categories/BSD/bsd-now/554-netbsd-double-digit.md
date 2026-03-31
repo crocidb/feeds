@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/554"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.198328274Z"
-seen = false
+seen = true
 +++
 
 The XZ Backdoor, NetBSD 10.0, iX announces that they will put out a release of TrueNAS 13.3, State of the Terminal, LibreSSL 3.8.4 and 3.9.1 released and more

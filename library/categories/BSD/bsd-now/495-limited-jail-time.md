@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/495"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.289769084Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Status Report Fourth Quarter 2022, How to limit a jail, the parallel port, Hello System 0.8, Solbournes in space, and more

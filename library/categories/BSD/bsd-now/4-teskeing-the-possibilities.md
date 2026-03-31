@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/4"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.304023066Z"
-seen = false
+seen = true
 +++
 
 This week we’re at [EuroBSDCon](http://2013.eurobsdcon.org/), so we’ve just got an interview for you today. BSD Now will be back next week with a normal episode and lots of stories from the conference. We’ll also try to get some more interviews there. For today, though, we talk to Devin Teske about his work with bsdinstall, bsdconfig and all the other interesting things he’s been up to lately.

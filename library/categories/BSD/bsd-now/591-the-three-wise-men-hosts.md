@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/591"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.142001007Z"
-seen = false
+seen = true
 +++
 
 In this special episode, we are interviewing ourselves with the questions that out audience asked us many moons ago. Stay tuned for some insights about hobbies, all things computers, projects, and a whole lot more. Have fun and happy holidays!

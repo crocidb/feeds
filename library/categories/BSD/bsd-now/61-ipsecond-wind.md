@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/61"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.199574217Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we sat down with John-Mark Gurney to talk about modernizing FreeBSD's IPSEC stack. We'll learn what he's adding, what needed to be fixed and how we'll benefit from the changes. As always, answers to your emails and all of this week's news, on BSD Now - the place to B.. SD.

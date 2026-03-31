@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/98"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.123135685Z"
-seen = false
+seen = true
 +++
 
 Coming up this time on the show, we'll be talking with the CTO of Xinuos, David Meyer, about their adoption of FreeBSD. We also discuss the BSD license model for businesses and the benefits of contributing changes back.

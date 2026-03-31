@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/248"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.750770530Z"
-seen = false
+seen = true
 +++
 
 DragonflyBSD release 5.2.1 is here, BPF kernel exploit writeup, Remote Debugging the running OpenBSD kernel, interview with Patrick Mooney, FreeBSD buildbot setup in a jail, dumping your USB, and 5 years of gaming on FreeBSD.

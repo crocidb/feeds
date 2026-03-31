@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/470"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.357222312Z"
-seen = false
+seen = true
 +++
 
 In this special episode, we are interviewing Mateusz Piotrowski about his various roles in the FreeBSD project, his ports work, and a few other interesting things he’s involved with. Enjoy this interview episode, we’ll be back with a regular episode next week.

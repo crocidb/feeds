@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/146"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.028223688Z"
-seen = false
+seen = true
 +++
 
 Kris is on vacation this week, so allan flies solo, provides a recap of BSDCan & cover's a boatload of news including Microsoft

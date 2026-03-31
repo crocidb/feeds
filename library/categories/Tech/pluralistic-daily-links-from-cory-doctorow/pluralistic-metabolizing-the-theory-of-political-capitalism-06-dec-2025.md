@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2025/12/06/big-nascent-important/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2025-12-10T15:23:50.432782023Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/06Dec2025.jpg?w=840&ssl=1)](https://pluralistic.net/2025/12/06/big-nascent-important/)

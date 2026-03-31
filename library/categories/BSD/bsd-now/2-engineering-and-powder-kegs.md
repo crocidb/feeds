@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/2"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.307587654Z"
-seen = false
+seen = true
 +++
 
 After a wildly successful debut episode, BSD Now is BACK to talk with Glen Barber from the FreeBSD Release team, show you how to build your own binary package repository and discuss the latest BSD news!

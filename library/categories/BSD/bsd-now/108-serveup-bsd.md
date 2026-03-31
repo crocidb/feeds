@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/108"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.102210931Z"
-seen = false
+seen = true
 +++
 
 This week on the show, Allan is heading to Sweden, but we have a great interview with Andrew Pantyukhin to bring you. We will be discussing everything from contributions to FreeBSD, which technologies worked best in the datacenter, config management and more.

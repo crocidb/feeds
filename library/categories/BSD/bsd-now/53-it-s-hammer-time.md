@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/53"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.215274244Z"
-seen = false
+seen = true
 +++
 
 It's our one year anniversary episode, and we'll be talking with Reyk Floeter about the new OpenBSD webserver - why it was created and where it's going. After that, we'll show you the ins and outs of DragonFly's HAMMER FS. Answers to viewer-submitted questions and the latest headlines, on a very special BSD Now - the place to B.. SD.

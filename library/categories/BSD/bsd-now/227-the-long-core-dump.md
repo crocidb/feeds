@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/227"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.806205198Z"
-seen = false
+seen = true
 +++
 
 We walk through dumping a PS4 kernel in only 6 days, tell you the news that NetBSD 7.1.1 has been released, details on how to run FreeBSD on a Thinkpad T470, and there’s progress in OpenBSD’s pledge.

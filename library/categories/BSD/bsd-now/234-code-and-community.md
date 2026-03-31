@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/234"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.787840962Z"
-seen = false
+seen = true
 +++
 
 GSoC 2018 Projects announced, tutorial FreeBSD jails with iocage, new Code of Conduct for FreeBSD, libhijack, and fancy monitoring for OpenSMTPD

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/381"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.492194129Z"
-seen = false
+seen = true
 +++
 
 The Origin of the Shell, Return to Plan 9, ArisbluBSD: Why a new BSD?, OPNsense 20.7.5 released, Midnight BSD 2.0 Release Status, HardenedBSD November 2020 Status Report, and more.

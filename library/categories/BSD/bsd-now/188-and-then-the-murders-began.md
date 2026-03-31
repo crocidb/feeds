@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/188"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.923313338Z"
-seen = false
+seen = true
 +++
 
 Today on BSD Now, the latest Dragonfly BSD release, RaidZ performance, another OpenSSL Vulnerability, and more; all this week on BSD Now.

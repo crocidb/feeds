@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/34"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.250243417Z"
-seen = false
+seen = true
 +++
 
 This week, Allan's at a conference so we've got a short episode for you. We sat down with John Hixson to discuss FreeNAS development and all their future plans. The show will be back next week with a normal episode.

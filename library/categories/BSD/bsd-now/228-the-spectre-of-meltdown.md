@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/228"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.803079330Z"
-seen = false
+seen = true
 +++
 
 We review the information about Spectre & Meltdown thus far, we look at NetBSD memory sanitizer progress, Postgres on ZFS & show you a bit about NomadBSD.

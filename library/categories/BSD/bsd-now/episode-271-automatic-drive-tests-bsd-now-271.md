@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/271"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.692034145Z"
-seen = false
+seen = true
 +++
 
 MidnightBSD 1.0 released, MeetBSD review, EuroBSDcon trip reports, DNS over TLS in FreeBSD 12, Upgrading OpenBSD with Ansible, how to use smartd to run tests on your drives automatically, and more.

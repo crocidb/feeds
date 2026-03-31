@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/641"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.050817887Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 15 release, moving from OpenBSD to FreeBSD, ZFS Boot Environments explained, and more...

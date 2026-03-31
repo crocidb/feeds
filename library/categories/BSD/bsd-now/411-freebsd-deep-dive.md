@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/411"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.444444845Z"
-seen = false
+seen = true
 +++
 
 Unix System Architecture Evolution, Deep Dive into FreeBSD’s Strengths, how developers chose names, OPNsense 21.1.7 released, Support for chdir(2) in posix\_spawn(3), vagrant-freebsd-boxbuilder, OpenBSD’s IATA airport code file, and more

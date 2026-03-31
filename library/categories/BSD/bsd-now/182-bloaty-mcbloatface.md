@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/182"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.951348887Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we’ve got FreeBSD quarterly Status reports to discuss, OpenBSD changes to the installer, EC2 and IPv6 and more. Stay

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/238"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.775907251Z"
-seen = false
+seen = true
 +++
 
 Looking at Lumina Desktop 2.0, 2 months of KPTI development in SmartOS, OpenBSD email service, an interview with Ryan Zezeski, NomadBSD released, and John Carmack's programming retreat with OpenBSD.

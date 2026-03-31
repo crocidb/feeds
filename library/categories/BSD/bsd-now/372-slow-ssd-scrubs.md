@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/372"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.506143778Z"
-seen = false
+seen = true
 +++
 
 Wayland on BSD, My BSD sucks less than yours, Even on SSDs, ongoing activity can slow down ZFS scrubs drastically, OpenBSD on the Desktop, simple shell status bar for OpenBSD and cwm, and more.

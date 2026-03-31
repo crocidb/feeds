@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/392"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.474144132Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 13 BETA Benchmarks, FreeBSD Jails Deep Dive by Klara Systems, FreeBSD Foundation looking for a Senior Arm Kernel Engineer & OSS Project Coordinator, macOS-Inspired BSD Desktop OS by helloSystem, A Trip into FreeBSD and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/220"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.827682361Z"
-seen = false
+seen = true
 +++
 
 We have a first PS4 kernel exploit, the long awaited OpenZFS devsummit report by Allan, DragonflyBSD 5.0 is out, we show you vmadm to manage jails, and parallel processing with Unix tools.

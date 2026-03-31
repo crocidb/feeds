@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/524"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.245075118Z"
-seen = false
+seen = true
 +++
 
 On the Loss and Preservation of Knowledge, Unix Recovery Legend, Useful Unix commands for data science, Tarsnap outage post-mortem, OpenBSD 7.3 on a twenty year old IBM ThinkPad R31, and more

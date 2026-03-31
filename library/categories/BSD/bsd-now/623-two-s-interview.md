@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/623"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.091166365Z"
-seen = false
+seen = true
 +++
 
 Software Bill of Materials (SBOM) for FreeBSD Project, Your Guide to Lock-In Free Infrastructure, and we interview David Gwynne from the University of Queensland and developer on the OpenBSD project.

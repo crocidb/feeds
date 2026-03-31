@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/265"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.705903735Z"
-seen = false
+seen = true
 +++
 
 We report from our experiences at EuroBSDcon, disenchant software, LLVM 7.0.0 has been released, Thinkpad BIOS update options, HardenedBSD Foundation announced, and ZFS send vs. rsync.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/219"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.831172749Z"
-seen = false
+seen = true
 +++
 
 Papers we love: ARC by Bryan Cantrill, SSD caching adventures with ZFS, OpenBSD full disk encryption setup, and a Perl5 Slack Syslog BSD daemon.

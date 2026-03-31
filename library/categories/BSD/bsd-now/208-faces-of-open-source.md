@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/208"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.861071716Z"
-seen = false
+seen = true
 +++
 
 DragonflyBSD 4.8.1 has been released, we explore how the X11 clipboard works, and look at OpenBSD gaming resources.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/376"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.500065702Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 12.2 is available, ZFS Webinar, Enhancing Syzkaller support for NetBSD, how the OpenBSD -stable packages are built, OPNsense 20.7.4 released, and more

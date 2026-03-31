@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/606"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.119403704Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 13.5-RELEASE Now Available, From Chaos to Clarity: How We Tackled FreeBSD’s 7,000 Bug Backlog, zfs-2.3.1, Complications of funding an open source operating system, Why Choose to Use the BSDs in 2025, First Use on GhostBSD, Better Shell History Search, and more

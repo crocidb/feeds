@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/385"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.485581553Z"
-seen = false
+seen = true
 +++
 
 Description: History of FreeBSD: Early Days of FreeBSD, mesh VPN using OpenBSD and WireGuard, FreeBSD Foundation Sponsors LLDB Improvements, Host your Cryptpad web office suite with OpenBSD, and more.

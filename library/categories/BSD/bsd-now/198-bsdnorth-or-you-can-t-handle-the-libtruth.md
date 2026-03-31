@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/198"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.887791235Z"
-seen = false
+seen = true
 +++
 
 This episode gives you the full dose of BSDCan 2017 recap as well as a blog post on conference speaking advice.

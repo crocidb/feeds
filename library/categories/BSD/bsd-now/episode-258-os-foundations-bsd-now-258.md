@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/258"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.724581290Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Foundation July Newsletter, a bunch of BSDCan trip reports, HardenedBSD Foundation status, FreeBSD and OSPFd, ZFS disk structure overview, and more Spectre mitigations in OpenBSD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/160"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.998492970Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, Allan is currently at EuroBSDCon! However due to the magic of video (or time travel), you still get a new episode. (You’re Welcome!). Stay tuned

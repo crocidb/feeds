@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/405"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.453199748Z"
-seen = false
+seen = true
 +++
 
 NetBSD 9.2 released, DragonFly 6.0 is out, Home Network Monitoring using Prometheus, Preventing FreeBSD to kill PostgreSQL, Customizing Emacs for Git Commit Messages, Deleting old FreeBSD boot environments, Always be quitting, and more

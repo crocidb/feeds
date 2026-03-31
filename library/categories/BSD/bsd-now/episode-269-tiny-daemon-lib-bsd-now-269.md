@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/269"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.697247461Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Foundation September Update, tiny C lib for programming Unix daemons, EuroBSDcon trip reports, GhostBSD tested on real hardware, and a BSD auth module for duress.

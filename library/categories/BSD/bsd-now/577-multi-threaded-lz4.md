@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/577"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.163410401Z"
-seen = false
+seen = true
 +++
 
 New Host Introduction 🤭, From Bridging to Routing With FreeBSD, Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization, The Dying Computer Museum, In practice, abstractions hide their underlying details, LZ4 Compression Algorithm Gets Multi-Threaded Update, Using Windows or Linux on FreeBSD's vm-bhyve, and more

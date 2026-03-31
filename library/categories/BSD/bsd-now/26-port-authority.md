@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/26"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.264230887Z"
-seen = false
+seen = true
 +++
 
 On today's show we have an interview with Joe Marcus Clark, one of the original portmgr members in FreeBSD, and one of the key GNOME porters. Keeping along with that topic, we have a FreeBSD ports tutorial for you as well. The latest news and answers to your BSD questions, right here on BSD Now - the place to B.. SD.

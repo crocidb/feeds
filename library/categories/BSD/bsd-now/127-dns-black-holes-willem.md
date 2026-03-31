@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/127"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.065801008Z"
-seen = false
+seen = true
 +++
 
 Today on the show, we welcome Allan back from FOSSDEM, and enjoy an interview with Willem about DNS and MTU Black Holes. That plus all the weeks news, keep it turned here to BSD

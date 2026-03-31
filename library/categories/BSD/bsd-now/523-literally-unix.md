@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/523"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.246777606Z"
-seen = false
+seen = true
 +++
 
 The Elements Of Style: UNIX As Literature, The shell and its crappy handling of whitespace, Theo de Raadt on Zenbleed, OPNsense 23.7 released, illumos gets a new C compiler, fixing Thinkpad X1 WIFI on FreeBSD, and more

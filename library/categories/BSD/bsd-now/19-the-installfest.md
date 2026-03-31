@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/19"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.277435577Z"
-seen = false
+seen = true
 +++
 
 We've got some special treats for you this week on the show. It's the long-awaited "installfest" segment, where we go through the installer of each of the different BSDs. Of course we also have your feedback and the latest news as well... and... we even have our very first viewer contest! There's a lot to get to today on BSD Now - the place to B.. SD.

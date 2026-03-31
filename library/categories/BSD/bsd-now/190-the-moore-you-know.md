@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/190"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.911012407Z"
-seen = false
+seen = true
 +++
 
 This week, we look forward with the latest OpenBSD release, look back with Dennis Ritchies paper on the evolution of Unix Time Sharing, have an Interview with Kris

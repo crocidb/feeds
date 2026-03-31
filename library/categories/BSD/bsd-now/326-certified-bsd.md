@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/326"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.584120378Z"
-seen = false
+seen = true
 +++
 
 LPI releases BSD Certification, openzfs trip report, Using FreeBSD with ports, LLDB threading support ready, Linux versus Open Source Unix, and more.

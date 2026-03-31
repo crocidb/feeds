@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/454"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.381250773Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 7.1 is out, Building Your Own FreeBSD-based NAS with ZFS Part 2, Let's try V on OpenBSD, Waiting for Randot, Compiling an OpenBSD kernel 50% faster, A Salute for 10+ years of service, and more

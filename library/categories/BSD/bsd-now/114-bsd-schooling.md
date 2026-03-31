@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/114"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.091981649Z"
-seen = false
+seen = true
 +++
 
 This week, Allan is out of town at another Developer Summit, but we have a great episode coming

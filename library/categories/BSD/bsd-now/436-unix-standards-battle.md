@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/436"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.408242033Z"
-seen = false
+seen = true
 +++
 
 UNIX Wars, What every IT person needs to know about OpenBSD Part 3, FreeBSD 12.3 is here, TrueNAS 13 begins, what Unix pre-boot envs looked liked, run Unix on Microcontrollers with PDP-11 emulators and more.

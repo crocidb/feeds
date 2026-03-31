@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/378"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.496778645Z"
-seen = false
+seen = true
 +++
 
 Interview with Michael W. Lucas: SNMP and TLS book, cashflow for creators, book sale and more.

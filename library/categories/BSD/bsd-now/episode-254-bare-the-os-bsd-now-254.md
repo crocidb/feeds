@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/254"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.735450622Z"
-seen = false
+seen = true
 +++
 
 Control flow integrity with HardenedBSD, fixing bufferbloat with OpenBSD’s pf, Bareos Backup Server on FreeBSD, MeetBSD CfP, crypto simplified interface, twitter gems, interesting BSD commits, and more.

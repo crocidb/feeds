@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/491"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.296209468Z"
-seen = false
+seen = true
 +++
 
 Dragonfly BSD 6.4 is out, Running OpenZFS – Choosing Between FreeBSD and Linux, OpenBSD Mastery: Filesystems ebook leaks, catching 71% spam, crazy unix shell prompts, Linux Binary Compatibility: Ubuntu on FreeBSD, Reproducible Builds Summit Venice 2022, and more

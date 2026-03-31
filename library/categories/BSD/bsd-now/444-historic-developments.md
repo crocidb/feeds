@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/444"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.396438742Z"
-seen = false
+seen = true
 +++
 
 The History of Berkeley DB, modern inetd in FreeBSD, the Unix argv[0] issue, retrocomputing can be more than games, read section 8 of the Unix users manual, and more.

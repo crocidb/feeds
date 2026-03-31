@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/446"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.393230684Z"
-seen = false
+seen = true
 +++
 
 Restoring a Tadpole SPARCbook 3, The FreeBSD Boot Process, Debugging an ioctl Problem on OpenBSD, Why my game PC runs FreeBSD and Kubuntu, DNSSEC, Badgers, and Orcs, Oh My, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/48"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.224172467Z"
-seen = false
+seen = true
 +++
 
 Coming up in this week's episode, we'll be talking with one of OpenBSD's newest developers - Brent Cook - about the portable version of LibreSSL and how it's developed. We've also got some information about the FreeBSD port of LibreSSL you might not know. The latest news and your emails, on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/440"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.402355768Z"
-seen = false
+seen = true
 +++
 
 GhostBSD 22.01 is available, Packet Scheduling with Dummynet and FreeBSD, Inside zone installation, Why the FreeBSD Desktop and my Linux Rant, How to install Gnome on OpenBSD, The important Unix idea of the "virtual filesystem switch", and more.

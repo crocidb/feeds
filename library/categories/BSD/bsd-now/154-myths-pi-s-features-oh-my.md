@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/154"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.011110591Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we are taking a look at a few different tutorials, including running your very own RPi web-server. (Come-on, you

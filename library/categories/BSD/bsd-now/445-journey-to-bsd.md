@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/445"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.394924532Z"
-seen = false
+seen = true
 +++
 
 Idiot's guide to OpenBSD on the Pinebook Pro, FreeBSD Periodic Scripts, history of service management in Unix, journey from macOS to FreeBSD, Unix processes “infecting” each other, navidrom music server on FreeBSD, and more.

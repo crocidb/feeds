@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/52"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.217035963Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we'll be chatting with Shawn Webb about his recent work with ASLR and PIE in FreeBSD. After that, we'll be showing you how you can create a reverse SSH tunnel to a system behind a firewall... how sneaky. Answers to your emails plus the latest news, on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/213"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.847798526Z"
-seen = false
+seen = true
 +++
 
 We recap EuroBSDcon in Paris, tell the story behind a pf PR, and show you how to do screencasting with OpenBSD.

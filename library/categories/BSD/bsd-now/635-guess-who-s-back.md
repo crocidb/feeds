@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/635"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.065409035Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 7.8, Building Enterprise Storage with Proxmox, SSD performance, Virtual Machines and more...

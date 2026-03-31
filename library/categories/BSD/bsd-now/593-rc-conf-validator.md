@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/593"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.139079159Z"
-seen = false
+seen = true
 +++
 
 FreeBSD replaces sendmail with dma, Why We Use FreeBSD Over Linux: A CTO’s Perspective, How I fell in love with OpenBSD, A GDC package for macOS/aarch64, Validate Your FreeBSD rc.conf, Replacing Proxmox with FreeBSD and Bhyve, OPNsense 24.7.10 released, Printing With FreeBSD, and more

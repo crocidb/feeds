@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/424"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.425769369Z"
-seen = false
+seen = true
 +++
 
 J language working on OpenBSD, Comparing FreeBSD GELI and OpenZFS encrypted pools, What is FreeBSD, actually?, OpenBSD's pledge and unveil from Python, and more.

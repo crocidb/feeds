@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/343"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.553450852Z"
-seen = false
+seen = true
 +++
 
 Fighting the Coronavirus with FreeBSD, Wireguard VPN Howto in OPNsense, NomadBSD 1.3.1 available, fresh GhostBSD 20.02, New FuryBSD XFCE and KDE images, pf-badhost 0.3 released, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/418"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.434328172Z"
-seen = false
+seen = true
 +++
 
 In this episode, we interview Michael W. Lucas about his latest book projects including Git sync murder, TLS Mastery, getting paid for creative work, writing tools and techniques, and more.

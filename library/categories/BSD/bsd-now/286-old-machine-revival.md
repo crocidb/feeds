@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/286"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.659996100Z"
-seen = false
+seen = true
 +++
 
 Adding glue to a desktop environment, flashing the BIOS on a PC Engine, revive a Cisco IDS into a capable OpenBSD computer, An OpenBSD WindowMaker desktop, RealTime data compression, the love for pipes, and more.

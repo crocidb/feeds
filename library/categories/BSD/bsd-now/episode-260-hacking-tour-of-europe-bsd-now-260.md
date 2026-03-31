@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/260"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.719210735Z"
-seen = false
+seen = true
 +++
 
 Trip reports from the Essen Hackathon and BSDCam, CfT: ZFS native encryption and UFS trim consolidation, ZFS performance benchmarks on a FreeBSD server, how to port your OS to EC2, Vint Cerf about traceability, Remote Access console to an RPi3 running FreeBSD, and more.

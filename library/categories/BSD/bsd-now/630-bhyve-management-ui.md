@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/630"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.073878019Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Foundation Q2 2025 Status Update, Keeping Data Safe with OpenZFS, Ollama on FreeBSD Using GPU Passthrough, ClonOS, Preliminary support for Raspberry Pi 5, Sylve: Manage bhyve VMs and Clusters on FreeBSD, Preventing Systemd DHCP RELEASE Behavior, Call for testing - Samba 4.22, and more

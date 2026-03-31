@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/145"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.029770956Z"
-seen = false
+seen = true
 +++
 
 It’s BSDCan time! Allan and I are both enjoying what is sure to be a super-busy week, but don’t think we’ve forgotten about

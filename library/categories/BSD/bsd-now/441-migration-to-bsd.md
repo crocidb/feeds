@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/441"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.400906658Z"
-seen = false
+seen = true
 +++
 
 Migrating our servers from Linux to FreeBSD, Cluster provisioning with Nomad and Pot on FreeBSD, LibBSDDialog, FreeBSD 13.0 Base Jails with ZFS and VNET, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/295"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.644009382Z"
-seen = false
+seen = true
 +++
 
 Introducing funlinkat(), an OpenBSD Router with AT&T U-Verse, using NetBSD on a raspberry pi, ZFS encryption is still under development, Rump kernel servers and clients tutorial, Snort on OpenBSD 6.4, and more.

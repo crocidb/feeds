@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/553"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.199813213Z"
-seen = false
+seen = true
 +++
 
 Using Git offline, Make your own E-mail server, quiz: a tool for rapid OpenZFS development, Configuring openzfs for nvme databases, Mirroring OmniOS: The Complete Guide part 1, Installing OpenBSD 7.4 on a VisionFive 2 rev, and more...

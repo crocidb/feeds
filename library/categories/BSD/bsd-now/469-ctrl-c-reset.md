@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/469"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.358718410Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Q2 2022 Status Report, FreeBSD in Science, fastest yes(1) in the west, Why Programmers Can’t "Reset" Programs With Ctrl-C, Run Slack in FreeBSD’s Linuxulator, and more.

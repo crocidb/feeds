@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/575"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.166393248Z"
-seen = false
+seen = true
 +++
 
 X Window System At 40, Lessons from Ancient File Systems, HardenedBSD July 2024 Status Report, FreeBSD's 'root on ZFS' is appealing, I Miss BSD/Linux, Simple automated deployments using git

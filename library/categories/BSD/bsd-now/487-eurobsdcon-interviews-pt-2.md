@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/487"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.302290954Z"
-seen = false
+seen = true
 +++
 
 This year end episode of BSDNow features a trip report to EuroBSDcon by Mr. BSD.tv, as well as an interview with FreeBSD committer John Baldwin. Happy New Year, 2023!

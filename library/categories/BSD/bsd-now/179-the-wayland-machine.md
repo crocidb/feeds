@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/179"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.956344903Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we’re going to be leading off with the latest news about Wayland and Xorg support on FreeBSD, then a look at OpenBSD ARM64

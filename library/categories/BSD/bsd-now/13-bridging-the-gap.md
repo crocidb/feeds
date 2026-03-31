@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/13"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.288280319Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we sit down for an interview with Jordan Hubbard, one of the founders of the FreeBSD project - and the one who invented ports! Later in the show, we'll be showing you some new updates to the OpenBSD router tutorial from a couple weeks ago. We've also got news, your questions and even our first viewer-submitted video, right here on BSD Now.. the place to B.. SD.

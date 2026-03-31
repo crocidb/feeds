@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/419"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.432853684Z"
-seen = false
+seen = true
 +++
 
 Reviewing a first OpenBSD port, NetBSD 9.2 on a DEC Alpha CPU in QEMU with X11, FreeBSD Experiment Rethinks the OS Install, GhostBSD switching to FreeBSD rc.d, Irix gets LLVM, and more.

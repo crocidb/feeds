@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/628"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.080414364Z"
-seen = false
+seen = true
 +++
 
 The Hype is the Product, Programmers Aren’t So Humble Anymore—Maybe Because Nobody Codes in Perl, Is OpenBSD 10x faster than Linux?, How to install FreeBSD on providers that don't support it with mfsBSD, SSHX, Zvault Status Update, and more

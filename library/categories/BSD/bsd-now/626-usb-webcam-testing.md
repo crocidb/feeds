@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/626"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.084826300Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Journal Summer 2025 Edition, Java hiding in plain sight, BSDCan 2025 Trip report, Call for testing OpenBSD webcams, recent new features in OpenSSH, Improved 802.11g AP compatibility check, and more

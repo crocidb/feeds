@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/195"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.894696340Z"
-seen = false
+seen = true
 +++
 
 A pledge of love to OpenBSD, combating ransomware like WannaCry with OpenZFS, and using PFsense to maximize your non-gigabit Internet connection

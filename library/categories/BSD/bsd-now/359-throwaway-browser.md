@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/359"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.527266622Z"
-seen = false
+seen = true
 +++
 
 Throw-Away Browser on FreeBSD With "pot" within 5 minutes, OmniOS as OpenBSD guest with bhyve, BSD vs Linux distro development, My FreeBSD Laptop Build, FreeBSD CURRENT Binary Upgrades, and more.

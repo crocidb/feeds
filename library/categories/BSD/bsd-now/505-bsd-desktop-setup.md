@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/505"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.274244686Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 7.3 released, Accelerating Datacenter Energy Efficiency by Leveraging FreeBSD as Your Server OS, install Cinnamon as a Desktop environment, xmonad FreeBSD set up from scratch, Burgr books in your terminal, and more

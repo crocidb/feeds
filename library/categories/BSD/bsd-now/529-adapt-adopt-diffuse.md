@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/529"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.237061224Z"
-seen = false
+seen = true
 +++
 
 Adopting FreeBSD as Your Open Source Operating System, How Hard is it to Adapt a Memory Allocator to CHERI, Running Stable Diffusion on FreeBSD, Self-hosting Pixelfed on OpenBSD, Time Capsule instance using Samba, FreeBSD, and ZFS, and more

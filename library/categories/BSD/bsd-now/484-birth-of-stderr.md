@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/484"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.310305288Z"
-seen = false
+seen = true
 +++
 
 Virtualization showdown, The Birth of Standard Error, why Steam started picking a random font, Maintaining Sufficient Free Space with ZFS, updated Apple M1/M2 bootloader, code, FreeBSD on my workstation, and more

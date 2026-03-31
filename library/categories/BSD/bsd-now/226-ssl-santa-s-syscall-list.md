@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/226"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.808891265Z"
-seen = false
+seen = true
 +++
 
 We read the FreeBSD Q3 status report, explore good and bad syscalls, list GOG Games for OpenBSD, and show you what devmatch can do.

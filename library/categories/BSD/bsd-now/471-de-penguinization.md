@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/471"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.355806773Z"
-seen = false
+seen = true
 +++
 
 Ten Things To Do After Installing FreeBSD, BSD for Linux users, r2k22 Hackathon Report on rpki-client, Configuring OpenIKED, De-Penguin Me, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/171"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.974613838Z"
-seen = false
+seen = true
 +++
 
 Today on the show, we’ve got a look at running OpenBSD on a APU, some BSD in your Android, managing your own FreeBSD cloud service with ansible and much more. Keep it turned on your place to B...SD!

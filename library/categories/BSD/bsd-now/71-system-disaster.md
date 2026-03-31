@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/71"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.179817901Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be talking to Ian Sutton about his new BSD compatibility wrappers for various systemd dependencies. Don't worry, systemd is not being ported to BSD! We're still safe! We've also got all the week's news and answers to your emails, coming up on BSD Now - the place to B.. SD.

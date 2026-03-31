@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/516"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.257498518Z"
-seen = false
+seen = true
 +++
 
 Linux and FreeBSD Firewalls Part 1, Why Netflix Chose NGINX as the Heart of Its CDN, Protect your web servers against PHP shells and malwares, Installing and running Gitlab howto, and more

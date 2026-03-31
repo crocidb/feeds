@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/555"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.196693975Z"
-seen = false
+seen = true
 +++
 
 Kubernetes and back - Why I don't run distributed systems, NetApp’s strategic contributions to FreeBSD: a deep dive into upstreaming efforts, Make your own E-Mail server - Part 2 - Adding Webmail and More with Nextcloud, Poudriere on Apple Silicon, One less Un\*xy option for 32-bit PowerPC, and more

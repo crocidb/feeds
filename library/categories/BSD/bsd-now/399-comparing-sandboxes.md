@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/399"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.462638481Z"
-seen = false
+seen = true
 +++
 
 Comparing sandboxing techniques, Statement on FreeBSD development processes, customizing FreeBSD ports and packages, the quest for a comfortable NetBSD desktop, Nginx as a TCP/UDP relay, HardenedBSD March 2021 Status Report, Detailed Behaviors of Unix Signal, and more

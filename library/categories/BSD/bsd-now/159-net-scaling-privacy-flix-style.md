@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/159"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.000882328Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow! We’ve got Netflix + FreeBSD news to discuss, always a crowd pleaser, that plus EuroBSDCon is just around the corner. Stick around for your place

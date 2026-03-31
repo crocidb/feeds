@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/28"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.260792460Z"
-seen = false
+seen = true
 +++
 
 This week we're at AsiaBSDCon, so it'll be a shorter episode. We've got an interview with Eric Turgeon, founder of the desktop-focused GhostBSD project. Haven't heard of GhostBSD? Well stay tuned then. There's also a really interesting tutorial on how to serially concatenate disks in NetBSD. We'll be back next week with a normal episode.

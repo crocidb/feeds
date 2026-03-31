@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/168"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.981516693Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow. Allan and I are back from MeetBSD! A good time was had by all, lots to discuss, so let’s jump right into it on your place to B...SD!

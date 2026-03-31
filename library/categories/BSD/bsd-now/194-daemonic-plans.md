@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/194"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.896892039Z"
-seen = false
+seen = true
 +++
 
 This week on BSD Now we cover the latest FreeBSD Status Report, a plan for Open Source software development, centrally managing bhyve with Ansible, libvirt, and pkg-ssh, and a whole lot more.

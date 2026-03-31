@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/1"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.309476542Z"
-seen = false
+seen = true
 +++
 
 We kick off the first episode with the latest BSD news, show you how to avoid intrusion detection systems and talk to Peter Hessler about BGP spam blacklists!

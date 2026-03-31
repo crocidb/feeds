@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/59"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.204608893Z"
-seen = false
+seen = true
 +++
 
 This week on the show we'll be talking with Hiroki Sato about the status of BSD in Japan. We also get to hear about how he got on the core team, and we just might find out why NetBSD is so popular over there! Answers to all your emails, the latest news, and even a brand new segment, on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/74"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.173171017Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we've got something a little bit different for you. We'll be talking with Andrew Tanenbaum, the creator of MINIX. They've recently imported parts of NetBSD into their OS, and we'll find out how and why that came about. As always, all the latest news and answers to your emails, on BSD Now - the place to B.. SD.

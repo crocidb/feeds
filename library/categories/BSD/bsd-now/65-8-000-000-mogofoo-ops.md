@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/65"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.191375663Z"
-seen = false
+seen = true
 +++
 
 Coming up on the show this week, we've got an interview with Brendan Gregg of Netflix. He's got a lot to say about performance tuning and benchmarks, and even some pretty funny stories about how people have done them incorrectly. As always, this week's news and answers to your emails, on BSD Now - the place to B.. SD.

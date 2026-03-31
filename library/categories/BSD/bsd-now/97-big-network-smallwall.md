@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/97"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.125820632Z"
-seen = false
+seen = true
 +++
 
 Coming up this time on the show, we'll be chatting with Lee Sharp. He's recently revived the m0n0wall codebase, now known as SmallWall, and we'll find out what the future holds for this new addition to the BSD family. Answers to your emails and all this week's news, on BSD Now - the place to B.. SD.

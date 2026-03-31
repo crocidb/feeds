@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/319"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.597271048Z"
-seen = false
+seen = true
 +++
 
 Causing ZFS corruption for fun, NetBSD Assembly Programming Tutorial, The IKEA Lack Rack for Servers, a new OmniOS Community Edition LTS has been published, List Block Devices on FreeBSD lsblk(8) Style, Project Trident 19.10 available, and more.

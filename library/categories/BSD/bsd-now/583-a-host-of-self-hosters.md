@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/583"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.154418617Z"
-seen = false
+seen = true
 +++
 
 Run Linux Containers on FreeBSD 14 with Podman, Open Source FreeBSD NAS: Maintenance Best Practices, Self-hosting Bitwarden / VaultWarden on FreeBSD, I most definitely should (self-host)!, My 71 TiB ZFS NAS After 10 Years and Zero Drive Failures, Make Your Own CDN With OpenBSD Base and Just 2 Packages, and more

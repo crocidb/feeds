@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/242"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.765019860Z"
-seen = false
+seen = true
 +++
 
 TrueOS Stable 18.03 released, a look at F-stack, the secret to an open source business model, intro to jails and jail networking, FreeBSD Foundation March update, and the ipsec Errata.

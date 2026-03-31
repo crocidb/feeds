@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/624"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.089186777Z"
-seen = false
+seen = true
 +++
 
 OpenBSD chflags vs. Log Tampering, How to Defend Against Aggressive Web Scrapers With Anubis on FreeBSD 14, OpenBSD Innovations, Full Ada programming toolchain NOW on FreeBSD, Compute GPUs can have odd failures under Linux (still), A handy collection of shell aliases from my bash startup, and more

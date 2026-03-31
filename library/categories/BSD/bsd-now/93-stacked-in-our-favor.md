@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/93"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.134178106Z"
-seen = false
+seen = true
 +++
 
 We're at BSDCan this week, but fear not! We've got a great interview with Sepherosa Ziehau, a DragonFly developer, about their network stack. After that, we'll be discussing different methods of containment and privilege separation. Assuming no polar bears eat us, we'll be back next week with more BSD Now - the place to B.. SD.

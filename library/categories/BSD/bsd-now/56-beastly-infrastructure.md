@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/56"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.209788828Z"
-seen = false
+seen = true
 +++
 
 This week we're on the other side of the Atlantic, attending EuroBSDCon. For now, we've got an awesome interview with Peter Wemm about the FreeBSD web cluster and infrastructure. It's an inside look that you probably won't hear about anywhere else! We'll also get to a couple of your emails today, and be back next week with all the usual goodies, on BSD Now - the place to B.. SD.

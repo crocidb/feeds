@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/119"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.081995827Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow - It’s getting close to christmas and the

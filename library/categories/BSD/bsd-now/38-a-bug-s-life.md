@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/38"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.243670143Z"
-seen = false
+seen = true
 +++
 
 We're back from BSDCan! This week on the show we'll be chatting with Brian Callahan and Aaron Bieber about forming a local BSD users group. We'll get to hear their experiences of running one and maybe encourage some of you to start your own! After that, we've got a tutorial on the basics of NetBSD's package manager, pkgsrc. Answers to your emails and the latest headlines, on BSD Now - the place to B.. SD.

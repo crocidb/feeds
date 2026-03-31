@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/475"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.344805132Z"
-seen = false
+seen = true
 +++
 
 Prompt injection attacks against GPT-3, the History of Package Management on FreeBSD, A fresh look at FreeBSD, File Management Tools for Your Favorite Shell, Quick Guide about Video Playback on FreeBSD, and more.

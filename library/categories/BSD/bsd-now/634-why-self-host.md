@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/634"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.067316554Z"
-seen = false
+seen = true
 +++
 
 Why Self-host?, Advanced ZFS Dataset Management, Building a Simple Router with OpenBSD, Minimal pkgbase jails / chroots, WSL-For-FreeBSD, Yubico yubikey 5 nfc on FreeBSD, The Q3 2025 Issue of the FreeBSD Journal, and more

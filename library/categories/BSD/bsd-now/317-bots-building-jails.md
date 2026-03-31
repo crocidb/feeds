@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/317"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.601142515Z"
-seen = false
+seen = true
 +++
 
 Setting up buildbot in FreeBSD jails, Set up a mail server with OpenSMTPD, Dovecot and Rspamd, OpenBSD amateur packet radio with HamBSD, DragonFlyBSD's HAMMER2 gets fsck, return of startx for users.

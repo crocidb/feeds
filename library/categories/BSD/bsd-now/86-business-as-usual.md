@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/86"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.148303636Z"
-seen = false
+seen = true
 +++
 
 Coming up this time on the show, we'll be chatting with Antoine Jacoutot about how M:Tier uses BSD in their business. After that, we'll be discussing the different release models across the BSDs, and which style we like the most. As always, answers to your emails and all the latest news, on BSD Now - the place to B.. SD.

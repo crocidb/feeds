@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/278"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.674422858Z"
-seen = false
+seen = true
 +++
 
 We sat down at BSDCan 2018 to interview Kirk McKusick about various topics ranging about the early years of Berkeley Unix, his continuing work on UFS, the governance of FreeBSD, and more.

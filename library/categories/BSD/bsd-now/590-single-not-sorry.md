@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/590"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.143591895Z"
-seen = false
+seen = true
 +++
 
 In this episode, Benedict shows some of the tools he loves to use including Markdown (producing PDFs and other docs using Pandoc), AWK, and Graphviz. A lot of tutorials and getting-started links in this practical-oriented episode for you.

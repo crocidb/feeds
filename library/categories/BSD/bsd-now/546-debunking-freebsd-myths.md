@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/546"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.210452635Z"
-seen = false
+seen = true
 +++
 
 Debunking Common Myths About FreeBSD, Please, don’t force me to log in, Exploring FreeBSD service(8) basics, Failed Product Designs: A Laptop with Seven Screens, What’s a Permissive License – and Why Should I Care?, Beginning of the year Laugh

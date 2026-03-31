@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/503"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.277384273Z"
-seen = false
+seen = true
 +++
 
 ZFS Optimization Success Stories, Linux Namespaces Are a Poor Man's Plan 9 Namespaces, better support for SSH host certificates, Fast Unix Commands, Fascination with AWK, and more

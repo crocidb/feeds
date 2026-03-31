@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/282"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.667357284Z"
-seen = false
+seen = true
 +++
 
 Project Trident 18.12 released, Spotifyd on NetBSD, OPNsense 18.7.10 is available, Ultra EPYC AMD Powered Sun Ultra 24 Workstation, OpenRsync, LLD porting to NetBSD, and more.

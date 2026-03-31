@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/400"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.461097993Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 13 is here, multi-factor authentication on OpenBSD, KDE on FreeBSD 2021o2, NetBSD GSoC report, a working D compiler on OpenBSD, and more

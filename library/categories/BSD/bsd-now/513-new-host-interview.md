@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/513"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.262113795Z"
-seen = false
+seen = true
 +++
 
 We have a new show host, Understanding ZFS vdev Types, Don't abuse su for dropping user privileges, Dynamic Tracing on OpenBSD 7.3, new Libressl, Manual Jails on FreeBSD 12, and more

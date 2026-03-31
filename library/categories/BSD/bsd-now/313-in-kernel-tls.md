@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/313"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.609368559Z"
-seen = false
+seen = true
 +++
 
 OpenBSD on 7th gen Thinkpad X1 Carbon, how to install FreeBSD on a MacBook, Kernel portion of in-kernel TLS (KTLS), Boot Environments on DragonflyBSD, Project Trident Updates, vBSDcon schedule, and more.

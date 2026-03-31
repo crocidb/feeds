@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/294"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.645644901Z"
-seen = false
+seen = true
 +++
 
 A PI-powered Plan 9 cluster, an SSH tarpit, rdist for when Ansible is too much, falling in love with OpenBSD again, how I created my first FreeBSD port, the Tilde Institute of OpenBSD education and more.

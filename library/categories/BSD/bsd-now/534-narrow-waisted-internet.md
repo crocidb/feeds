@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/534"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.228736930Z"
-seen = false
+seen = true
 +++
 
 Migrating from an Old Linux Server to a New FreeBSD Machine, The Internet Was Designed With a Narrow Waist, The Worst New Guys In History, FreeBSD Jails vs. Docker: A Comparison, Oracle Developer Studio 12.6 on Illumos

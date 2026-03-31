@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/241"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.767397828Z"
-seen = false
+seen = true
 +++
 
 Second round of ZFS improvements in FreeBSD, Postgres finds that non-FreeBSD/non-Illumos systems are corrupting data, interview with Kevin Bowling, BSDCan list of talks, and cryptographic right answers.

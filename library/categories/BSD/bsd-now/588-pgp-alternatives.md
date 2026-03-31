@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/588"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.146707554Z"
-seen = false
+seen = true
 +++
 
 Deploying pNFS file sharing with FreeBSD, What To Use Instead of PGP, The slow evaporation of the FOSS surplus, I feel that NAT is inevitable even with IPv6, Spell checking in Vim, Iconic consoles of the IBM System/360 mainframes, 55 years old, and more

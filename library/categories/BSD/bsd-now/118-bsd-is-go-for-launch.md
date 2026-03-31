@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/118"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.083939204Z"
-seen = false
+seen = true
 +++
 
 Coming up on BSDNow - We know init systems have been all the rage

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/210"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.855308190Z"
-seen = false
+seen = true
 +++
 
 In this episode, we take a look at the reimplementation of NetBSD using a Microkernel, check out what makes DHCP faster, and see what high-process count support for DragonflyBSD has to offer, and we answer the questions you’ve always wanted to ask us.

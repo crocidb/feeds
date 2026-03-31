@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/543"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.215109091Z"
-seen = false
+seen = true
 +++
 
 OpenZFS Storage Best Practices and Use Cases Part 3: Databases and VMs, 2023 in Review: Continuous Integration and Workflow Improvement, Running OpenBSD on OmniOS using bhyve, FreeBSD jailed ZFS datasets – how do I find the .zfs/snapshot directory?, OpenBSD workstation hardening, KDE Plasma now linked to packages build on -current, MidnightBSD 3.1.3 release

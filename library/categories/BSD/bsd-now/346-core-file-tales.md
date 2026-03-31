@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/346"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.548392625Z"
-seen = false
+seen = true
 +++
 
 Tales from a core file, Lenovo X260 BIOS Update with OpenBSD, the problem of Unix iowait and multi-CPU machines, Hugo workflow using FreeBSD Jails, Caddy, Restic; extending NetBSD-7 branch support, a tale of two hypervisor bugs, and more.

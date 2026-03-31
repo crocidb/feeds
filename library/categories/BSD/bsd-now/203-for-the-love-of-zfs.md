@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/203"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.874259026Z"
-seen = false
+seen = true
 +++
 
 This week on BSD Now, we clear up some ZFS FUD, show you how to write a NetBSD kernel module, and cover DragonflyBSD on the desktop.

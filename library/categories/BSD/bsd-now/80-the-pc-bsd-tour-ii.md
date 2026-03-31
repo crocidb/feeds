@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/80"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.159409707Z"
-seen = false
+seen = true
 +++
 
 We're away at AsiaBSDCon this week, but we've still got a packed episode for you. First up is a sequel to the "PC-BSD tour" segment from a while back, highlighting how ZFS boot environments work. After that, Justin Gibbs joins us to talk about the FreeBSD foundation's 15th anniversary. We'll return next week with a normal episode of BSD Now - which is of course, the place to B.. SD.

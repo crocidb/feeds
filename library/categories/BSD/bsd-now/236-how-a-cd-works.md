@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/236"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.781582997Z"
-seen = false
+seen = true
 +++
 
 Well cover OpenBSDs defensive approach to OS security, help you Understanding Syscall Conventions for Different Platforms, Mishandling SMTP Sender Verification, how the cd command works, and the LUA boot loader coming to FreeBSD.

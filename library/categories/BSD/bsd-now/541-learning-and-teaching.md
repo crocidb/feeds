@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/541"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.218188828Z"
-seen = false
+seen = true
 +++
 
 Security, Performance, and Interoperability; Introducing FreeBSD 14, HardenedBSD November 2023 Status Report, How to create a FreeBSD Jail hosting a remote desktop, A sneak Peak, Programming FreeBSD Reading Process Information, Why Unix kernels have grown caches for directory entries 'name caches', Always learning, Always Teaching

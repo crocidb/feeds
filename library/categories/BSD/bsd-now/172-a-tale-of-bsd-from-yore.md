@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/172"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.972090090Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we have a very special guest joining us to tell us a tale of the early days in BSD history. That plus some new OpenSSH goodness, shell scripting utilities and much more. Stay tuned for your place to B...SD!

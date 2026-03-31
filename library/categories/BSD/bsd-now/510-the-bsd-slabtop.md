@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/510"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.266604482Z"
-seen = false
+seen = true
 +++
 
 AsiaBSDCon 2023 Trip Report, Converting My X201 ThinkPad into a Slabtop, Stream your OpenBSD desktop audio to other devices, The Gnome and Its "Secret Place", ttyload, and more

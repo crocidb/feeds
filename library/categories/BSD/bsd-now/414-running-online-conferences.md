@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/414"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.440176938Z"
-seen = false
+seen = true
 +++
 
 OpenZFS 2.1 is out, FreeBSD TCP Performance System Controls, IPFS OpenBSD, tips for running an online conference, fanless OpenBSD laptop, and more.

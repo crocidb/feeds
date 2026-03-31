@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/338"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.562349815Z"
-seen = false
+seen = true
 +++
 
 Distrowatch reviews FuryBSD, LLDB on i386 for NetBSD, wpa\_supplicant as lower-class citizen, KDE on FreeBSD updates, Travel Grant for BSDCan open, ZFS dataset for testing iocage within a jail, and more.

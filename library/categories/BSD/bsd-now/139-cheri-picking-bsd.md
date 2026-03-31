@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/139"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.041946607Z"
-seen = false
+seen = true
 +++
 
 This week, Allan is out of town, but since when has that ever stopped us from bringing you a new episode of BSDNow? We have news,

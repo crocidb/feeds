@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/496"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.288069804Z"
-seen = false
+seen = true
 +++
 
 Automation and Hacking Your FreeBSD CLI, Run your own instant messaging service on FreeBSD, Watch Netflix on FreeBSD, HardenedBSD January 2023 Status Report, How To Set Up SSH Keys With YubiKey as two-factor authentication, OpenSSH fixes double-free memory bug that’s pokable over the network, A late announcement, but better late than never, Next NYC\*BUG and more

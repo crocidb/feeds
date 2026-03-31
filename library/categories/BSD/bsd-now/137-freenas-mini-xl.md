@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/137"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.045493134Z"
-seen = false
+seen = true
 +++
 
 This week on BSD Now, I’m out of town for the week, but we have a special unboxing video to share with you, that you won’t want to miss. That, plus the latest BSD news, is coming your way right now!

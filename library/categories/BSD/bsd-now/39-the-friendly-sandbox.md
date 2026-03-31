@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/39"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.241911324Z"
-seen = false
+seen = true
 +++
 
 This time on the show we'll be talking with Jon Anderson about Capsicum and Casper to securely sandbox processes. After that, our tutorial will show you how to encrypt all your DNS lookups, either on a single system or for your whole network. News, emails and all the usual fun, on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/02/10/miller-in-the-dock/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-02-11T20:16:52.194694287Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/10Feb2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/02/10/miller-in-the-dock/)

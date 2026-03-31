@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/186"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.935053729Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, reports from AsiaBSDcon, TrueOS and FreeBSD news, Optimizing IllumOS Kernel, your questions and more.

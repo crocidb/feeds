@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/196"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.892241792Z"
-seen = false
+seen = true
 +++
 
 This week on BSD Now, we review the EuroBSDcon schedule, we explore the mysteries of Docker on OpenBSD, and show you how to run PostgreSQL on ZFS.

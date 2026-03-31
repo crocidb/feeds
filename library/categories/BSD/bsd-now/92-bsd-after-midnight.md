@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/92"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.135912265Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we'll be chatting with Lucas Holt, founder of MidnightBSD. It's a slightly lesser-known fork of FreeBSD, with a focus on easy desktop use. We'll find out what's different about it and why it was created. Answers to your emails and all this week's news, on BSD Now - the place to B.. SD.

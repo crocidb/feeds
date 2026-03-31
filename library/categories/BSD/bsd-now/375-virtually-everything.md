@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/375"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.501640451Z"
-seen = false
+seen = true
 +++
 
 bhyve - The FreeBSD Hypervisor, udf information leak, being a vim user instead of classic vi, FreeBSD on ESXi ARM Fling: Fixing Virtual Hardware, new FreeBSD Remote Process Plugin in LLDB, OpenBSD Laptop, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/612"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.109984421Z"
-seen = false
+seen = true
 +++
 
 I use Zip Bombs to Protect my Server, Owning the Stack: Infrastructure Independence with FreeBSD and ZFS, Optimisation of parallel TCP input, Chosing between "it works for now" and "it works in the long term", Losing one of my evenings after an OpenBSD upgrade, What drive did I just remove from the system?, and more

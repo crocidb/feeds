@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/30"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.257672852Z"
-seen = false
+seen = true
 +++
 
 Finally hit 30 episodes! Today we'll be chatting with Warren Block to discuss BSD documentation efforts and future plans. If you've ever wondered about the scary world of mailing lists, today's tutorial will show you the basics of how to get help and contribute back. There's lots to get to today, so sit back and enjoy some BSD Now - the place to B.. SD.

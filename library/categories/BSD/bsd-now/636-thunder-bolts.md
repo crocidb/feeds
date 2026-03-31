@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/636"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.063120187Z"
-seen = false
+seen = true
 +++
 
 Thunderbolt on FreeBSD, ZFS on Illumos and Linux and FreeBSD, ZFS Compression, Home networking monitoring, LibreSSH and OpenSSH releases and more...

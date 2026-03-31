@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/151"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.017733845Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we have all sorts of interesting news, including a Kernel Fuzzing audit done for OpenBSD, a much improved

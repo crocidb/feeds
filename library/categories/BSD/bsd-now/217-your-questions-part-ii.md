@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/217"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.836386084Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 6.2 is here, style arguments, a second round of viewer interview questions, how to set CPU affinity for FreeBSD jails, containers on FreeNAS & more!

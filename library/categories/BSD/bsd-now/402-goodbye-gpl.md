@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/402"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.457777125Z"
-seen = false
+seen = true
 +++
 
 It's time to say goodbye to the GPL, a new OCI Runtime for FreeBSD Jails, A bit of Xenix history, On Updating QEMU's bsd-user fork, FreeBSD 13 on a 12 year old laptop, and more.

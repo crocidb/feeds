@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/331"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.575220215Z"
-seen = false
+seen = true
 +++
 
 How learning OpenBSD makes computers suck a little less, How Unix works, FreeBSD 12.1 Runs Well on Ryzen Threadripper 3970X, BSDCan CFP, HardenedBSD Infrastructure Goals, and more.

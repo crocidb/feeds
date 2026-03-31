@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/275"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.682067393Z"
-seen = false
+seen = true
 +++
 
 DragonflyBSD 5.4 has been released, down the Gopher hole with OpenBSD, OpenBSD in stereo with VFIO, BSD/OS the best candidate for legally tested open source Unix, OpenBGPD adds diversity to the routing server landscape, and more.

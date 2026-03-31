@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/425"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.424282991Z"
-seen = false
+seen = true
 +++
 
 The New Architecture on the Block, OpenBSD on Vortex86DX CPU, lots of new releases, and more.

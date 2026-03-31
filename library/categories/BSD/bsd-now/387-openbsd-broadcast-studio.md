@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/387"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.482283026Z"
-seen = false
+seen = true
 +++
 
 GNN's tips for surviving Cabin Fever and Coding from Home, Self-host a password manager on OpenBSD, Preliminary OpenBSD Support added to OBS, Dan's CURL tip of the Day, List of some Shell goodies for OpenBSD, and more

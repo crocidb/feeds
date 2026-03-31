@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/214"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.844369239Z"
-seen = false
+seen = true
 +++
 
 The costs of open sourcing a project are explored, we discover why PS4 downloads are so slow, delve into the history of UNIX man pages, and more.

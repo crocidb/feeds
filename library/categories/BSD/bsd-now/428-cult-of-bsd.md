@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/428"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.419838834Z"
-seen = false
+seen = true
 +++
 
 OpenBSD Part 1: How it all started, Explaining top(1) on FreeBSD, Measuring power efficiency of a CPU frequency scheduler on OpenBSD, CultBSD, a whole lot of BSD bits, and more.

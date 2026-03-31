@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/247"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.753329358Z"
-seen = false
+seen = true
 +++
 
 FreeBSD internship learnings, exciting developments coming to FreeBSD, running FreeNAS on DigitalOcean, Network Manager control for OpenBSD, OpenZFS User Conference Videos are here and batch editing files with ed.

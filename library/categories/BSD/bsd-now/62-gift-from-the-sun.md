@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/62"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.197658188Z"
-seen = false
+seen = true
 +++
 
 We're away at MeetBSD this week, but we've still got a great show for you. We'll be joined by Pawel Dawidek, who's done quite a lot of things in FreeBSD over the years, including the initial ZFS port. We'll get to hear how that came about, what he's up to now and a whole lot more. We'll be back next week with a normal episode of BSD Now - the place to B.. SD.

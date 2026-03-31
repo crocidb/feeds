@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/229"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.801027382Z"
-seen = false
+seen = true
 +++
 
 We review Meltdown and Spectre responses from various BSD projects, show you how to run CentOS with bhyve, GhostBSD 11.1 is out, and we look at the case against the fork syscall.

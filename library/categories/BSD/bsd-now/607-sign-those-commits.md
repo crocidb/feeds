@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/607"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.117834446Z"
-seen = false
+seen = true
 +++
 
 We should improve libzfs somewhat, Accurate Effective Storage Performance Benchmark, Debugging aids for pf firewall rules on FreeBSD, OpenBSD and Thunderbolt issue on ThinkPad T480s, Signing Git Commits with an SSH key, Pgrep, LibreOffice downloads on the rise, and more

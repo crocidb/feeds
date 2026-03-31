@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/290"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.652370866Z"
-seen = false
+seen = true
 +++
 
 FreeBSD on Cavium ThunderX, looking at NetBSD as an OpenBSD user, taking time-stamped notes in vim, OpenBSD 6.5 has been tagged, FreeBSD and NetBSD in GSoC 2019, SecBSD: an UNIX-like OS for Hackers, and more.

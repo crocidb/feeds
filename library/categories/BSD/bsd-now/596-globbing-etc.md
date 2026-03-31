@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/596"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.134597233Z"
-seen = false
+seen = true
 +++
 
 Ridding my home network of IP addresses, Tools for Identifying and Resolving Storage Bottlenecks, OpenBGPD 8.7 released, Let's port the GNAT Ada compiler to macOS/aarch64, Modify an OmniOS service parameters, The history and use of /etc/glob in early Unixes, and more

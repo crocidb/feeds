@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/652"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.029130534Z"
-seen = false
+seen = true
 +++
 
 OpenZFS monitoring, hellosystems 0.8, GhostBSD and XLibre, Bhyve Exporters and 30 year old LibC issues.

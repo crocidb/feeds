@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/377"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.498408604Z"
-seen = false
+seen = true
 +++
 
 History of FreeBD: BSDi and USL Lawsuits, Building a Website on Google Compute Engine, Firewall ban-sharing across machines, OpenVPN as default gateway on OpenBSD, Sorting out what the Single Unix Specification is, Switching from Apple to a Thinkpad for development, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/303"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.628183324Z"
-seen = false
+seen = true
 +++
 
 OpenZFS-kmod port available, using blacklistd with NPF as fail2ban replacement, ZFS raidz expansion alpha preview 1, audio VU-meter increases CO2 footprint rant, XSAVE and compat32 kernel work for LLDB, where icons for modern X applications come from, and more.

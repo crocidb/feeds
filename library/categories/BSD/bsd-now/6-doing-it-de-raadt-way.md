@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/6"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.300915968Z"
-seen = false
+seen = true
 +++
 
 On this week's episode we'll show you how to securely run graphical applications in a jail, we sit down and chat with OpenBSD founder Theo de Raadt and, as always, get you caught up on all the latest news. All that and more, this week on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/489"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.299244527Z"
-seen = false
+seen = true
 +++
 
 FreeBSD vs. Linux – Networking, HDMI sound output through TV speakers on FreeBSD 13, Getting started with tmux, Samba Active Directory, OpenIKED 7.2 released, FreeBSD Plasma 5 GUI Install, DHCP server howto in German, and more

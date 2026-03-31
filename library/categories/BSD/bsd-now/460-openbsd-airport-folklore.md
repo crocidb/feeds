@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/460"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.372264641Z"
-seen = false
+seen = true
 +++
 
 Containerd gains support for launching Linux containers on FreeBSD, OpenBSD 7.1 on PINE64 RockPro64, true minimalistic window manager does not exist, OpenBSD folklore, HardenedBSD May 2022 Status Report, DragonFlyBSD 6.2.2 out, and more

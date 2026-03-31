@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/129"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.061674102Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we will be talking to John Marino about his work on the ports-mgmt utility “Synth” and the cross-pollination between DragonFly and FreeBSD. That plus the latest news and your email here on

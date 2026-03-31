@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/347"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.546699317Z"
-seen = false
+seen = true
 +++
 
 Rethinking OpenBSD security, FreeBSD 2020 Q1 status report, the notion of progress and user interfaces, Comments about Thomas E. Dickey on NetBSD curses, making Unix a little more Plan9-like, Not-actually Linux distro review: FreeBSD, and more.

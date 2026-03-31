@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/334"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.569333160Z"
-seen = false
+seen = true
 +++
 
 Upgrading FreeBSD from 11.3 to 12.1, Distrowatch switching to FreeBSD, Torvalds says don’t run ZFS, iked(8) removed automatic IPv6 blocking, working towards LLDB on i386, and memory-hard Argon2 hashing scheme in NetBSD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/355"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.533583567Z"
-seen = false
+seen = true
 +++
 
 Upgrading OpenBSD, Where do Unix man pages come from?, Help for NetBSD’s VAX port, FreeBSD on Dell Latitude 7390, PFS Tool changes in DragonflyBSD, and more.

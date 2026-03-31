@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/508"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.269789209Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Foundation Welcomes New Team Members, OpenZFS the Ideal Storage Solution for University Environments, SCaLE20X Conference Report, 916 days of Emacs, XTerm: It's Better Than You Thought, NetBSD Annual General Meeting 2023, and more

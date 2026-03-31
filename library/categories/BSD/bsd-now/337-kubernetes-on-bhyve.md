@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/337"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.564294264Z"
-seen = false
+seen = true
 +++
 
 Happinesses and stresses of full-time FOSS work, building a FreeBSD fileserver, Kubernetes on FreeBSD bhyve, NetBSD 9 RC1 available, OPNSense 20.1 is here, HardenedBSD’s idealistic future, and more.

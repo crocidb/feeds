@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/311"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.613087876Z"
-seen = false
+seen = true
 +++
 
 NetBSD 9.0 release process has started, xargs, a tale of two spellcheckers, Adapting TriforceAFL for NetBSD, Exploiting a no-name freebsd kernel vulnerability, and more.

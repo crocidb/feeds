@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/519"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.252959902Z"
-seen = false
+seen = true
 +++
 
 3 Advantages to Running FreeBSD as Your Server OS, FreeBSD 14 Release Schedule, Stream your OpenBSD desktop audio, DOD KSOS Secure UNIX Operating System Manual, How to limit bandwidth usage with SCP transfers, and more.

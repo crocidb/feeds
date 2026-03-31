@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/136"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.047403273Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we will be interviewing GNN of the FreeBSD project to talk about the new TeachBSD initiative. That plus the latest BSD headlines, all coming your way right now!

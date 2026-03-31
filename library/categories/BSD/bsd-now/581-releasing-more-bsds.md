@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/581"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.157589125Z"
-seen = false
+seen = true
 +++
 
 Debunking Common Myths About FreeBSD - Part 2, FreeBSD 13.4-RELEASE Announcement, OpenBSD -current has moved to version 7.6, acpidumping,Install snac2 on FreeBSD – An ActivityPub Instance for the Fediverse, Managing dotfiles with chezmoi, Podman testing on FreeBSD, and more

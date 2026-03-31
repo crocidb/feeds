@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/499"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.283448549Z"
-seen = false
+seen = true
 +++
 
 We’re interviewing Dan Langille about his new server project. He’ll talk to us about the things he’s building, some of which are a bit out of the ordinary. We’re also talking about BSDCan 2023 and what to expect after returning to an in-presence conference format. Enjoy!

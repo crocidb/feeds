@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/354"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.535254235Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 11.4-RC 2 available, OpenBSD 6.7 on a PineBook Pro 64, How OpenZFS Keeps Your Data Safe, Bringing FreeBSD to EC2, FreeBSD 2020 Community Survey, and more.

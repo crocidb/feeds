@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/631"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.076011798Z"
-seen = false
+seen = true
 +++
 
 Secure Boot for FreeBSD, Systems lie about their proper functioning, Teching the tech and rushing the endorphins, Passing a Device Into A FreeBSD Jail With A Stable Name, ZFS snapshots aren't as immutable as I thought, due to snapshot metadata, Let's write a peephole optimizer for QBE's arm64 backend, Migrate a Peertube instance from Debian to FreeBSD, and more

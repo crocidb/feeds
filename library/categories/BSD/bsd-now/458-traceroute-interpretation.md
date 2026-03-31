@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/458"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.375232608Z"
-seen = false
+seen = true
 +++
 
 Fundamentals of the FreeBSD Shell, Spammers in the Public Cloud, locking user accounts properly, overgrowth on NetBSD, moreutils, ctwm & spleen, interpreting a traceroute, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/479"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.330303183Z"
-seen = false
+seen = true
 +++
 
 EuroBSDcon 2022 as first BSD conference, Red Hat’s OpenShift vs FreeBSD Jails, Running a Docker Host under OpenBSD using vmd(8), history of sending signals to Unix process groups, Toolchains adventures - Q3 2022, and more

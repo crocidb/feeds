@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/461"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.370675641Z"
-seen = false
+seen = true
 +++
 
 Q1 FreeBSD Quarterly Status Report 2022, Nginx on OpenBSD 7.1, Persistent Memory Allocation, Colorize your BSD shell, cgit With Gitolite and Nginx on FreeBSD 13, and more

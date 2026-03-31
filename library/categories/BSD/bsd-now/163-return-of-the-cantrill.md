@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/163"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.991957246Z"
-seen = false
+seen = true
 +++
 
 The wait is over, 11.0 of FreeBSD has (officially) launched. We’ll have coverage of this, plus a couple looks back at UNIX history, and a crowd-favorite guest today.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/130"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.059720763Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, Allan is back from the Storage Summit in Silicon Valley! We are going to get his thoughts on how the conference went, plus bring you the latest ZFS info discussed. That plus the usual BSD news is

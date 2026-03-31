@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/383"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.488789101Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Remote Process Plugin Final Milestone achieved, Tailscale for OpenBSD, macOS to FreeBSD migration, monitoring of our OpenBSD machines, OPNsense 20.7.6 released, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/332"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.573122807Z"
-seen = false
+seen = true
 +++
 
 Announcing HyperbolaBSD, IPFW In-Kernel NAT setup on FreeBSD, Wayland and WebRTC enabled for NetBSD 9/Linux, LLDB Threading support ready for mainline, OpenSSH U2F/FIDO support in base, Dragonfly drm/i915: Update, and more.

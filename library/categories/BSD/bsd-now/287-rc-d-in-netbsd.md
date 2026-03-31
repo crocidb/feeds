@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/287"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.657996992Z"
-seen = false
+seen = true
 +++
 
 Design and Implementation of NetBSD’s rc.d system, first impressions of Project Trident 18.12, PXE booting a FreeBSD disk image, middle mouse button pasting, NetBSD gains hardware accelerated virtualization, and more.

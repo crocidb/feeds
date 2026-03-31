@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/140"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.039923489Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, Allan is back in down from Europe! We’ll get to hear some of his wrap-up and get caught up on the latest BSD

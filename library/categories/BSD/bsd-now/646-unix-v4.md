@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/646"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.039279215Z"
-seen = false
+seen = true
 +++
 
 The Unix v4 recovery, webzfs, openbgpd 9.0, MidnightBSD 4.0, and more...

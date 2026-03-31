@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/279"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.673077260Z"
-seen = false
+seen = true
 +++
 
 The future of ZFS in FreeBSD, we pick highlights from the FreeBSD quarterly status report, flying with the raven, modern KDE on FreeBSD, many ways to launch FreeBSD in EC2, GOG installers on NetBSD, and more.

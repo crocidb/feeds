@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/123"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.073836043Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we will be talking shop with Josh Paetzel of FreeNAS fame, hearing about his best do’s and do-nots of using ZFS in production. Also, a quick

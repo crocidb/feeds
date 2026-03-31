@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/430"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.416930846Z"
-seen = false
+seen = true
 +++
 
 Manipulate a ZFS pool from Rescue System, FreeBSD 3rd Quarter Report, Monitoring FreeBSD jails form the host, OpenBSD on RPI4 with Full Disk Encryption, Onwards with OpenBSD, and more

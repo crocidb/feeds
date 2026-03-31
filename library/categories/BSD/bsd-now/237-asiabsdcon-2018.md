@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/237"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.778742009Z"
-seen = false
+seen = true
 +++
 
 AsiaBSDcon review, Meltdown and Spectre Patches in FreeBSD stable, Interview with MidnightBSD founder, 8 months with TrueOS, mysteries of GNU and BSD split

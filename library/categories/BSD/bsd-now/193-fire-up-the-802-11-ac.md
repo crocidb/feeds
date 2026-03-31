@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/193"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.899323947Z"
-seen = false
+seen = true
 +++
 
 This week on BSD Now, Adrian Chadd on bringing up 802.11ac in FreeBSD, a PFsense and OpenVPN tutorial, and we talk about an interesting ZFS storage pool checkpoint project.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/562"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.186128133Z"
-seen = false
+seen = true
 +++
 
 My personal BSDCan Devsummit and Schedule, Syncthing, Paperless-ngx, neovim, Things we always remind ourselves while coding, and more.

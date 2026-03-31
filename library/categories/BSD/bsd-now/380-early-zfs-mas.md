@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/380"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.493754627Z"
-seen = false
+seen = true
 +++
 
 We read FreeBSD’s 3rd quarter status report, OpenZFS 2.0, adding check-hash checks in UFS filesystem, OpenSSL 3.0 /dev/crypto issues on FreeBSD, and more.

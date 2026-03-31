@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/302"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.630182332Z"
-seen = false
+seen = true
 +++
 
 DragonFlyBSD's kernel optimizations pay off, differences between OpenBSD and Linux, NetBSD 2019 Google Summer of Code project list, Reducing that contention, fnaify 1.3 released, vmctl(8): CLI syntax changes, and things that Linux distributions should not do when packaging.

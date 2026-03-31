@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/629"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.078087056Z"
-seen = false
+seen = true
 +++
 
 The Death of Industrial Design, Host naming Convensions, Symbian reflections, bash timeouts, nvme vs ssds, a system to organize your life, and more.

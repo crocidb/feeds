@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/105"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.108084067Z"
-seen = false
+seen = true
 +++
 
 It's already our two-year anniversary! This time on the show, we'll be chatting with Scott Courtney, vice president of infrastructure engineering at Verisign, about this year's vBSDCon. What's it have to offer in an already-crowded BSD conference space? We'll find out.

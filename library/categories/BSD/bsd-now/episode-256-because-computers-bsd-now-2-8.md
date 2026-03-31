@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/256"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.730223586Z"
-seen = false
+seen = true
 +++
 
 FreeBSD ULE vs. Linux CFS, OpenBSD on Tuxedo InfinityBook, how zfs diff reports filenames efficiently, why choose FreeBSD over Linux, PS4 double free exploit, OpenBSD’s wifi autojoin, and FreeBSD jails the hard way.

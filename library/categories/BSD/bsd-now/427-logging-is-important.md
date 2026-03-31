@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/427"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.421322992Z"
-seen = false
+seen = true
 +++
 
 Build Your FreeBSD Developer Workstation, logging is important, how BSD authentication works, pfSense turns 15 years old, OPNsense Business Edition 21.10 released, getting started with pot, and more

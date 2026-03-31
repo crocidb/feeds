@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/480"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.326098476Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 7.2 and FuguIta have been released, Learn the Whys and Hows with the FreeBSD Sec Team, how to get notified about FreeBSD updates, using unbound for ad blocking on OpenBSD, further memory protections on OpenBSD current, and more.

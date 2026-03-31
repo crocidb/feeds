@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/301"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.631990181Z"
-seen = false
+seen = true
 +++
 
 GPU passthrough on bhyve, confusion with used/free disk space on ZFS, OmniOS Community Edition, pfSense 2.4.4 Release p3, NetBSD 8.1 RC1, FreeNAS as your Server OS, and more.

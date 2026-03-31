@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/572"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.170923015Z"
-seen = false
+seen = true
 +++
 
 OpenBSD Workstation for the People, Bridging Networks Across VPS With Wireguard and VXLAN on FreeBSD, Updating FreeBSD the Manual Way, Part of (computer) security is convincing people that it works, Where’s my backup?, Vi and Vim: A Brief Overview, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/439"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.403858416Z"
-seen = false
+seen = true
 +++
 
 ACM: It takes a community, Don’t use discord for OSS projects, Unix in a browser tab, OpenIndiana Hipster 2021.10 available, Omni OS CE v11 is out, and more.

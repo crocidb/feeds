@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/407"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.450122680Z"
-seen = false
+seen = true
 +++
 
 Confining the omnipotent root, Jails with ZFS and PF on DigitalOcean, NomadBSD 130R is out, KDE Plasma Wayland on FreeBSD, Firefox under FreeBSD with Privacy, Using NetBSD’s pkgsrc everywhere, and more.

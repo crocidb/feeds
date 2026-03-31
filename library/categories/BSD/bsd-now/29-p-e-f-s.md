@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/29"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.259400201Z"
-seen = false
+seen = true
 +++
 
 We're back from AsiaBSDCon! This week we'll be chatting with Gleb Kurtsou about some a filesystem-level encryption utility called PEFS. After that, we'll give you a step by step guide on how to actually use it. There's also the usual round of your questions and we've got a lot of news to catch up on, so stay tuned to BSD Now - the place to B.. SD.

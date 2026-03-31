@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/592"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.140642378Z"
-seen = false
+seen = true
 +++
 
 ZFS Storage Fault Management, FreeBSD 14.2-RELEASE Announcement, I feel that NAT is inevitable even with IPv6, Spell checking in Vim, OpenBSD Memory Conflict Messages, The Biggest Shell Programs in the World, and more

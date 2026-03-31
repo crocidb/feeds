@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/21"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.273882360Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we've got some great news for OpenBSD, as well as the scoop on FreeBSD 10.0-RELEASE - yes it's finally here! We're gonna talk to Colin Percival about running FreeBSD 10 on EC2 and lots of other interesting stuff. After that, we'll be showing you how to do some bandwidth monitoring and network performance testing in a combo tutorial. We've got a round of your questions and the latest news, on BSD Now - the place to B.. SD.

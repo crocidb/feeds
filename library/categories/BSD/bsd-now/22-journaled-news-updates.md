@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/22"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.271528061Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be talking with George Neville-Neil about the brand new FreeBSD Journal and what it's all about. After that, we've got a tutorial on how to track the -stable and -current branches of OpenBSD. Answers to all your BSD questions and the latest headlines, only on BSD Now - the place to B.. SD.

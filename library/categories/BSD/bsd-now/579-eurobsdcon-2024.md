@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/579"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.160363273Z"
-seen = false
+seen = true
 +++
 
 Jason is on location at EuroBSDcon getting interviews with those in the BSD Community.

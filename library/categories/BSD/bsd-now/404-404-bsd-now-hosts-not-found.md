@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/404"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.454694857Z"
-seen = false
+seen = true
 +++
 
 Allan, Benedict and Tom are MIA, so JT fills in with two friends.

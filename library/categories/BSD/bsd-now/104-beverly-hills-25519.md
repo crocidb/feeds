@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/104"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.109992135Z"
-seen = false
+seen = true
 +++
 
 Coming up this week on the show, we'll be talking with Damien Miller of the OpenSSH team. Their 7.0 release has some major changes, including phasing out older crypto and changing one of the defaults that might surprise you.

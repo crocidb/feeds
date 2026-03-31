@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/293"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.647019219Z"
-seen = false
+seen = true
 +++
 
 This week we have a special episode with a Michael W. Lucas interview about his latest jail book that’s been released. We’re talking all things jails, writing, book sponsoring, the upcoming BSDCan 2019 conference, and more.

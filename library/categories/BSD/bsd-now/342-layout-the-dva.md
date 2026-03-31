@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/342"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.555159060Z"
-seen = false
+seen = true
 +++
 
 OpenBSD Full disk encryption with coreboot and tianocore, FreeBSD 12.0 EOL, ZFS DVA layout, OpenBSD’s Go situation, AD updates requires changes in TrueNAS and FreeNAS, full name of FreeBSD’s root account, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/638"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.058997191Z"
-seen = false
+seen = true
 +++
 
 New Open Indiana Release, Understanding Storage Performance, a Unix OS for the TI99, FreeBSD Tribal knowledge, and more...

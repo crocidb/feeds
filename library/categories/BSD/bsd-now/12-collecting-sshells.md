@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/12"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.290398566Z"
-seen = false
+seen = true
 +++
 
 This week we'll be talking to Amitai Schlair of the NetBSD foundation about pkgsrc, NetBSD's future plans and much more. After that, if you've ever wondered what all this SSH stuff is about, today's tutorial has got you covered. We'll be showing you the basics of SSH, as well as how to combine it with tmux for persistent sessions. News, feedback and everything else, right here on BSD Now - the place to B.. SD.

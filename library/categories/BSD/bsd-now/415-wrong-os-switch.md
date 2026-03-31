@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/415"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.438765849Z"
-seen = false
+seen = true
 +++
 
 Wrong Way to Switch Server OS, Net/1 and Net/2 – A Path to Freedom, Permissions Two Mistakes, OpenBSD progress in supporting riscv64 platform, I2P intro, git sync murder is out, GhostBSD init system poll, and more

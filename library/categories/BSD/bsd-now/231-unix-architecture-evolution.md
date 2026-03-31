@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/231"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.795596456Z"
-seen = false
+seen = true
 +++
 
 We cover an interview about Unix Architecture Evolution, another vBSDcon trip report, how to teach an old Unix about backspace, new NUMA support coming to FreeBSD, and stack pointer checking in OpenBSD.

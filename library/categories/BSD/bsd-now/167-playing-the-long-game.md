@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/167"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.982931252Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, Allan & Kris are out at MeetBSD, but we never forget our loyal listeners. We have a great interview Allan did with Scott Long of Netflix & FreeBSD fame, as well as your questions on the place to B...SD!

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/432"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.413908098Z"
-seen = false
+seen = true
 +++
 
 HAMBug hybrid meeting, Demystifying OpenZFS 2.0, OpenZFS 3.0 introduced at Dev Summit, HardenedBSD Home Infrastructure Status, Running Awk in parallel, FreeBSD Announces Wayland 1.19.91, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/42"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.236284988Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we'll be showing you how to chain SSH connections, as well as some cool tricks you can do with it. Going along with that theme, we also have an interview with Bryce Chidester about running a BSD-based shell provider. News, emails and cowsay turkeys, on BSD Now - the place to B.. SD.

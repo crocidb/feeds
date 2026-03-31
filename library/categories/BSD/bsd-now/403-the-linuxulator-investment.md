@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/403"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.456228526Z"
-seen = false
+seen = true
 +++
 
 Why You Should Use BSD Licensing for Your Next Open Source Project or Product, Update on FreeBSD Foundation Investment in Linuxulator, OPNsense 21.1.5 released, FreeBSD meetings on the Desktop, Running FreeBSD jails with containerd 1.5, Markdown, DocBook, and the quest for semantic documentation on NetBSD.org, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/507"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.271286247Z"
-seen = false
+seen = true
 +++
 
 Author Michael W. Lucas joins us in this interview to talk about his latest book projects. Find out what he’s up to regarding mail servers, conferences, his views on ChatGPT, and more.

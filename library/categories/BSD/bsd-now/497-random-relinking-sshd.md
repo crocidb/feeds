@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/497"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.286549366Z"
-seen = false
+seen = true
 +++
 
 How to Catch a Bitcoin Miner, A Call For More Collaboration, zstd updates, hating hackathons, How to monitor multiple log files at once, KeePassXC, sshd random relinking at boot, and more

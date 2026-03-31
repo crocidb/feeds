@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/134"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.051759930Z"
-seen = false
+seen = true
 +++
 
 This week on the show, Allan and I have gotten a bit more sleep since AsiaBSDCon, which is excellent since there is a LOT of news to cover. That plus our interview with Ports SecTeam member Mark Felder. So keep it

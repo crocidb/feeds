@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/654"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.025981786Z"
-seen = false
+seen = true
 +++
 
 Pool and Vdev topology for promox, KDE Plasma is not forcing systemd, Running a 2.11 BSD system, Booting NetBSD from a wedge and more...

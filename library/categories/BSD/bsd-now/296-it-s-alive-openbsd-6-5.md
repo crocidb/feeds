@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/296"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.642169383Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 6.5 has been released, mount ZFS datasets anywhere, help test upcoming NetBSD 9 branch, LibreSSL 2.9.1 is available, Bail Bond Denied Edition of FreeBSD Mastery: Jails, and one reason ed(1) was a good editor back in the days in this week’s episode.

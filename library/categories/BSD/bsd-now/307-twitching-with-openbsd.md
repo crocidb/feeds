@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/307"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.620755090Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 11.3 has been released, OpenBSD workstation, write your own fuzzer for the NetBSD kernel, Exploiting FreeBSD-SA-19:02.fd, streaming to twitch using OpenBSD, 3 different ways of dumping hex contents of a file, and more.

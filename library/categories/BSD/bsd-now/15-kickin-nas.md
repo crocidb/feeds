@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/15"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.284351361Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be looking at the new version of FreeNAS, a BSD-based network attached storage solution, as well as talking to Josh Paetzel - one of the key developers of FreeNAS. Actually, he's on the FreeBSD release engineering team too, and does quite a lot for the project. We've got answers to your viewer-submitted questions and plenty of news to cover, so get ready for some BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/616"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.103052796Z"
-seen = false
+seen = true
 +++
 
 This week on the show Tom interview Deb Goodkin and Justin Gibbs from the FreeBSD Foundation.

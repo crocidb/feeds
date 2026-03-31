@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/240"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.769877666Z"
-seen = false
+seen = true
 +++
 
 New ZFS features landing in FreeBSD, MAP\_STACK for OpenBSD, how to write safer C code with Clang’s address sanitizer, Michael W. Lucas on sponsor gifts, TCP blackbox recorder, and Dell disk system hacking.

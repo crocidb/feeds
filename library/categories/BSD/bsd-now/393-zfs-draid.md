@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/393"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.472246004Z"
-seen = false
+seen = true
 +++
 
 Lessons learned from a 27 years old UNIX book, Finally dRAID, Setting up a Signal Proxy using FreeBSD, Annotate your PDF files on OpenBSD, Things You Should Do Now, Just: More unixy than Make, and more

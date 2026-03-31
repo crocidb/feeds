@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/41"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.238117287Z"
-seen = false
+seen = true
 +++
 
 This week in the big show, we'll be interviewing Benedict Reuschling of the FreeBSD documentation team, and he has a special surprise in store for Allan. As always, answers to your questions and all the latest news, on BSD Now - the place to B.. SD.

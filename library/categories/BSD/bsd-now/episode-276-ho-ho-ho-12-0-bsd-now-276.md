@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/276"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.679316875Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 12.0 is finally here, partly-cloudy IPsec VPN, KLEAK with NetBSD, How to create synth repos, GhostBSD author interview, and more.

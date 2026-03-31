@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/594"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.137520570Z"
-seen = false
+seen = true
 +++
 
 Security Audit of the Capsicum and bhyve Subsystems, ZFS on Linux and block IO limits show some limits of being out of the kernel, NetBSD on a ROCK64 Board, Domain Naming, BSDCan 2025 CFP, The Internet Gopher from Minnesota, and more

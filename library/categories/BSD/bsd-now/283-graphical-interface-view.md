@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/283"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.665499666Z"
-seen = false
+seen = true
 +++
 
 We’re at FOSDEM 2019 this week having fun. We’d never leave you in a lurch, so we have recorded an interview with Niclas Zeising of the FreeBSD graphics team for you. Enjoy.

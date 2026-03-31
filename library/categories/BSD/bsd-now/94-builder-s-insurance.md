@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/94"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.132802297Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we'll be chatting with Marc Espie. He's recently added some additional security measures to dpb, OpenBSD's package building tool, and we'll find out why they're so important. We've also got all this week's news, answers to your emails and even a BSDCan wrap-up, coming up on BSD Now - the place to B.. SD.

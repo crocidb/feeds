@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/8"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.297663152Z"
-seen = false
+seen = true
 +++
 
 This week, we chat with Antti Kantee from the NetBSD project about a crazy little thing called rump kernels. We'll also be showing you all the different cool things you can do with BSD and the Tor network, as well as discussing all the latest news. So sit back and enjoy BSD Now - the place to B.. SD.

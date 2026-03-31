@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/520"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.251384333Z"
-seen = false
+seen = true
 +++
 
 4 Months of BSD, Self Hosted Calendar and address Book, Ban scanners IPs from OpenSMTP logs, Self-hosted git page, Bastille template example, Restrict nginx Access by Geographical Location on FreeBSD, and more.

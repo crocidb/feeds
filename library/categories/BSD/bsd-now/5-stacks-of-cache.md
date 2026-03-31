@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/5"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.302733318Z"
-seen = false
+seen = true
 +++
 
 After returning from a successful EuroBSDCon in Malta, we're back to get you caught up on all the latest news! We've got stories, interviews and a special treat for OpenBSD fans later in the show. All that and more on this week's BSD Now, the place to B.. SD.

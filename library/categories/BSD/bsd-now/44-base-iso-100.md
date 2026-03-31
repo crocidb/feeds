@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/44"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.232614261Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be sitting down to talk with Craig Rodrigues about Jenkins and the FreeBSD testing infrastructure. Following that, we'll show you how to roll your own OpenBSD ISOs with all the patches already applied... ISO can't wait! This week's news and answers to all your emails, on BSD Now - the place to B.. SD.

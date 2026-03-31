@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/305"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.624306858Z"
-seen = false
+seen = true
 +++
 
 Website protection with OPNsense, FreeBSD Support Pull Request for ZFS-on-Linux, How much has Unix changed, Porting Wine to amd64 on NetBSD, FreeBSD Enterprise 1 PB Storage, the death watch for X11 has started, and more.

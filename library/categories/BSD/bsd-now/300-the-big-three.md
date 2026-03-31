@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/300"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.634246580Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 11.3-beta 1 is out, BSDCan 2019 recap, OpenIndiana 2019.04 is out, Overview of ZFS Pools in FreeNAS, why open source firmware is important for security, a new Opnsense release, wireguard on OpenBSD, and more.

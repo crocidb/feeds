@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/68"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.185647777Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we'll be talking with Michael Lucas about his newest BSD book, "FreeBSD Mastery: Storage Essentials." It's got lots of great information about the disk subsystems, GEOM, filesystems, you name it. We've also got the usual round of news and answers to your emails, on BSD Now - the place to B.. SD.

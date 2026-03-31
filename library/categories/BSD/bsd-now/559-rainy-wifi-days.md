@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/559"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.190545549Z"
-seen = false
+seen = true
 +++
 
 An RNG that runs in your brain, Going Stateless, SmolBSD, The Wi-Fi only works when it's raining, Wayland, where are we in 2024?, Omnios pxe booting, OpenBSD scripts to convert wg-quick VPN files, and more

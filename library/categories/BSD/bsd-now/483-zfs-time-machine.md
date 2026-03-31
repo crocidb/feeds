@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/483"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.314162585Z"
-seen = false
+seen = true
 +++
 
 Research Unix Version 6 in the Open SIMH PDP-11 Emulator, The Hot Tub Time Machine is Your ZFS Turn-Back-Time Method, NFS on NetBSD: server and client side, HardenedBSD October 2022 Status Report, Nushell : Introduction, and more

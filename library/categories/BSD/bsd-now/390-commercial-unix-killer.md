@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/390"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.477605389Z"
-seen = false
+seen = true
 +++
 
 Did Linux kill Commercial Unix, three node GlusterFS setup on FreeBSD, OpenBSD on the Lenovo ThinkPad X1 Nano (1st Gen), NetBSD on EdgeRouter Lite, TLS Mastery first draft done

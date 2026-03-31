@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/310"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.615000504Z"
-seen = false
+seen = true
 +++
 
 OPNsense 19.7.1 is out, ZFS on Linux still has annoying issues with ARC size, Hammer2 is now default, NetBSD audio – an application perspective, new FreeNAS Mini, and more.

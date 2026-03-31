@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/589"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.145199674Z"
-seen = false
+seen = true
 +++
 
 Open-Source Software Is in Crisis, A Brief History of Cyrix, Userland Disk I/O, OPNsense 24.7.9 released, GhostBSD 24.10.1 Is Now Available, Why pipes sometimes get "stuck": buffering, Keep your OmniOS server time synced, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/43"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.234411060Z"
-seen = false
+seen = true
 +++
 
 It's a big show this week! We'll be interviewing Marc Espie about OpenBSD's package system and build cluster. Also, we've been asked many times "how do I keep my BSD box up to date?" Well, today's tutorial should finally answer that. Answers to all your emails and this week's headlines, on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/582"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.155973216Z"
-seen = false
+seen = true
 +++
 
 Why laptop support, why now: FreeBSD’s strategic move toward broader adoption, ZBM 101: Introduction to ZFSBootMenu, How I batch apply and save one-liners, Moving an Entire FreeBSD Installation to a New Host or VM in a Few Easy Steps, How to install "standard" TTF Microsoft fonts, We need more zero config tools, Reasons I still love the fish shell, You Have Installed OpenBSD. Now For The Daily Tasks, and more

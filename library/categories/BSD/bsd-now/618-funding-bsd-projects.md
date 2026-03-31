@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/618"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.099808300Z"
-seen = false
+seen = true
 +++
 
 A year of funded FreeBSD, ZFS Performance Tuning – Optimizing for your Workload, Three Ways to Try FreeBSD in Under Five Minutes, FFS optimizations with dirhash, j2k25 hackathon report from kn@, NetBSD welcomes Google Summer of Code contributors, and more

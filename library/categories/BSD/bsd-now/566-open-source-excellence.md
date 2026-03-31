@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/566"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.180070707Z"
-seen = false
+seen = true
 +++
 
 A Journey Through 31 Years of Open Source Excellence, Proxmox vs FreeBSD: Which Virtualization Host Performs Better?, Upstreaming FreeBSD Code to the Linux Vector Packet Processor Project, FreeBSD Tips and Tricks: Creating Snapshots With UFS, My Concern With Rust, or a Case for the BSD's, and more

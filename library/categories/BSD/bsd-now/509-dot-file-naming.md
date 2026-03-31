@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/509"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.268188720Z"
-seen = false
+seen = true
 +++
 
 Leveraging OpenZFS to Build Your Own Storage Appliance, Install OpenBSD as a VM, Set up your own CalDAV and CardDAV servers on OpenBSD, display basic computer information using DMI table decoder, Gpart CheatSheet, Rob Pike on the Origin of Unix Dot File Names, and more

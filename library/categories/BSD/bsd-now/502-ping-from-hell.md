@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/502"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.278953132Z"
-seen = false
+seen = true
 +++
 
 5 Key reasons for a OpenZFS Performance Audit, The Ping from Hell, OpenBGPD 7.9 released, Setting the clock ahead to see what breaks, and more

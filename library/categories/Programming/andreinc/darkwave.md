@@ -1,0 +1,14 @@
++++
+title = "#darkwave"
+description = "A filterable list of favorite songs.Songs tagged with darkwave."
+date = "0001-01-01T00:00:00Z"
+url = "https://andreinc.net/lists/songs/darkwave/"
+author = "Andrei Ciobanu"
+text = ""
+lastupdated = "2026-03-30T10:52:58.367302962Z"
+seen = false
++++
+
+A filterable list of favorite songs.
+
+Songs tagged with `darkwave`.

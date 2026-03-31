@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/257"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.727342318Z"
-seen = false
+seen = true
 +++
 
 NetBSD 8.0 available, FreeBSD on Scaleway’s ARM64 VPS, encrypted backups with OpenBSD, Dragonfly server storage upgrade, zpool checkpoints, g2k18 hackathon reports, and more.  

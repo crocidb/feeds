@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/270"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.694730613Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 6.4 released, GhostBSD RC2 released, MeetBSD - the ultimate hallway track, DragonflyBSD desktop on a Thinkpad, Porting keybase to NetBSD, OpenSSH 7.9, and draft-ietf-6man-ipv6only-flag in FreeBSD.

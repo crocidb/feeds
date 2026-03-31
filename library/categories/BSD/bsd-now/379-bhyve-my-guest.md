@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/379"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.495374266Z"
-seen = false
+seen = true
 +++
 
 Adventures in Freebernetes, tracing kernel functions, The better way of building FreeBSD networks, New beginnings: CDBUG virtual meetings, LibreSSL update in DragonFly, Signal-cli with scli on FreeBSD, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/131"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.057245665Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we have an interview with Jamie

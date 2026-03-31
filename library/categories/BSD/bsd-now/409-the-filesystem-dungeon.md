@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/409"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.447274383Z"
-seen = false
+seen = true
 +++
 
 DTrace network probes, next 50 years of shell programming, NetBSD on the Vortex86DX CPU, system CPU time in top, your filesystem as a dungeon, diving into toolchains, and more

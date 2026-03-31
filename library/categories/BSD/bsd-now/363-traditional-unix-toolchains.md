@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/363"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.520895826Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Q2 Quarterly Status report of 2020, Traditional Unix Toolchains, BastilleBSD 0.7 released, Finding meltdown on DragonflyBSD, and more

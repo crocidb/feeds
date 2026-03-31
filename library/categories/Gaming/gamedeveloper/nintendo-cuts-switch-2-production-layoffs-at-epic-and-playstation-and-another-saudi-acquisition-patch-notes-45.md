@@ -1,0 +1,11 @@
++++
+title = "Nintendo cuts Switch 2 production, layoffs at Epic and PlayStation, and another Saudi acquisition - Patch Notes #45"
+description = "Plus: Crimson Desert sells 3 million copies and a love letter to 'girl games.'"
+date = "2026-03-27T10:21:07Z"
+url = "https://www.gamedeveloper.com/business/nintendo-cuts-switch-2-production-layoffs-at-epic-and-playstation-and-another-saudi-acquisition-patch-notes-45"
+author = "Chris Kerr"
+text = ""
+lastupdated = "2026-03-30T10:52:52.663761031Z"
+seen = true
++++
+

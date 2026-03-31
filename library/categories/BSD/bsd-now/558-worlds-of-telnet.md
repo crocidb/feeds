@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/558"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.192049388Z"
-seen = false
+seen = true
 +++
 
 NetBSD 9.4, FreeBSD SSDF Attestation to Support Cybersecurity Compliance, The Lost Worlds of Telnet, alter file ownership and permissions with a feedback information, parallel raw IP input, OpenBSD routers on AliExpress mini PCs, FreeBSD for Devs. Plus a special interview with the organizers of BSDCAN 2024.

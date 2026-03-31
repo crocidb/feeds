@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/437"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.406832463Z"
-seen = false
+seen = true
 +++
 
 Using FreeBSD’s pkg-audit, 20 year old bug that went to Mars, FreeBSD on Slimbook, LLDB FreeBSD kernel core dump support, Steam on OpenBSD, Cool but obscure X11 tools, and more

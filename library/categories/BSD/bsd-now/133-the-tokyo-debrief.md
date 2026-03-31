@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/133"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.053851638Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, Allan and I are back from AsiaBSDCon and we have an interview with Brad Davis about the new “Packaging Base” call-for-testing. We’ll be sharing our thoughts and stories on how the week

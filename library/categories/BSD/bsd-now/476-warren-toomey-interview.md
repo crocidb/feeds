@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/476"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.341290964Z"
-seen = false
+seen = true
 +++
 
 In this special episode, we interview Warren Toomey from the Unix Historical Society. We chat about his involvement in preserving old Unix systems and why that is important.

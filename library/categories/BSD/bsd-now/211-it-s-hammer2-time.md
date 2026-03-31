@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/211"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.852517313Z"
-seen = false
+seen = true
 +++
 
 We explore whether a BSD can replicate Cisco router performance; RETGUARD, OpenBSDs new exploit mitigation technology, Dragonflys HAMMER2 filesystem implementation & more!

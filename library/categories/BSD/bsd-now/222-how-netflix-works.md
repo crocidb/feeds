@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/222"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.821956635Z"
-seen = false
+seen = true
 +++
 
 We take a look at two-faced Oracle, cover a FAMP installation, how Netflix works the complex stuff, and show you who the patron of yak shaving is.

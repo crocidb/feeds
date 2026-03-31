@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/83"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.153829062Z"
-seen = false
+seen = true
 +++
 
 Coming up this week on the show, we'll be talking to Kamila Součková, a Google intern. She's been working on the FreeBSD pager daemon, and also tells us about her initial experiences trying out BSD and going to a conference. As always, all the week's news and answers to your emails, on BSD Now - the place to B.. SD.

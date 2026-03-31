@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/58"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.206561371Z"
-seen = false
+seen = true
 +++
 
 Coming up this week on the show, we'll be talking to Matt Ranney and George Kola about how they use FreeBSD at Voxer, and how to get more companies to switch over. After that, we'll show you how to filter website ads at the gateway level, using DNSMasq. All this week's news and answers to your emails, on BSD Now - the place to B.. SD.

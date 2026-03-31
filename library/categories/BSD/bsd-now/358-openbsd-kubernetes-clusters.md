@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/358"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.528832730Z"
-seen = false
+seen = true
 +++
 
 Yubikey-agent on FreeBSD, Managing Kubernetes clusters from OpenBSD, History of FreeBSD part 1, Running Jitsi-Meet in a FreeBSD Jail, Command Line Bug Hunting in FreeBSD, Game of Github, Wireguard official merged into OpenBSD, and more

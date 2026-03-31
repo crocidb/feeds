@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/578"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.161918211Z"
-seen = false
+seen = true
 +++
 
 Limiting Process Priority in a FreeBSD Jail, Why You Should Use FreeBSD, The web fun fact that domains can end in dots and canonicalization failures, Replacing postfix with dma + auth, modern unix tool list, Smol KVM, The Computers of Voyager

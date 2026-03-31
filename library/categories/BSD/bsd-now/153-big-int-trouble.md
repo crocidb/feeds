@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/153"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.013161550Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we have a variety of news to discuss, covering quite the spectrum of BSD. (Including a new DragonFly release!).

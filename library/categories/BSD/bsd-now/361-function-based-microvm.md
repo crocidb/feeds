@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/361"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.523894784Z"
-seen = false
+seen = true
 +++
 
 Emulex: The Cheapest 10gbe for Your Homelab, In Search of 2.11BSD, as released, Fakecracker: NetBSD as a Function Based MicroVM, First powerpc64 snapshots available for OpenBSD, OPNsense 20.1.8 released, and more.

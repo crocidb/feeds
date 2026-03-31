@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/175"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.965584836Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we’ve got all sorts of post-holiday goodies to share. New OpenSSL APIs, Dtrace, OpenBSD

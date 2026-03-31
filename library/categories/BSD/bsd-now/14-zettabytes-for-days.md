@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/14"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.286136140Z"
-seen = false
+seen = true
 +++
 
 This week is the long-awaited episode you've been asking for! We'll be giving you a crash course on becoming a ZFS wizard, as well as having a chat with George Wilson about the OpenZFS project's recent developments. We have answers to your feedback emails and there are some great news items to get caught up on too, so stay tuned to BSD Now - the place to B.. SD.

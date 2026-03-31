@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/289"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.654221604Z"
-seen = false
+seen = true
 +++
 
 A kernel of failure, IPv6 fragmentation vulnerability in OpenBSD’s pf, a guide to the terminal, using a Yubikey for SSH public key authentication, FreeBSD desktop series, and more.

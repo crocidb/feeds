@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/243"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.762672531Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 6.3 and DragonflyBSD 5.2 are released, bug fix for disappearing files in OpenZFS on Linux (and only Linux), understanding the FreeBSD CPU scheduler, NetBSD on RPI3, thoughts on being a committer for 20 years, and 5 reasons to use FreeBSD in 2018.

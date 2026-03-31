@@ -1,0 +1,38 @@
++++
+title = "Brainstorming web guides"
+description = "I am interested in the field of content design, which thinks of information as not only what it represents (i.e. facts) but how that information is represented. The UK Government says: Good content design allows people to find out what they need to know or do quickly. When I am n"
+date = "2026-03-27T00:00:00Z"
+url = "https://jamesg.blog/2026/03/27/brainstorming-web-guides"
+author = "James' Coffee Blog"
+text = ""
+lastupdated = "2026-03-30T10:52:54.070922060Z"
+seen = false
++++
+
+I am interested in the field of [content design](https://contentdesign.london/blog/what-is-content-design), which thinks of information as not only what it represents (i.e. facts) but how that information is represented. The UK Government [says](https://www.gov.uk/guidance/content-design/what-is-content-design):
+
+> Good content design allows people to find out what they need to know or do quickly.
+
+When I am navigating the UK Government website, I feel like I can find what I am looking for. I feel the same way when I am looking through the NHS website, too.
+
+This week I had an idea: what would a gov.uk-style website look like for getting people set up on the web?
+
+This idea was explored in the [IndieWebGuides](https://indieweb.org/IndieWebGuides) project in 2017, although the project covered more of the technical aspects of setting up a website. I think such a resource would still be incredibly valuable today, but the lens through which I was thinking about the idea was more about helping people make informed choices about how to use the web.
+
+I thought about a website that would cover things like:
+
+* How to choose a browser (and why it matters)
+* How to set up a web presence for a community (and why social media isn’t enough)
+* How to use web readers like RSS readers (and why they are useful)
+* How to choose a search engine (and why it matters)
+* What does it mean for information to be online? (talk about public vs. private, how web pages can be archived, and more)
+
+One piece of motivation was to have a place on the web that helps highlight why things like browser choice, search engine choice, and using open web technology matters, in as few words as possible, and written for an audience that doesn’t have a technical background.
+
+[I wrote a little sample of what such a guide might look like for choosing a web browser](https://yourweb.guide/browser.html).
+
+I thought it would be nice to have a site where information is concise, consistent, and where every word is scrutinised for its relevance and necessity. I also thought it would be nice for such a site to not take a position against a technology (i.e. social media) and instead show the benefits, downsides, and alternatives that are more of the spirit of the web.
+
+I’m sure my idea needs more development; I registered a domain name for this project – yourweb.guide – *way* too early. This is not a project I plan to build right now. It may be the case that short, well-designed guides exist for all my ideas above; if so, perhaps a site that aggregates them would be nice. In any case, despite having no intentions to bring this idea to life right now, it is an idea I wanted to write down in case anyone else sees something in the idea and is inspired.
+
+[content design](https://contentdesign.london/blog/what-is-content-design) [IndieWebGuides](https://indieweb.org/IndieWebGuides) [says](https://www.gov.uk/guidance/content-design/what-is-content-design) [I wrote a little sample of what such a guide might look like for choosing a web browser](https://yourweb.guide/browser.html)

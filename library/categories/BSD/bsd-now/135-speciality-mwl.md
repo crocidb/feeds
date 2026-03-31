@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/135"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.049438322Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we interview author Michael W Lucas to discuss his new book in the FreeBSD

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/599"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.130069026Z"
-seen = false
+seen = true
 +++
 
 Controlling Your Core Infrastructure: DNS, Laptop Support and Usability Project Update, FreeBSD at FOSDEM 2025, Uploading a message to an IMAP server using curl, The Death of Email Forwarding, Cruising a VPS at OpenBSD Amsterdam, and more

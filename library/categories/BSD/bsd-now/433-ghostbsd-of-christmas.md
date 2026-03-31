@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/433"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.412431090Z"
-seen = false
+seen = true
 +++
 
 GhostBSD 21.11.24 ISO available, why v7 matters so much, OpenBSD on VIA Eden X2 powered HP t510 Thin Client, OctoPkg GUI Package Manager, chdir(2) support in posix\_spawn(3), install doas on FreeBSD, Access Modem's Web Interface with OPNsense, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/365"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.517716089Z"
-seen = false
+seen = true
 +++
 
 FreeBSD USB Audio, Kyua: An introduction for NetBSD users, Keeping backup ZFS on Linux kernel modules around, CLI Tools 235x Faster than Hadoop, FreeBSD Laptop Battery Life Status Command, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/465"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.364580556Z"
-seen = false
+seen = true
 +++
 
 Debugging Lisp in Deep Space, 0 Dependency Websites with OpenBSD & AsciiDoc, Deleting old snapshots on FreeBSD, Full multiprocess support in lldb-server, Basic fix between pf tables and macros, and more

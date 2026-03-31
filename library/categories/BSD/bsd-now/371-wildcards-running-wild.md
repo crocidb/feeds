@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/371"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.507782536Z"
-seen = false
+seen = true
 +++
 
 New Project: zedfs.com, TrueNAS CORE Ready for Deployment, IPC in FreeBSD 11: Performance Analysis, Unix Wildcards Gone Wild, Unix Wars, and more

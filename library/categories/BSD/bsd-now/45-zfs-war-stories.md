@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/45"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.230746603Z"
-seen = false
+seen = true
 +++
 
 This week Allan is at BSDCam in the UK, so we'll be back with a regular episode next week. For now though, here's an interview with Josh Paetzel about some crazy experiences he's had with ZFS.

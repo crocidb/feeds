@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/514"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.260564706Z"
-seen = false
+seen = true
 +++
 
 OpenZFS, Your Data and the Challenge of Ransomware, I Didn’t Learn Unix By Reading All The Manpages, I try to answer "how to become a systems engineer", Writing shell scripts in Nushell, Sudo and signal propagation, infecting SSH Public Keys with backdoors, OpenBSD Thinkpad, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/47"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.226970346Z"
-seen = false
+seen = true
 +++
 
 Coming up this week on the show! We've got an interview with Dag-Erling Smørgrav, the current security officer of FreeBSD, to discuss what exactly being in such an important position is like. The latest news, answers to your emails and even some LibreSSL drama, on BSD Now - the place to B.. SD.

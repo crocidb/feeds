@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/434"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.410976821Z"
-seen = false
+seen = true
 +++
 
 In this special xmas episode we let the audience interview us using questions they sent us and we’ll answer now. Tom, Allan, JT, and I are all here, so stay tuned for some interesting answers to your questions.

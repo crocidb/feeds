@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/569"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.175543111Z"
-seen = false
+seen = true
 +++
 
 Enhancing FreeBSD Stability With ZFS Pool Checkpoints, Plaintext is not a great format for (system) logs, Initial playlist of 28 BSDCan Videos released, Installing FreeBSD 14 on Raspberry Pi 4B with ZFS root, A practical guide to VPNs, IPv6, routing domains and IPSEC, How to mount ISO or file disk images on OpenBSD, and  

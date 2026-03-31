@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/180"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.954169744Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, I’m out of town but we have a great interview with Ken Moore (My brother) about the latest in BSD desktop computing and

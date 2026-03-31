@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/144"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.031852005Z"
-seen = false
+seen = true
 +++
 
 It’s only one-week away from BSDCan, both Allan and I are excited to meet some of you in person! However, the show keeps on

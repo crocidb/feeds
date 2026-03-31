@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/90"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.139572893Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be chatting with Jed Reynolds about ZFS. He's been using it extensively on a certain other OS, and we can both learn a bit about the other side's implementation. Answers to your questions and all this week's news, coming up on BSD Now - the place to B.. SD.

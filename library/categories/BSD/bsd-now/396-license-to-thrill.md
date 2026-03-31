@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/396"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.467309328Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Network Troubleshooting, The State of FreeBSD, dhcpleased, bhyve for Calamares Development, EFS automount and ebsnvme-id, Old Usenix pictures, and more.

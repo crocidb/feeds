@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/336"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.565992962Z"
-seen = false
+seen = true
 +++
 
 Linux couldn’t duplicate OpenBSD, FreeBSD Q4 status report, OPNsense 19.7.9 released, archives retain and pass on knowledge, HardenedBSD Tor Onion Service v3 Nodes, and more.

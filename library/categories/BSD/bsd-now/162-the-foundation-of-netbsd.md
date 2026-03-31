@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/162"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.994368294Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we’ll be talking to Petra about the NetBSD foundation, about how they operate and assist NetBSD behind the scenes. That plus lots of news

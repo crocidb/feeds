@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/536"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.225698122Z"
-seen = false
+seen = true
 +++
 
 OpenZFS Storage Best Practices and Use Cases, EuroBSDcon trip report, Disks from the Perspective of a File System, Creating Jails using flavours in pot, OpenIKED 7.3 released, OpenSMTPD 7.4.0p1 Released, FreeBSD can now boot in 25 milliseconds, and more

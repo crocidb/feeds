@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/397"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.465717728Z"
-seen = false
+seen = true
 +++
 
 Customizing the FreeBSD Kernel, OpenBSD/loongson on the Lemote Fuloong, how ZFS on Linux brings up pools and filesystems at boot under systemd, LLDB: FreeBSD Legacy Process Plugin Removed, FreshBSD 2021, gmid, Danschmid’s Poudriere Guide in english, and more

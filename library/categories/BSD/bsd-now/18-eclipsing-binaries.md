@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/18"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.279266785Z"
-seen = false
+seen = true
 +++
 
 Put away the Christmas trees and update your ports trees! We're back with the first show of 2014, and we've got some catching up to do. This time on the show, we have an interview with Baptiste Daroussin about the future of FreeBSD binary packages. Following that, we'll be highlighting a cool script to do binary upgrades on OpenBSD. Lots of holiday news and listener feedback, on BSD Now - the place to B.. SD.

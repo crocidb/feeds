@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/585"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.151190789Z"
-seen = false
+seen = true
 +++
 
 From Proxmox to FreeBSD - Story of a Migration, FreeBSD At 30: The History And Future Of The Most Popular BSD-Based OS, Using a dedicated administration workstation for my infrastructure, LibreSSL 4.0.0 Released, Plasma6 and FreeBSD 14, Replace gnu diff, diff3, and sdiff with BSD versions, and more

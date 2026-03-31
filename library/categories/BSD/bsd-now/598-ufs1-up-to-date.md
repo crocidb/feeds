@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/598"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.131580535Z"
-seen = false
+seen = true
 +++
 
 Key Considerations for Benchmarking Network Storage Performance, OpenZFS 2.3.0 available, Updates on AsiaBSDcon, GhostBSD Desktop Conference, Recovering from external zroot, Create a new issue in a Github repository with Ansible, Stories I refuse to believe, date limit in UFS1 filesystem extended, and more

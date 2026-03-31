@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/152"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.015444397Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we have some big breaking news about another major switcher to FreeBSD, plus early information about the pending

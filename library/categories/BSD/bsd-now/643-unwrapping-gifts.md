@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/643"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.045991751Z"
-seen = false
+seen = true
 +++
 
 Upwrapping OpenZFS gifs, Propolice the OpenBSD Stack Protector, refreshing zpools, and the FreeBSD 15.0 release.

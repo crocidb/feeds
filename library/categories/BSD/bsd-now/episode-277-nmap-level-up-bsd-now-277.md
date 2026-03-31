@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/277"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.676648917Z"
-seen = false
+seen = true
 +++
 
 The Open Source midlife crisis, Donald Knuth The Yoda of Silicon Valley, Certbot For OpenBSD's httpd, how to upgrade FreeBSD from 11 to 12, level up your nmap game, NetBSD desktop, and more.

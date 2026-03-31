@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/597"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.133097913Z"
-seen = false
+seen = true
 +++
 
 The Do-Not-Stab flag in the HTTP Header, FreeBSD jail host with multiple local networks, Generative AI is for the idea guys, Static dual stack networking on OmniOS Solaris Zones, FRAME sockets added to OpenBSD, The problem with combining DNS CNAME records and anything else, and more

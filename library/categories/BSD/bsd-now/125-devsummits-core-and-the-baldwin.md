@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/125"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.069718806Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we will be talking to FreeBSD developer and former core-team member John Baldwin about a variety of topics, including running a DevSummit, everything you needed or wanted to know. Coming up right now on BSDNow, the place to B...SD.

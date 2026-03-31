@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/560"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.189063281Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Status Report First Quarter 2024, Why not BSD, LibreSSL version 3.9.2 released, Running NetBSD on OmniOS using bhyve, X.Org on NetBSD, Unix version control lore: what, ident, How I search in 2024, sshd split into multiple binaries, and more

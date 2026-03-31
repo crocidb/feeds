@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/349"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.543211139Z"
-seen = false
+seen = true
 +++
 
 Encrypted Crash Dumps in FreeBSD, Time on Unix, Improve ZVOL sync write performance with a taskq, central log host with syslog-ng, NetBSD Entropy overhaul, Setting Up NetBSD Kernel Dev Environment, and more.

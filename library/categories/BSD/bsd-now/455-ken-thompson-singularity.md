@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/455"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.379731675Z"
-seen = false
+seen = true
 +++
 
 OpenBSD is the Perfect OS post Nuclear Apocalypse, Multiprocess support for LLDB, porting the new Hare compiler to OpenBSD, Writing my first OpenBSD game using Godot, FreeBSD 13 on Thinkpad T460s, and more.

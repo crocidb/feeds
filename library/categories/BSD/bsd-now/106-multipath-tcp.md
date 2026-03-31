@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/106"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.106050638Z"
-seen = false
+seen = true
 +++
 
 This week, we have Nigel Williams here to bring us all sorts of info about Multipath TCP, what it is, how it works and the ongoing effort to bring it into FreeBSD. All that and of course the latest BSD news coming your way, right now!

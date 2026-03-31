@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/464"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.365989265Z"
-seen = false
+seen = true
 +++
 
 From 0 to bhyve on FreeBSD, Analyze OpenBSD’s Kernel with Domain-Specific Knowledge, OpenBSD Webzine: ISSUE #10, HardenedBSD June 2022 Status Report, two new C compilers: chibicc and kefir in OpenBSD, SSD TRIM in NetBSD HEAD, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/138"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.043839566Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we will be talking to Benedict Reushling about his role with the FreeBSD foundation and the journey that took him

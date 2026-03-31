@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/230"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.798213573Z"
-seen = false
+seen = true
 +++
 
 We provide you with updates to Spectre and Meltdown from various BSD projects, a review of TrueOS from Linux, how to set up FreeBSD on ThinkPad x240, and a whole bunch of beastie bits.

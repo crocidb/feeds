@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/561"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.187588572Z"
-seen = false
+seen = true
 +++
 
 Why FreeBSD Continues to Innovate and Thrive, Why BSD, A BSD person tries Alpine Linux, This message does not exist, Demise of Nagle's algorithm, How Jerry Pournelle Got Kicked Off the ARPANET, and more

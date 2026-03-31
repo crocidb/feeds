@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/274"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.684316632Z"
-seen = false
+seen = true
 +++
 
 Assembly language on OpenBSD, using bhyve for FreeBSD development, FreeBSD Gaming, FreeBSD for Thanksgiving, no space left on Dragonfly’s hammer2, and more.

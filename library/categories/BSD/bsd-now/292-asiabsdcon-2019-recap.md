@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/292"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.648858498Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Q4 2018 status report, the GhostBSD alternative, the coolest 90s laptop, OpenSSH 8.0 with quantum computing resistant keys exchange, project trident: 18.12-U8 is here, and more.

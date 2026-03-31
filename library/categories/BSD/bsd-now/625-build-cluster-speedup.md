@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/625"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.087070389Z"
-seen = false
+seen = true
 +++
 
 Why FreeBSD is the Right Choice for Embedded Devices, The Day GlusterFS Tried to Kill My Career, DragonFly DRM updated, NetBSD on Raspberry Pi, Speed up suspend/resume for FreeBSD, Revisiting ZFS's ZIL, separate log devices, and writes, One of my blog articles featured on the BSD Now podcast episode, New build cluster speeds up daily autobuilds, and more

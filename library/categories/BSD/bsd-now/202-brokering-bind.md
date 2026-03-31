@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/202"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.877148353Z"
-seen = false
+seen = true
 +++
 
 We look at an OpenBSD setup on a new laptop, revel in BSDCan trip reports, and visit daemons and friendly ninjas.

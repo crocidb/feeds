@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/126"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.067819657Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we are going to be talking to Ken Moore about the Lumina desktop environment, where it stands now & looking ahead. Then Allan turns the tables & interviews both Kris & Ken about new ongoings in PC-BSD land. Stay tuned, lots of exciting show is coming your way right now on BSDNow, the place to B...SD!

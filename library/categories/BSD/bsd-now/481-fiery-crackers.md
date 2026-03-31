@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/481"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.322123689Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Q3 2022 status report, Leveraging MinIO and OpenZFS to avoid vendor lock in, FreeBSD on Firecracker platform, How Much Faster Is Making A Tar Archive Without Gzip, Postgres from packages on OpenBSD, Upgrading an NVMe zpool from 222G to 1TB drives, Don't use Reddit for Linux or BSD related questions, and more.

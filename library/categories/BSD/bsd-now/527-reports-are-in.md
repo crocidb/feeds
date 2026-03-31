@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/527"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.240184072Z"
-seen = false
+seen = true
 +++
 
 Unlocking Infrastructure Sovereignty, first meeting of the FreeBSD Enterprise Working Group, HardenedBSD August 2023 Status Report, GhostBSD August 2023 donation report, MidnightBSD 3.1 Released, OpenBSD Webzine ISSUE #14, and more

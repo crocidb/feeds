@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/429"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.418369575Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Foundation October Fundraising Update, Advanced ZFS Snapshots, Full WireGuard setup with OpenBSD, MidnightBSD a Linux Alternative, FreeBSD Audio, Tuning Power Consumption on FreeBSD Laptops, Thoughts on Spelling Fixes, and more.

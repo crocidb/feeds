@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/216"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.839048592Z"
-seen = false
+seen = true
 +++
 
 EuroBSDcon trip report, how to secure OpenBSDs LDAP server, ZFS channel programs in FreeBSD HEAD and why software is storytelling.

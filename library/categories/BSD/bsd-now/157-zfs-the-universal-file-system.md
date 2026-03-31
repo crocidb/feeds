@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/157"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.004872016Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we have an interview with Richard Yao, who will be telling us about the experience and challenges of porting ZFS to Linux. That plus the latest news and feedback is coming your way, on your place

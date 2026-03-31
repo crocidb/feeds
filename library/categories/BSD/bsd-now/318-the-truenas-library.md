@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/318"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.599377757Z"
-seen = false
+seen = true
 +++
 
 DragonFlyBSD vs. FreeBSD vs. Linux benchmark on Ryzen 7, JFK Presidential Library chooses TrueNAS for digital archives, FreeBSD 12.1-beta is available, cool but obscure X11 tools, vBSDcon trip report, Project Trident 12-U7 is available, a couple new Unix artifacts, and more.

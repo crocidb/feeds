@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/637"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.061116808Z"
-seen = false
+seen = true
 +++
 
 Time to update our /etc/hosts file...

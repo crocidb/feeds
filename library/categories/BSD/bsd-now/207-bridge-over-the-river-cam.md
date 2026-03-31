@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/207"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.863587464Z"
-seen = false
+seen = true
 +++
 
 We recap our devsummit experiences at BSDCambridge, share why memcmp is more complicated than expected, explore Docker on FreeBSD, and we look at a retro terminal.

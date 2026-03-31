@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/87"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.146398378Z"
-seen = false
+seen = true
 +++
 
 Coming up this time on the show, we'll be speaking with Christos Zoulas, a NetBSD security officer. He's got a new project called blacklistd, with some interesting possibilities for stopping bruteforce attacks. We've also got answers to your emails and all this week's news, on BSD Now - the place to B.. SD.

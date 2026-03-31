@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/63"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.196336599Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we've got an interview with Kristaps Džonsons, the creator of mandoc. He tells us how the project got started and what its current status is across the various BSDs. We also have a mini-tutorial on using PF to throttle bandwidth. This week's news, answers to your emails and even some cheesy mailing list gold, coming up on BSD Now - the place to B.. SD.

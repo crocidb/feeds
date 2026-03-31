@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/478"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.334138350Z"
-seen = false
+seen = true
 +++
 
 Open Source in Enterprise Environments, Your Comprehensive Guide to rc(8): FreeBSD Services and Automation, How Rob Pike got hired by Dennis Richie, what FreeBSD machines rubenerd uses, new debugbreak command, 7 sudo myths debunked

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/633"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.069444402Z"
-seen = false
+seen = true
 +++
 
 ZFS Features, Roadmap, and Innovations, Magical systems thinking, How VMware’s Debt-Fueled Acquisition Is Killing Open Source, OpenSSH 10.1 Released, KDE Plasma 6 Wayland on FreeBSD, Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS, Balkanization of the Internet, GhostBSD 25.02 adds 'Gershwin' desktop for a Mac-like twist, and more

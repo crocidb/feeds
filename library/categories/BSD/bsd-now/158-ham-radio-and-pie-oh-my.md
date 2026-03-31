@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/158"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.002952137Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we’ll be talking to Diane Bruce about using it for Ham Radio Enthusiasts, the RPi3 and much more! That plus all the latest news from the week,

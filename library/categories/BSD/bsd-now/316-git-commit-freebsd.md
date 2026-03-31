@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/316"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.603459413Z"
-seen = false
+seen = true
 +++
 
 NetBSD LLVM sanitizers and GDB regression test suite, Ada—The Language of Cost Savings, Homura - a Windows Games Launcher for FreeBSD, FreeBSD core team appoints a WG to explore transition to Git, OpenBSD 6.6 Beta tagged, Project Trident 12-U5 update now available, and more.

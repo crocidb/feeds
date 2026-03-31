@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/345"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.550159624Z"
-seen = false
+seen = true
 +++
 
 NetBSD 8.2 is available, NextCloud on OpenBSD, X11 screen locking, NetBSD and RISC OS running parallel, community feedback about switching to BSD, and more.

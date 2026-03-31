@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/468"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.360165520Z"
-seen = false
+seen = true
 +++
 
 Advocating for FreeBSD in 2022 and Beyond, NetBSD 9.3 released, OPNsense 22.7 available, CHERI-based computer runs KDE for the first time, Run FreeBSD 13.1-RELEASE for ARM64 in QEMU on Apple Silicon Mac, and more

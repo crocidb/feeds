@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/291"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.650665907Z"
-seen = false
+seen = true
 +++
 
 Storage changing software, what makes Unix special, what you need may be “pipeline +Unix commands”, running a bakery on Emacs and PostgreSQL, the ultimate guide to memorable tech talks, light-weight contexts, and more.

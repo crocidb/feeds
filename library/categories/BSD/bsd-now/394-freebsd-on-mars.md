@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/394"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.470511795Z"
-seen = false
+seen = true
 +++
 
 Onboard Scheduler for the Mars 2020 Rover, Practical Guide to Storage of Large Amounts of Microscopy Data, OpenBSD guest with bhyve - OmniOS, NextCloud on OpenBSD, MySQL Transactions - the physical side, TrueNAS 12.0-U2.1 is released, HardenedBSD 2021 State of the Hardened Union, and more

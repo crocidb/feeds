@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/473"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.350626087Z"
-seen = false
+seen = true
 +++
 
 Writing FreeBSD kernel modules in Rust, Details behind the FreeBSD aio LPE, Linux subsystem for FreeBSD, FreeBSD Journal: Science, Systems, and FreeBSD, NetBSD improves Amiga support, OpenBSD on Scaleway Elastic Metal, and more

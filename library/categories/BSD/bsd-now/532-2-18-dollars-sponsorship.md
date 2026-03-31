@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/532"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.231893878Z"
-seen = false
+seen = true
 +++
 
 2<sup>18</sup> dollars to open source, EuroBSDCon 2023 Trip Report, FreeBSD vs Linux (Debian), Introduction to sysclean8, Run your own Syncthing discovery server on OpenBSD, FreeBSD years: 2000-2005, Using OpenBSD relayd(8) as an Application Layer Gateway, and more

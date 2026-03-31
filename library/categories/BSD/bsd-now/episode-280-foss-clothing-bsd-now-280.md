@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/280"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.671149192Z"
-seen = false
+seen = true
 +++
 
 A EULA in FOSS clothing, NetBSD with more LLVM support, Thoughts on FreeBSD 12.0, FreeBSD Performance against Windows and Linux on Xeon, Microsoft shipping NetBSD, and more.

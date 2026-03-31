@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/60"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.202175704Z"
-seen = false
+seen = true
 +++
 
 This week on the show we're joined by Olivier Cochard-Labbé, the creator of both FreeNAS and the BSD Router Project! We'll be discussing what the BSD Router Project is, what it's for and where it's going. All this week's headlines and answers to viewer-submitted questions, on BSD Now - the place to B.. SD.

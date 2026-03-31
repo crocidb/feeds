@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/315"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.605459562Z"
-seen = false
+seen = true
 +++
 
 vBSDcon 2019 recap, Unix at 50, OpenBSD on fan-less Tuxedo InfinityBook, humungus - an hg server, how to configure a network dump in FreeBSD, and more.

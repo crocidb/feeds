@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/11"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.292446765Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we sit down to chat with Justin Sherrill of the DragonflyBSD project about their new 3.6 release. Later on, we'll be showing you a huge tutorial that's been baking for over a month - how to build an OpenBSD router that'll destroy any consumer router on the market! There's lots of news to get caught up on as well, so sit back and enjoy some BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/164"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.989545557Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we’ve got all sorts of goodies to discuss. Starting with, vmm, vkernels, raspberry pi and much more! Some iX folks are visiting from out of

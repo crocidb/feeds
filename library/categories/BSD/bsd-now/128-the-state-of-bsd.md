@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/128"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.063739471Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we interview Nick Wolff about how FreeBSD is used across the State of Ohio and some of the specific technology used. That, plus the latest news is coming your way right now on BSDNow, the place to

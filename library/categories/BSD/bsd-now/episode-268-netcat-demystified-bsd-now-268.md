@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/268"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.699896170Z"
-seen = false
+seen = true
 +++
 
 6 metrics for zpool performance, 2FA with ssh on OpenBSD, ZFS maintaining file type information in dirs, everything old is new again, netcat demystified, and more.

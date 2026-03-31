@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/622"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.092876275Z"
-seen = false
+seen = true
 +++
 
 This week Benedict interviews Mark Phillips , the Technical Marketing Manager at the FreeBSD Foundation, while they both are at a Hackathon in Germany.

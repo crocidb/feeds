@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/538"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.222559685Z"
-seen = false
+seen = true
 +++
 
 DAK and the Golden Age of Gadget Catalogs, FreeBSD 13.2 upgrade to 14.0, Running OpenBSD on Raspberry Pi Zero 2 W, Netgate Releases pfSense CE Software Version 2.7.1, SSH agent forwarding and tmux done right, Some explanations about OpenBSD memory usage, and more

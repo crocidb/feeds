@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/70"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.181937380Z"
-seen = false
+seen = true
 +++
 
 It's our last episode of 2014, and we'll be chatting with Dan Langille about the upcoming BSDCan conference. We'll find out what's planned and what sorts of presentations they're looking for. As usual, answers to viewer-submitted questions and all the week's news, coming up on BSD Now - the place to B.. SD.

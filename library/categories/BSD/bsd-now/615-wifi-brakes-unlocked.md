@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/615"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.104731956Z"
-seen = false
+seen = true
 +++
 
 How to unlock high speed Wi-Fi on FreeBSD 14, What We’ve Learned Supporting FreeBSD in Production, rsync replaced with openrsync on macOS Sequoia, Framework 13 AMD Setup with FreeBSD, FreeBSD on Dell Latitude 7280, Backup MX with OpenSMTPD, Notes on caddy as QUIC reverse proxy with mac\_portacl, and more

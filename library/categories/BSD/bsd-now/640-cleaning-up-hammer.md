@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/640"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.053212725Z"
-seen = false
+seen = true
 +++
 
 FreeBSD is an OCI runtime, ZFS Disaster Recovery, Cleaning up Hammer, and some historical information, and more...

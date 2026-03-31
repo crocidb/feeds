@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/252"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.740790598Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 11.2 has been released, setting up an MTA behind Tor, running pfsense on DigitalOcean, one year of C, using OpenBGPD to announce VM networks, the power to serve, and a BSDCan trip report.

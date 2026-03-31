@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/648"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.035330619Z"
-seen = false
+seen = true
 +++
 
 FreeBSD's Future, 18 years of greytrapping, PF vs Linux firewalls, and more.

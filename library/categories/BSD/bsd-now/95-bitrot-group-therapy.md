@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/95"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.130771209Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be talking some ZFS with Sean Chittenden. He's been using it on FreeBSD at Groupon, and has some interesting stories about how it's saved his data. Answers to your emails and all of this week's headlines, on BSD Now - the place to B.. SD.

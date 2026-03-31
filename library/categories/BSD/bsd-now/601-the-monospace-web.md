@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/601"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.127052728Z"
-seen = false
+seen = true
 +++
 
 The PC is Dead: It’s Time to Make Computing Personal Again, The Biggest Unix Security Loophole, The monospace Web, What a FreeBSD kernel message about your bridge means, Installing FreeBSD on a HP 250 G9, Networking for System Administrators, and more.

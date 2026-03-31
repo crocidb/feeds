@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/297"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.640082535Z"
-seen = false
+seen = true
 +++
 
 FreeBSD ZFS vs. ZoL performance, Dragonfly 5.4.2 has been release, containing web services with iocell, Solaris 11.4 SRU8, Problem with SSH Agent forwarding, OpenBSD 6.4 to 6.5 upgrade guide, and more.

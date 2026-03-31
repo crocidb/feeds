@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/209"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.858050398Z"
-seen = false
+seen = true
 +++
 
 We read a trip report about FreeBSD in China, look at how Unix deals with Signals, a stats collector in DragonFlyBSD & much more!

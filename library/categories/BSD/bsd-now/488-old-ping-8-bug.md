@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/488"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.300799505Z"
-seen = false
+seen = true
 +++
 
 Finding a 24 year old bug in ping(8), The Role of Operating Systems in IOT, Authentication gateway with SSH on OpenBSD, FreeBSD 12.4 is out, and more

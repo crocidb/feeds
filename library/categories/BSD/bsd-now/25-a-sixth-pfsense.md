@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/25"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.266022555Z"
-seen = false
+seen = true
 +++
 
 We have a packed show for you this week! We'll sit down for an interview with Chris Buechler, from the pfSense project, to learn just how easy it can be to deploy a BSD firewall. We'll also be showing you a walkthrough of the pfSense interface so you can get an idea of just how convenient and powerful it is. Answers to your questions and the latest headlines, here on BSD Now - the place to B.. SD.

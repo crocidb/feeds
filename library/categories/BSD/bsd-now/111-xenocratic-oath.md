@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/111"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.097386115Z"
-seen = false
+seen = true
 +++
 
 Coming up on this weeks episode, we have BSD news, tidbits and articles out the wazoo to share. Also, be sure to stick around for our interview with Brandon Mercer as he tells us about OpenBSD being used in the healthcare industry.

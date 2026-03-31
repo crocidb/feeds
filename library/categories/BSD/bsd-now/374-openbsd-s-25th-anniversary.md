@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/374"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.503257530Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 6.8 has been released, NetBSD 9.1 is out, OpenZFS devsummit report, BastilleBSD’s native container management for FreeBSD, cleaning up old tarsnap backups, Michael W. Lucas’ book sale, and more.

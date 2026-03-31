@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/99"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.121251757Z"
-seen = false
+seen = true
 +++
 
 This week we'll be talking with Ryan Lortie and Baptiste Daroussin about GNOME on BSD. Upstream development is finally treating the BSDs as a first class citizen, so we'll hear about how the recent porting efforts have been since.

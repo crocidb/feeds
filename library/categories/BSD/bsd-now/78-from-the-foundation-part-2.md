@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/78"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.163777564Z"
-seen = false
+seen = true
 +++
 
 This week we continue our two-part series on the activities of various BSD foundations. Ken Westerback joins us today to talk all about the OpenBSD foundation and what it is they do. We've also got answers to your emails and all the latest news, on BSD Now - the place to B.. SD.

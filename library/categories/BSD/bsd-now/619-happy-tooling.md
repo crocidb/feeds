@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/619"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.098255310Z"
-seen = false
+seen = true
 +++
 
 Disaster Recovery with ZFS: A Practical Guide, The best interfaces we never built, Choose Tools That Make You Happy, open source has turned into two worlds, TrueNAS CORE is Dead – Long Live zVault, You should start a computer club in the place that you live, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/456"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.378185016Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 13.1 is released, Unix command line conventions over time, Branching for NetBSD 10, Microbhyve, Own your Calendar and Contacts with OpenBSD, the PSARC case for ZFS, and more

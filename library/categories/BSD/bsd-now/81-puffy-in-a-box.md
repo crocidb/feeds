@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/81"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.157961578Z"
-seen = false
+seen = true
 +++
 
 We're back from AsiaBSDCon! This week on the show, we'll be talking to Lawrence Teo about how Calyptix uses OpenBSD in their line of commercial routers. They're getting BSD in the hands of Windows admins who don't even realize it. We also have all this week's news and answer to your emails, on BSD Now - the place to B.. SD.

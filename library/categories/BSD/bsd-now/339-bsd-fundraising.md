@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/339"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.560442046Z"
-seen = false
+seen = true
 +++
 
 Meet FuryBSD, NetBSD 9.0 has been released, OpenBSD Foundation 2019 campaign wrapup, a retrospective on OmniOS ZFS-based NFS fileservers, NetBSD Fundraising 2020 goal, OpenSSH 8.2 released, and more.## Headlines

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/417"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.435828642Z"
-seen = false
+seen = true
 +++
 
 Achieving RPO/RTO Objectives with ZFS pt 1, FreeBSD Foundation Q2 report, OpenBSD full Tor setup, MyBee - bhyve as private cloud, FreeBSD home fileserver expansion, OpenBSD on Framework Laptop, portable GELI, and more.

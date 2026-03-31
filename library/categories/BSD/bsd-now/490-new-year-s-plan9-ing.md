@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/490"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.297745438Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Foundation’s Software Development review of 2022, what can we learn from Vintage Computing, OpenBSD KDE Status Report 2022, a Decade of HardenedBSD, In Praise of Plan9, and more

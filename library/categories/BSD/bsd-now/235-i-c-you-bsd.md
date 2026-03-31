@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/235"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.784857884Z"
-seen = false
+seen = true
 +++
 
 How the term open source was created, running FreeBSD on ThinkPad T530, Moving away from Windows, Unknown Giants, as well as OpenBSD and FreeDOS.

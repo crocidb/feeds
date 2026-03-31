@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/492"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.294632260Z"
-seen = false
+seen = true
 +++
 
 Writing your own operating system, Continuous Integration and Quality Assurance Update, feeling for the NetBSD community, Testing wanted: execute-only on amd64, GCC uses Modula-2 and Rust, do they work on OpenBSD, Unix is dead; long live Unix, and more

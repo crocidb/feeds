@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/621"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.094460303Z"
-seen = false
+seen = true
 +++
 
 Designing a Storage Pool, The Report of My Death Was an Exaggeration, Generic BSD installations on ARM64 UEFI, dm\_target\_crypt\_ng - Add next-generation implementation, The X Window System didn't immediately have X terminals, The Book of PF 4th Edition Is Coming Soon, Periodical 20 Localized Computing, and more

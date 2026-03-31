@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/215"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.841761941Z"
-seen = false
+seen = true
 +++
 
 We look at how Netflix serves 100 Gbps from an Open Connect Appliance, read through the 2nd quarter FreeBSD status report, show you a freebsd-update speedup via nginx reverse proxy, and customize your OpenBSD default shell.

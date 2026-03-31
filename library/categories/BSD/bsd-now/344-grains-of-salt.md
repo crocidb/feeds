@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/344"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.551838603Z"
-seen = false
+seen = true
 +++
 
 Shell text processing, data rebalancing on ZFS mirrors, Add Security Headers with OpenBSD relayd, ZFS filesystem hierarchy in ZFS pools, speeding up ZSH, How Unix pipes work, grow ZFS pools over time, the real reason ifconfig on Linux is deprecated, clear your terminal in style, and more.

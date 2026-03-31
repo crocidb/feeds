@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/435"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.409607492Z"
-seen = false
+seen = true
 +++
 
 In this last episode of 2021, we interview Solene from OpenBSD. She’s blogging about her experiences with OpenBSD on dataswamp.org, the webzine she created, how she got involved and other topics. Enjoy and best wishes for 2022!

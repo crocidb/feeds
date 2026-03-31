@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/348"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.545051108Z"
-seen = false
+seen = true
 +++
 
 FuryBSD 2020Q2 Images Available, Technical reasons to choose FreeBSD over GNU/Linux, Ars technica reviews GhostBSD, “TLS Mastery” sponsorships open, BSD community show their various collections, a tale of OpenBSD secure memory allocator internals, learn to stop worrying and love SSDs, and more.

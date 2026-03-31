@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/330"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.577610183Z"
-seen = false
+seen = true
 +++
 
 Authentication Vulnerabilities in OpenBSD, NetBSD 9.0 RC1 is available, Running FreeNAS on a DigitalOcean droplet, NomadBSD 1.3 is here, at e2k19 nobody can hear you scream, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/100"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.119129378Z"
-seen = false
+seen = true
 +++
 
 We've finally reached a hundred episodes, and this week we'll be talking to Sebastian Wiedenroth about pkgsrc. Though originally a NetBSD project, now it runs pretty much everywhere, and he even runs a conference about it!

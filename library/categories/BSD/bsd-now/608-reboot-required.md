@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/608"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.116316126Z"
-seen = false
+seen = true
 +++
 
 Robust & Reliable Backup Solutions with OpenZFS, Why I Maintain a 17 Year Old Thinkpad, Motivations, Tinker Writer Deck, How to tell if FreeBSD needs a Reboot using kernel version check, Techie pulled an all-nighter that one mistake turned into an all-weekender, and more

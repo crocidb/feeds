@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/262"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.713307279Z"
-seen = false
+seen = true
 +++
 
 OpenBSD on Microsoft Surface Go, FreeBSD Foundation August Update, What’s taking so long with Project Trident, pkgsrc config file versioning, and MacOS remnants in ZFS code.

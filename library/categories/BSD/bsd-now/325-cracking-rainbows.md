@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/325"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.585889107Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 12.1 is here, A history of Unix before Berkeley, FreeBSD development setup, HardenedBSD 2019 Status Report, DNSSEC, compiling RainbowCrack on OpenBSD, and more.

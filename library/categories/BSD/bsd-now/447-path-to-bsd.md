@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/447"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.391768696Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Foundation Proposals, UNIX: On the Path to BSD, Fujitsu ends its mainframe and Unix services, Install burpsuite on FreeBSD using Linuxulator, new OpenBSD Webzine is out, and more.

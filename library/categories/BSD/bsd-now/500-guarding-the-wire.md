@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/500"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.282023979Z"
-seen = false
+seen = true
 +++
 
 Wireguard VPN Server with Unbound on OpenBSD, Auditing for OpenZFS Storage Performance, OpenBSD 7.2 on a Thinkpad X201, Practical Guides to fzf, Replacing postfix with dma, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/173"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.969307943Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we’ve got some great stories to bring you, a look at the odder side of UNIX history

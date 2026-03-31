@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/36"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.246972180Z"
-seen = false
+seen = true
 +++
 
 This week on the show we'll be showing you how to set up RAID arrays in both FreeBSD and OpenBSD. There's also an interview with David Chisnall - of the FreeBSD core team - about the switch to Clang and a lot more. As usual, we'll be dropping the latest news and answering your emails, so sit back and enjoy some BSD Now - the place to B.. SD.

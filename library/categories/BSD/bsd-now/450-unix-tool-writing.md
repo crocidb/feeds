@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/450"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.387346949Z"
-seen = false
+seen = true
 +++
 
 The ideas that made Unix, hints for writing Unix tools, cron best practices, three different sorts of filesystem errors, LibreSSL 3.5.1 released, taskwarrior to manage tasks, and more.

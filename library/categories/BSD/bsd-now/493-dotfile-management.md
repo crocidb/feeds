@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/493"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.293097331Z"
-seen = false
+seen = true
 +++
 
 Write Admin tools from Day One, Differentiating between Data Security and Data Integrity, 45 year-old Unix tool is finally getting an upgrade, OpenBSD 7.2 on an ODROID-HC4, Dotfiles Management, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/189"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.917967362Z"
-seen = false
+seen = true
 +++
 
 This week on the show we interview Wendell from Level1Techs, cover Google Summer of Code on the different BSD projects, cover YubiKey usage, dive into how NICs work &

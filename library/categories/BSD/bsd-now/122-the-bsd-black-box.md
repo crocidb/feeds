@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/122"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.075705932Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we will be interviewing Alex Rosenberg, to

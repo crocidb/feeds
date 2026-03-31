@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/23"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.269571323Z"
-seen = false
+seen = true
 +++
 
 On this week's episode, we'll be talking with Ted Unangst of the OpenBSD team about their new signing infrastructure. After that, we've got a tutorial on how to run your own NTP server. News, your feedback and even... the winner of our tutorial contest will be announced! So stay tuned to BSD Now - the place to B.. SD.

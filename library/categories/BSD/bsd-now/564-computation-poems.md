@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/564"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.183099935Z"
-seen = false
+seen = true
 +++
 
 Results from the 2024 FreeBSD Community Survey Report, What is Computer Science? \~1967, Computation Poems, Old Info, but still good -- HOWTO: Set up and configure security/sshguard-pf, observium-freebsd-install, FreeBSD Tips and Tricks: Native Read-Only Root File System, OpenSSH introduces options to penalize undesirable behavior, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/649"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.033856430Z"
-seen = false
+seen = true
 +++
 
 ZFS Scrubs and Data integrity, Propolice, FreeBSD vs Slackware and more.

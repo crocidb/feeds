@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/112"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.095427536Z"
-seen = false
+seen = true
 +++
 
 This week Allan is away at a ZFS conference, so it seems

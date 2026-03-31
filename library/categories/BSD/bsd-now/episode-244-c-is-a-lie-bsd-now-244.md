@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/244"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.760282673Z"
-seen = false
+seen = true
 +++
 
 Arcan and OpenBSD, running OpenBSD 6.3 on RPI 3, why C is not a low-level language, HardenedBSD switching back to OpenSSL, how the Internet was almost broken, EuroBSDcon CfP is out, and the BSDCan 2018 schedule is available.

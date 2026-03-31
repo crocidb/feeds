@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/550"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.204413329Z"
-seen = false
+seen = true
 +++
 
 This week on the show, you're not too late to develop the future, netmap on czgbe, OpenZFS 2.2.3, SSH Brute Forcing, some unknown OpenBSD Features, Release notes for the latest Omni OS, and more...

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/366"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.516031580Z"
-seen = false
+seen = true
 +++
 
 OpenZFS with ZSTD lands in FreeBSD 13, LibreSSL doc status update, FreeBSD on SPARC64 (is dead), Bringing zpool checkpoints to a FreeBSD bootloader, and more

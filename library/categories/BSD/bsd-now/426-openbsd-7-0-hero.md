@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/426"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.422835892Z"
-seen = false
+seen = true
 +++
 
 A Good Time to Use OpenZFS Slog, OpenBSD 7.0 is out, OpenBSD and Wayland, UVM faults yield significant performance boost, and more.

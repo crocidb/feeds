@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/395"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.468811566Z"
-seen = false
+seen = true
 +++
 
 Tracing the History of ARM and FreeBSD, Make ‘less’ more friendly, NomadBSD 1.4 Release, Create an Ubuntu Linux jail on FreeBSD 12.2, OPNsense 21.1.2 released, Midnight BSD and BastilleBSD, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/650"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.032331050Z"
-seen = false
+seen = true
 +++
 
 AT&T's $2000 shell, ZFS Scrubs and Data Integrity, FFS Backups, FreeBSD Home Nas, and more.

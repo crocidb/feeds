@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/124"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.071856984Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we have a very full news roster to rundown, plus an oldie, but goodie with Igor of the nginx project. That plus all your questions and feedback,

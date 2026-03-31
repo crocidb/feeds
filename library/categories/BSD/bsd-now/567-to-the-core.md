@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/567"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.178513889Z"
-seen = false
+seen = true
 +++
 
 SSH as a sudo replacement, Core.13 is Now In Office, Running GoToSocial on NetBSD, A DMD package for OpenIndiana, Adding more swap space to Omnios, OpenBSD adds initial support for Qualcomm Snapdragon Elite X after 1 day, and more

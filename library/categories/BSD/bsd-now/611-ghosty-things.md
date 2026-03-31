@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/611"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.111549030Z"
-seen = false
+seen = true
 +++
 
 GhostBSD: From Usability to Struggle and Renewal, Why You Can’t Trust AI to Tune ZFS, Introducing bpflogd(8): capture packets via BPF to log files, What I'd do as a College Freshman in 2025, FreeBSD and KDE Plasma generations, Improvements to the FreeBSD CI/CD systems, FreeBSD as a Workstation, and more

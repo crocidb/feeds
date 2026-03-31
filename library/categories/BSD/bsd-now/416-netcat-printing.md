@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/416"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.437290821Z"
-seen = false
+seen = true
 +++
 
 OpenZFS snapshots, OpenSUSE on Bastille, printing with netcat, new opnsense 21.1.8 released, new pfsense plus software available, and more.

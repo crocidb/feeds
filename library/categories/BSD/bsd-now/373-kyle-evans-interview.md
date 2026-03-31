@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/373"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.504594199Z"
-seen = false
+seen = true
 +++
 
 We have an interview with Kyle Evans for you this week. We talk about his grep project, lua and flua in base, as well as bectl, being on the core team and a whole lot of other stuff.

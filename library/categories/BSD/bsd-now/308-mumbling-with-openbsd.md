@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/308"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.618735902Z"
-seen = false
+seen = true
 +++
 
 Replacing a (silently) failing disk in a ZFS pool, OPNsense 19.7 RC1 released, implementing DRM ioctl support for NetBSD, High quality/low latency VOIP server with umurmur/Mumble on OpenBSD, the PDP-7 where Unix began, LLDB watchpoints, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/107"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.104177639Z"
-seen = false
+seen = true
 +++
 
 This week, we are going to be talking with Aaron Poffenberger, who has much to share about his first-hand experience in infiltrating Linux conferences with BSD-goodness.

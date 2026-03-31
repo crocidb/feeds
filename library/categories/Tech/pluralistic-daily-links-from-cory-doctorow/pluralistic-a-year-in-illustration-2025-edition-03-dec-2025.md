@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2025/12/03/cannier-valley/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2025-12-10T15:23:50.448072453Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/03Dec2025.jpg?w=840&ssl=1)](https://pluralistic.net/2025/12/03/cannier-valley/)

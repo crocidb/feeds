@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/420"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.431432645Z"
-seen = false
+seen = true
 +++
 
 Choosing The Right ZFS Pool Layout, changes in OpenBSD that make life better, GhostBSD 21.09.06 ISO's now available, Fair Internet bandwidth management with OpenBSD, NetBSD wifi router project update, NetBSD on the Apple M1, HardenedBSD August Status Report, FreeBSD Journal on Wireless and Desktop, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/51"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.218854402Z"
-seen = false
+seen = true
 +++
 
 Coming up on the show, we'll be showing you how to set up a secure, SSL-only webserver. There's also an interview with Eric Le Blan about community participation and FreeBSD's role in the commercial server space. All that and more, on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/627"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.082552002Z"
-seen = false
+seen = true
 +++
 
 An (almost) catastrophic OpenZFS bug, crawler plague and the fragility of the web, Classic CDE (Common Desktop Environment) coming to OpenBSD, Some notes on DMARC policy inheritance and a gotcha, GNAT (Ada) is in fact fully supported on illumos, Eighteen Years of Greytrapping, and more

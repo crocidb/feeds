@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/142"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.035953131Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we have all the latest news and stories! Plus an interview with BSD developer Alfred Perlstein, that you

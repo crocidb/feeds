@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/35"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.248921789Z"
-seen = false
+seen = true
 +++
 
 We're back again! On this week's packed show, we've got one of the biggest tutorials we've done in a while. It's an in-depth look at PF, OpenBSD's firewall, with some practical examples and different use cases. We'll also be talking to Peter Hansteen about the new edition of "The Book of PF." Of course, we've got news and answers to your emails too, on BSD Now - the place to B.. SD.

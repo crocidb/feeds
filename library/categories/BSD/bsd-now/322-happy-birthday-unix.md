@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/322"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.591729482Z"
-seen = false
+seen = true
 +++
 
 Unix is 50, Hunting down Ken's PDP-7, OpenBSD and OPNSense have new releases, Clarification on what GhostBSD is, sshuttle - VPN over SSH, and more.

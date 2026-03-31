@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/170"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.976801247Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we’ve got some new info on the talks from EuroBSDCon, a look at sharing a single ZFS pool between Linux and BSD, Sandboxing and much more! Stay tuned for your place to B...SD!

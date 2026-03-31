@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/85"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.150305604Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be talking with Pascal Stumpf about static PIE in the upcoming OpenBSD release. He'll tell us what types of attacks it prevents, and why it's such a big deal. We've also got answers to questions from you in the audience and all this week's news, on BSD Now - the place to B.. SD.

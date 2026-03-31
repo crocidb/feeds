@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/352"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.538437583Z"
-seen = false
+seen = true
 +++
 
 A brief introduction to randomness, logs grinding netatalk to a halt, NetBSD core team changes, Using qemu guest agent on OpenBSD kvm/qemu guests, WireGuard patchset for OpenBSD, FreeBSD 12.1 on a laptop, and more.

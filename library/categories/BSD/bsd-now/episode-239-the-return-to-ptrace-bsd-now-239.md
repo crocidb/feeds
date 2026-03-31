@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/239"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.773009393Z"
-seen = false
+seen = true
 +++
 
 OpenBSD firewalling Windows 10, NetBSD’s return to ptrace, TCP Alternative Backoff, the BSD Poetic license, and AsiaBSDcon 2018 videos available.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/613"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.108354303Z"
-seen = false
+seen = true
 +++
 
 Isolating Containers with ZFS and Linux Namespaces, DragonFly BSD 6.4.2, FreeBSD fans rally round zVault upstart, For Upcoming PF Tutorials, We Welcome Your Questions, Using \~/.ssh/authorized keys to decide what the incoming connection can do, PDF bruteforce tool to recover locked files, How and why typical (SaaS) pricing is too high for university departments, and more

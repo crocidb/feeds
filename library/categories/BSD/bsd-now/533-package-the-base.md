@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/533"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.230259239Z"
-seen = false
+seen = true
 +++
 
 FreeBSD on the RISC-V Architecture, A bit of XENIX history, pkgbase: Official packages, recover lost text by coredumping firefox, FuguIta 7.4 has been released, LibreSSL 3.8.2 Released, OpenSMTPD 7.4.0p0 Released

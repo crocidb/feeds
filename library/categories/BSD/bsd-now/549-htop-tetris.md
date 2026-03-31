@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/549"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.205923848Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Foundation Statement on the European Union Cyber Resiliency Act, DragonFly BSD on a Thinkpad T480s, How FreeBSD   

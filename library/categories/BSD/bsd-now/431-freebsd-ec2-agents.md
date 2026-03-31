@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/431"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.415430338Z"
-seen = false
+seen = true
 +++
 
 Why use OpenBSD part 2, FreeBSD on the RISC-V Architecture, OpenBSD Webzine Issue 4, Ending up liking GNOME, OPNsense 21.7.5 released, Jenkins with FreeBSD Agents in EC2, and more

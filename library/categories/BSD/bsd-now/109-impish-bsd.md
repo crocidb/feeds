@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/109"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.100835042Z"
-seen = false
+seen = true
 +++
 
 This week, we have a great interview with Warner Losh of the FreeBSD project! We will be discussing everything from automatic kernel module loading, IO scheduling and of course NanoBSD.

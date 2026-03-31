@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/176"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.963046588Z"
-seen = false
+seen = true
 +++
 
 Another exciting week on BSDNow, we are queued up with LLVM / Linking news, a look at NetBSD’s scheduler,

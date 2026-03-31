@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/526"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.241768020Z"
-seen = false
+seen = true
 +++
 
 Why DNS is still hard to learn, Unix support 50 years ago, ZFS Replication tools, Between ISA and PCI, PCs had EISA and VLB, Old Computer Challenge v3, and more

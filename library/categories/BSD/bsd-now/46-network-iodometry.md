@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/46"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.229395864Z"
-seen = false
+seen = true
 +++
 
 We're back, and this week we'll be showing you how to tunnel out of a restrictive network using only DNS queries. We also sat down with Bryan Drewery, from the FreeBSD portmgr team, to talk all about their building cluster and some recent changes. All the latest news and answers to your emails, on BSD Now - the place to B.. SD.

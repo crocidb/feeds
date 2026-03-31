@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/116"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.087976062Z"
-seen = false
+seen = true
 +++
 
 This episode was brought to you by

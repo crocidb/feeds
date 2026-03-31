@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/576"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.164906789Z"
-seen = false
+seen = true
 +++
 
 From Cloud Chaos to FreeBSD Efficiency, August 2024 Foundation Update, Email encryption at rest on OpenBSD using dovecot and GPG, Workarounds are often forever (unless you work to make them otherwise), Remote Desktop using RDP and VNC, Iconography of the X Window System: The Boot Stipple, Plan 9 is a Uniquely Complete Operating System, and more

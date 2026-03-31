@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/557"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.193564138Z"
-seen = false
+seen = true
 +++
 
 Open Source Software: The $9 Trillion Resource Companies Take for Granted, Tinkering with Manjaro and NetBSD on the Pinebook Pro: a crumbs-in-the-forest tutorial & review, OpenSMTPD 7.5.0p0 Released, OpenBSD 7.5 locks down with improved disk encryption support and syscall limitations, Book 8088, Custom Prometheus dashboards using Console templates, FreeBSD Foundation March 2024 Partnerships Update, Ray tracing made possible on 42-year-old ZX Spectrum: 'reasonably fast, if you consider 17 hours per frame to be reasonably fast', and more

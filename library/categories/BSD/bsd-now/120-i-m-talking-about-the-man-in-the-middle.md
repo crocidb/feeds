@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/120"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.079832268Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we are going to be talking to Pawel about how his

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/327"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.582466360Z"
-seen = false
+seen = true
 +++
 
 We read FreeBSD’s third quarterly status report, OpenBSD on Sparc64, ZoL repo move to OpenZFS, GEOM NOP, keeping NetBSD up-to-date, and more.

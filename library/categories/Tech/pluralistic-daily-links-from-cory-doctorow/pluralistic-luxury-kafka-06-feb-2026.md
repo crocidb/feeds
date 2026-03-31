@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/02/06/doge-ball/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-02-11T20:16:52.212009225Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/06Feb2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/02/06/doge-ball/)

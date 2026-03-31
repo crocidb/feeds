@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/364"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.519341167Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Qt WebEngine GPU Acceleration, the grind of FreeBSD’s wireless stack, thoughts on overlooking Illumos's syseventadm, when Unix learned to reboot, New EXT2/3/4 File-System driver in DragonflyBSD, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/501"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.280457191Z"
-seen = false
+seen = true
 +++
 
 Nextcloud + OpenBSD = \<3, Understanding the Origins of DTrace, Bastille Templates for FreeBSD Jails, Initial support for guided disk encryption in the OpenBSD installer, Dynamic host configuration please, OpenBSD Storage Management tutorial at BSDCan 2023, Jan/Feb 2023 Column Out in the FreeBSD Journal, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/571"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.172405663Z"
-seen = false
+seen = true
 +++
 
 Navigating FreeBSD’s New Quarterly and Biennial Release Schedule, EuroBSDCon 2024 Schedule, From Cloud Chaos to FreeBSD Efficiency, Local-to-anchors tables in PF rules, CloudBSD, and more

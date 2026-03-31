@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/537"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.224132434Z"
-seen = false
+seen = true
 +++
 
 OpenZFS Storage Best Practices and Use Cases pt 2, MNT Reform – almost a year on, Why do I know shell, and how can you, Authenticate the SSH servers you are connecting to, dsynth in DragonFly, Navigating around in shell, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/40"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.239968755Z"
-seen = false
+seen = true
 +++
 
 On this week's episode, we'll be giving you an introductory guide on OpenBSD's ports and package system. There's also a pretty fly interview with Karl Lehenbauer, about how they use FreeBSD at FlightAware. Lots of interesting news and answers to all your emails, on BSD Now - the place to B.. SD.

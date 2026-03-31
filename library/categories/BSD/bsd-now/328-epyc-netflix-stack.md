@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/328"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.580747380Z"
-seen = false
+seen = true
 +++
 
 LLDB Threading support now ready, Multiple IPSec VPN tunnels with FreeBSD, Netflix Optimized FreeBSD's Network Stack More Than Doubled AMD EPYC Performance, happy eyeballs with unwind(8), AWS got FreeBSD ARM 12, OpenSSH U2F/FIDO support, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/341"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.556836229Z"
-seen = false
+seen = true
 +++
 
 FreeBSD on Power, DragonflyBSD 5.8 is here, Unifying FreeNAS/TrueNAS, OpenBSD vs. Prometheus and Go, gcc 4.2.1 removed from FreeBSD base, and more.

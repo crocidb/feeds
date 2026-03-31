@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2025/12/18/self-licking-ice-cream-cone/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2025-12-19T13:15:28.531225451Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/18Dec2025.jpg?w=840&ssl=1)](https://pluralistic.net/2025/12/18/self-licking-ice-cream-cone/)

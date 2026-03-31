@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/84"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.151947583Z"
-seen = false
+seen = true
 +++
 
 On this week's mini-episode, we'll be talking with Baptiste Daroussin about packaging the FreeBSD base system with pkgng. Is this the best way going forward, or are we getting dangerously close to being Linux-like? We'll find out, and also get to a couple of your emails while we're at it, on BSD Now - the place to B.. SD.

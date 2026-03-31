@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/31"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.255953883Z"
-seen = false
+seen = true
 +++
 
 This week we'll be talking to Richard Stallman about the upcoming GPLv4 and how it will protect our software from being stolen. After that, we'll show you how to recover from those pesky ZFS on Linux corruption issues, as well as some tips on how to explain to your boss that all the production boxes were compromised. Your questions and all the latest GNUs, on Linux Now - the place to Lin.. ux.

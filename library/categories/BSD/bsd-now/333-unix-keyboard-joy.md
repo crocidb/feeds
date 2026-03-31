@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/333"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.571141838Z"
-seen = false
+seen = true
 +++
 
 Your Impact on FreeBSD in 2019, Wireguard on OpenBSD Router, Amazon now has FreeBSD/ARM 12, pkgsrc-2019Q4, The Joys of UNIX Keyboards, OpenBSD on Digital Ocean, and more.

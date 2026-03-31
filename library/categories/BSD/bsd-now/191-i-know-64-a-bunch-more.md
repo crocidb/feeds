@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/191"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.904962752Z"
-seen = false
+seen = true
 +++
 
 We cover TrueOS/Lumina working to be less dependent on Linux, How the IllumOS network stack works, Throttling the password gropers & the 64 bit inode call for testing.

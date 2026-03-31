@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/462"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.369071313Z"
-seen = false
+seen = true
 +++
 
 The Design and Implementation of the NetBSD rc.d system, selling OpenBSD as a salesperson, Speeding up autoconf with caching, Allowing non-root execution of a jailed application, Configure login(1) and sshd(8) for YubiKey on OpenBSD, and more.

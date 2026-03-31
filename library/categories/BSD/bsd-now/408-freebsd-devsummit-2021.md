@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/408"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.448682092Z"
-seen = false
+seen = true
 +++
 
 Report from virtual FreeBSD DevSummit 2021, another promising release by FreeBSD Based helloSystem, GearBSD, OpenBGPD release, Let’s Encrypt on OpenBSD, FreeBSD 13 on the Panasonic Let’s Note, and more

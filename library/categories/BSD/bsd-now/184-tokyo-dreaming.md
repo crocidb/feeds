@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/184"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.943178833Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, Allan and I are in Tokyo for AsiaBSDCon, but not to worry, we have a full episode lined up and ready to go. Hackathon reports

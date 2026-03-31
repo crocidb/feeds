@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/457"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.376739897Z"
-seen = false
+seen = true
 +++
 
 Journey to ZFS RAIDZ1 on NetBSD, FreeBSD networking basics: WiFi and Bluetooth, smuggling code into the playstation via NetBSD driver hole, KDE FreeBSD CI, remembering buildtool, and more

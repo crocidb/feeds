@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/250"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.745517825Z"
-seen = false
+seen = true
 +++
 
 TrueOS becoming a downstream fork with Trident, our BSDCan 2018 recap, HardenedBSD Foundation founding efforts, VPN with OpenIKED on OpenBSD, FreeBSD on a System76 Galago Pro, and hardware accelerated crypto on Octeons.

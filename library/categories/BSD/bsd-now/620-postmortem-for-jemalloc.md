@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/620"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.096162902Z"
-seen = false
+seen = true
 +++
 
 The Server That Wasn't Meant to Exist, ZFS Performance Tuning – Optimizing for your Workload, what would a multi-user web server look like, That Grumpy BSD Guy: A Short Reading List, rsync's defaults are not always enough, jemalloc Postmortem, and more

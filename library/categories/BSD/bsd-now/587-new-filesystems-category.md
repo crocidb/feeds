@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/587"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.148188022Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Quarterly Report, Welcome to the new category: filesystems, BSD Misconceptions, Notes on the compatibility of crypted passwords across Unixes in late 2024, Automating ZFS Snapshots for Peace of Mind, A few nice things in OpenZFS 2.3, and more

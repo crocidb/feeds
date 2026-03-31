@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/143"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.033828954Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we have an interview with Matthew Macy, who has some exciting news to share with us regarding the state of graphics

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/551"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.202879020Z"
-seen = false
+seen = true
 +++
 
 This week on the show, The story of SSH getting port 22, GGC using Clang, AuxRunner, Stabweek, Using a Kensington SlimBladePro on OpenBSD, and more...

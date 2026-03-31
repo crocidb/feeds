@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/474"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.347661149Z"
-seen = false
+seen = true
 +++
 
 Deploying FreeBSD on Oracle Cloud, A Tale of 300,000 Imaginary Friends, EuroBSDcon 2022 recap, OpenBSD Mastery: Filesystems” Status Report, OpenBGPD 7.6 Released, immutable userland mappings, Portable OpenSSH commits now SSH-signed, and more.

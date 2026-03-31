@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/166"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.984989841Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we’re loaded up with great stories ranging from System call fuzzing, a history of UNIX Pipes, speeding up MySQL imports and more. Stay tuned, BSDNow is coming your way right now.

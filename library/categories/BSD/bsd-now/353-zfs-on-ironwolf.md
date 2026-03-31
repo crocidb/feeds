@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/353"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.536834135Z"
-seen = false
+seen = true
 +++
 
 Scheduling in NetBSD, ZFS vs. RAID on Ironwolf disks, OpenBSD on Microsoft Surface Go 2, FreeBSD for Linux sysadmins, FreeBSD on Lenovo T480, and more.

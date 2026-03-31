@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/421"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.429982976Z"
-seen = false
+seen = true
 +++
 
 Useless use of GNU, Meet the 2021 FreeBSD GSoC Students, historical note on Unix portability, vm86-based venix emulator, ZFS Mysteriously Eating CPU, traceroute gets speed boost, and more

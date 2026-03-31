@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/350"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.541605681Z"
-seen = false
+seen = true
 +++
 
 5x if\_bridge Performance Improvement, How Unix Won, Understanding VLAN Configuration on FreeBSD, Using bhyve PCI passthrough on OmniOS, TrueNAS 11.3-U2 Available, and more.

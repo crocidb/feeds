@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/55"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.211656357Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we'll be talking with Adrian Chadd about all things wireless, his experience with FreeBSD on various laptop hardware and a whole lot more. As usual, we've got the latest news and answers to all your emails, on BSD Now - the place to B.. SD.

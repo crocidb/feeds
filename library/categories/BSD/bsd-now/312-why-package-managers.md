@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/312"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.611254128Z"
-seen = false
+seen = true
 +++
 
 The UNIX Philosophy in 2019, why use package managers, touchpad interrupted, Porting wine to amd64 on NetBSD second evaluation report, Enhancing Syzkaller Support for NetBSD, all about the Pinebook Pro, killing a process and all of its descendants, fast software the best software, and more.

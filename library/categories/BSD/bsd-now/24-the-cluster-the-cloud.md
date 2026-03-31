@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/24"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.267734704Z"
-seen = false
+seen = true
 +++
 
 This week on BSD Now... a wrap-up from NYCBSDCon! We'll also be talking to Luke Marsden, CEO of HybridCluster, about how they use BSD at large. Following that, our tutorial will show you how to securely share files with SFTP in a chroot. The latest news and answers to your questions, of course it's BSD Now - the place to B.. SD.

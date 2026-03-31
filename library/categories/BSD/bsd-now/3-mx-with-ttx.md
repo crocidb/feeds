@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/3"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.305793935Z"
-seen = false
+seen = true
 +++
 
 We follow up last week's poudriere tutorial with a segment about using pkgng, we talk with the developers of OpenSMTPD about running a mail server OpenBSD-style, answer YOUR questions and, of course, discuss all the latest news. All that and more on BSD Now! The place to B... SD.

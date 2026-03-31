@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/165"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.987332079Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we’ve got voting news for you (No not *that* election), a closer look at

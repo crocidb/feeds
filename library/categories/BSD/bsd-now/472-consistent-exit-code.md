@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/472"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.353520565Z"
-seen = false
+seen = true
 +++
 
 FreeBSD on the Framework Laptop, Win32 is the only stable ABI on Linux, why OpenBSD’s documentation is so good, configure dma for mail delivery in jails on internet hosts, introducing muxfs, RAID1C boot support, and more

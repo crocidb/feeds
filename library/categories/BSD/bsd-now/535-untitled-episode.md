@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/535"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.227218032Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 14 has been released, Reading your RSS feed on FreeBSD, Manipulate PDF files easily with pdftk, clang(1)/llvm updated to version 16 in OpenBSD, NetBSD Security Advisory: multiple vulnerabilities in ftpd(8), and more

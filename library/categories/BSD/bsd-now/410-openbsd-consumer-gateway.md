@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/410"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.445889834Z"
-seen = false
+seen = true
 +++
 
 Open Source and Blogging Bubbles, Building Customized FreeBSD Images, Updating Minecraft in FreeBSD, Upgrading FreeBSD jails using mkjail, Dragonfly 6.0 Performance benchmark, OpenBSD Consumer Gateway Launch, and more.

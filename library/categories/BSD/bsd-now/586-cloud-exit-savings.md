@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/586"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.149693571Z"
-seen = false
+seen = true
 +++
 
 Our Cloud Exit Savings will not top ten million over five years, 5 Reasons Why Your ZFS Storage Benchmarks Are Wrong, The history of inetd is more interesting than I expected, OpenBSD is Hard to Show Off, bhyve on FreeBSD and VM Live Migration – Quo vadis?, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/113"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.093706308Z"
-seen = false
+seen = true
 +++
 
 Coming up on this week’s episode, we have an interview

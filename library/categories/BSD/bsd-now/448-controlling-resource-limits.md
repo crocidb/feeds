@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/448"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.390281707Z"
-seen = false
+seen = true
 +++
 
 Controlling Resource Limits with rctl in FreeBSD, It’s always DNS, Google Summer of Code in BSD Projects, Rsync Technical Notes - Q4 2021, Userland CPU frequency scheduling for OpenBSD, and more.

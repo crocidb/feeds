@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/187"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.928448834Z"
-seen = false
+seen = true
 +++
 
 Catching up to BSD, news about the NetBSD project, a BSD Phone, and a bunch of OpenBSD and TrueOS News.

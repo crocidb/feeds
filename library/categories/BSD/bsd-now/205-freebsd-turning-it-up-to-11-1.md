@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/205"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.868581110Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 11.1-RELEASE is out, we look at building at BSD home router, how to be your own OpenBSD VPN provider, and find that glob matching can be simple and fast.

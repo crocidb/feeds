@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/617"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.101433918Z"
-seen = false
+seen = true
 +++
 
 FreeBSD version 14.3 is available, Reliable ZFS Storage on Commodity Hardware, My website is ugly because I made it, Semi distributed filesystems with ZFS and Sanoid, April 2025 Laptop Support and Usability Project Update, UDP sockets instead of BPF in dhcpd(8), and more

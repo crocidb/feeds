@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/75"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.170085009Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we'll be starting a two-part series detailing the activities of various BSD foundations. Ed Maste from the FreeBSD foundation will be joining us this time, and we'll talk about what all they've been up to lately. All this week's news and answers to viewer-submitted questions, coming up on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/32"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.254186554Z"
-seen = false
+seen = true
 +++
 
 This week on the big show we'll be showing off OpenBSD's new "autoinstall" feature to do completely automatic, unattended installations. We also have an interview with Dru Lavigne about all the writing work she does for FreeBSD, PCBSD and FreeNAS. The latest headlines and answers to your emails, on BSD Now - it's the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/498"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.285004957Z"
-seen = false
+seen = true
 +++
 
 OpenZFS auditing for storage Performance, Privilege drop; privilege separation; and restricted-service operating mode in OpenBSD, OPNsense 23.1.1 release, Cloning a System with Ansible, FOSDEM 2023, BSDCan 2023 Travel Grants

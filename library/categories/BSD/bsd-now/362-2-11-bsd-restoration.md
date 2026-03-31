@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/362"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.522252236Z"
-seen = false
+seen = true
 +++
 
 Interview with Warner Losh about Unix history, the 2.11-BSD restoration project, the Unix heritage society, proper booting, and what devmatch is.

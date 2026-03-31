@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/449"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.388783957Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Status Report 4th Quarter 2021, Reproducible clean $HOME in OpenBSD using impermanence, Making RockPro64 a NetBSD Server, helloSystem 0.7.0 is out, lazy approach to FreeBSD dual-booting, going to jail, and more.

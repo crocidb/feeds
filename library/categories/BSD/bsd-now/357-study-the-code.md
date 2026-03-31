@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/357"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.530360999Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 6.7 on PC Engines, NetBSD code study, DRM Update on OpenBSD, Booting FreeBSD on HPE Microserver SATA port, 3 ways to multiboot, and more.

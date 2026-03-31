@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/482"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.318149982Z"
-seen = false
+seen = true
 +++
 
 5 Key Reasons to Consider Open Source Storage, OpenBSD Minimalist Desktop, BSD XFCE, Alpine Linux VM on bhyve - with root on ZFS, FreeBSD Jail Quick Setup with Networking, and more.

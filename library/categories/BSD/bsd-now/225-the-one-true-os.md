@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/225"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.812006053Z"
-seen = false
+seen = true
 +++
 
 TrueOS stable 17.12 is out, we have an OpenBSD workstation guide for you, learnings from the PDP-11, FreeBSD 2017 Releng recap and Duo SSH.

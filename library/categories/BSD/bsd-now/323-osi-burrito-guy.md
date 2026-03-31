@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/323"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.589702544Z"
-seen = false
+seen = true
 +++
 
 The earliest Unix code, how to replace fail2ban with blacklistd, OpenBSD crossed 400k commits, how to install Bolt CMS on FreeBSD, optimized hammer2, appeasing the OSI 7-layer burrito guys, and more.

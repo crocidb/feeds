@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/467"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.361618749Z"
-seen = false
+seen = true
 +++
 
 Installing BSDs on Cubieboard1, Self-hosting a static site with OpenBSD, httpd, and relayd, NetBSD can also run a Minecraft server, A Little Story About the `yes` Unix Command, Shell History: Unix, OpenBGPD 7.5 released, and more

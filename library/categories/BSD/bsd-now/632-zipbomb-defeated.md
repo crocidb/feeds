@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/632"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.071572241Z"
-seen = false
+seen = true
 +++
 
 zipbomb defeated, Optimizing ZFS for High-Throughput Storage Workloads, Open Source is one person, Omada SDN Controller on FreeBSD, Building a Simple Router with OpenBSD, Back to the origins, Enhancing Support for NAT64 Protocol Translation in NetBSD, and more

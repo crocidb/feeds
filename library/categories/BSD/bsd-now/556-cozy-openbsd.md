@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/556"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.195064506Z"
-seen = false
+seen = true
 +++
 
 OpenBSD is a Cozy Operating System, Lichee Console 4A - RISC-V mini laptop, Lessons learned with XZ vulnerability, Techies vs spies: the xz backdoor debate, Not Not Porting 9front to Power64, One less Un\*xy option for 32-bit PowerPC, and more

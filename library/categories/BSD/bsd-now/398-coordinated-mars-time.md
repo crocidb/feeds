@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/398"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.464225910Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 13.0 Full Desktop Experience, FreeBSD on ARM64 in the Cloud, Plan 9 from Bell Labs in Cyberspace, Inferno is open source as well, NetBSD hits donation milestone, grep returns (standard input) on FreeBSD, Random Programming Challenge, OpenBSD Adds Support for Coordinated Mars Time (MTC) and more

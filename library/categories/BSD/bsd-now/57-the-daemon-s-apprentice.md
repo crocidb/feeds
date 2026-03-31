@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/57"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.208338500Z"
-seen = false
+seen = true
 +++
 
 We're back from EuroBSDCon! This week we'll be talking with Steve Wills about mentoring new BSD developers. If you've ever considered becoming a developer or helping out, it's actually really easy to get involved. We've also got all the BSD news for the week and answers to your emails, on BSD Now - the place to B.. SD.

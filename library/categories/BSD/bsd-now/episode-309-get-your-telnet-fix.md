@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/309"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.616875123Z"
-seen = false
+seen = true
 +++
 
 DragonFlyBSD Project Update - colo upgrade, future trends, resuming ZFS send, realtime bandwidth terminal graph visualization, fixing telnet fixes, a chapter from the FBI’s history with OpenBSD and an OpenSSH vuln, and more.

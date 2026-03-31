@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/401"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.459498453Z"
-seen = false
+seen = true
 +++
 
 Dog's Garage Runs OpenBSD, EuroBSDcon 2021 Call for Papers, FreeBSD’s iostat, The state of toolchains in NetBSD, Bandwidth limiting on OpenBSD 6.8, FreeBSD's ports migration to git and its impact on HardenedBSD, TrueNAS 12.0-U3 has been released, and more.

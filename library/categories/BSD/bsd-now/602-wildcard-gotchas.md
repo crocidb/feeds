@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/602"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.125581329Z"
-seen = false
+seen = true
 +++
 
 I Tried FreeBSD as a Desktop in 2025. Here's How It Went, Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets, The first perfect computer, Find Name Wildcard Gotcha, and more

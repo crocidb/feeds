@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/79"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.161690255Z"
-seen = false
+seen = true
 +++
 
 Coming up this time on the show, we'll be talking to Sean Bruno. He's been using poudriere and QEMU to cross compile binary packages, and has some interesting stories to tell about it. We've also got answers to viewer-submitted questions and all this week's news, on BSD Now - the place to B.. SD.

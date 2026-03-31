@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/141"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.037975880Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we have all the latest news and stories! Plus we’ll be hearing more about OpnSense from the man himself, Ike!

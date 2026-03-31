@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/340"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.558708468Z"
-seen = false
+seen = true
 +++
 
 Why ZFS is doing filesystem checksumming right, better TMPFS throughput performance on DragonFlyBSD, reshaping pools with ZFS, PKGSRC on Manjaro aarch64 Pinebook-pro, central log host with syslog-ng on FreeBSD, and more.

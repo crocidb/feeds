@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/314"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.607405280Z"
-seen = false
+seen = true
 +++
 
 Unix virtual memory when you have no swap space, Dsynth details on Dragonfly, Instant Workstation on FreeBSD, new servers new tech, Experimenting with streaming setups on NetBSD, NetBSD’s progress towards Steam support thanks to GSoC, and more.

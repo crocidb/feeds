@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/267"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.701282908Z"
-seen = false
+seen = true
 +++
 
 We have a long interview with fiction and non-fiction author Michael W. Lucas for you this week as well as questions from the audience.

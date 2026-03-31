@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/528"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.238626062Z"
-seen = false
+seen = true
 +++
 
 If you can use Open Source you can build hardware, Good performance is not just big O, Proof You Should Not Run MWL Code, How to add pledge to a program in OpenBSD, 3D printing on OpenBSD, Getting the right type of certificate, Jenny’s Daily Drivers, and more

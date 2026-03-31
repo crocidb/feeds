@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/249"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.748165263Z"
-seen = false
+seen = true
 +++
 
 OpenZFS and DTrace updates in NetBSD, NetBSD network security stack audit, Performance of MySQL on ZFS, OpenSMTP results from p2k18, legacy Windows backup to FreeNAS, ZFS block size importance, and NetBSD as router on a stick.  

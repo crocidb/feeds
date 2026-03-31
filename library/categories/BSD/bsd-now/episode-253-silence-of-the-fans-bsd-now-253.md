@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/253"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.738123900Z"
-seen = false
+seen = true
 +++
 
 Fanless server setup with FreeBSD, NetBSD on pinebooks, another BSDCan trip report, transparent network audio, MirBSD's Korn Shell on Plan9, static site generators on OpenBSD, and more.

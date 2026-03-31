@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/147"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.026306239Z"
-seen = false
+seen = true
 +++
 
 On this episode of BSDNow, we will be talking to Glen Barber and Peter Wemm of the FreeBSD RE and Cluster Admin teams! That plus our

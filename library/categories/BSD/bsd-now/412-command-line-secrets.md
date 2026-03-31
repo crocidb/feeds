@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/412"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.443020077Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Performance Observability, Advance!BSD thoughts 1/2, Lumina Desktop Maintainership Change, How to Handle Secrets on the Command Line, Like NetBSD DragonFlyBSD Now Has "COVID", and more.

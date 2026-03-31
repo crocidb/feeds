@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/506"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.272757577Z"
-seen = false
+seen = true
 +++
 
 Comparing Modern Open-Source Storage Solutions, FreeBSD Q1 Status Report, Hello Systems 0.8.1 Release, OpenBSD: Managing an inverter/converter with NUT, Tips for Running a Greener FreeBSD, BSDCAN Registration open

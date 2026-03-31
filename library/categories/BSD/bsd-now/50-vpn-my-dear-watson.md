@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/50"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.220696100Z"
-seen = false
+seen = true
 +++
 
 It's our 50th episode, and we're going to show you how to protect your internet traffic with a BSD-based VPN. We'll also be talking to Robert Watson, of the FreeBSD core team, about security research, exploit mitigation and a whole lot more. The latest news and answers to all of your emails, on BSD Now - the place to B.. SD.

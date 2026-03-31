@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/263"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.710655940Z"
-seen = false
+seen = true
 +++
 
 Mitigating Spectre/Meltdown on HP Proliant servers, omniOS installation setup, debugging a memory corruption issue on OpenBSD, CfT for OpenZFS native encryption, Asigra TrueNAS backup appliance shown at VMworld, NetBSD 6 EoL, and more.  

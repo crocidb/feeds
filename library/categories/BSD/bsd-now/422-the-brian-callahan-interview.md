@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/422"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.428554017Z"
-seen = false
+seen = true
 +++
 
 We interview Dr. Brian Callahan about his language porting work for OpenBSD, teaching with BSDs and recruiting students into projects, research, and his work at NYC\*BUG in this week’s episode of BSDnow.

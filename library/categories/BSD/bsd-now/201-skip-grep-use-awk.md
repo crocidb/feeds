@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/201"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.879715641Z"
-seen = false
+seen = true
 +++
 
 In which we interview a unicorn, FreeNAS 11.0 is out, show you how to run Nextcloud in a FreeBSD jail, and talk about the connection between oil changes and software patches.

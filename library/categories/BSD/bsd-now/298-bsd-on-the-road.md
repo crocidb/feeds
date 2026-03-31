@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/298"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.638028107Z"
-seen = false
+seen = true
 +++
 
 36 year old UFS bug fixed, a BSD for the road, automatic upgrades with OpenBSD, DTrace ext2fs support in FreeBSD, Dedicated SSH tunnel user, upgrading VMM VMs to OpenBSD 6.5, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/91"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.137750253Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we've got something pretty different. We went to a Linux convention and asked various people if they've ever tried BSD and what they know about it. Stay tuned for that, all this week's news and, of course, answers to your emails, on BSD Now - the place to B.. SD.

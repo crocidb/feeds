@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/110"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.099464123Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we get to hear all of Allans post EuroBSDCon wrap-up and a great interview with Benno Rice from Isilon. We got to discuss some of the pain of doing major forklift upgrades, and why your business should track -CURRENT.

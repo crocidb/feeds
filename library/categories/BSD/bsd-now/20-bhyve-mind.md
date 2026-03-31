@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/20"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.275686588Z"
-seen = false
+seen = true
 +++
 
 It's our big 20th episode! We're going to sit down for a chat with Neel Natu and Peter Grehan, the developers of bhyve. Not familiar with bhyve? Our tutorial will show you all you need to know about this awesome new virtualization technology. Answers to your questions and all the latest news, here on BSD Now - the place to B.. SD.

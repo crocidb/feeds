@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/272"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.689815797Z"
-seen = false
+seen = true
 +++
 
 Byproducts of reading OpenBSD’s netcat code, learnings from porting your own projects to FreeBSD, OpenBSD’s unveil(), NetBSD’s Virtual Machine Monitor, what 'dependency' means in Unix init systems, jailing bhyve, and more.  

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/547"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.208908036Z"
-seen = false
+seen = true
 +++
 
 Overcoming imposter syndrome in IT, A Practical Guide to GNU sed With Examples, Early computer art by Barbara Nessim, Don't prefill config files, Trapping Spambots Based on Target Domain Only, You cannot cURL under pressure, and more

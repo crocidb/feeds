@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/604"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.122544582Z"
-seen = false
+seen = true
 +++
 
 The Future Looking Back At Us: Joanne McNeil on Cyberpunk, Why ZFS reports less available space, We are destroying software, FreeBSD 13.5 Overcomes UFS Y2038 Problem To Push It Out To Year 2106, 1972 UNIX V2 "Beta" Resurrected, Some thoughts on why 'inetd activation' didn't catch on, If you believe in “Artificial Intelligence”, take five minutes to ask it about stuff you know well, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/54"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.213463845Z"
-seen = false
+seen = true
 +++
 
 This week on the show, it's all about Lumina. We'll be giving you a visual walkthrough of the new BSD-exclusive desktop environment, as well as chatting with the main developer. There's also answers to your emails and all the latest news, on BSD Now - the place to B.. SD.

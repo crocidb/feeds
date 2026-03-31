@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/246"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.755539837Z"
-seen = false
+seen = true
 +++
 
 How Intel docs were misinterpreted by almost any OS, a look at the mininet SDN emulator, do’s and don’ts for FreeBSD, OpenBSD community going gold, ed mastery is a must read, and the distributed object store minio on FreeBSD.

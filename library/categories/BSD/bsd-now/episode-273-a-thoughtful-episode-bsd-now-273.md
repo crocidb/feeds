@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/273"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.687286279Z"
-seen = false
+seen = true
 +++
 
 Thoughts on NetBSD 8.0, Monitoring love for a GigaBit OpenBSD firewall, cat’s source history, X.org root permission bug, thoughts on OpenBSD as a desktop, and NomadBSD review.

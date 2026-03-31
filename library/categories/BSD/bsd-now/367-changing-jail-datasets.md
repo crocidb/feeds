@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/367"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.514308122Z"
-seen = false
+seen = true
 +++
 
 A 35 Year Old Bug in Patch, Sandbox for FreeBSD, Changing from one dataset to another within a jail, You don’t need tmux or screen for ZFS, HardenedBSD August 2020 Status Report and Call for Donations, and more.

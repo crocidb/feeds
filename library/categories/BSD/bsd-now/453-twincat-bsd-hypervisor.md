@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/453"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.382835142Z"
-seen = false
+seen = true
 +++
 
 Building Your Own FreeBSD-based NAS, Writing a device driver for Unix V6, EC2: What Colin Percival’s been up to, Beckhoff releases TwinCAT/BSD Hypervisor, Writing a NetBSD kernel module, and more.

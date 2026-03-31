@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/89"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.141696771Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we'll be talking to Mike Larkin about various memory protections in OpenBSD. We'll cover recent W<sup>X</sup> improvements, SSP, ASLR, PIE and all kinds of acronyms! We've also got a bunch of news and answers to your questions, coming up on BSD Now - the place to B.. SD.

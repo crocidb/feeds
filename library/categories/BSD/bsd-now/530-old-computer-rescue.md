@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/530"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.235521635Z"
-seen = false
+seen = true
 +++
 
 Implementing a system call for OpenBSD, Self-Hosted Email services on OpenBSD, First 5 Minutes on a New FreeBSD Server, OLD COMPUTER RESCUE - X201, sec(4) for Route Based IPSec VPNs, send syslog messages using command-line utilities, Keeping email sorted (the hard way), and more

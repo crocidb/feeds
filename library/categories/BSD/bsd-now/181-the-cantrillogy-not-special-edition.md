@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/181"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.952733305Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow we have a cantrill special to bring you! All three interviews back to back in their original glory, you won’t want to miss

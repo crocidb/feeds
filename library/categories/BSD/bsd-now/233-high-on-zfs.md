@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/233"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.790437960Z"
-seen = false
+seen = true
 +++
 
 We explain the physics behind ZFS, DTrace switching to the GPL, Emacs debugging, syncookies coming to PF & FreeBSD’s history on EC2.

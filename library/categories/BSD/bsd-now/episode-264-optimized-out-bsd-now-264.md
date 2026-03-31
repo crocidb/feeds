@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/264"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.707929543Z"
-seen = false
+seen = true
 +++
 
 FreeBSD and DragonflyBSD benchmarks on AMD’s Threadripper, NetBSD 7.2 has been released, optimized out DTrace kernel symbols, stuck UEFI bootloaders, why ed is not a good editor today, tell your BSD story, and more.

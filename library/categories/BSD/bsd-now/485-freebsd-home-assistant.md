@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/485"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.305350732Z"
-seen = false
+seen = true
 +++
 
 Tails of the M1 GPU, Getting Home Assistant running in a FreeBSD 13.1 jail, interview with AWK creator Dr. Brian Kernighan, Next steps toward mimmutable, Unix's (technical) history is mostly old now, and more

@@ -1,0 +1,11 @@
++++
+title = "Ubisoft ends game development at Red Storm and lays off 105 workers"
+description = "The studio will continue operating in the form of global IT and Snowdrop engine support."
+date = "2026-03-19T15:28:14Z"
+url = "https://www.gamedeveloper.com/business/ubisoft-lays-off-105-staff-at-red-storm-ends-game-development"
+author = "Diego Argüello"
+text = ""
+lastupdated = "2026-03-30T10:52:52.838893573Z"
+seen = true
++++
+

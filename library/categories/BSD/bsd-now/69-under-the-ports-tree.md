@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/69"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.183503848Z"
-seen = false
+seen = true
 +++
 
 It's a special holiday episode! We asked you guys in the audience to send in the tale of how you first got into BSD, and we're going to share those with everyone today. We'll also be playing two bonus mini-interviews, so get comfy by the fire and listen to some BSD Now - the place to B.. SD.

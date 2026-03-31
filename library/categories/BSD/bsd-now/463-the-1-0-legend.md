@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/463"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.367505714Z"
-seen = false
+seen = true
 +++
 
 Differences between base and ports LLVM in OpenBSD, Netgraph for FreeBSD’s bhyve Networking, Audio on FreeBSD – Quick Guide, FreeBSD’s Legend starts at 1.0, Hacker News running by FreeBSD, TrueNAS 13, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/459"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.373779939Z"
-seen = false
+seen = true
 +++
 
 Evaluating FreeBSD CURRENT for Production Use, Time Machine-like Backups on OpenBSD, FreeBSD on the Graviton 3, Compiling the NetBSD kernel as a benchmark, Network Management with the OpenBSD Packet Filter Toolset from BSDCan 2022, Hardware Detection & Diagnostics for New FreeBSD Users, and more

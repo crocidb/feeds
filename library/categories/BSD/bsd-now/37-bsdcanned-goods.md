@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/37"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.245022092Z"
-seen = false
+seen = true
 +++
 
 This week we're at BSDCan, ganging up on people and forcing them to give us interviews. Assuming we don't get arrested for harassment, we'll be back next week with your regularly scheduled programming. For now, we've got some feedback emails to catch up on, as well as a prerecorded talk Matt Ahrens gave about ZFS. We'll be back to tell you all about the conference next week, on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/511"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.265092702Z"
-seen = false
+seen = true
 +++
 
 Sun Ray laptops, MIPS and getting root on them, OpenZFS for HPC Clusters, Self-Hosted Bookmarks using DAV and httpd on OpenBSD, Terraform + Proxmox + OpenBSD = \<3, WOL Plex Server, Against innovation, and more

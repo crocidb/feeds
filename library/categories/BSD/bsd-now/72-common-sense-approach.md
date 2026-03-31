@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/72"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.177796803Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we'll be talking to Jos Schellevis about OPNsense, a new firewall project that was forked from pfSense. We'll learn some of the backstory and see what they've got planned for the future. We've also got all this week's news and answers to all your emails, on BSD Now - the place to B.. SD.

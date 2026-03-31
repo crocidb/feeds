@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/149"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.021914793Z"
-seen = false
+seen = true
 +++
 
 Today on the show, we are going to be chatting with Michael Dexter about a variety of topics, but of course including bhyve! That plus

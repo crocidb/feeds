@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/132"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.055341727Z"
-seen = false
+seen = true
 +++
 
 This week, Allan and I are away at AsiaBSDCon! (If you aren’t there, you are missing out). We will be back with a live episode next week. However, we’ve been asked for Allan to tell us about ScaleEngine’s

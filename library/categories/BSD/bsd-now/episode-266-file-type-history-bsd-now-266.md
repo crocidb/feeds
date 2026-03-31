@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/266"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.703596237Z"
-seen = false
+seen = true
 +++
 
 Running OpenBSD/NetBSD on FreeBSD using grub2-bhyve, vermaden’s FreeBSD story, thoughts on OpenBSD on the desktop, history of file type info in Unix dirs, Multiboot a Pinebook KDE neon image, and more.

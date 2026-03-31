@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/384"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.487242252Z"
-seen = false
+seen = true
 +++
 
 Allen K. Briggs Memorial Scholarship, Toward an automated tracking of OpenBSD ports contributions, Trying OpenZFS 2 on FreeBSD 12.2-RELEASE, OpenBSD on TECLAST F7 Plus, Multi-volume support in HAMMER2, and more.

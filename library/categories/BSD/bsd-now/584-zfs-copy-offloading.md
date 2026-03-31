@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/584"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.152811139Z"
-seen = false
+seen = true
 +++
 
 New CIS® FreeBSD 14 Benchmark: Secure Your Systems with Expert-Guided Best Practices, Accelerating ZFS with Copy Offloading: BRT, The uncertain possible futures of Unix graphical desktops, Jailfox - Firefox in a Freebsd Jail, Make Your Own Read-Only Device With NetBSD, ex/vi/nvi editor: .exrc advanced,

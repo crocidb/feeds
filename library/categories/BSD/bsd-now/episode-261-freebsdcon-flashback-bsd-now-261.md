@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/261"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.716605826Z"
-seen = false
+seen = true
 +++
 
 Insight into TrueOS and Trident, stop evildoers with pf-badhost, Flashback to FreeBSDcon ‘99, OpenBSD’s measures against TLBleed, play Morrowind on OpenBSD in 5 steps, DragonflyBSD developers shocked at Threadripper performance, and more.

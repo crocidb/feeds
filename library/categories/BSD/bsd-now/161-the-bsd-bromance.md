@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/161"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.996465192Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we’re going to be hearing about Allan’s trip to EuroBSDCon, plus an Interview about “Bro on BSD”! Stay tuned, for your place to

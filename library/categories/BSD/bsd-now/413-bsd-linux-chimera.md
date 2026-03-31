@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/413"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.441600547Z"
-seen = false
+seen = true
 +++
 
 Updating GCC GNAT (Ada) in pkgsrc/NetBSD, AdvanceBSD thoughts 2/2, FreeBSD from a NetBSD user’s perspective, FPGA programming and DragonFly, Chimera Linux, EuroBSDcon 2021, and more.

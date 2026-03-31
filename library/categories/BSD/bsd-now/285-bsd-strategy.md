@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/285"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.661720529Z"
-seen = false
+seen = true
 +++
 
 Strategic thinking to keep FreeBSD relevant, reflecting on the soul of a new machine, 10GbE Benchmarks On Nine Linux Distros and FreeBSD, NetBSD integrating LLVM sanitizers in base, FreeNAS 11.2 distrowatch review, and more.

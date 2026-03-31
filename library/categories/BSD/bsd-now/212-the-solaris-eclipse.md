@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/212"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.850268784Z"
-seen = false
+seen = true
 +++
 
 We recap vBSDcon, give you the story behind a PF EN, reminisce in Solaris memories, and show you how to configure different DEs on FreeBSD.

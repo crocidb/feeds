@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/206"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.866119582Z"
-seen = false
+seen = true
 +++
 
 Lumina Desktop 1.3 is out, we show you a Plasma 5 on FreeBSD tutorial, explore randomness, and more.

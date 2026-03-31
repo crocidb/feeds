@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/406"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.451623450Z"
-seen = false
+seen = true
 +++
 
 Gemini Capsule in a FreeBSD Jail, FreeBSD Quarterly status report 2021Q1, NetBSD VM on bhyve (on TrueNAS), Interview with Michael Lucas, WireGuard Returns as Experimental Package in pfSense, CGI with Awk on OpenBSD httpd, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/574"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.167887787Z"
-seen = false
+seen = true
 +++
 
 Antithesis: Pioneering Deterministic Hypervisors with FreeBSD and Bhyve, Our slowly growing Unix monoculture, The six dumbest ideas in computer security (2005), Video Edition notes on OpenBSD, Full-featured email server running OpenBSD, ever heard of teaching a case study of Initial Unix?, and more

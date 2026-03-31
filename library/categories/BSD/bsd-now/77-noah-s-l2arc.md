@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/77"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.165790793Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we'll be chatting with Alex Reece and Matt Ahrens about what's new in the world of OpenZFS. After that, we're starting a new tutorial series on submitting your first patch. All the latest BSD news and answers to your emails, coming up on BSD Now - the place to B.. SD.

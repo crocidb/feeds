@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/148"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.024305801Z"
-seen = false
+seen = true
 +++
 
 This week on the show, Allan and I are going to be showing you a very interesting interview we did talking about using FreeBSD to drive

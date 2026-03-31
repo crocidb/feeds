@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/351"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.540045161Z"
-seen = false
+seen = true
 +++
 
 Backup and Restore on NetBSD, OpenBSD 6.7 available, Building a WireGuard Jail with FreeBSD's standard tools, who gets to chown things and quotas, influence TrueNAS CORE roadmap, and more.

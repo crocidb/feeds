@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/245"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.757940255Z"
-seen = false
+seen = true
 +++
 
 Allan’s recap of the ZFS User conference, first impressions of OmniOS by a BSD user, Nextcloud 13 setup on FreeBSD, OpenBSD on a fanless desktop computer, an intro to HardenedBSD, and DragonFlyBSD getting some SMP improvements.  

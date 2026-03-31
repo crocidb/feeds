@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/96"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.128740841Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we'll be talking with Jun Ebihara about some lesser-known CPU architectures in NetBSD. He'll tell us what makes these old (and often forgotten) machines so interesting. As usual, we've also got answers to your emails and all this week's news on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/389"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.479148679Z"
-seen = false
+seen = true
 +++
 
 A week with Plan 9, Exploring Swap on FreeBSD, how to create a FreeBSD pkg mirror using bastille and poudriere, How to set up FreeBSD 12 VNET jail with ZFS, Creating Comfy FreeBSD Jails Using Standard Tools, and more.

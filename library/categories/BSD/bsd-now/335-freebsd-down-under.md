@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/335"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.567667010Z"
-seen = false
+seen = true
 +++
 
 Hyperbola Developer interview, why you should migrate from Linux to BSD, FreeBSD is an amazing OS, improving the ptrace(2) API in LLVM 10, First FreeBSD conference in Australia, and a guide to containers on FreeNAS.

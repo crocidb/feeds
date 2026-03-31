@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/121"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.077717399Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we are going to be talking to Trent Thompson,

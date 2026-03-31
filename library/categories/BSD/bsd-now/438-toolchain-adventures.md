@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/438"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.405348275Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Foundation reviews 2021 activities, DragonflyBSD 6.2.1 is here, Lumina Desktop 1.6.2 available, toolchain adventures, The OpenBSD BASED Challenge Day 7, Bastille Template: AdGuard Home, setting up ZSH on FreeBSD and more.

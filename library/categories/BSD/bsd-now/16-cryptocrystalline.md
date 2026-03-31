@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/16"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.282350643Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be showing you how to do a fully-encrypted installation of FreeBSD and OpenBSD. We also have an interview with Damien Miller - one of the lead developers of OpenSSH - about some recent crypto changes in the project. If you're into data security, today's the show for you. The latest news and all your burning questions answered, right here on BSD Now - the place to B.. SD.

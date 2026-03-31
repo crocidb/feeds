@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/368"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.512637093Z"
-seen = false
+seen = true
 +++
 
 Modernizing the OpenBSD Console, OS roles have changed, FreeBSD Cluster with Pacemaker and Corosync, Wine in a 32-bit sandbox on 64-bit NetBSD, Find package which provides a file in OpenBSD, and more.

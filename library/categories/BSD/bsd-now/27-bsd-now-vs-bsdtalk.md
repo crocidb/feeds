@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/27"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.262464898Z"
-seen = false
+seen = true
 +++
 
 The long-awaited meetup is finally happening on today's show. We're going to be interviewing the original BSD podcaster, Will Backman, to discuss what he's been up to and what the future of BSD advocacy looks like. After that, we'll be showing you how to track (and even cross-compile!) the -CURRENT branch of NetBSD. We've got answers to user-submitted questions and the latest news, on BSD Now - the place to B.. SD.

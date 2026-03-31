@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/466"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.363097497Z"
-seen = false
+seen = true
 +++
 
 Contributing to Open Source Beyond Software Development, bringing TLS 1.3 to the Internet of Old Things, How efficient can cat(1) be, boost the speed of Unix shell programs, Running FreeBSD VNET Jails on AWS EC2 with Bastille, and more

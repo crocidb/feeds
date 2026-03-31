@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/525"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.243425099Z"
-seen = false
+seen = true
 +++
 
 Do one thing and do it well, Turning a 15 years old laptop into a children proof retrogaming station, Old Computer Challenge v3: day 1, It Takes 6 Days to Change 1 Line of Code, Rejected GitHub Profile Achievements, that old netbsd server, and more

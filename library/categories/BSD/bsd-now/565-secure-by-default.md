@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/565"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.181567387Z"
-seen = false
+seen = true
 +++
 
 NetBSD 10 on a Pinebook Pro, OpenBSD extreme privacy setup, Version 256 of systemd boasts '42% less Unix philosophy', Posix.1 2024 is out, Blocking Access From or to Specific Countries Using FreeBSD and Pf, and more.  

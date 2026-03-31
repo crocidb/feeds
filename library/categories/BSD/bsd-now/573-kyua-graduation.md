@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/573"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.169330096Z"
-seen = false
+seen = true
 +++
 
 What Would It Take to Recreate Bell Labs?, Human Scale Software vs Open Source, How to run Visual Studio (VS) Code Remote over SSH on FreeBSD 13 and 14, Why are some emails from Charlie Root and others are from root?, Backward compatibility has real costs even for settings, Kyua graduates, and more

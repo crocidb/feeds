@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/183"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.947712419Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we have “Weird Unix Things”, “Is it getting Steamy in here?” and an Interview about BSD Sockets API. (Those

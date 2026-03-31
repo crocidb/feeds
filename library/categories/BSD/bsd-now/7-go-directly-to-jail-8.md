@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/7"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.299254590Z"
-seen = false
+seen = true
 +++
 
 On this week's show, you'll be getting the full jail treatment. We'll show you how to create and deploy BSD jails, as well as chatting with Poul-Henning Kamp - the guy who actually invented them! There's lots of interesting news items to cover as well, so stay tuned to BSD Now - the place to B.. SD.

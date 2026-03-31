@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/299"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.636048748Z"
-seen = false
+seen = true
 +++
 
 Running AIX on QEMU on Linux on Windows, your NAS fleet with TrueCommand, Unleashed 1.3 is available, LLDB: CPU register inspection support extension, V7 Unix programs often not written as expected, and more.

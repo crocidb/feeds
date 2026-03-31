@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/360"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.525715522Z"
-seen = false
+seen = true
 +++
 
 Chasing a bad commit, New FreeBSD Core Team elected, Getting Started with NetBSD on the Pinebook Pro, FreeBSD on the Intel 10th Gen i3 NUC, pf table size check and change, and more.

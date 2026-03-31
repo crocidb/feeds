@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/155"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.009153732Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, Allen is away in the UK (For BSDCam), but we still have a full episode for you! Don’t miss our interview with

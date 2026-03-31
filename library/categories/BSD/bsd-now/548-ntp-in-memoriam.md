@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/548"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.207392646Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Status Report Q4 2023, In Memorium of the NTP inventor, Migrate a FreeBSD bhyve virtual machine to OmniOS, AI-free blog, Hard disk LEDs and Noisy Machines, SSH based comment system, NetBSD 10 RC.4 is available, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/504"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.275726094Z"
-seen = false
+seen = true
 +++
 
 FreeBSD 13.2 Release, Using DTrace to find block sizes of ZFS, NFS, and iSCSI, Midnight BSD 3.0.1, Closing a stale SSH connection, How to automatically add identity to the SSH authentication agent, Pros and Cons of FreeBSD for virtual Servers, and more

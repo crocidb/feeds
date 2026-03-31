@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/177"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.960770429Z"
-seen = false
+seen = true
 +++
 
 This week on BSDNow, we’ve got Wifi galore, a new iocage and some RPi3 news and guides to share. Stay tuned for your place to B...SD!

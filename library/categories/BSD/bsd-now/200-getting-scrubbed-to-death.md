@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/200"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.882717139Z"
-seen = false
+seen = true
 +++
 
 The NetBSD 8.0 release process is underway, we try to measure the weight of an electron, and look at stack clashing.

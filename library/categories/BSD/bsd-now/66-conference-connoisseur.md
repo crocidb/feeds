@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/66"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.189422304Z"
-seen = false
+seen = true
 +++
 
 This week on the show, we'll be talking with Paul Schenkeveld, chairman of the EuroBSDCon foundation. He tells us about his experiences running BSD conferences and how regular users can get involved too. We've also got answers to all your emails and the latest news, coming up on BSD Now - the place to B.. SD.

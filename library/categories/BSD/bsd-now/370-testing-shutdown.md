@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/370"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.509384075Z"
-seen = false
+seen = true
 +++
 
 The world’s first OpenZFS based live image, FreeBSD Subversion to Git Migration video, FreeBSD Instant-workstation 2020, testing the shutdown mechanism, login\_ldap added to OpenBSD, and more

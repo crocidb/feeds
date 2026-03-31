@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/259"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.722231622Z"
-seen = false
+seen = true
 +++
 
 The strange birth and long life of Unix, FreeBSD jail with a single public IP, EuroBSDcon 2018 talks and schedule, OpenBSD on G4 iBook, PAM template user, ZFS file server, and reflections on one year of OpenBSD use.

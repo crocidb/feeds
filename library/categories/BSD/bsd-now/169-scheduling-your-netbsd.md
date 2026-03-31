@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/169"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.979358985Z"
-seen = false
+seen = true
 +++
 
 On today’s episode, we are loaded and ready to go. Lots of OpenBSD news, a look at LetsEncrypt usage, the NetBSD scheduler (oh my) and much more. Keep it tuned to your place to B...SD!

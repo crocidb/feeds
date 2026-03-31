@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/224"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.815048771Z"
-seen = false
+seen = true
 +++
 
 We try to answer what happens to an open source project after a developers death, we tell you about the last bootstrapped tech company in Silicon Valley, we have an update to the NetBSD Thread sanitizer, and show how to use use cabal on OpenBSD

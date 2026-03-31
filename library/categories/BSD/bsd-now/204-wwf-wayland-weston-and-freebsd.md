@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/204"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.871190968Z"
-seen = false
+seen = true
 +++
 
 In this episode, we clear up the myth about scrub of death, look at Wayland and Weston on FreeBSD, Intel QuickAssist is here, and we check out OpenSMTP on OpenBSD.

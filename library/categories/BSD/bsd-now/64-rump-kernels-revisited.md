@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/64"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.194348Z"
-seen = false
+seen = true
 +++
 
 This time on the show, we'll be talking with Justin Cormack about NetBSD rump kernels. We'll learn how to run them on other operating systems, what's planned for the future and a lot more. As always, answers to viewer-submitted questions and all the news for the week, on BSD Now - the place to B.. SD.

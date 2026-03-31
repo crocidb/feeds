@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/540"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.219686477Z"
-seen = false
+seen = true
 +++
 
 Terrapin Attack, SSH Hardening with ssh-audit, MidnightBSD 3.1.2, syscall(2) removed from -current, 2024 FreeBSD Community Survey is Here

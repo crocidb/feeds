@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/304"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.626409605Z"
-seen = false
+seen = true
 +++
 
 DragonflyBSD 5.6 is out, OpenBSD Vulkan Support, bad utmp implementations in glibc and FreeBSD, OpenSSH protects itself against Side Channel attacks, ZFS vs OpenZFS, and more.

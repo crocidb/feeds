@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-03-18T22:15:53.632370562Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/11Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/11/modal-dialog-a-palooza/)

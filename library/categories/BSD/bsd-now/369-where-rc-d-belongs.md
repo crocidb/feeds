@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/369"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.511055104Z"
-seen = false
+seen = true
 +++
 
 High Availability Router/Firewall Using OpenBSD, CARP, pfsync, and ifstated, Building the Development Version of Emacs on NetBSD, rc.d belongs in libexec, not etc, FreeBSD 11.3 EOL, OPNsense 20.7.1 Released, MidnightBSD 1.2.7 out, and more.

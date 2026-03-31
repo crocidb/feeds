@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/452"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.384394391Z"
-seen = false
+seen = true
 +++
 
 The unknown hackers, Papers we love to read, Dual Boot Homelab in The Bedroom by the bed testbed, OpenSSH 9.0 released, OS battle: OpenBSD vs. NixOS, and more

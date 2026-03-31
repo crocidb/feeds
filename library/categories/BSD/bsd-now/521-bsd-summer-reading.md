@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/521"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.249836745Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Status Report Q2 2023, Klara Systems Recommended Summer Reads 2023, install Kanboard on OpenBSD howto, A bit of Unix history on 'su -', hints for splitting commits, Live from OpenBSD in Amsterdam, and more

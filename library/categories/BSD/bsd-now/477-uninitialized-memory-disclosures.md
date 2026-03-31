@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/477"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.337930887Z"
-seen = false
+seen = true
 +++
 
 Analyzing BSD Kernels for Uninitialized Memory Disclosures Using Binary Ninja, Sharing Dual-Licensed Drivers between Linux and FreeBSD, favorite Things About The OpenBSD Packet Filter Tools, How to trigger services restart after OpenBSD update, Gems from the Man Page Trenches, and more.

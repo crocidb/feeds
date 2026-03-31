@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/494"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.291600932Z"
-seen = false
+seen = true
 +++
 
 Mass extinction of UNIX workstations, Determine Who Can Log In to an SSH Server, Factors When Considering FreeBSD vs. Linux Packages, A Visual Guide to SSH Tunnels, Harvesting the Noise While it’s Fresh, Bastille - The Jail Manager on FreeBSD, and more

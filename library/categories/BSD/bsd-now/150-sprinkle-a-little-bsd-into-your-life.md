@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/150"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.019760024Z"
-seen = false
+seen = true
 +++
 
 Today on the show, we are going to be talking to Jim Brown (of BSD Cert Fame) about his home-brew sprinkler system… Wait for it…

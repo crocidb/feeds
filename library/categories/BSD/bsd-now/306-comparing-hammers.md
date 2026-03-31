@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/306"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.622506298Z"
-seen = false
+seen = true
 +++
 
 Am5x86 based retro UNIX build log, setting up services in a FreeNAS Jail, first taste of DragonflyBSD, streaming Netflix on NetBSD, NetBSD on the last G4 Mac mini, Hammer vs Hammer2, and more.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/603"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.124014681Z"
-seen = false
+seen = true
 +++
 
 OpenZFS RAID-Z Expansion: A New Era in Storage Flexibility, ZFS Orchestration Tools – Part 1: Snapshots, The Case of UNIX vs. The UNIX System, OpenBGPD 8.8 released, OPNsense 25.1, and more

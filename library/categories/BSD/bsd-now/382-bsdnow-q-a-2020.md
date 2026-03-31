@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/382"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.490641549Z"
-seen = false
+seen = true
 +++
 
 We asked for it, you answered our call. This episode features you interviewing us with questions that you sent in. JT, Allan, and Benedict answer everything that you ever wanted to know in this week’s special episode of BSDNow.

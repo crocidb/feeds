@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/192"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.901477854Z"
-seen = false
+seen = true
 +++
 
 This week we have a FreeBSD Foundation development update, tell you about sprinkling in the TrueOS project, Dynamic WDS & a whole lot more!

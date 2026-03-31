@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/223"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.818271708Z"
-seen = false
+seen = true
 +++
 
 Picking a compiler for debuggability, how to port Rust apps to FreeBSD, what the point of Docker is on FreeBSD/Solaris, another EuroBSDcon recap, and network manager control in OpenBSD

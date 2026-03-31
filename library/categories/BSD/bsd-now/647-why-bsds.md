@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/647"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.036942077Z"
-seen = false
+seen = true
 +++
 
 Why use BSD, 2025, the year of advocacy, community and growth, RiscV silicon, and more.

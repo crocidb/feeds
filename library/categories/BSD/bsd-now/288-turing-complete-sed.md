@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/288"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.656117643Z"
-seen = false
+seen = true
 +++
 
 Software will never fix Spectre-type bugs, a proof that sed is Turing complete, managed jails using Bastille, new version of netdata, using grep with /dev/null, using GMail with mutt, and more.

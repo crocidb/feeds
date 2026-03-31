@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/101"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.115945340Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we'll be talking with Adrian Chadd about an infamous reddit thread he made. With a title like "what would you like to see in FreeBSD?" and hundreds of responses, well, we've got a lot to cover...

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/443"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.397921151Z"
-seen = false
+seen = true
 +++
 
 Certifying an OS Unix compliant, 2021 FreeBSD Foundation Impact Report, Netflix, Disney, and other widevine content on FreeBSD, file hashes updated for NetBSD 8.1, Playing with CD-RWs on FreeBSD, Why "process substitution" is a late feature in Unix shells, and more.

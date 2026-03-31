@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/442"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.399422759Z"
-seen = false
+seen = true
 +++
 
 The Birth of Unix, Help request for three big Lumina items, FreeBSD 13 on Thinkpad T460s, HardenedBSD January 2022 Status Report, OPNsense 22.1 "Observant Owl" released, and more.

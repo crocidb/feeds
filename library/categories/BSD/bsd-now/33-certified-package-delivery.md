@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/33"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.252253776Z"
-seen = false
+seen = true
 +++
 
 This week, we sit down with Jim Brown from the BSD Certification group to talk about the BSD exams. Following that, we'll be showing you how to build OpenBSD binary packages in bulk, a la poudriere. There's a boatload of news and we've got answers to your questions, coming up on BSD Now - the place to B.. SD.

@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/03/14/ill-have-what-xis-having/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-03-18T22:15:53.616313646Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/14Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/14/ill-have-what-xis-having/)

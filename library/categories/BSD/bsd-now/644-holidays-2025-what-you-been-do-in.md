@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/644"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.043746862Z"
-seen = false
+seen = true
 +++
 
 Holidays 2025 - What you been do'in?

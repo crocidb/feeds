@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/255"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.733385603Z"
-seen = false
+seen = true
 +++
 
 What ZFS blockpointers are, zero-day rewards offered, KDE on FreeBSD status, new FreeBSD core team, NetBSD WiFi refresh, poor man’s CI, and the power of Ctrl+T.

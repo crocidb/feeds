@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/423"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.427211208Z"
-seen = false
+seen = true
 +++
 
 FreeBSD serves Netflix Video at 400Gb/s, Using the RACK TCP stack, an OpenBSD script to update packages fast, Plasma System Monitor and FreeBSD, TrueNAS vs FreeNAS (and why you should upgrade!), auto lock screen on OpenBSD using xidle and xlock, and more.

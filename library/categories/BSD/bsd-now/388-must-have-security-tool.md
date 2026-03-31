@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/388"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.480661127Z"
-seen = false
+seen = true
 +++
 
 FreeBSD Q4 2020 Status report, a must-have security tool from OpenBSD, Bastille Port Redirection and Persistence, FreeBSD Wall Display Computer, etymology of command-line tools, GhostBSD 21.01.15 Release Notes, and more.

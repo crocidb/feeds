@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/221"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.824821564Z"
-seen = false
+seen = true
 +++
 
 Allan reports on his trip to BSD Taiwan, new versions of Lumina and GhostBSD are here, a bunch of OpenBSD p2k17 hackathon reports.

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/531"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.233749686Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 7.4, Making Software Last Forever, DragonFlyBSD Per-process capability-based restrictions, HardenedBSD September 2023 Status Report, NetBSD as a Kubernetes Pod, Firefox hardening with Arkenfox, and more

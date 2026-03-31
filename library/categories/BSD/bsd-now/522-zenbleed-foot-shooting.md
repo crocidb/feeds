@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/522"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.248309555Z"
-seen = false
+seen = true
 +++
 
 Top Ten Reasons to Upgrade to FreeBSD 13.2, History never repeats but sometimes it rhymes, Wayland on OpenBSD, OpenBGPD 8.1 released, Shoot yourself in the foot, Zenbleed: aka: The new fun for a while, and more

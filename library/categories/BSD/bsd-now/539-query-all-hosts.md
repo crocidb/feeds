@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/539"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.221047897Z"
-seen = false
+seen = true
 +++
 
 In this special holiday episode, we, the BSDNow hosts, get together to answer questions that listeners have sent us over time. We give you updates on our gear, books we read, favorite places, and a whole lot more. Enjoy!

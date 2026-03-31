@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/518"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.254532431Z"
-seen = false
+seen = true
 +++
 
 A Guide to Problem-Solving for Software Developers with Examples, making 20% time work, Long Live Netbooks, OpenBSD Router on Sg105w, Set Up a Simple and Actually Working Wireguard Server, Unix Edition Zero, how to be a -10x engineer, and more

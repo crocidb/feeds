@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/605"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.120998953Z"
-seen = false
+seen = true
 +++
 
 FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands, Core Infrastructure: Why You Need to Control Your NTP, Automatic Display switch for OpenBSD laptop, Using a 2013 Mac Pro as a FreeBSD Desktop, Some terminal frustrations, Copying all files of a directory, including hidden ones, with cp, You Should Use /tmp/ More, and more

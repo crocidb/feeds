@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/610"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.113055629Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 7.7, ZFS Orchestration Tools – Part 2: Replication, Switching customers from Linux to BSD because boring is good, Graphed and measured: running TCP input in parallel, Introducing an OpenBSD LLDP daemon, Hardware discovery: ACPI & Device Tree, The 2025 FreeBSD Community Survey is Here, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/185"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.938623146Z"
-seen = false
+seen = true
 +++
 
 This is a very special BSD Now! New exciting changes are coming to the show and we’re gonna cover them, so stick around or you’ll miss it!

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/517"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.256034740Z"
-seen = false
+seen = true
 +++
 
 Linux and FreeBSD Firewalls Comparison Part 2, 27 Years with the Perfect OS, Top 20 OpenSSH Server Best Security Practices, Huge pfsync rewrite, OpenSMTPD 7.3.0p1 release, Running OpenBSD 7.3 on your laptop is really hard (not), and more

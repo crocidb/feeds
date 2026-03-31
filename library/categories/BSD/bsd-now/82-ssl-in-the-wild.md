@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/82"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.155809750Z"
-seen = false
+seen = true
 +++
 
 Coming up this week, we'll be chatting with Bernard Spil about wider adoption of LibreSSL in other communities. He's been doing a lot of work with FreeBSD ports specifically, but also working with upstream projects. As usual, all this weeks news and answers to your questions, on BSD Now - the place to B.. SD.

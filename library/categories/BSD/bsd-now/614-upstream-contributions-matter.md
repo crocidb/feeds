@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/614"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.106661014Z"
-seen = false
+seen = true
 +++
 
 The Hidden Costs of Stagnation: Why Running EOL Software is a Ticking Time Bomb, Maintaining FreeBSD in a Commercial Product – Why Upstream Contributions Matter, LLMs ('AI') are coming for our jobs whether or not they work, Implement Anubis to give the bots a harder time, erspan(4): ERSPAN Type II collection, Just my memory here is how I've configure OpenBSD and FreeBSD for a IPv6 Wifi, and more

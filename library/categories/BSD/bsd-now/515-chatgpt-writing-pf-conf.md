@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/515"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.259067307Z"
-seen = false
+seen = true
 +++
 
 FreeBSD or Linux – A Choice Without OS Wars, The Computer Scientist Who Can’t Stop Telling Stories, ChatGPT was asked to write a pf.conf to spec, GhostBSD 23.06.1 is now available, OPNsense 23.1.9 released, Running VSCode in Chromium on OpenBSD, and more

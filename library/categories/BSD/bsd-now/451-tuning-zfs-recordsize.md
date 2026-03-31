@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/451"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.385887310Z"
-seen = false
+seen = true
 +++
 
 Full system backups with FFS snapshots, ZFS and dump(8), tuning recordsize in OpenZFS, Optimizing FreeBSD Power Consumption on Modern Intel Laptops, remember to check for ZFS filesystems being mounted, Use tcpdump to save wireless bridge, and more

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/651"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.030751652Z"
-seen = false
+seen = true
 +++
 
 GeoIP PF FreeBSD, ZFs in production, linuxulator feels like magic, XFCE is great, the scariest boot code, and more...

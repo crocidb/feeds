@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/324"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.587739065Z"
-seen = false
+seen = true
 +++
 
 Migrating drives and zpool between hosts, OpenBSD in 2019, Dragonfly’s new zlib and dhcpcd, Batch renaming images and resolution with awk, a rant on the X11 ICCCM selection system, hammer 2 emergency space mode, and more.

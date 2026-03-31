@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/570"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.173912642Z"
-seen = false
+seen = true
 +++
 
 The FreeBSD-native-ish home lab and network, FreeBSD 14.1: What’s new, and how did we get here?, The Old Computer Challenge v4 (Olympics edition), MicroMac, a Macintosh for under £5, Adding a USB Port to the ThinkPad X1 Nano (the Hard Way), Reasons to use your shell's job control, RIP dhclient(8)

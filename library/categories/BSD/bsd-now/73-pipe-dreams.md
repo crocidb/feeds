@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/73"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.175910654Z"
-seen = false
+seen = true
 +++
 
 This week on the show we'll be chatting with David Maxwell, a former NetBSD security officer. He's got an interesting project called Pipecut that takes a whole new approach to the commandline. We've also got answers to viewer-submitted questions and all this week's headlines, on BSD Now - the place to B.. SD.

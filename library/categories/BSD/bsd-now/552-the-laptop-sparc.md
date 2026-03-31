@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/552"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.201359701Z"
-seen = false
+seen = true
 +++
 
 Setup diskless booting of Raspberry Pi, TrueNAS abandons FreeBSD, SPARCbook 3000ST: The coolest 90s laptop, Sparkbook Teardown, SSH over HTTPS, Keycloak Identity and Access Management on FreeBSD, Ford Aerospace and BSD Unix, and more

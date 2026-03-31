@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/391"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.475799771Z"
-seen = false
+seen = true
 +++
 
 Follow-up about FreeBSD jail advantages, Install Prometheus, Node Exporter and Grafana, Calibrate your touch-screen on OpenBSD, OPNsense 21.1 Marvelous Meerkat Released, NomadBSD 1.4-RC1, Lets all shed a Tear for 386, find mostly doesn't need xargs today on modern Unixes, OpenBSD KDE Status Report, and more.

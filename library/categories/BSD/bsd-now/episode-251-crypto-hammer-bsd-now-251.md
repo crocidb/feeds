@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/251"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:50.743008256Z"
-seen = false
+seen = true
 +++
 
 DragonflyBSD’s hammer1 encrypted master/slave setup, second part of our BSDCan recap, NomadBSD 1.1-RC1 available, OpenBSD adds an LDAP client to base, FreeBSD gets pNFS support, Intel FPU Speculation Vulnerability confirmed, and what some Unix command names mean.

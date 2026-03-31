@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/17"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.280625834Z"
-seen = false
+seen = true
 +++
 
 Merry Christmas everyone! We're taking the holiday off and just have an interview for you today. We sat down with Scott Long to discuss using FreeBSD at Netflix and lots of other things. Next week we will return with the normal round of news and tutorials.

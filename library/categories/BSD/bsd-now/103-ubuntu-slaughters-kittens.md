@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/103"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-03-26T14:37:51.111426063Z"
-seen = false
+seen = true
 +++
 
 Allan's away at BSDCam this week, but we've still got an exciting episode for you. We sat down with Bryan Cantrill, CTO of Joyent, to talk about a wide variety of topics: dtrace, ZFS, pkgsrc, containers and much more. This is easily our longest interview to date!
