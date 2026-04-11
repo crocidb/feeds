@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/curta-na-serra-abre-setima-edicao-com-enfase-na
 author = "Alexandre Cunha"
 text = ""
 lastupdated = "2026-03-30T10:52:49.969746075Z"
-seen = false
+seen = true
 +++
 
 ##### **De Serra Negra, Bezerros (PE)** #####

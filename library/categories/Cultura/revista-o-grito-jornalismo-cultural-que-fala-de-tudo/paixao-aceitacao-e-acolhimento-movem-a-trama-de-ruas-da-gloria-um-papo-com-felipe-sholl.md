@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/paixao-aceitacao-e-acolhimento-movem-a-trama-de
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-03-31T22:15:48.368896283Z"
-seen = false
+seen = true
 +++
 
 A paixão entre o jovem professor de literatura Gabriel e o garoto de programa Adriano é o mote do [longa *Ruas da Glória*](https://revistaogrito.com/ruas-da-gloria-novo-longa-de-felipe-sholl-estreia-em-abril-apos-premios-no-festival-do-rio/) cuja estreia nas salas de cinema acontece nesta quinta-feira. Dirigido por Felipe Sholl e ambientado no centro do Rio de Janeiro, nos bairros da Glória e Lapa e na Cinelândia, o filme acompanha a relação arrebatadora entre os dois rapazes, mas que rapidamente se transforma em obsessão. Quando Adriano (Alejandro Claveaux) desaparece, Gabriel (Caio Macedo) inicia uma busca que o leva a mergulhar no universo da prostituição, onde ele vai descobrir personagens que marcam profundamente seu olhar sobre a própria vida.

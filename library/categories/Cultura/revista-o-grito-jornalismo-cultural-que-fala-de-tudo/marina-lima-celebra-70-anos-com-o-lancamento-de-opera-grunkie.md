@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/marina-lima-celebra-70-anos-com-o-lancamento-de
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-03-30T10:52:49.979169330Z"
-seen = false
+seen = true
 +++
 
 **Marina Lima** acaba de disponibilizar em todas as plataformas digitais o seu mais novo trabalho, *Ópera Grunkie*. O lançamento marca o início das comemorações dos 70 anos da artista e reafirma sua posição como uma das mentes mais inquietas da música brasileira.
