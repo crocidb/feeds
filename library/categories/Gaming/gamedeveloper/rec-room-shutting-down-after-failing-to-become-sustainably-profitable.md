@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/rec-room-shutting-down-after-faili
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-31T22:15:53.617894298Z"
-seen = true
+seen = false
 +++
 
