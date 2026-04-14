@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/songs/indie-rock/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.691723500Z"
-seen = false
+seen = true
 +++
 
 A filterable list of favorite songs.

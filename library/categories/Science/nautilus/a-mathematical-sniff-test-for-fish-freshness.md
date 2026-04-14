@@ -6,7 +6,7 @@ url = "https://nautil.us/a-mathematical-sniff-test-for-fish-freshness-1279673/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-10T10:24:07.355944734Z"
-seen = false
+seen = true
 +++
 
 How fresh is your fish?

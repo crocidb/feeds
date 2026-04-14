@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/albums/neofolk/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.917322070Z"
-seen = false
+seen = true
 +++
 
 A filterable list of favorite albums.

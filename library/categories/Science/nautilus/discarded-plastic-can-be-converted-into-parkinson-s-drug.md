@@ -6,7 +6,7 @@ url = "https://nautil.us/discarded-plastic-can-be-converted-into-parkinsons-drug
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-18T22:16:09.734211716Z"
-seen = false
+seen = true
 +++
 
 One man’s trash …

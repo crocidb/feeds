@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/operating-systems/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.981759031Z"
-seen = false
+seen = true
 +++
 
 Links tagged with `operating-systems`.

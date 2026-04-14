@@ -6,7 +6,7 @@ url = "https://nautil.us/mathematics-suggest-that-fashion-is-on-a-20-year-cycle-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-18T22:16:09.731182034Z"
-seen = false
+seen = true
 +++
 
 There’s a new reason to avoid cleaning out your closet

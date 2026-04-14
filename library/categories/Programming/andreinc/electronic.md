@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/albums/electronic/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.470332412Z"
-seen = false
+seen = true
 +++
 
 A filterable list of favorite albums.

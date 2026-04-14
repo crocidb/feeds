@@ -6,7 +6,7 @@ url = "https://nautil.us/the-deep-secrets-of-the-nautilus-1279692/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-10T10:24:07.349234518Z"
-seen = false
+seen = true
 +++
 
 Evolutionary time has forged changes in these shelled cephalopods

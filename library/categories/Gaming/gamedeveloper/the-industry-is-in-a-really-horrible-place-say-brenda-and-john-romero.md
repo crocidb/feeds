@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-industry-is-in-a-really-horrib
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-03-30T10:52:52.623294807Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-science-is-in-no-one-likes-your-cockapoo-1279042/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-19T13:44:56.493061314Z"
-seen = false
+seen = true
 +++
 
 Why not get a cocker spaniel or poodle instead?

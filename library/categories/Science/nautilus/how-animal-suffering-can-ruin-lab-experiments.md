@@ -6,7 +6,7 @@ url = "https://nautil.us/how-animal-suffering-can-ruin-lab-experiments-1266988/"
 author = "Larry Carbone"
 text = ""
 lastupdated = "2026-02-11T20:17:08.327807466Z"
-seen = false
+seen = true
 +++
 
 *Larry Carbone* *has spent his entire career thinking about what happens to animals in research labs. As a veterinarian with specialization in lab animal medicine, he has made friends with many caged creatures: monkeys, pythons, mice, shrimp. But he also has a Ph.D. in the history and philosophy of science, which gives him theoretical grounding to consider big ethical questions. An animal welfare scholar, speaker, and trainer, he also writes about public policy, ethics, and the animals he has met. Carbone has authored two books,* What Animals Want*, published in 2004, and most recently,* [The Hidden Lives of Lab Animals: A Vet’s Vision for a More Human Future](https://www.ucpress.edu/books/the-hidden-lives-of-lab-animals/hardcover). *Below, three revelations he had while working on his latest book.*

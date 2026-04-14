@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/19/colour-2"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.099044064Z"
-seen = true
+seen = false
 +++
 
 Hues of red and lavender blended together in the clear evening sky. *I don’t think I have seen the sky like this before.* I write with my laptop propped up on one lap as I gaze out the window, trying to find the words to describe the sky. As the minutes pass, the sky changes. The sun sets further over the hills; pink rises and the lavender turns to grey. The street lights illuminate.

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-we-walk-might-reveal-our-risk-of-death-1279240/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-26T10:39:03.959570204Z"
-seen = false
+seen = true
 +++
 
 Another good reminder to keep a pep in your step

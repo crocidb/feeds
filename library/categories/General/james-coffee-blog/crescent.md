@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/20/crescent"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.090444024Z"
-seen = true
+seen = false
 +++
 
 I love watching the sun set, from golden hour to the moment when the last pink hues fade from the sky. Every moment is magical. As I write, there are bands of purple radiating behind the ripples of thin clouds on the horizon.

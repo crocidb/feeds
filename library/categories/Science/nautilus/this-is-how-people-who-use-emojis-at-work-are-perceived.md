@@ -6,7 +6,7 @@ url = "https://nautil.us/this-is-how-people-who-use-emojis-at-work-are-perceived
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-10T10:24:07.352637186Z"
-seen = false
+seen = true
 +++
 
 👍or 👎?

@@ -6,7 +6,7 @@ url = "https://nautil.us/hubble-snaps-a-new-dazzling-photo-of-the-crab-nebula-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-25T10:19:21.871724783Z"
-seen = false
+seen = true
 +++
 
 It was formed by an explosion witnessed around the world almost a millennium ago

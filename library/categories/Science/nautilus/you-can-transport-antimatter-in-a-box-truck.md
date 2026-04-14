@@ -6,7 +6,7 @@ url = "https://nautil.us/you-can-transport-antimatter-in-a-box-truck-1279273/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-27T12:56:09.398286785Z"
-seen = false
+seen = true
 +++
 
 If you see this truck, don’t tailgate
