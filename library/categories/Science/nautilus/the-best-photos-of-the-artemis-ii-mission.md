@@ -6,7 +6,7 @@ url = "https://nautil.us/the-best-photos-of-the-artemis-ii-mission-1279789/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-14T15:31:23.926392944Z"
-seen = false
+seen = true
 +++
 
 Humans have never taken photos of the moon like this

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/21/river"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.086954556Z"
-seen = false
+seen = true
 +++
 
 The verdant foliage on the steep hillside, the path that you know was made just for this place — the wooden planks delineating where to walk, the stairs up and down following the ebb and flow of the hill, the bridges that wove through the trees and over the edge of the river. I was in awe. *I have never been on a path like this before.* All around: Nature; life.

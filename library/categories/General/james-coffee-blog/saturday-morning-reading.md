@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/04/saturday-morning-reading"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.672236738Z"
-seen = false
+seen = true
 +++
 
 My warm breath steams up my glasses a little bit. I have my cold pillow resting on my chin. I’m still under the covers. I started my morning with a book, *Hot Chocolate on Thursday*, a cosy tale that took me to Japan and Sydney all without my leaving my bedroom. I love reading in the mornings, although of late I have been a bit too busy to read so early. Saturday mornings, however, are always there for reading.

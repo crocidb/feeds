@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/uk-government-commits-28-5-million
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-14T15:31:11.434450927Z"
-seen = false
+seen = true
 +++
 

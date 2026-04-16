@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/23/the-artist-was-here"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.074768480Z"
-seen = false
+seen = true
 +++
 
 I love the storytelling work that the Metropolitan Museum of Art in New York does. For example, the [Frame of Mind podcast](https://www.metmuseum.org/perspectives/series/frame-of-mind) highlights short stories of people’s relationships with museums – around fifteen minutes long each. It is a great listen.

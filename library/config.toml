@@ -1,0 +1,5 @@
+datapath = "/home/crocidb/.local/share/bulletty"
+
+[hooks]
+before_tui = "/home/crocidb/.config/bulletty/sync.sh"
+after_tui = "/home/crocidb/.config/bulletty/sync.sh"

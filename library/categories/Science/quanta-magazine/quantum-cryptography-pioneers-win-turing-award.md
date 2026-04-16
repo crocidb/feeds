@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/quantum-cryptography-pioneers-win-turing-a
 author = "Ben Brubaker"
 text = ""
 lastupdated = "2026-03-18T22:16:08.556197468Z"
-seen = false
+seen = true
 +++
 
 One afternoon in October 1979, Gilles Brassard was swimming outside a beachfront hotel in San Juan, Puerto Rico, when a stranger swam up to him and changed the course of his career. Without so much as an introduction, the man began describing a way to create currency that couldn’t be forged. The scheme was based on the laws of quantum physics — a subject Brassard, a computer scientist…

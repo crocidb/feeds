@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/20/blossom-2"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.095082395Z"
-seen = false
+seen = true
 +++
 
 When I loaded my website this morning – an hour or two after having woken up with great joy to rays of golden light radiating through the edges of the curtains – I noticed the cherry blossom emoji (🌸). *It must be the first day of spring!* I love moments like this when my website surprises me. The seasonal emojis almost feel like a gift from past James. *Today means something.* Every day does.

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/physicists-make-electrons-flow-like-water-
 author = "Charlie Wood"
 text = ""
 lastupdated = "2026-02-11T20:17:08.433708760Z"
-seen = false
+seen = true
 +++
 
 If you were asked to picture how electrons move, you could be forgiven for imagining a stream of particles sluicing down a wire like water rushing through a pipe. After all, we often describe electrons as “flowing” in an “electric current.” In reality, water and electricity flow in completely different ways. Whereas water molecules move together to form a swirly, coherent substance…

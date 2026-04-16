@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/27/brainstorming-web-guides"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.070922060Z"
-seen = false
+seen = true
 +++
 
 I am interested in the field of [content design](https://contentdesign.london/blog/what-is-content-design), which thinks of information as not only what it represents (i.e. facts) but how that information is represented. The UK Government [says](https://www.gov.uk/guidance/content-design/what-is-content-design):

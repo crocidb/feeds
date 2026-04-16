@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/inkle-co-founder-explains-how-tr-4
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-14T15:31:11.431095939Z"
-seen = false
+seen = true
 +++
 
