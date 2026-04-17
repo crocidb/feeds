@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2025/12/23/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-02-11T20:17:06.822835379Z"
-seen = false
+seen = true
 +++
 
 In preparation for a future project, I was thinking about at the [unix `find` utility](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/find.html). It operates a file system hierarchies, with basic operations selected and filtered using a specialized expression language. Users compose operations using unary and binary operators, grouping with parentheses for precedence. `find` may apply the expression to a great many files, so compiling it into a bytecode, resolving as much as possible ahead of time, and minimizing the per-element work, seems like a prudent implementation strategy. With some thought, I worked out a technique to do so, which was simpler than I expected, and I’m pleased with the results. I was later surprised all the real world `find` implementations I examined use [tree-walk interpreters](https://craftinginterpreters.com/a-tree-walk-interpreter.html) instead. This article describes how my compiler works, with a runnable example, and lists ideas for improvements.
