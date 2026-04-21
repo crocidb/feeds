@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/when-coupled-volcanoes-talk-these-research
 author = "Robin George Andrews"
 text = ""
 lastupdated = "2026-03-29T12:38:12.517444406Z"
-seen = true
+seen = false
 +++
 
 In the summer of 1912, word reached Robert Fiske Griggs that the apocalypse had arrived on Kodiak, an inhabited island off the coast of Alaska. The following year, Griggs, a botanist at the University of Ohio, led the first of several expeditions to the island, where he and a team glimpsed a disquieting sight: Kodiak was shrouded in a full foot of ash. And it wasn’t just the island.

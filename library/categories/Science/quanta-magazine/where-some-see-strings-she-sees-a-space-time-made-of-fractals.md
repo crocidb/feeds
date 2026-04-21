@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/where-some-see-strings-she-sees-a-space-ti
 author = "Charlie Wood"
 text = ""
 lastupdated = "2026-03-18T22:16:08.583050269Z"
-seen = true
+seen = false
 +++
 
 Astrid Eichhorn spends her days thinking about how the laws of physics change at the tiniest scales. Imagine zooming in closer and closer to the device on which you’re reading this article. Its apparently smooth screen quickly dissolves into a jiggling lattice of molecules, which in turn resolve into clouds of electrons buzzing around atomic nuclei. You dive into a nucleus…

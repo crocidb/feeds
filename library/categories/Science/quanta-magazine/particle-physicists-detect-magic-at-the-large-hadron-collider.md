@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/particle-physicists-detect-magic-at-the-la
 author = "Shalma Wegsman"
 text = ""
 lastupdated = "2025-12-10T15:24:07.224622992Z"
-seen = true
+seen = false
 +++
 
 Ninety million times a year, when protons crash together at the Large Hadron Collider (LHC), they produce, in their wreckage, a top quark and an anti-top quark, the heaviest known elementary particles. In the trillionth of a trillionth of a second before the particles decay into lighter pieces, they fly apart. But they remain quantum mechanically entangled, meaning each particle’s state depends on…

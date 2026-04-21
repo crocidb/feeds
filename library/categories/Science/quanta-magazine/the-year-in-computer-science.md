@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-year-in-computer-science-20251216/"
 author = "Michael Moyer"
 text = ""
 lastupdated = "2025-12-17T22:54:20.172161225Z"
-seen = true
+seen = false
 +++
 
 Space and time aren’t just woven into the background fabric of the universe. To theoretical computer scientists, time and space (also known as memory) are the two fundamental resources of computation. Algorithms require a roughly proportional amount of space to runtime, and researchers long assumed there was no way to achieve anything better. In a stunner of a result — “the best thing in 50 years,”…

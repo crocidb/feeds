@@ -6,7 +6,7 @@ url = "https://nautil.us/the-bra-and-girdle-maker-that-fashioned-the-impossible-
 author = "Nicholas de Monchaux"
 text = ""
 lastupdated = "2026-04-15T00:26:07.026646326Z"
-seen = true
+seen = false
 +++
 
 Crafting a spacesuit demanded perfection from seamstresses to gluers to engineers — every stitch could mean life or death

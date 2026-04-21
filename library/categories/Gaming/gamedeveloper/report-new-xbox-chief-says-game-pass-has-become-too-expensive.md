@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-xbox-new-chief-says-game-pa
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-15T21:55:50.315893810Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/artista-pernambucano-inaugura-exposicao-sobre-t
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-13T16:17:35.737394250Z"
-seen = false
+seen = true
 +++
 
 O artista visual **Luiz Marcelo** inaugura a exposição *Ebó: território mediado pelas águas* nesta sexta-feira (17), às 19h, na Galeria Ana das Carrancas (Sesc/Petrolina). O evento tem entrada gratuita e inclui um bate-papo com o autor e o curador Rogério Felix.

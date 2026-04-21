@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/expansion-microscopy-has-transformed-how-w
 author = "Molly Herring"
 text = ""
 lastupdated = "2026-02-11T20:17:08.443854568Z"
-seen = true
+seen = false
 +++
 
 When you slip a slide under a microscope, a system of glass lenses magnifies the object of your attention — a microbe, for example. But even with the largest zoom on a classic compound optical system, scientists struggle to make sense of finer details, which can be further obscured when tough cell walls make it difficult to inject dyes that help identify structures. Now, rather than invest in…

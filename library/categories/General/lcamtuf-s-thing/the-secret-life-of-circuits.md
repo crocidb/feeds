@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/the-secret-life-of-circuits"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-04-16T21:15:08.039978684Z"
-seen = false
+seen = true
 +++
 
 Many of you follow this blog because of the [regular features](https://lcamtuf.substack.com/p/electronics-curriculum) about electronic circuit design. Today, I’m happy to announce that I’ve been working with No Starch Press on *The Secret Life of Circuits:*
