@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/sound/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.320453748Z"
-seen = true
+seen = false
 +++
 
 Links tagged with `sound`.

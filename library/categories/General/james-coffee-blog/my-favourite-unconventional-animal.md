@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/01/my-favourite-unconventional-animal"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.689001618Z"
-seen = true
+seen = false
 +++
 
 *This is my entry to the April 2026 Grizzly Gazette Carnival on the topic “*[*Your favourite unconventional animal*](https://oracleofsages.bearblog.dev/grizzly-gazette-carnival-april-your-favourite-unconventional-animal/)*".*

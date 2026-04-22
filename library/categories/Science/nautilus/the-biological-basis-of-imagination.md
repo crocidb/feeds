@@ -6,7 +6,7 @@ url = "https://nautil.us/the-biological-basis-of-imagination-1279716/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-10T10:24:07.342633982Z"
-seen = true
+seen = false
 +++
 
 Probing the mind’s eye

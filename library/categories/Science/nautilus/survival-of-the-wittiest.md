@@ -6,7 +6,7 @@ url = "https://nautil.us/survival-of-the-wittiest-1279720/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-04-10T10:24:07.339206424Z"
-seen = true
+seen = false
 +++
 
 How verbal humor arose and how it protects us

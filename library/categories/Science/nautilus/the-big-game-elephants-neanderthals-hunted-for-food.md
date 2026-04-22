@@ -6,7 +6,7 @@ url = "https://nautil.us/the-big-game-elephants-neanderthals-hunted-for-food-127
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-31T22:16:14.745463649Z"
-seen = true
+seen = false
 +++
 
 A prehistoric butcher bonanza uncovered on an ancient German lakeshore

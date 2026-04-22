@@ -6,7 +6,7 @@ url = "https://nautil.us/beloved-ancient-chinese-cats-were-wilder-than-once-thou
 author = "Molly Glick"
 text = ""
 lastupdated = "2025-12-10T15:24:06.716907483Z"
-seen = true
+seen = false
 +++
 
 The precise origins of domesticated cats have puzzled generations of scientists. Recently, genetic analysis [pinpointed North African wildcats](https://nautil.us/the-story-of-cat-domestication-just-got-a-major-twist-1250500/) as the most likely direct ancestor of the feline friends that now share our homes and steal our hearts. That study also indicated that early domestic cats spread across the globe far later than previously thought.

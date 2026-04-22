@@ -6,7 +6,7 @@ url = "https://nautil.us/heres-why-mosquitoes-wont-leave-you-alone-1279192/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-25T10:19:21.878477458Z"
-seen = true
+seen = false
 +++
 
 You may be sending the wrong signals

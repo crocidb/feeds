@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/28/inventor-dreaming"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.053396554Z"
-seen = true
+seen = false
 +++
 
 This week I joined a session at school on the topic of career planning. I had an hour of time to work through a series of questions designed to help me make progress on a goal. The goal I chose for the session was to think about my career goals. What do I want to do in my career? What is my dream?

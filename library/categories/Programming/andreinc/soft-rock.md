@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/songs/soft-rock/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.284437607Z"
-seen = true
+seen = false
 +++
 
 A filterable list of favorite songs.

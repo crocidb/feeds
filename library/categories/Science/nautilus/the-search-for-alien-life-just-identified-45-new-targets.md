@@ -6,7 +6,7 @@ url = "https://nautil.us/the-search-for-alien-life-just-identified-45-new-target
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-25T10:19:21.888435920Z"
-seen = true
+seen = false
 +++
 
 This subset of exoplanets are the most likely to be habitable

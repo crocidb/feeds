@@ -6,7 +6,7 @@ url = "https://agentultra.com/blog/taking-things-apart/index.html"
 author = "James"
 text = ""
 lastupdated = "2026-02-11T20:17:06.370526660Z"
-seen = true
+seen = false
 +++
 
 Musings and ramblings on programming and things

@@ -6,7 +6,7 @@ url = "https://nautil.us/your-boss-could-monitor-your-heart-rate-with-spy-tech-1
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-02-11T20:17:08.318033206Z"
-seen = true
+seen = false
 +++
 
 The post-pandemic rise in remote work led to an [explosion](https://www.businessinsider.com/employee-surveillance-how-boss-monitors-your-work-2025-12) of employee-monitoring technology, as bosses sought to keep tabs on workers’ activity, locations, and messages. Now, in the latest glimpse into our dystopian future, computer engineers at Rice University have previewed a new nightmare scenario for workers: constant biometric surveillance via hidden devices built into our work computers.

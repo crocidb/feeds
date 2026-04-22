@@ -6,7 +6,7 @@ url = "https://nautil.us/a-light-in-the-dark-finding-the-good-in-the-natural-wor
 author = "KC Cole"
 text = ""
 lastupdated = "2026-03-27T12:56:09.394993437Z"
-seen = true
+seen = false
 +++
 
 Is it absurd to think that science can inform our values?

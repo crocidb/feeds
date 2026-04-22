@@ -6,7 +6,7 @@ url = "https://nautil.us/exploding-stars-like-weve-never-seen-them-1253560/"
 author = "Molly Glick"
 text = ""
 lastupdated = "2025-12-10T15:24:06.733148355Z"
-seen = true
+seen = false
 +++
 
 When dying stars called white dwarfs rob a stellar neighbor’s hydrogen, the growing stash of hot gas can trigger a violent eruption from the white dwarf’s surface. This may go on for days, or even months.

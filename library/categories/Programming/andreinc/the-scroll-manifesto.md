@@ -6,10 +6,10 @@ url = "https://andreinc.net/2026/04/09/the-scroll-manifesto/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-04-10T10:23:57.398796623Z"
-seen = true
+seen = false
 +++
 
-Scroll inside the stage with the mouse wheel or with your finger. It is only a machine, but it already understands the gesture. Have fun!
+ Scroll inside the stage with the mouse wheel or with your finger. It is only a machine, but it already understands the gesture. Have fun!
 
 ![A reel in the scroll machine.]()
 

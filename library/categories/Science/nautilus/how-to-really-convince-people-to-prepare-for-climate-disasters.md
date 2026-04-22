@@ -6,7 +6,7 @@ url = "https://nautil.us/how-to-really-convince-people-to-prepare-for-climate-di
 author = "Molly Glick"
 text = ""
 lastupdated = "2025-12-10T15:24:06.745136443Z"
-seen = true
+seen = false
 +++
 
 It’s tough to convince people to act when we won’t reap immediate rewards—researchers have found that this psychological barrier applies to managing our [finances](https://link.springer.com/article/10.1007/s11166-025-09453-x), looking out for our long-term [health](https://link.springer.com/article/10.1007/s11096-024-01846-3), and [reducing the impacts of climate change](https://www.annualreviews.org/content/journals/10.1146/annurev-environ-020420-042100). The latter is particularly urgent as climate change intensifies and myriad natural disasters threaten people’s homes around the globe.

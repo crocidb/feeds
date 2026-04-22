@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/security/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.238792151Z"
-seen = true
+seen = false
 +++
 
 Links tagged with `security`.

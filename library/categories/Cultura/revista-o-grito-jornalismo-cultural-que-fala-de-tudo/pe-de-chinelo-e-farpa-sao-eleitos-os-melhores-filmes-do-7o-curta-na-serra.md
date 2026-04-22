@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/pe-de-chinelo-e-farpa-sao-eleitos-os-melhores-f
 author = "Alexandre Cunha"
 text = ""
 lastupdated = "2026-03-30T23:56:03.358064318Z"
-seen = true
+seen = false
 +++
 
 ##### **Serra Negra, Bezerros (PE)** #####

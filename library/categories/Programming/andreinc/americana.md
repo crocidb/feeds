@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/songs/americana/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.157318675Z"
-seen = true
+seen = false
 +++
 
 A filterable list of favorite songs.

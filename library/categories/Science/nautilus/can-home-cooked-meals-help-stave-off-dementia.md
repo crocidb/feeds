@@ -6,7 +6,7 @@ url = "https://nautil.us/can-home-cooked-meals-help-stave-off-dementia-1279230/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-25T19:10:20.198963906Z"
-seen = true
+seen = false
 +++
 
 It’s got all the ingredients of a healthy, active lifestyle

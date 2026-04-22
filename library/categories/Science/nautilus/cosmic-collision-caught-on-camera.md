@@ -6,7 +6,7 @@ url = "https://nautil.us/cosmic-collision-caught-on-camera-1255383/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2025-12-19T13:15:38.165358446Z"
-seen = true
+seen = false
 +++
 
 With the James Webb Space Telescope (JWST) continuing to [grab headlines](https://nautil.us/rethinking-the-big-bang-1220717/), it’s easy to forget the Hubble Space Telescope (HST) is still zipping around Earth, monitoring the stars. First launched in 1990, the telescope has witnessed quite a bit in its 35-year life, and recently, it captured a never-before-seen astronomical event—the aftermath of two cosmic collisions. 

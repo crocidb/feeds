@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/archives/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.166581863Z"
-seen = true
+seen = false
 +++
 
 Links tagged with `archives`.

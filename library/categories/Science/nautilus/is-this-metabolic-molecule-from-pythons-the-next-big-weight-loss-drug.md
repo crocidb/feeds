@@ -6,7 +6,7 @@ url = "https://nautil.us/is-this-metabolic-molecule-from-pythons-the-next-big-we
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-19T13:44:56.489438454Z"
-seen = true
+seen = false
 +++
 
 Used in mice, it induces fasting, but by an unusual mechanism

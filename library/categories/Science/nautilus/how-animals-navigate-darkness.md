@@ -6,7 +6,7 @@ url = "https://nautil.us/how-animals-navigate-darkness-1255213/"
 author = "Kristen French"
 text = ""
 lastupdated = "2025-12-19T13:15:38.170531423Z"
-seen = true
+seen = false
 +++
 
 The body may know where we’re going before our eyes do, building maps of the world that rely on a kind of internal GPS rather than on landmarks or other visual cues. This process, known as path integration, allows the brain to track each step and turn you make, updating your position in time and space—even in the dark.

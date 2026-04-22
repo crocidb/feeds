@@ -6,7 +6,7 @@ url = "https://nautil.us/the-internet-has-not-killed-reading-or-attention-spans-
 author = "Kristen French"
 text = ""
 lastupdated = "2026-03-25T10:19:21.885044862Z"
-seen = true
+seen = false
 +++
 
 An interview with Kevin Ashton, MIT technology pioneer and author of *The Story of Stories*

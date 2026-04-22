@@ -6,7 +6,7 @@ url = "https://nautil.us/revisiting-the-environmental-ruin-of-the-first-gulf-war
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-20T10:31:50.348388023Z"
-seen = true
+seen = false
 +++
 
 Oil and war makes for a devastating combination

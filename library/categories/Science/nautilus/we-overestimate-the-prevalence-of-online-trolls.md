@@ -6,7 +6,7 @@ url = "https://nautil.us/we-overestimate-the-prevalence-of-online-trolls-1255158
 author = "Molly Glick"
 text = ""
 lastupdated = "2025-12-17T22:54:19.667590424Z"
-seen = true
+seen = false
 +++
 
 Social media often feels like a minefield—dodging spiteful and incendiary posts when you’re simply trying to, say, scroll through cute cat photos or seek out Reddit advice on vacuum cleaners.

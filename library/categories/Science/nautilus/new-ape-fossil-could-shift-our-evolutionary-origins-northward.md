@@ -6,7 +6,7 @@ url = "https://nautil.us/new-ape-fossil-could-shift-our-evolutionary-origins-nor
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-29T12:38:12.391885898Z"
-seen = true
+seen = false
 +++
 
 Ancestor of humans and other great apes turns up in Egypt

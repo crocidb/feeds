@@ -6,7 +6,7 @@ url = "https://nautil.us/how-cacti-defy-darwin-1279117/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-23T12:35:33.020513907Z"
-seen = true
+seen = false
 +++
 
 They’re an evolutionary feat all of their own

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-a-simulated-dinosaur-nest-revealed-prehistoric-pare
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-23T12:35:33.013557603Z"
-seen = true
+seen = false
 +++
 
 These paleontologists got crafty
