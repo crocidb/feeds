@@ -6,7 +6,7 @@ url = "https://nautil.us/why-havent-we-heard-from-extraterrestrials-yet-1278966/
 author = "Kristen French"
 text = ""
 lastupdated = "2026-03-18T22:16:09.746424979Z"
-seen = false
+seen = true
 +++
 
 A conversation with astronomer Vishal Gajjar about how to listen differently for non-human life in the cosmos

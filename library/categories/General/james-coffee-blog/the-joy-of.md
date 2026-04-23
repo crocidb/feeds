@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/05/the-joy-of"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.657496356Z"
-seen = false
+seen = true
 +++
 
 Every so often I take notes of things that brought me joy. I write them in my digital notebook in the form "the joy of {thing}". This phrasing lets me encapsulate a feeling and a moment in a sentence. Sometimes I'll go on to write more, other times something like *the joy of waking up to a clear sky* is all I need to write down to capture the essence of a moment.

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-earths-atmosphere-reached-the-moon-1254959/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2025-12-17T22:54:19.687985293Z"
-seen = false
+seen = true
 +++
 
 There’s a mystery lurking on the dusty surface of the moon, one that was uncovered during the first Apollo missions—particles from Earth, including water, found in lunar soil. Now, scientists think they may have cracked the case of how they got there.

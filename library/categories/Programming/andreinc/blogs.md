@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/blogs/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.247404978Z"
-seen = false
+seen = true
 +++
 
 Links tagged with `blogs`.

@@ -6,7 +6,7 @@ url = "https://nautil.us/what-the-us-could-learn-from-asias-robot-revolution-127
 author = "Candi K. Cann"
 text = ""
 lastupdated = "2026-03-20T10:31:50.354115994Z"
-seen = false
+seen = true
 +++
 
 In Korea and Japan, humanoid machines aren’t rivals but partners

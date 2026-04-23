@@ -6,7 +6,7 @@ url = "https://nautil.us/how-many-insects-fill-the-air-on-a-typical-summer-day-i
 author = "Devin Reese"
 text = ""
 lastupdated = "2025-12-10T15:24:06.720751140Z"
-seen = false
+seen = true
 +++
 
 For many in the United States, the soundtrack of a lazy summer evening is the drone of insects filling the air. But how does one translate that languorous buzz to the cumulative insect air traffic across the entire U.S.?

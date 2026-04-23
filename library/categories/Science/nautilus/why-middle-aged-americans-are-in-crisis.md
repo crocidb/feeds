@@ -6,7 +6,7 @@ url = "https://nautil.us/why-middle-aged-americans-are-in-crisis-1279926/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-20T13:16:27.969744497Z"
-seen = false
+seen = true
 +++
 
 “It’s a sandwich generation, but on steroids”

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-childhood-dementia-ravages-the-brain-1279627/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-10T10:24:07.362720491Z"
-seen = false
+seen = true
 +++
 
 Sanfilippo syndrome is a heartbreaking disease

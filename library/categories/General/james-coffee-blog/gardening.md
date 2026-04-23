@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/27/gardening"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.067014478Z"
-seen = false
+seen = true
 +++
 
 At [Front End Study Hall yesterday](https://indieweb.org/events/2026-03-26-front-end-study-hall) there was a discussion about what endeavours are similar to web development. There was a particularly rich discussion (documented in the afore-linked notes) related to gardening and web development. My takeaway from the discussion was that building for the web has more in common with other tasks than I had thought about before.

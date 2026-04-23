@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-02-06"
 author = ""
 text = ""
 lastupdated = "2026-02-11T20:17:06.523096209Z"
-seen = false
+seen = true
 +++
 
 [Two Package Management Workflow Enhancements](#2026-02-06)

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-secret-of-fireflies-synchronous-flashing-1279006/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-18T22:16:09.737310800Z"
-seen = false
+seen = true
 +++
 
 How males adjust their behavior to keep the beat

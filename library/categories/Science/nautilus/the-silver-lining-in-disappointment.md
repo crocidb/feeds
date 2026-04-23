@@ -6,7 +6,7 @@ url = "https://nautil.us/the-silver-lining-in-disappointment-1255173/"
 author = "Kristen French"
 text = ""
 lastupdated = "2025-12-17T22:54:19.663506228Z"
-seen = false
+seen = true
 +++
 
 Disappointment stings. But this feeling may be more useful than you might think. It seems to help mice change their behavior so that they can avoid similar outcomes in the future, a skill essential to survival for many living things.

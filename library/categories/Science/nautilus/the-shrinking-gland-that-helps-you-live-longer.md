@@ -6,7 +6,7 @@ url = "https://nautil.us/the-shrinking-gland-that-helps-you-live-longer-1279121/
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-23T12:35:33.017157750Z"
-seen = false
+seen = true
 +++
 
 When’s the last time you thought about your thymus?

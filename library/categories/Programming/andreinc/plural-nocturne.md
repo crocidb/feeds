@@ -6,7 +6,7 @@ url = "https://andreinc.net/jukebox/plural_nocturne/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.540019142Z"
-seen = false
+seen = true
 +++
 
 The [Jukeboxes](https://en.wikipedia.org/wiki/Jukebox) feature songs and artists that aren’t widely known. This is intentional, while I do love the *classics*, I also enjoy exploring (more) experimental and *alternative* scenes. <sup>No coins needed.</sup>

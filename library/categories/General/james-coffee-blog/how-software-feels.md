@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/01/how-software-feels"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.696245884Z"
-seen = false
+seen = true
 +++
 
 I am interested in how software feels to use. [Back in 2024, I wrote](https://jamesg.blog/2024/11/24/confidence):

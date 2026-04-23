@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/systems/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.420836622Z"
-seen = false
+seen = true
 +++
 
 Links tagged with `systems`.

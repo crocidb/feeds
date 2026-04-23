@@ -6,7 +6,7 @@ url = "https://nautil.us/why-exercising-may-not-help-you-lose-weight-1267070/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-02-11T20:17:08.322345106Z"
-seen = false
+seen = true
 +++
 
 Anyone who’s ever tried to lose weight by upping their workout regimen can tell you that it’s a struggle. But why? If you keep your diet the same and hit the treadmill to burn an extra 500 calories a day you should start shedding pounds. It’s just math, right? 

@@ -6,7 +6,7 @@ url = "https://nautil.us/these-seals-brave-polar-bear-country-to-access-an-ocean
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-30T23:56:31.736772566Z"
-seen = false
+seen = true
 +++
 
 Conservation plans for climate change must consider both fear and food

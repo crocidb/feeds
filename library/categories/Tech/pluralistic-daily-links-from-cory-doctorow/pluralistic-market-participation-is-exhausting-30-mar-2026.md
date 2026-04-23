@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/03/30/players-of-games/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-03-30T23:56:36.400387026Z"
-seen = true
+seen = false
 +++
 
 [![](https://i0.wp.com/craphound.com/images/30Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/30/players-of-games/)

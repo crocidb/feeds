@@ -6,7 +6,7 @@ url = "https://nautil.us/science-says-laughter-is-contagious-1255377/"
 author = "Kristen French"
 text = ""
 lastupdated = "2025-12-19T13:15:38.162509291Z"
-seen = false
+seen = true
 +++
 
 There are few things more delightful in life than a giddy, runaway laugh shared with a friend. When the mood strikes, chuckles can become contagious. But sometimes these bouts of hilarity bubble up at just the wrong moment, when social mores call for solemnity and a straight face. Anyone who has found themselves giggling during a funeral, for example, knows how difficult it can be to tone down their tittering.

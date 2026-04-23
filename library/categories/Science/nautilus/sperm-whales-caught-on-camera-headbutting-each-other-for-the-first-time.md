@@ -6,7 +6,7 @@ url = "https://nautil.us/sperm-whales-caught-on-camera-headbutting-each-other-fo
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-24T10:46:27.462782488Z"
-seen = false
+seen = true
 +++
 
 Vindication for Captain Ahab

@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/albums/black-metal/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.237465737Z"
-seen = false
+seen = true
 +++
 
 A filterable list of favorite albums.

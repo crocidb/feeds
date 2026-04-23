@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festa-kissers-traz-aria-scandall-orly-gibran-go
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-12T21:28:17.875473889Z"
-seen = false
+seen = true
 +++
 
 Uma das maiores festas de pop internacional do Recife, a **Kissers** chega ao 113 Club, no bairro da Madalena, neste sábado (11). A festa tem início a partir das 22h, entra pela madrugada e promete uma noite de muitas surpresas. Para quem deseja dançar a noite toda, o evento conta com um line-up feito por uma curadoria que traz mais de 15 atrações para não deixar ninguém parado. **Ária Scandall, Orly, Gibran Gomes, Marlon Parente, Caíto Xis, Gael, Wesiley e Diego Colucci** compõem o line up da Kissers. 

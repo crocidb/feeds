@@ -6,7 +6,7 @@ url = "https://nautil.us/the-table-condiment-that-powers-plant-eating-giants-125
 author = "Bob Grant"
 text = ""
 lastupdated = "2025-12-10T15:24:06.725048044Z"
-seen = false
+seen = true
 +++
 
 Plant-eating animals need to get crafty to get the salt they crave. Because sodium is relatively rare in nature and plants don’t tend to concentrate salts, herbivores get the stuff wherever and however they can. Elephants in Kenya, for instance, frequent caves to munch salt-rich rocks, and pachyderms in the Congo excavate riverbeds for subterranean sodium deposits. Most African herbivores have found other ways to maximize their sodium intake, gathering at salt pans across the continent or focusing on the saltiest snacks in their habitats.
