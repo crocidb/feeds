@@ -16,7 +16,7 @@ echo "[entrypoint] Starting cron daemon..."
 crond &
 
 # syncing with git at first
-/daily-backup.sh
+/repo/sync/daily-backup.sh
 
 echo "[entrypoint] Starting rclone WebDAV server on :23284..."
 exec rclone serve webdav "$DATA_DIR" \
