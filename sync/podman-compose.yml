@@ -6,13 +6,13 @@ services:
       context: .
       dockerfile: Containerfile
     ports:
+      # the port that our WebDAV server will run
       - "23284:23284"
     volumes:
-      # Bind mount the feeds data directory (one level up from sync/)
-      # Adjust this path to wherever the feeds directory lives on the host
-      - ../:/repo
-      # SSH key for git push to GitHub (read-only)
-      - ~/.ssh:/root/.ssh:ro
+      # bind mount the all the feed directory to the container
+      - ../:/repo:Z
+      # ssh key backup the feed data to github (read-only)
+      - ~/.ssh:/root/.ssh:ro,Z
     environment:
       WEBDAV_USER: ${WEBDAV_USER:-admin}
       WEBDAV_PASS: ${WEBDAV_PASS:-changeme}

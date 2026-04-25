@@ -3,10 +3,9 @@ FROM docker.io/rclone/rclone:latest
 # Install git, openssh (for git push via SSH), and cronie (cron daemon)
 RUN apk add --no-cache git openssh-client cronie
 
-# Copy scripts
+# copy scripts and set them as executable
 COPY entrypoint.sh /entrypoint.sh
 COPY daily-backup.sh /daily-backup.sh
-
 RUN chmod +x /entrypoint.sh /daily-backup.sh
 
 # Register daily backup cron job (runs at midnight UTC)

@@ -7,15 +7,11 @@ DATE=$(date -u +%Y-%m-%d)
 
 echo "[daily-backup] Starting backup for $DATE..."
 
-# Ensure GitHub host key is trusted
-mkdir -p /root/.ssh
-ssh-keyscan github.com >> /root/.ssh/known_hosts 2>/dev/null
-
 cd "$REPO_DIR"
 
 git add -A
 
-# Only commit if there are staged changes
+# only commit if there are staged changes
 if git diff --cached --quiet; then
     echo "[daily-backup] Nothing to commit. Skipping."
 else
@@ -23,7 +19,7 @@ else
     echo "[daily-backup] Committed changes."
 fi
 
-# Pull first (rebase local commits on top of remote to avoid diverged histories)
+# pull first (rebase local commits on top of remote to avoid diverged histories)
 if ! git pull --rebase -X theirs "$REMOTE" "$BRANCH"; then
     echo "[daily-backup] ERROR: git pull --rebase failed. Aborting to avoid push conflict."
     git rebase --abort 2>/dev/null || true
