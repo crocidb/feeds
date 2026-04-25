@@ -33,6 +33,7 @@ proot-distro login "$ALPINE" -- sh -c "
     echo '0 0 * * * /repo/sync/daily-backup.sh >> /var/log/daily-backup.log 2>&1' | crontab -
 "
 
+# run the server
 echo ""
 echo "[setup] Starting the WebDAV server..."
 
