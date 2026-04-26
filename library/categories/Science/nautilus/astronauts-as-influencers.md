@@ -6,7 +6,7 @@ url = "https://nautil.us/astronauts-as-influencers-1279855/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-15T00:26:07.023566127Z"
-seen = false
+seen = true
 +++
 
 Artemis II was a wild ride that played out across social media to give the public unprecedented insight into space exploration

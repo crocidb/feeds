@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neig
 author = "Amber Dance"
 text = ""
 lastupdated = "2026-02-11T20:17:08.437108800Z"
-seen = false
+seen = true
 +++
 
 Real estate agents will tell you that a home’s most important feature is “location, location, location.” It’s similar in neuroscience: “Location is everything in the brain,” said Bosiljka Tasic, a self-described “biological cartographer.” Brain injury in one spot could knock out memory; damage in another could interfere with personality. Neuroscientists and doctors are lost without a good map.

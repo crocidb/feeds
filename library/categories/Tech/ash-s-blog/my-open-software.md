@@ -6,7 +6,7 @@ url = "https://ashvardanian.com/software/"
 author = "Ash's Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:53.098772025Z"
-seen = true
+seen = false
 +++
 
 All of my software is hosted on GitHub, mostly under the [Apache-2.0](https://opensource.org/licenses/Apache-2.0) permissive license. Free for commercial and non-commercial use, modification, and distribution.

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/video-game-lawyer-implores-devs-to
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-15T21:55:50.317251878Z"
-seen = true
+seen = false
 +++
 

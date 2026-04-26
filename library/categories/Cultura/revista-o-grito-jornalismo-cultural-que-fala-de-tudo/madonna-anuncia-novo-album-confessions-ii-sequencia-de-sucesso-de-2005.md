@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/madonna-anuncia-novo-album-confessions-ii-seque
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-15T21:55:46.470300408Z"
-seen = true
+seen = false
 +++
 
 Depois de uma longa expectativa, **Madonna** confirmou o nome e a data de seu novo álbum. *Confessions On a Dance Floor Part II* (ou apenas *Confessions II*, como vem sendo chamado) é a sequência do ótimo álbum de 2005, em que a artista explorou gêneros com dance music e disco. O lançamento está previsto para 3 de julho.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/suspiria-classico-de-dario-argento-retorna-aos-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-16T23:48:31.663852187Z"
-seen = true
+seen = false
 +++
 
 O filme *Suspiria* (1977), dirigido por **Dario Argento**, retorna aos cinemas brasileiros no dia 23 de abril de 2026 em cópia restaurada em 4K. A distribuição é realizada pela FJ Cines, que marca seu retorno aos lançamentos em salas de exibição. Antes da estreia oficial, ocorre uma pré-estreia no CineSesc, em São Paulo, no dia 17 de abril, às 20h30min.

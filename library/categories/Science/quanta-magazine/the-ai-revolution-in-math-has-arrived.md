@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-2026
 author = "Konstantin Kakaes"
 text = ""
 lastupdated = "2026-04-13T16:17:50.120937962Z"
-seen = false
+seen = true
 +++
 
 The tipping point came in the summer of 2025. That July, several artificial intelligence models solved five out of six problems at the International Mathematical Olympiad, an annual challenge for some of the world’s best high school students. But while mathematicians were shocked — few had expected the programs to get that good that quickly — the impressive results didn’t necessarily mean that AI…

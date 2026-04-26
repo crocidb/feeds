@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/cryptographers-show-that-ai-protections-wi
 author = "Peter Hall"
 text = ""
 lastupdated = "2025-12-17T22:54:20.180245947Z"
-seen = false
+seen = true
 +++
 
 Ask ChatGPT how to build a bomb, and it will flatly respond that it “can’t help with that.” But users have long played a cat-and-mouse game to try to trick language models into providing forbidden information. These “jailbreaks” have run from the mundane — in the early years, one could simply tell a model to ignore its safety instructions — to elaborate multi-prompt roleplay scenarios.

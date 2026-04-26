@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/long-sought-proof-tames-some-of-maths-unru
 author = "Paulina Rowińska"
 text = ""
 lastupdated = "2026-02-11T20:17:08.440538688Z"
-seen = false
+seen = true
 +++
 
 The trajectory of a storm, the evolution of stock prices, the spread of disease — mathematicians can describe any phenomenon that changes in time or space using what are known as partial differential equations. But there’s a problem: These “PDEs” are often so complicated that it’s impossible to solve them directly. Mathematicians instead rely on a clever workaround. They might not know how to…

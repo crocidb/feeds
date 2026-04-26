@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/id-xbox-global-director-says-xbox-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-15T21:55:50.318931419Z"
-seen = true
+seen = false
 +++
 

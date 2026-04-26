@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/sony-rolls-out-age-verification-fo
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-22T14:43:13.678692640Z"
-seen = false
+seen = true
 +++
 
