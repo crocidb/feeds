@@ -6,7 +6,7 @@ url = "https://nautil.us/this-new-model-may-explain-why-youre-not-a-twin-1280219
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-25T13:20:50.406687111Z"
-seen = false
+seen = true
 +++
 
 It’s a rare event

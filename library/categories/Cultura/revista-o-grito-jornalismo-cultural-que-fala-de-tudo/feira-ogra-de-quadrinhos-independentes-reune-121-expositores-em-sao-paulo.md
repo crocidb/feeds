@@ -6,10 +6,10 @@ url = "https://revistaogrito.com/feira-ogra-de-quadrinhos-independentes-reune-12
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-12T21:28:17.844106616Z"
-seen = false
+seen = true
 +++
 
- A quarta edição da **Feira Ogra de Quadrinhos Independentes** ocorre no dia 19 de abril, em São Paulo. O evento reúne 121 expositores provenientes de 41 cidades e nove estados brasileiros. A programação será realizada na Galeria Ouro Velho, localizada na Rua Augusta, com entrada gratuita e funcionamento das 11h às 19h.
+A quarta edição da **Feira Ogra de Quadrinhos Independentes** ocorre no dia 19 de abril, em São Paulo. O evento reúne 121 expositores provenientes de 41 cidades e nove estados brasileiros. A programação será realizada na Galeria Ouro Velho, localizada na Rua Augusta, com entrada gratuita e funcionamento das 11h às 19h.
 
 Organizada pela editora e livraria Ugra, a feira agrega artistas, coletivos e pequenas editoras da produção autoral. O objetivo do encontro é destacar a produção do quadrinho independente nacional. “Quando criamos o evento, imaginamos um espaço onde as HQs brasileiras estivessem no centro das atenções”, conta Daniela Utescher, sócia da Ugra. “Outro ponto importante era garantir que o evento fosse acessível – seja na entrada, que é gratuita, seja na localização”.
 

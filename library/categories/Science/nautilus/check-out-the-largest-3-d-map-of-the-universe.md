@@ -6,7 +6,7 @@ url = "https://nautil.us/check-out-the-largest-3-d-map-of-the-universe-1279951/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-20T13:16:27.959360291Z"
-seen = false
+seen = true
 +++
 
 It spans over 11 billion years of cosmic history

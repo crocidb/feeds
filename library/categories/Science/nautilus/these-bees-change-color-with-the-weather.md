@@ -6,7 +6,7 @@ url = "https://nautil.us/these-bees-change-color-with-the-weather-1280222/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-25T13:20:50.405282424Z"
-seen = false
+seen = true
 +++
 
 But the biological significance of their shifts is a mystery

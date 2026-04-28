@@ -6,7 +6,7 @@ url = "https://nautil.us/a-brief-history-of-the-bizarre-looking-anglerfish-12800
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-22T14:43:25.851351479Z"
-seen = false
+seen = true
 +++
 
 These mysterious species have a lot of tricks

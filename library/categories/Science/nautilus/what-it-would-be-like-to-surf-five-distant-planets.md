@@ -6,7 +6,7 @@ url = "https://nautil.us/what-it-would-be-like-to-surf-five-distant-planets-1280
 author = "Kristen French"
 text = ""
 lastupdated = "2026-04-22T14:43:25.844733032Z"
-seen = false
+seen = true
 +++
 
 A surfing safari of the cosmos

@@ -6,7 +6,7 @@ url = "https://nautil.us/mushrooms-stole-a-trick-from-bacteria-it-could-help-us-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-22T14:43:25.841309233Z"
-seen = false
+seen = true
 +++
 
 Can purloined genes make it rain?

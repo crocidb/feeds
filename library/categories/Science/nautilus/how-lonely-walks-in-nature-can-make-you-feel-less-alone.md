@@ -6,7 +6,7 @@ url = "https://nautil.us/how-lonely-walks-in-nature-can-make-you-feel-less-alone
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-20T13:16:27.942084228Z"
-seen = false
+seen = true
 +++
 
 You’re never really by yourself in nature

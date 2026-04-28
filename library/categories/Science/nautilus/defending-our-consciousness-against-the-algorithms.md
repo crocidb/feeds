@@ -6,7 +6,7 @@ url = "https://nautil.us/defending-our-consciousness-against-the-algorithms-1279
 author = "Michael Pollan"
 text = ""
 lastupdated = "2026-04-20T13:16:27.938659679Z"
-seen = false
+seen = true
 +++
 
 Why it’s good to be bored

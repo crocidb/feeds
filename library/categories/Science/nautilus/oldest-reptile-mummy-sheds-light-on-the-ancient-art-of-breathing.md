@@ -6,7 +6,7 @@ url = "https://nautil.us/oldest-reptile-mummy-sheds-light-on-the-ancient-art-of-
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-20T13:16:27.962685350Z"
-seen = false
+seen = true
 +++
 
 Its rib breathing set the stage for further evolution of land animals

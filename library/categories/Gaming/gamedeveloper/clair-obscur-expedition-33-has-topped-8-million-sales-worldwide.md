@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/clair-obscur-expedition-33-has-top
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-25T13:20:33.585967765Z"
-seen = false
+seen = true
 +++
 

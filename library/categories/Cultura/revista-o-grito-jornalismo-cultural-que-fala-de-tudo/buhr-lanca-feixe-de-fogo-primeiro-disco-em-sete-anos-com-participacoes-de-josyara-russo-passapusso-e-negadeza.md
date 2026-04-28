@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/buhr-lanca-feixe-de-fogo-primeiro-disco-em-sete
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-12T21:28:17.858935765Z"
-seen = false
+seen = true
 +++
 
 **BUHR**, [novo nome artístico de Karina Buhr](https://revistaogrito.com/buhr-antecipa-novo-album-com-o-lancamento-do-single-ansia/), lançou nesta sexta (10) o álbum *Feixe de Fogo*, primeiro trabalho desde o ótimo *[Desmanche](https://revistaogrito.com/karina-buhr-faz-um-disco-pesado-para-esses-tempos-loucos/)*. O projeto foi gravado de forma independente durante dois anos em cidades como Fortaleza, Sobral, Salvador, São Paulo e Recife. O trabalho aborda temas como o feminismo e a identidade não binária de BUHR, refletindo sobre vivências urbanas e relações interpessoais.

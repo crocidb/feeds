@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/audio/newly-launched-ivors-composers-awards
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-25T13:20:33.603017322Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/site/review_policy?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-25T13:20:54.658166686Z"
-seen = false
+seen = true
 +++
 
 This site has been around for over 20 years, so it was only natural that I would write about stuff I purchased. Those pieces became popular enough that people started asking me to review things, and eventually I started getting review units/copies from vendors.

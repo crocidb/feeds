@@ -6,7 +6,7 @@ url = "https://nautil.us/the-australian-rocks-that-house-the-oldest-life-forms-o
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-25T13:20:50.416908206Z"
-seen = false
+seen = true
 +++
 
 Never underestimate the power of an old pile of rocks

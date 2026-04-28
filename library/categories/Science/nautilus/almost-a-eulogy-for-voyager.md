@@ -6,7 +6,7 @@ url = "https://nautil.us/almost-a-eulogy-for-voyager-1280164/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-25T13:20:50.415387167Z"
-seen = false
+seen = true
 +++
 
 The robotic space probe is 15 billion miles away and is nearing the end of its life in the distant cosmos

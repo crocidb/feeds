@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/dev/golang?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-25T13:20:54.636813557Z"
-seen = false
+seen = true
 +++
 
 A great systems-oriented programming language I’ve taken up to complement [Python](/space/dev/python) due to its ability to cross-compile and produce (mostly) self-contained static binaries.

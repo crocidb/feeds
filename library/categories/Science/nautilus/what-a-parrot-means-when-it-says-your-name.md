@@ -6,7 +6,7 @@ url = "https://nautil.us/what-a-parrot-means-when-it-says-your-name-1280042/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-22T14:43:25.838007775Z"
-seen = false
+seen = true
 +++
 
 Or does Polly just want attention?

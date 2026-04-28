@@ -6,7 +6,7 @@ url = "https://nautil.us/the-mystery-of-the-giant-blobs-at-the-center-of-the-ear
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-22T14:43:25.824661550Z"
-seen = false
+seen = true
 +++
 
 Are they remnants of primordial Earth or extraterrestrial in origin?

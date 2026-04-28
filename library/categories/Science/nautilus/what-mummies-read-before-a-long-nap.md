@@ -6,7 +6,7 @@ url = "https://nautil.us/what-mummies-read-before-a-long-nap-1280190/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-25T13:20:50.409539126Z"
-seen = false
+seen = true
 +++
 
 Archaeologists have recovered a scrap of the Iliad in the belly of an interred Egyptian

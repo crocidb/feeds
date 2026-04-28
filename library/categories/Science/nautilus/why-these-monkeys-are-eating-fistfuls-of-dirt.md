@@ -6,7 +6,7 @@ url = "https://nautil.us/why-these-monkeys-are-eating-fistfuls-of-dirt-1280086/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-22T14:43:25.821011851Z"
-seen = false
+seen = true
 +++
 
 How about an ice cream cone with a dirt chaser?

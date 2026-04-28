@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/quantum-jamming-explores-the-truly-fundame
 author = "Matt von Hippel"
 text = ""
 lastupdated = "2026-04-20T13:16:28.029294192Z"
-seen = false
+seen = true
 +++
 
 For the past few decades, researchers have understood that quantum computers should eventually be able to crack the widely used codes that secure much of the digital world. To protect against this fate, they’ve spent years developing new codes that appear to be safe from future safecrackers armed with quantum computers. At the same time, they’ve also devised ingenious ways to use the rules of…

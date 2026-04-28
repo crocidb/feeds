@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/ai/agentic/skills?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-25T13:20:54.659780896Z"
-seen = false
+seen = true
 +++
 
 Reusable skill modules for agentic systems: prompt packs, tool recipes, and structured workflows that you can load into a running agent, adapt for a project, or keep around as references when shaping instruction sets.

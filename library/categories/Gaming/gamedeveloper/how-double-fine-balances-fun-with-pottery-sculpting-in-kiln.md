@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/how-double-fine-balances-fun-with-po
 author = "Samuel Tolbert"
 text = ""
 lastupdated = "2026-04-22T14:43:13.662259597Z"
-seen = false
+seen = true
 +++
 

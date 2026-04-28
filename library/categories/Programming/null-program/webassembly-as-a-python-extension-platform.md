@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/01/01/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-02-11T20:17:06.807966159Z"
-seen = false
+seen = true
 +++
 
 Software above some complexity level tends to sport an extension language, becoming a kind of software platform itself. Lua fills this role well, and of course there’s JavaScript for web technologies. [WebAssembly](/blog/2025/04/04/) generalizes this, and any Wasm-targeting programming language can extend a Wasm-hosting application. It has more friction than supplying a script in a text file, but extension authors can write in their language of choice, and use more polished development tools — debugging, [testing](/blog/2025/02/05/), etc. — than typically available for a typical extension language. Python is traditionally extended through native code behind a C interface, but it’s recently become practical to extend Python with Wasm. That is we can ship an architecture-independent Wasm blob inside a Python library, and use it without requiring a native toolchain on the host system. Let’s discuss two different use cases and their pitfalls.

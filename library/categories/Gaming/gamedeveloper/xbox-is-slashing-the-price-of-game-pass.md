@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-is-cutting-the-price-of-game-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-22T14:43:13.668754155Z"
-seen = false
+seen = true
 +++
 

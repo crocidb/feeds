@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/ai?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-22T14:43:29.013101201Z"
-seen = false
+seen = true
 +++
 
 That grand, spacious (and long ignored) branch of computing that I never really found a reason to graduate in (big mistake I only realized 30 years later) and that, these days, deals not just with thinking machines (so-called “hard” AI), but mostly with enhancing the usefulness of machines in general by exploring mechanisms to express and manipulate harvested knowledge.

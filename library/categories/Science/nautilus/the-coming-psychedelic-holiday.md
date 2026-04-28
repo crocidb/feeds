@@ -6,7 +6,7 @@ url = "https://nautil.us/the-coming-psychedelic-holiday-1279934/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-20T13:16:27.966253818Z"
-seen = false
+seen = true
 +++
 
 The next few days were instrumental in the history of LSD

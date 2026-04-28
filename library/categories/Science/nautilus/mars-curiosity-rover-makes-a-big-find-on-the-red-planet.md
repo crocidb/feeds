@@ -6,7 +6,7 @@ url = "https://nautil.us/mars-curiosity-rover-makes-a-big-find-on-the-red-planet
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-22T14:43:25.834704006Z"
-seen = false
+seen = true
 +++
 
 The little robotic chemist that could

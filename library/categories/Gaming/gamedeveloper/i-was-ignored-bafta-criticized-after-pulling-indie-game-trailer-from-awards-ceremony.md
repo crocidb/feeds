@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-i-was-ignored-bafta-criticised-af
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-22T14:43:13.685393558Z"
-seen = false
+seen = true
 +++
 

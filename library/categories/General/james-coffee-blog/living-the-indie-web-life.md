@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/22/living-the-indie-web-life"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-25T13:20:35.108369643Z"
-seen = false
+seen = true
 +++
 
 In 2018, [David and Chris recorded a podcast episode about the indie web](https://david.shanske.com/2018/03/18/an-indieweb-podcast-episode-0/) in which the topic “living the indie web life” came up. As soon as I heard the phrase, I thought to myself: what does living the indie web life mean to me?

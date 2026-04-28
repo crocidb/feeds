@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/dev/rust?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-25T13:20:54.622432222Z"
-seen = false
+seen = true
 +++
 
 The language that helped coin the moniker *Rust Evangelism Strike Force*, and which is slowly starting to get to me.

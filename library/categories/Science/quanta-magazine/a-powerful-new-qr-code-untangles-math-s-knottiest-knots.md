@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/a-powerful-new-qr-code-untangles-maths-kno
 author = "Erica Klarreich"
 text = ""
 lastupdated = "2026-04-22T14:56:49.180675401Z"
-seen = false
+seen = true
 +++
 
 From the tangle in your computer cord to the mess your cat made of your knitting basket, knots are everywhere in daily life. They also pervade science, showing up in loops of DNA, intertwined polymer strands, and swirling water currents. And within pure mathematics, knots are the key to many central questions in topology. Yet knot theorists still struggle with the most basic of questions: how to…

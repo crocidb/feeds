@@ -6,7 +6,7 @@ url = "https://nautil.us/rome-was-built-today-1280078/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-22T14:43:25.828012419Z"
-seen = false
+seen = true
 +++
 
 Celebrating the scientific and technical contributions of Rome on the mythical birthday of the eternal city

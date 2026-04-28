@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/atari-acquires-emulation-studio-im
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-25T13:20:33.592437833Z"
-seen = false
+seen = true
 +++
 

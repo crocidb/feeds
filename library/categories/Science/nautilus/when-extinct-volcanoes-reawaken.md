@@ -6,7 +6,7 @@ url = "https://nautil.us/when-extinct-volcanoes-reawaken-1280213/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-04-25T13:20:50.408099948Z"
-seen = false
+seen = true
 +++
 
 They’re filled with a lot more fury than their millennia-long slumber would suggest

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-
 author = "Yasemin Saplakoglu"
 text = ""
 lastupdated = "2026-04-25T13:20:50.565134879Z"
-seen = false
+seen = true
 +++
 
 Every experience we have changes our brain, the way a ceramicist reshapes a slab of clay. Every corner we turn, every conversation we have, every shudder we feel causes cascading effects: Chemicals are released, electricity surges, the connections between brain cells tighten, and our mental models update. The brain is “incredibly plastic, and it stays that way throughout the lifespan of a human,”…

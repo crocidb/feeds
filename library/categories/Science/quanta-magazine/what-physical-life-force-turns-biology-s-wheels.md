@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/what-physical-life-force-turns-biologys-wh
 author = "Natalie Wolchover"
 text = ""
 lastupdated = "2026-04-22T14:43:25.910214014Z"
-seen = false
+seen = true
 +++
 
 You’re the earliest known life form. There’s no food around right now. It would be great to go somewhere else. But you’re stuck. Really stuck. At your size (a couple of microns), water feels like tar, or rather, it feels the way being stuck in tar will eventually feel to a human. What do you do? You’ve found the perfect solution. Literally perfect.

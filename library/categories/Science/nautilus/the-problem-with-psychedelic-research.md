@@ -6,7 +6,7 @@ url = "https://nautil.us/the-problem-with-psychedelic-research-1280196/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-04-25T13:20:50.410974403Z"
-seen = false
+seen = true
 +++
 
 A conversation with a psychedelics researcher about a fundamental flaw in how we test these mind-bending drugs

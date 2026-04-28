@@ -6,7 +6,7 @@ url = "https://nautil.us/plants-can-hear-the-sound-of-falling-rain-1280186/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-25T13:20:50.413774888Z"
-seen = false
+seen = true
 +++
 
 It helps their seeds sprout

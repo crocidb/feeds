@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-ubisoft-cancels-social-sim-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-25T13:20:33.608437448Z"
-seen = false
+seen = true
 +++
 

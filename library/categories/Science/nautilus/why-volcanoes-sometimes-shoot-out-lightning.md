@@ -6,7 +6,7 @@ url = "https://nautil.us/why-volcanoes-sometimes-shoot-out-lightning-1280235/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-25T13:20:50.403816476Z"
-seen = false
+seen = true
 +++
 
 Tiny grains produce big charges

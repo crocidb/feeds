@@ -6,7 +6,7 @@ url = "https://nautil.us/the-peace-that-an-eclipse-brings-1280047/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-22T14:43:25.831344347Z"
-seen = false
+seen = true
 +++
 
 The total solar eclipse in 2024 hushed the Earth by striking awe in the humans in its path
