@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/slayyyter-wort-girl-in-america-critica/"
 author = "Arthur Caires"
 text = ""
 lastupdated = "2026-04-25T13:20:31.172464947Z"
-seen = false
+seen = true
 +++
 
 Slayyyter prova que o caos é a ordem para o sucesso em “WOR$T GIRL IN AMERICA”

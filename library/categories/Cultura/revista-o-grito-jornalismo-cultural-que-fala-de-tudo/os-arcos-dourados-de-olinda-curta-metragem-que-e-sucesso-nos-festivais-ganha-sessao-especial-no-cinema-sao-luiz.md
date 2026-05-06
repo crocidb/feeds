@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/os-arcos-dourados-de-olinda-curta-metragem-que-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-25T13:20:31.178698903Z"
-seen = false
+seen = true
 +++
 
 A jornada do curta-metragem ***Os Arcos Dourados de Olinda***, dirigido por **[Douglas Henrique](https://revistaogrito.com/assunto/douglas-henrique/)**, é de chamar atenção. Apenas no festival É Tudo Verdade, cujos premiados foram divulgados no último domingo (19), o filme se consagrou vencedor da categoria mais importante, a Competição Brasileira de Curtas-Metragens, além dos prêmios de Melhor Direção, Melhor Montagem, Prêmio Canal Brasil e Prêmio Mistika. Fruto do trabalho de conclusão da graduação em Cinema da UFPE, o filme ganha sessão especial no Cinema São Luiz, no próximo domingo (26). 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/landfall-and-aggro-crab-team-up-fo
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-29T19:16:18.409357648Z"
-seen = false
+seen = true
 +++
 

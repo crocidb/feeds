@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/buhr-estreia-turne-nacional-do-album-feixe-de-f
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-25T13:20:31.175394582Z"
-seen = false
+seen = true
 +++
 
 **BUHR** inicia nesta sexta-feira (24), no Recife, a[ turnê de lançamento do álbum *Feixe de Fogo*](https://revistaogrito.com/buhr-lanca-feixe-de-fogo-primeiro-disco-em-sete-anos-com-participacoes-de-josyara-russo-passapusso-e-negadeza/). O show de estreia ocorre no Teatro do Parque, às 20h, marcando a primeira apresentação ao vivo do projeto sucessor de *Desmanche* (2019). Após a data na capital pernambucana, a turnê segue para o Ceará, com apresentações em Fortaleza, no dia 25, e Juazeiro do Norte, no dia 30 de abril.

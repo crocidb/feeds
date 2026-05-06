@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/04/29/1730?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-29T19:52:36.505145951Z"
-seen = false
+seen = true
 +++
 
 I got annoyed enough with Safari Web Apps to write my own replacement.

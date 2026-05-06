@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/660"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-04-25T13:20:28.652218811Z"
-seen = false
+seen = true
 +++
 
 Proxmox to FreeBSD, Hidden values of CPU-Intensive Compression, Cells for NetBSD, OpenBSD 7.8 on RPIs, and more...

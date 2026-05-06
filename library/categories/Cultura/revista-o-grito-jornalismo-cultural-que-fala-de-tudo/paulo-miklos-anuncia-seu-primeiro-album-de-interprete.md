@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/paulo-miklos-anuncia-seu-primeiro-album-de-inte
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-25T13:20:31.168644510Z"
-seen = false
+seen = true
 +++
 
 O cantor **Paulo Miklos** lançou nesta sexta (24) o single **“O Sal da Terra”** em todas as plataformas de streaming. A faixa, composição de Beto Guedes e Ronaldo Bastos, marca a estreia do projeto ***Coisas da Vida***, álbum dedicado exclusivamente à interpretação de obras de outros compositores. O disco completo tem previsão de lançamento para o dia **22 de maio** pela gravadora Deck.

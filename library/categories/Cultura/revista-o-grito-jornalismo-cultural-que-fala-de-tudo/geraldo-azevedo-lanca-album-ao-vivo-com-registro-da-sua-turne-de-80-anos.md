@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/geraldo-azevedo-lanca-album-ao-vivo-com-registr
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-25T13:20:31.165444101Z"
-seen = false
+seen = true
 +++
 
 O cantor e compositor **Geraldo Azevedo** lança nesta sexta-feira (24) o disco ao vivo *Oitentação* e inicia a segunda etapa da turnê homônima em João Pessoa. O projeto, que celebra as oito décadas de vida do artista, já está disponível no streaming. O primeiro show da nova fase acontece no Teatro Pedra do Reino, com participações de Lucy Alves e Tadeu Mathias.

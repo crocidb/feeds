@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/starbreeze-to-develop-a-second-pay
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-29T19:16:18.412757096Z"
-seen = false
+seen = true
 +++
 
