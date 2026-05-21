@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ea-boasts-record-year-thanks-to-ba
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-05-08T13:34:18.973043468Z"
-seen = false
+seen = true
 +++
 

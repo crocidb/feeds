@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/former-lucasarts-ubisoft-veteran-c
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-08T13:34:18.976191686Z"
-seen = false
+seen = true
 +++
 

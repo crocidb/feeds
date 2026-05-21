@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/new-remedy-ceo-wants-to-protect-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-08T13:34:18.990787076Z"
-seen = false
+seen = true
 +++
 

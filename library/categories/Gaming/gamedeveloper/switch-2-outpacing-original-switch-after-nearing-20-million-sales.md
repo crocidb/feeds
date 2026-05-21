@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/switch-2-outpacing-original-switch
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-08T14:13:09.605573071Z"
-seen = false
+seen = true
 +++
 

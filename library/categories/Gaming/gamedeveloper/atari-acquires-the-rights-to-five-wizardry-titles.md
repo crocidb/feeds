@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/atari-acquires-the-rights-to-five-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-08T13:34:18.962607167Z"
-seen = false
+seen = true
 +++
 

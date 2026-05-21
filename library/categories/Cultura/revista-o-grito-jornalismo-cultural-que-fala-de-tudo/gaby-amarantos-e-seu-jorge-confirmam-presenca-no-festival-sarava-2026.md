@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/gaby-amarantos-e-seu-jorge-confirmam-presenca-n
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-05-08T13:34:17.098886662Z"
-seen = false
+seen = true
 +++
 
 **Gaby Amarantos** e **Seu Jorge** são os primeiros nomes confirmados para a 12ª edição do **Festival Saravá**, que ocorre no dia 12 de dezembro de 2026, em Florianópolis. O evento, sediado no Alcatéia Park, no Campeche, busca reunir diferentes vertentes da música brasileira em sua programação, consolidando-se como um ponto de encontro da cena contemporânea no Sul do país.

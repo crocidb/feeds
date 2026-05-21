@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/mobile-dev-mindtail-raises-2m-fund
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-08T13:34:18.953104013Z"
-seen = false
+seen = true
 +++
 

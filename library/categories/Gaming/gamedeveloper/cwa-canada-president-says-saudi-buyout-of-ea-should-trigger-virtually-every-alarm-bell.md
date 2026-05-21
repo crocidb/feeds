@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/union-president-says-saudi-buyout-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-08T13:34:18.982862752Z"
-seen = false
+seen = true
 +++
 

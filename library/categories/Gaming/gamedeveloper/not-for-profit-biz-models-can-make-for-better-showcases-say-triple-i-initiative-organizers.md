@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/-not-for-profit-biz-models-can-ma
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-05-08T13:34:18.956145731Z"
-seen = false
+seen = true
 +++
 

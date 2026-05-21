@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/gamesstop-wants-ebay-nintendo-conf
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-08T13:34:18.946919848Z"
-seen = false
+seen = true
 +++
 

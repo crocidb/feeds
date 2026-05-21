@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/kinforge-dev-seeker-entertainment-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-08T13:34:18.993834784Z"
-seen = false
+seen = true
 +++
 

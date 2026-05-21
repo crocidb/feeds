@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/dfb-festival-maior-evento-de-moda-autoral-do-br
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-05-08T13:34:17.095406014Z"
-seen = false
+seen = true
 +++
 
 O **[DFB Festival ](https://revistaogrito.com/assunto/dfb-festival/)2026** acontecerá de de 9 a 12 de junho na Praia de Iracema, em Fortaleza, como parte das comemorações dos 300 anos da capital cearense. O evento, idealizado em 1999 por Cláudio Silveira, retorna ao seu local de origem com o tema “Praia de Iracema: coração e cérebro da Cidade Dragão”.

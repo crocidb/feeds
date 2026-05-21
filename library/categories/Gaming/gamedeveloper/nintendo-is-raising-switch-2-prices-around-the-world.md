@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nintendo-is-raising-switch-2-price
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-08T13:34:18.950041235Z"
-seen = false
+seen = true
 +++
 

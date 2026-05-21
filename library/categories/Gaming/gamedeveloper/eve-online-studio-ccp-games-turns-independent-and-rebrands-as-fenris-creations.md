@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/eve-online-studio-ccp-games-turns-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-08T13:34:18.979977713Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-appoints-new-leaders-and-ditc
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-08T13:34:18.985324620Z"
-seen = false
+seen = true
 +++
 

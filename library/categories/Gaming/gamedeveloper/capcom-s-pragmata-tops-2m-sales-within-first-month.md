@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/capcom-s-pragmata-tops-2m-sales-wi
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-08T13:34:18.959464628Z"
-seen = false
+seen = true
 +++
 

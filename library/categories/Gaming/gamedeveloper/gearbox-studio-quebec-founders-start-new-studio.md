@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/gearbox-studio-quebec-founders-sta
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-08T13:34:18.969391641Z"
-seen = false
+seen = true
 +++
 
