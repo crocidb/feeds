@@ -6,7 +6,7 @@ url = "https://nautil.us/theres-a-dwarf-galaxy-hidden-inside-the-milky-way-12804
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-05T08:25:06.884109474Z"
-seen = false
+seen = true
 +++
 
 Meet Loki

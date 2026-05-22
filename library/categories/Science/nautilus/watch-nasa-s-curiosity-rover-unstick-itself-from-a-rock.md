@@ -6,7 +6,7 @@ url = "https://nautil.us/watch-nasas-curiosity-rover-unstick-itself-from-a-rock-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-08T13:34:33.091429764Z"
-seen = false
+seen = true
 +++
 
 This isn’t the first drill problem that’s plagued the rover

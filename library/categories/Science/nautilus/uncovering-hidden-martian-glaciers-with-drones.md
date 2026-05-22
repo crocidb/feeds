@@ -6,7 +6,7 @@ url = "https://nautil.us/uncovering-hidden-martian-glaciers-with-drones-1280400/
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-05T08:25:06.894735720Z"
-seen = false
+seen = true
 +++
 
 We know they’re there, we just don’t know how deep they are

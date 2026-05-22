@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/what-do-godels-incompleteness-theorems-tru
 author = "Natalie Wolchover"
 text = ""
 lastupdated = "2026-05-20T09:23:12.524458765Z"
-seen = false
+seen = true
 +++
 
 In 1931, by turning logic on itself, Kurt Gödel proved a pair of theorems that transformed the landscape of knowledge and truth. These “incompleteness theorems” established that no formal system of mathematics — no finite set of rules, or axioms, from which everything is supposed to follow — can ever be complete. There will always be true mathematical statements that don’t logically follow from…

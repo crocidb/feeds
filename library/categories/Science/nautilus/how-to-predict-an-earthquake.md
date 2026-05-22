@@ -6,7 +6,7 @@ url = "https://nautil.us/how-to-predict-an-earthquake-1280891/"
 author = "Evan Howell"
 text = ""
 lastupdated = "2026-05-20T09:23:12.425953545Z"
-seen = false
+seen = true
 +++
 
 In the trenches with a paleoseismologist

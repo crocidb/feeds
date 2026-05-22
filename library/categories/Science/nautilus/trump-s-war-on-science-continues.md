@@ -6,7 +6,7 @@ url = "https://nautil.us/trumps-war-on-science-continues-1280259/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-29T14:23:23.357152239Z"
-seen = false
+seen = true
 +++
 
 As sacked National Science Board members and lawmakers speak out, US research preeminence further dims on the international stage

@@ -6,7 +6,7 @@ url = "https://nautil.us/these-whales-are-screaming-in-the-strait-of-gibraltar-1
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-05-08T13:34:33.088096896Z"
-seen = false
+seen = true
 +++
 
 Critically endangered pilot whales struggle to communicate over the din of boats

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-science-of-cities-10-books-you-must-read-1280919/"
 author = "Namir Khaliq"
 text = ""
 lastupdated = "2026-05-20T09:23:12.432731962Z"
-seen = false
+seen = true
 +++
 
 *Nautilus* ventures into the urban world to map the mysterious complexity of cities

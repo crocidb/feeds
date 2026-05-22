@@ -6,7 +6,7 @@ url = "https://nautil.us/heres-why-dreams-during-naps-are-so-weird-1280388/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-05T08:25:06.901431438Z"
-seen = false
+seen = true
 +++
 
 And what it has to do with Thomas Edison

@@ -6,7 +6,7 @@ url = "https://nautil.us/nasa-astronaut-films-spectacular-fireball-over-earth-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-20T09:23:12.419402909Z"
-seen = false
+seen = true
 +++
 
 The crewman captured the light show while waiting on a supply craft

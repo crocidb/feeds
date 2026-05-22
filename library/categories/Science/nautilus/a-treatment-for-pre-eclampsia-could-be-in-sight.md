@@ -6,7 +6,7 @@ url = "https://nautil.us/a-treatment-for-pre-eclampsia-could-be-in-sight-1280301
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-29T19:52:29.331253821Z"
-seen = false
+seen = true
 +++
 
 And it’s not a new drug

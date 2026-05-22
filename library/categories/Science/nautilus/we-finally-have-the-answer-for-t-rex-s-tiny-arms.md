@@ -6,7 +6,7 @@ url = "https://nautil.us/we-finally-have-the-answer-for-t-rexs-tiny-arms-1280997
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-20T09:23:12.412989182Z"
-seen = false
+seen = true
 +++
 
 They have their massive heads to blame

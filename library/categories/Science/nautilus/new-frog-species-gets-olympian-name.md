@@ -6,7 +6,7 @@ url = "https://nautil.us/new-frog-species-gets-olympian-name-1280311/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-29T19:52:29.326127357Z"
-seen = false
+seen = true
 +++
 
 It’s a big honor for such a small amphibian

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-earthquake-illusion-1280874/"
 author = "Evan Howell"
 text = ""
 lastupdated = "2026-05-20T09:23:12.429258194Z"
-seen = false
+seen = true
 +++
 
 Why we think quakes are becoming more frequent

@@ -6,7 +6,7 @@ url = "https://nautil.us/giant-squid-discovered-lurking-off-the-australian-coast
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-08T13:34:33.111591470Z"
-seen = false
+seen = true
 +++
 
 The massive sea creature left behind some DNA

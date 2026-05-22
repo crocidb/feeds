@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-202604
 author = "Gregory Barber"
 text = ""
 lastupdated = "2026-04-29T19:52:29.828252469Z"
-seen = false
+seen = true
 +++
 
 Doron Zeilberger is a mathematician who believes that all things come to an end. That just as we are limited beings, so too does nature have boundaries — and therefore so do numbers. Look out the window, and where others see reality as a continuous expanse, flowing inexorably forward from moment to moment, Zeilberger sees a universe that ticks. It is a discrete machine. In the smooth motion of the…

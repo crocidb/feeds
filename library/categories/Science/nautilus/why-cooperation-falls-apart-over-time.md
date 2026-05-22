@@ -6,7 +6,7 @@ url = "https://nautil.us/why-cooperation-falls-apart-over-time-1280255/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-29T14:23:23.359482375Z"
-seen = false
+seen = true
 +++
 
 It’s a question of motivation

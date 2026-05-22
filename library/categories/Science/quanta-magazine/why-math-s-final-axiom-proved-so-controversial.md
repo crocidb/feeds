@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/why-maths-final-axiom-proved-so-controvers
 author = "Gregory Barber"
 text = ""
 lastupdated = "2026-04-29T19:52:29.825652821Z"
-seen = false
+seen = true
 +++
 
 How do mathematicians decide that something is true? They write a proof. Often they start with proofs that already exist, building on or drawing connections between proven claims. Each of these proofs, in turn, has relied on other proofs to make its point, and so on. Proofs upon proofs. Truths upon truths. But eventually this process must come to an end. At some point, things are true simply…

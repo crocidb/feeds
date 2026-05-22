@@ -6,7 +6,7 @@ url = "https://nautil.us/most-bird-wings-arent-optimized-for-flight-1280569/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-08T13:34:33.094951752Z"
-seen = false
+seen = true
 +++
 
 They’re flying on a wing and a prayer

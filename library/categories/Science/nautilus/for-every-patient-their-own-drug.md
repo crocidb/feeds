@@ -6,7 +6,7 @@ url = "https://nautil.us/for-every-patient-their-own-drug-1280433/"
 author = "Brady Huggett"
 text = ""
 lastupdated = "2026-05-05T08:25:06.863418111Z"
-seen = false
+seen = true
 +++
 
 Patients with exceedingly rare genetic diseases fall through the cracks of the medical system. This doctor is designing drugs for them, one at a time.

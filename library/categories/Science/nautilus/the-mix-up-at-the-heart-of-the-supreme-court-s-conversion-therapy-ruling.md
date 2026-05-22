@@ -6,7 +6,7 @@ url = "https://nautil.us/the-mix-up-at-the-heart-of-the-supreme-courts-conversio
 author = "Kristen French"
 text = ""
 lastupdated = "2026-04-29T19:52:29.328703520Z"
-seen = false
+seen = true
 +++
 
 A psychiatrist on the crucial distinction the case glosses over, how media coverage has made it worse, and why that’s dangerous for LGBTQ+ youth

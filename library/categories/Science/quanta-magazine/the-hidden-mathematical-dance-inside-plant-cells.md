@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-hidden-mathematical-dance-inside-plant
 author = "Max G. Levy"
 text = ""
 lastupdated = "2026-05-05T08:25:06.982631151Z"
-seen = false
+seen = true
 +++
 
 Living on light is a dangerous game. Not only do the sun’s rays carry ultraviolet waves that can snap DNA strands and degrade molecules, but they also vary wildly in intensity. Plants must endure and thrive through soft morning light and blazing summer afternoons, through shade one moment and full sun the next. Their solar calories come in a trickle — or a deluge. “Think of a cloud obscuring the…

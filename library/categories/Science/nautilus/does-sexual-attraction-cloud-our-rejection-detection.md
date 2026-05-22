@@ -6,7 +6,7 @@ url = "https://nautil.us/does-sexual-attraction-cloud-our-rejection-detection-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-08T13:34:33.104835474Z"
-seen = false
+seen = true
 +++
 
 The ability to read signals may be impaired by arousal

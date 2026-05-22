@@ -6,7 +6,7 @@ url = "https://nautil.us/a-century-of-david-attenborough-1280583/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-05-08T13:34:33.084643279Z"
-seen = false
+seen = true
 +++
 
 The unmistakable narrator of nature documentaries turns 100 today

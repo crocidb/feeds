@@ -6,7 +6,7 @@ url = "https://nautil.us/mapping-the-illegal-wildlife-trade-using-pangolin-dna-1
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-05-08T13:34:33.098247270Z"
-seen = false
+seen = true
 +++
 
 Genetic material from these improbable creatures helps pinpoint exploitation hot spots

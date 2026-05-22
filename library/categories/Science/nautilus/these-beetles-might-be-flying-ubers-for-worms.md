@@ -6,7 +6,7 @@ url = "https://nautil.us/these-beetles-might-be-flying-ubers-for-worms-1280541/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-08T13:34:33.114785218Z"
-seen = false
+seen = true
 +++
 
 Trigger warning for anyone squicked out by wriggling masses of things

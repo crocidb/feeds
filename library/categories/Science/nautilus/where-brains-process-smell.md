@@ -6,7 +6,7 @@ url = "https://nautil.us/where-brains-process-smell-1280267/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-29T14:23:23.351785889Z"
-seen = false
+seen = true
 +++
 
 First “smell map” reveals organization where scientists had predicted chaos

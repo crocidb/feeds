@@ -6,7 +6,7 @@ url = "https://nautil.us/mummified-peruvian-hairless-dogs-shed-light-on-ancient-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-20T09:23:12.442973316Z"
-seen = false
+seen = true
 +++
 
 These dogs have been living alongside humans for millennia

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-fai
 author = "Jonathan O'Callaghan"
 text = ""
 lastupdated = "2026-05-20T09:23:12.527893233Z"
-seen = false
+seen = true
 +++
 
 Over the years, anticipation has built for the start of observations at the Vera C. Rubin Observatory in the mountains of the Atacama Desert in Chile. Originally imagined in the mid-1990s as the Dark Matter Telescope, Rubin is designed to study our constantly moving and changing universe in greater detail than ever before. Once every few days for a decade, Rubin will take images of the entire…

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/physicists-discover-the-most-complex-forms
 author = "Shalma Wegsman"
 text = ""
 lastupdated = "2026-04-29T14:23:23.537505557Z"
-seen = false
+seen = true
 +++
 
 Ice comes in more forms than what you’ll find in a freezer or a glacier. Since 1900, scientists have observed more than 20 phases of ice, many of them shaped under extreme conditions. The growing list includes hot ice and even ice that conducts electricity. Ice is the name for any phase of water that is solid and crystalline, meaning that it has a repeating molecular structure.

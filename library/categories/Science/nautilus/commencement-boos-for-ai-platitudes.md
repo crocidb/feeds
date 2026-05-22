@@ -6,7 +6,7 @@ url = "https://nautil.us/commencement-boos-for-ai-platitudes-1280992/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-05-20T09:23:12.416242550Z"
-seen = false
+seen = true
 +++
 
 Is the next generation of college graduates justified in jeering at the coming industrial revolution?

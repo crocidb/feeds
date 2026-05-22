@@ -6,7 +6,7 @@ url = "https://nautil.us/a-tiny-rock-in-the-outer-solar-system-has-an-atmosphere
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-05T08:25:06.869077538Z"
-seen = false
+seen = true
 +++
 
 Astronomers aren’t sure why

@@ -6,7 +6,7 @@ url = "https://nautil.us/kon-tiki-set-sail-79-years-ago-today-1280285/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-29T14:23:23.344004191Z"
-seen = false
+seen = true
 +++
 
 The most epic, pseudoscientific adventure ever

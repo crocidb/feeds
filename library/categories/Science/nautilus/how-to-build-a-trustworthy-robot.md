@@ -6,7 +6,7 @@ url = "https://nautil.us/how-to-build-a-trustworthy-robot-1280550/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-05-08T13:34:33.101575167Z"
-seen = false
+seen = true
 +++
 
 A conversation with a robot researcher about a possible future where robots are like teammates in hospitals, factories, and homes

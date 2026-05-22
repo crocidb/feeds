@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/will-we-ever-be-able-to-forecast-volcanic-
 author = "Robin George Andrews"
 text = ""
 lastupdated = "2026-05-20T09:23:12.538230408Z"
-seen = false
+seen = true
 +++
 
 In the summer of 1991, Pinatubo, a volcano in the Philippines, self-destructed. The eruption started on June 12, and three days later it culminated in a tremendous explosion. By the time pyroclastic flows — incandescent avalanches of molten rock and gas — tumbled down its sterilized slopes, Pinatubo’s peak had been obliterated and replaced by a 2.5-kilometer-wide chasm. The eruption killed more…

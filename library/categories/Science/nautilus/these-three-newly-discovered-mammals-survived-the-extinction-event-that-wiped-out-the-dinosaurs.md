@@ -6,7 +6,7 @@ url = "https://nautil.us/these-three-newly-discovered-mammals-survived-the-extin
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-20T09:23:12.422638547Z"
-seen = false
+seen = true
 +++
 
 And we followed in their tiny footsteps

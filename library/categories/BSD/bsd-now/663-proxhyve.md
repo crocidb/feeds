@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/663"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-05-20T09:22:55.110216590Z"
-seen = false
+seen = true
 +++
 
 Switching from Proxmox to Sylve, FreeBSD Quarterly report, FreeBSD's laptop program, Migrating ZFS, Haiku and OpenSSL news, and more...

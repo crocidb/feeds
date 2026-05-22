@@ -6,7 +6,7 @@ url = "https://nautil.us/how-did-we-miss-the-asteroid-that-will-narrowly-miss-us
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-05-20T09:23:12.439414648Z"
-seen = false
+seen = true
 +++
 
 Space still harbors surprises aplenty, even with our rapidly evolving technologies

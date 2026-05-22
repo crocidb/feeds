@@ -6,7 +6,7 @@ url = "https://nautil.us/the-predictive-powers-of-bear-poop-1280275/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-29T14:23:23.348906826Z"
-seen = false
+seen = true
 +++
 
 It doesn’t even need to leave the intestines to tell a story

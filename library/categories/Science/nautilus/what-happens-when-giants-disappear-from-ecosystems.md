@@ -6,7 +6,7 @@ url = "https://nautil.us/what-happens-when-giants-disappear-from-ecosystems-1280
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-29T14:23:23.361544728Z"
-seen = false
+seen = true
 +++
 
 Big animals leave big holes in the food web

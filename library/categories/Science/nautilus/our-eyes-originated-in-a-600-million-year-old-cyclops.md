@@ -6,7 +6,7 @@ url = "https://nautil.us/our-eyes-originated-in-a-600-million-year-old-cyclops-1
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-29T14:23:23.345942123Z"
-seen = false
+seen = true
 +++
 
 There was a time when one eye was better than two

@@ -6,7 +6,7 @@ url = "https://nautil.us/farewell-to-a-giant-of-botany-1280409/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-05-05T08:25:06.891034422Z"
-seen = false
+seen = true
 +++
 
 Peter Raven, the transformative conservationist and father of “coevolution,” passed away this week

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/what-causes-lightning-the-answer-keeps-get
 author = "Charlie Wood"
 text = ""
 lastupdated = "2026-05-08T13:34:33.191568592Z"
-seen = false
+seen = true
 +++
 
 Before he changed the way we understand lightning on Earth, Joseph Dwyer studied the weather in more cosmic settings. Using the sensors on NASA’s Wind satellite, orbiting a million miles away, he watched flares shoot out from the sun and analyzed the particles that stream from the sun’s surface. But when he relocated to Florida around the turn of the millennium, Dwyer felt ready for something new…

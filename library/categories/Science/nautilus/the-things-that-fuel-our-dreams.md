@@ -6,7 +6,7 @@ url = "https://nautil.us/the-things-that-fuel-our-dreams-1280263/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-29T14:23:23.354618100Z"
-seen = false
+seen = true
 +++
 
 “What dreams may come” depends on your personality

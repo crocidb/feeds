@@ -6,7 +6,7 @@ url = "https://nautil.us/what-hurt-this-jurassic-sea-monster-1280406/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-05T08:25:06.887417933Z"
-seen = false
+seen = true
 +++
 
 The ichthyosaurs had some tremendous survival skills

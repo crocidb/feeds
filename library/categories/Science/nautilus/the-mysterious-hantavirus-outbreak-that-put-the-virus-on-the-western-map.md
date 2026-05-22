@@ -6,7 +6,7 @@ url = "https://nautil.us/the-mysterious-hantavirus-outbreak-that-put-the-virus-o
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-05-08T13:34:33.108115952Z"
-seen = false
+seen = true
 +++
 
 More than 30 years ago, in the Four Corners region of the US, an Old-World pathogen was discovered in the New World

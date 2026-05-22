@@ -6,7 +6,7 @@ url = "https://nautil.us/why-did-humans-evolve-to-favor-one-hand-over-the-other-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-20T09:23:12.436068080Z"
-seen = false
+seen = true
 +++
 
 Whoever heard of a right-handed monkey?

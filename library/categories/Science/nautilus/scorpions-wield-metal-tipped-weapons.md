@@ -6,7 +6,7 @@ url = "https://nautil.us/scorpions-wield-metal-tipped-weapons-1280315/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-29T19:52:29.323563958Z"
-seen = false
+seen = true
 +++
 
 They pack an even more impressive punch than previously thought

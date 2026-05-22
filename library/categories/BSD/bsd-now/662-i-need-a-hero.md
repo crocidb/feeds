@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/662"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-05-08T13:34:14.804510949Z"
-seen = false
+seen = true
 +++
 
 Cybersecurity Looks Like Proof of Work Now, Compensating for RAM Constraints with L2ARC on ZFS, GhostBSD 26.1, and more...
