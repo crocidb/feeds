@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-05-20T09:23:00.485041Z"
-seen = false
+seen = true
 +++
 
 Back in 2019, I built a simple voltmeter clock:

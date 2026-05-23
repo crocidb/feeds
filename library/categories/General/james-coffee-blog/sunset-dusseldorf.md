@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/01/sunset-dusseldorf"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-05T08:24:55.692917055Z"
-seen = false
+seen = true
 +++
 
 The moment when the sun crosses the horizon feels like it should last longer than it does. Within a few minutes, the sun has moved out of view; the red glow — a moment of transition (is all of life a moment, or moments, of transition?) — tells us where the sun once was. The glow: an ephemeral impression of the day. A world of energy will dance into the contemplative rhythm of dusk; not before using every last semblance of energy: to seize the day.

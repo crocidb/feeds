@@ -6,10 +6,10 @@ url = "https://theluddite.org/post/replika-update.html"
 author = ""
 text = ""
 lastupdated = "2026-05-20T09:23:03.648895228Z"
-seen = false
+seen = true
 +++
 
- *This is yet another update to [a previous post](/post/replika.html) about Maples et al.'s study. If you haven't read that one, you will be missing some context, but you will pick up enough as you go that this one should make sense on its own.*
+*This is yet another update to [a previous post](/post/replika.html) about Maples et al.'s study. If you haven't read that one, you will be missing some context, but you will pick up enough as you go that this one should make sense on its own.*
 
 ---
 
