@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/664"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-05-22T08:27:05.645483713Z"
-seen = false
+seen = true
 +++
 
 The NetBSD/FreeBSD Merge announcement, the rise and fall of SPARC, GhoseBSD 26.2 and more...

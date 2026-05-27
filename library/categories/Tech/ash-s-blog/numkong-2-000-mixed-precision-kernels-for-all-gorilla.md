@@ -6,7 +6,7 @@ url = "https://ashvardanian.com/posts/numkong/"
 author = "Ash's Blog"
 text = ""
 lastupdated = "2026-03-23T12:35:16.108303888Z"
-seen = true
+seen = false
 +++
 
 Around 2'000 SIMD kernels for mixed-precision BLAS-like numerics — dot products, batched GEMMs, distances, geospatial, ColBERT MaxSim, and mesh alignment — from Float6 to Float118, leveraging RISC-V, Intel AMX, Arm SME, and WebAssembly Relaxed SIMD, in 7 languages and 5 MB.

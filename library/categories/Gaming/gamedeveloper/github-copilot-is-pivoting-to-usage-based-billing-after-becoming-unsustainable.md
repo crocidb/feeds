@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/github-copilot-is-pivoting-to-us
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-29T14:23:05.278180515Z"
-seen = true
+seen = false
 +++
 
