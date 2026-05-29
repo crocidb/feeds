@@ -6,7 +6,7 @@ url = "https://nautil.us/when-we-were-lunch-1255357/"
 author = "David P. Barash"
 text = ""
 lastupdated = "2025-12-19T13:15:38.150656191Z"
-seen = true
+seen = false
 +++
 
 Alone in a canoe, Val Plumwood was gliding along a channel in tropical Australia’s Kakadu National Park in 1985 when a huge crocodile rammed her. She paddled to the shore as fast as she could, but the crocodile struck the canoe again and again. A thought flashed through Plumwood’s mind: “I am prey.” She grabbed hold of an overhanging tree, hoping to escape onto land.

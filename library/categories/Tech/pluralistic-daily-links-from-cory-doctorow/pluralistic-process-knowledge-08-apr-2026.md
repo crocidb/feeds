@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-04-10T10:24:09.901904378Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/08Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/08/process-knowledge-vs-bosses/)

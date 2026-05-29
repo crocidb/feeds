@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/27/interface-stability"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.063047048Z"
-seen = true
+seen = false
 +++
 
 The main Artemis interface has remained largely the same since I made the software available for others to use. [Here is the interface in December 2024](https://artemis.jamesg.blog/assets/demo_dark.webp). Here is the interface in 2026 [^1] [^2]:

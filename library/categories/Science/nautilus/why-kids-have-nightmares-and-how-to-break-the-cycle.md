@@ -6,7 +6,7 @@ url = "https://nautil.us/why-kids-have-nightmares-and-how-to-break-the-cycle-127
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-12T21:28:41.116981119Z"
-seen = true
+seen = false
 +++
 
 Bad dreams can cause big problems

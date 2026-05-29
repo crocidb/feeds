@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/02/the-archive"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.679703683Z"
-seen = true
+seen = false
 +++
 
 In [The joy of incremental website improvements](https://jamesg.blog/2024/03/04/incremental-website-improvements-joy), I reflected on the idea of building personal websites incrementally:

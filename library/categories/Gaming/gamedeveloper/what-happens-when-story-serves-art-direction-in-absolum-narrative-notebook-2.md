@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/what-happens-when-story-serves-art-d
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-03-31T22:15:53.603269056Z"
-seen = true
+seen = false
 +++
 

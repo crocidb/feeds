@@ -6,7 +6,7 @@ url = "https://nautil.us/these-butterflies-change-visual-systems-with-seasons-12
 author = "Devin Reese"
 text = ""
 lastupdated = "2025-12-17T22:54:19.671909298Z"
-seen = true
+seen = false
 +++
 
 Animals are known to change seasonally with their environments. For example, an Arctic fox that sports a snow-white coat in winter sheds to wear a brown-gray summer coat. These changes are triggered by daylight cues that alter the action of foxes’ pigment-producing genes.

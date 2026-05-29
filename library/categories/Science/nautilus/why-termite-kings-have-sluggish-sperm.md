@@ -6,7 +6,7 @@ url = "https://nautil.us/why-termite-kings-have-sluggish-sperm-1267032/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-02-11T20:17:08.336681545Z"
-seen = true
+seen = false
 +++
 
 Termites are capable of constructing sprawling colonies containing millions of individuals, a complex social structure that evolved at least 100 million years ago. But how did they come to be so organized? A new study [published](https://www.science.org/doi/10.1126/science.adt2178) in *Science* is shedding light on their fascinating evolutionary history.

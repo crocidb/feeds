@@ -6,7 +6,7 @@ url = "https://nautil.us/how-did-evolution-come-up-with-so-many-squids-1279371/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-30T23:56:31.724883143Z"
-seen = true
+seen = false
 +++
 
 It was a slow burn followed by a big bang

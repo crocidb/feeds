@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/an-arctic-road-trip-brings-vital-undergrou
 author = "Max G. Levy"
 text = ""
 lastupdated = "2026-04-10T10:24:07.466571738Z"
-seen = true
+seen = false
 +++
 
 This story was supported by the Pulitzer Center. One Tuesday in June 2025, a white Chevy Suburban set off down the northernmost highway in North America. The sun of Alaska’s polar summer hadn’t set in 40 days, and it wouldn’t set again for another 35. But for Michael Van Nuland, the biologist in the driver’s seat, time was already running out. The SUV, packed with four days of fieldwork…

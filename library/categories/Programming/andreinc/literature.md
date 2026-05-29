@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/literature/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.847267939Z"
-seen = true
+seen = false
 +++
 
 Links tagged with `literature`.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/01/museum-memories-roundup"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.693517465Z"
-seen = true
+seen = false
 +++
 
 This month I had the pleasure of hosting the March 2026 IndieWeb Carnival on the topic of “[Museum memories](https://jamesg.blog/2026/03/01/indieweb-carnival-museum-memories)”, in which I invited participants to write about a memory of a museum. To everyone who participated – we had over 30 participants this month! – thank you. It was a delight to read everyone’s stories.

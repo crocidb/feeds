@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/03/28/warm-tea"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-03-30T10:52:54.049218090Z"
-seen = true
+seen = false
 +++
 
 I like to put my hands over the top of a cup of warm tea. I enjoy the warmth, and want to hold onto it for as long as possible.

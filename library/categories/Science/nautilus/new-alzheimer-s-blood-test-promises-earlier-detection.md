@@ -6,7 +6,7 @@ url = "https://nautil.us/new-alzheimers-blood-test-promises-earlier-detection-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-15T00:26:07.029599652Z"
-seen = true
+seen = false
 +++
 
 A simple blood test is the holy grail for Alzheimer’s diagnosis

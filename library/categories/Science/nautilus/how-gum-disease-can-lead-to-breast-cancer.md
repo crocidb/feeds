@@ -6,7 +6,7 @@ url = "https://nautil.us/how-gum-disease-can-lead-to-breast-cancer-1279110/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-23T12:35:33.027108451Z"
-seen = true
+seen = false
 +++
 
 A common microbe can wreak havoc once inside cells

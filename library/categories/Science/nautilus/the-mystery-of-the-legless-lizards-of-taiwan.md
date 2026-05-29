@@ -6,7 +6,7 @@ url = "https://nautil.us/the-mystery-of-the-legless-lizards-of-taiwan-1279267/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-27T12:56:09.401587832Z"
-seen = true
+seen = false
 +++
 
 The secretive reptile has confounded researchers for decades

@@ -6,7 +6,7 @@ url = "https://nautil.us/what-the-insects-of-the-jurassic-period-sounded-like-12
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-30T23:56:31.740283355Z"
-seen = true
+seen = false
 +++
 
 Thanks to crickets and relatives playing their “washboards”

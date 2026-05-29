@@ -6,7 +6,7 @@ url = "https://nautil.us/platypus-anatomy-just-got-weirder-1279056/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-19T13:44:56.496390294Z"
-seen = true
+seen = false
 +++
 
 These egg-laying oddities are more birdlike than previously thought

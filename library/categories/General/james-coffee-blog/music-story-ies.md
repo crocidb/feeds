@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/08/music-story-ies"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.653983778Z"
-seen = true
+seen = false
 +++
 
 I was inspired by, of all things, a [video monologue by a Scottish surfer](https://www.youtube.com/watch?v=8pnk93AAsdw) [1] who said that the future for them was challenging themselves in new ways. My guitar was close by and I thought *maybe I should give myself a bit of a challenge too.* I picked up my guitar and looked up a tutorial on how to do finger picking.

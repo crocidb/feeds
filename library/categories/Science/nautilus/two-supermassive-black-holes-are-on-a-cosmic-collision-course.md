@@ -6,7 +6,7 @@ url = "https://nautil.us/two-supermassive-black-holes-are-on-a-cosmic-collision-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-14T15:31:23.933078110Z"
-seen = true
+seen = false
 +++
 
 Astronomers find a pair of super close, supermassive black holes for the first time

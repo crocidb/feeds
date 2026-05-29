@@ -6,7 +6,7 @@ url = "https://nautil.us/how-nicotine-disrupts-the-lung-brain-axis-and-could-lea
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-10T10:24:07.345990081Z"
-seen = true
+seen = false
 +++
 
 Vaping might be just as bad

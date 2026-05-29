@@ -6,7 +6,7 @@ url = "https://nautil.us/this-black-hole-blasts-cosmic-wind-at-130-million-miles
 author = "Jake Currie"
 text = ""
 lastupdated = "2025-12-10T15:24:06.712927137Z"
-seen = true
+seen = false
 +++
 
 Deep in the heart of a spiral galaxy, 130 million light-years from Earth, lies a monster—a supermassive black hole 30 million times the mass of our sun. As this behemoth gobbles up matter, it casts off blasts of light and cosmic winds.

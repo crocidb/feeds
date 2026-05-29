@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/hold-on-to-your-hardware-badram/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-03-30T10:52:56.923888842Z"
-seen = true
+seen = false
 +++
 
 We’re living in unprecedented times, [once](https://en.wikipedia.org/wiki/2008_financial_crisis) [again](https://en.wikipedia.org/wiki/2020_stock_market_crash), in which [holding on to our existing hardware](/hold-on-to-your-hardware/) has become more important than ever before. With prices for solid state drives and especially RAM going through the roof, it can be *at the very least* frustrating to have a [computer](/computer/) malfunction due to faulty memory. In this post, I’d like to show how to check a system’s memory for defects and how to work around those defects to prolong a system’s life without needing to replace the RAM module(s), or worse the whole mainboard, right away.

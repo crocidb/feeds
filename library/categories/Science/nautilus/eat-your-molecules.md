@@ -6,7 +6,7 @@ url = "https://nautil.us/eat-your-molecules-1255345/"
 author = "Kevin Berger"
 text = ""
 lastupdated = "2025-12-19T13:15:38.159387686Z"
-seen = true
+seen = false
 +++
 
 Food, food, food. Eat salmon, just not farmed. Wine is good for you. No, it’s not. Fasting boosts your immune system. Check that, it gives you migraines. Cottage cheese is the best protein. What do you mean you don’t like kale? It fights cancer. No, really, ice cream protects against diabetes. Blueberries are the best antioxidant. Whatever that is. Vitamin supplements do nothing. Omega-3s in anchovies boost your memory.

@@ -6,7 +6,7 @@ url = "https://nautil.us/what-sharks-attacked-5-million-years-ago-1279396/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-31T22:16:14.756680967Z"
-seen = true
+seen = false
 +++
 
 It wasn’t a great time to be a beluga-like whale

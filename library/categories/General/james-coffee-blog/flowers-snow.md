@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/05/snow-on-the-hills"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.660854324Z"
-seen = true
+seen = false
 +++
 
 There were only one or two other patrons seated with a warm drink on this cool morning. For the first time in a few weeks, I got my favourite table. I’m not sure why it is my favourite, but it is the one I gravitated toward when the place opened.

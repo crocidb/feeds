@@ -6,7 +6,7 @@ url = "https://nautil.us/how-science-fiction-can-save-us-1279301/"
 author = "Iyad Rahwan"
 text = ""
 lastupdated = "2026-03-29T12:38:12.405015969Z"
-seen = true
+seen = false
 +++
 
 Three scientists share their bold vision for turning stories into testable experiments
