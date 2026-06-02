@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/albums/progressive-rock/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.121039074Z"
-seen = false
+seen = true
 +++
 
 A filterable list of favorite albums.

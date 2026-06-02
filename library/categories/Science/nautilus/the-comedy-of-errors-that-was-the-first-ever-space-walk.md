@@ -6,7 +6,7 @@ url = "https://nautil.us/the-comedy-of-errors-that-was-the-first-ever-space-walk
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-18T22:16:09.718337270Z"
-seen = false
+seen = true
 +++
 
 Murphy’s Law was in full effect

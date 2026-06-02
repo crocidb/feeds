@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/elefantes-na-nevoa-integra-selecao-do-festival-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-04-12T21:28:17.849624534Z"
-seen = false
+seen = true
 +++
 
 O longa-metragem *Elefantes na Névoa*, dirigido pelo nepalês **Abinash Bikram Shah**, foi selecionado para a mostra *Un Certain Regard* do Festival de Cannes. A obra é uma coprodução entre Nepal, Alemanha, Brasil, França e Noruega. A participação brasileira no projeto ocorre por meio das produtoras Bubbles Project e Enquadramento Produções.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/01/seven-hills"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.686310689Z"
-seen = false
+seen = true
 +++
 
 *This post is my contribution to the April 2026 IndieWeb Carnival on the topic of “*[*Adventure*](https://lifeofpablo.com/blog/indieweb-carnival-2026-adventure)*”. Thank you for hosting, Pablo!*

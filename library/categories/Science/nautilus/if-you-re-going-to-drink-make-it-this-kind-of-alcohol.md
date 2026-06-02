@@ -6,7 +6,7 @@ url = "https://nautil.us/if-youre-going-to-drink-make-it-this-kind-of-alcohol-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-20T10:31:50.350302303Z"
-seen = false
+seen = true
 +++
 
 It's likely to damage your health the least

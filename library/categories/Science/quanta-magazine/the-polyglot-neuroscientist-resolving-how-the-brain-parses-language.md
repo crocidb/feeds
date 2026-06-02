@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-polyglot-neuroscientist-resolving-how-
 author = "John Pavlus"
 text = ""
 lastupdated = "2025-12-10T15:24:07.213131230Z"
-seen = false
+seen = true
 +++
 
 Even in a world where large language models (LLMs) and AI chatbots are commonplace, it can be hard to fully accept that fluent writing can come from an unthinking machine. That’s because, to many of us, finding the right words is a crucial part of thought — not the outcome of some separate process. But what if our neurobiological reality includes a system that behaves something like an LLM?

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-dark-history-of-space-medicine-1266978/"
 author = "Molly Glick"
 text = ""
 lastupdated = "2026-02-11T20:17:08.341521285Z"
-seen = false
+seen = true
 +++
 
 If we’re ever going to send humans to Mars, a crew would have to [spend](https://www.nasa.gov/hrp/hazard-distance-from-earth/) [several](https://www.space.com/nasa-astronauts-30-day-mars-mission-science) years on the round trip. This far-off ambition would require a thorough understanding of how space affects the human body, which scientists haven’t yet fully grasped.

@@ -6,7 +6,7 @@ url = "https://nautil.us/titan-may-not-host-a-massive-ocean-after-all-1255074/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2025-12-17T22:54:19.676009103Z"
-seen = false
+seen = true
 +++
 
 Beneath Titan’s foggy atmosphere, liquid methane rains down, forming lakes on the frozen surface. In fact, Titan is the only other body in our solar system known to have liquid on the surface. Analyzing data from NASA’s Cassini space probe, scientists were hopeful that there might be liquid water beneath its icy shell as well. Initial [observations](https://www.science.org/doi/10.1126/science.1219631) of Saturn’s planet-like moon showed significant smushing and stretching as it traveled its elliptical orbit—a good sign of a vast interior ocean, slumbering beneath the ice. And that raised hopes that Titan hosted life.

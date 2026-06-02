@@ -6,7 +6,7 @@ url = "https://nautil.us/the-fate-of-a-soviet-nuclear-sub-decades-after-it-sank-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-25T21:09:45.266327304Z"
-seen = false
+seen = true
 +++
 
 The Soviet sub K-278 Komsomolets was lost in 1989

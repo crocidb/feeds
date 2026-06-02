@@ -6,7 +6,7 @@ url = "https://nautil.us/new-smart-underwear-unlocks-the-serious-science-of-huma
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-02-11T20:17:08.310078827Z"
-seen = false
+seen = true
 +++
 
 We’ve got smart rings, smart watches, and now … smart underwear. 

@@ -6,7 +6,7 @@ url = "https://nautil.us/solid-proof-that-our-mammal-ancestors-laid-eggs-1279773
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-14T15:31:23.936491938Z"
-seen = false
+seen = true
 +++
 
 How ancient reproduction paved the way for mammals

@@ -6,7 +6,7 @@ url = "https://nautil.us/you-dont-need-a-big-brain-to-fly-1253552/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2025-12-10T15:24:06.737175981Z"
-seen = false
+seen = true
 +++
 
 For terrestrial organisms, the ability to fly opens up a skyful of possibilities. Increased access to mates and food, for two things. And yet, it’s only evolved three times in the history of vertebrates—once in bats, once in birds, and once in pterosaurs. That’s likely because flight is a more complex form of locomotion than merely ambling along the ground or swinging through the trees.

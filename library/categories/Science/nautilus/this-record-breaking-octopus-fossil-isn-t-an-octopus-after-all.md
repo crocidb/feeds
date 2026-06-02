@@ -6,7 +6,7 @@ url = "https://nautil.us/this-record-breaking-octopus-fossil-isnt-an-octopus-aft
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-10T10:24:07.369596926Z"
-seen = false
+seen = true
 +++
 
 Uncovering a case of mistaken cephalopod identity

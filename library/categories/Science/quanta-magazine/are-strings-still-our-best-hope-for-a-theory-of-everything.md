@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/are-strings-still-our-best-hope-for-a-theo
 author = "Natalie Wolchover"
 text = ""
 lastupdated = "2026-03-23T19:25:40.881317774Z"
-seen = false
+seen = true
 +++
 
 Fifty-eight years after it first appeared, string theory remains the most popular candidate for the “theory of everything,” the unified mathematical framework for all matter and forces in the universe. This is much to the chagrin of its rather vocal critics. “String theory is not dead; it’s undead and now walks around like a zombie eating people’s brains,” the former physicist Sabine Hossenfelder…

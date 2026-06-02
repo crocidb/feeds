@@ -6,7 +6,7 @@ url = "https://agentultra.com/blog/how-i-learned-everything-i-know/index.html"
 author = "James"
 text = ""
 lastupdated = "2026-02-11T20:17:06.373774230Z"
-seen = false
+seen = true
 +++
 
 Musings and ramblings on programming and things

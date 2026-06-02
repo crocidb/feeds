@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/02/more-graduation-examples"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-10T10:23:54.683041722Z"
-seen = false
+seen = true
 +++
 
 In “[Graduating between mediums of communication](https://jamesg.blog/2026/02/22/graduating-between-mediums-of-communication)”, I explored how we can move between mediums of communication to access different affordances. For example, you might “graduate” from a text chat – for example, a Slack thread – to a video conference in a professional context. This might be helpful when discussing a plan for a project where a video call might allow for more effective back-and-forth discussion.

@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/songs/darkwave/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.367302962Z"
-seen = false
+seen = true
 +++
 
 A filterable list of favorite songs.
