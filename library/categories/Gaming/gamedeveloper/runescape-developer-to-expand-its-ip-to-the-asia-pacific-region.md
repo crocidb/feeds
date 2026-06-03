@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/runescape-developer-to-expand-its-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-15T21:55:50.314531003Z"
-seen = false
+seen = true
 +++
 

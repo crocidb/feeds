@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/ai/agentic?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-22T14:43:29.035978771Z"
-seen = false
+seen = true
 +++
 
 Notes and resources on building and operating agentic AI systems, covering orchestration frameworks, task routing, memory, and evaluation approaches that extend baseline [LLM](/space/ai/llm) capabilities.

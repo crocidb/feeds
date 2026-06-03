@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/665"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-05-28T23:17:41.896356205Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 7.9, Critical Infrastructure in FreeBSD, GhostBSD Finance report, Solaris 11.4 updates, and more...

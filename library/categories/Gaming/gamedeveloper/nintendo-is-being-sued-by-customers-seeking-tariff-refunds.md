@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nintendo-is-being-sued-by-customer
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-25T13:20:33.605736595Z"
-seen = false
+seen = true
 +++
 
