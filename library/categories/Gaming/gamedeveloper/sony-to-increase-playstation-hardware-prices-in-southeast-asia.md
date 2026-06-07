@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/playstation-increases-hardware-pri
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-29T14:23:05.276628192Z"
-seen = true
+seen = false
 +++
 

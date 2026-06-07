@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-02-03"
 author = ""
 text = ""
 lastupdated = "2026-02-11T20:17:06.528553349Z"
-seen = true
+seen = false
 +++
 
 [Bypassing Kernel32.dll for Fun and Nonprofit](#2026-02-03)
