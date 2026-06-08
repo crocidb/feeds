@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festival-lula-cortes-celebra-os-50-anos-do-albu
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-06-01T21:30:06.981241845Z"
-seen = false
+seen = true
 +++
 
 O **Festival Lula Côrtes** acontece nesta sexta (29), no Brilho Cultural, com uma homenagem aos 50 anos do lançamento do icônico álbum da psicodelia pernambucana *[Flaviola](https://revistaogrito.com/assunto/flaviola/) e o Bando do Sol*. A principal atração da noite será a apresentação das 13 faixas que integravam o disco em um show tributo da banda **[Anjo Gabriel](https://revistaogrito.com/assunto/anjo-gabriel/)**.

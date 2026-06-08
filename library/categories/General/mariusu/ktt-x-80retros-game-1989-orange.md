@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/ktt-x-80retros-game-1989-orange/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-04-12T21:28:25.789311317Z"
-seen = false
+seen = true
 +++
 
 I picked up the *KTT x 80Retros GAME 1989 Orange* switches a while ago at *Funkeys*, a physical brick-and-mortar mechanical keyboard store in *Yongsan-gu, Seoul*, and it’s my first linear switch. Given its surprisingly cheap price I really didn’t expect much from it to be honest. KTT is a name people normally associate with budget options, like *Peaches*, *Sea Salts*, and *Strawberries*. It’s the kind of switches that show up in beginner build guides and they are generally good stuff, but not really the kind of thing that made me stop and think about what I was typing on. However, the *GAME 1989 Orange* changed that perception for me, and it did it in a way I genuinely didn’t see coming.

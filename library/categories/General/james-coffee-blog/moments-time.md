@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/05/moments-time"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-06T15:21:58.540049522Z"
-seen = false
+seen = true
 +++
 
 One of my favourite parts of writing – and, by extension, blogging – is that I can, in words, capture a little bit of a day, and keep a little record of the moment. Each post can be a bookmark to a memory, and also part of the story of my life.

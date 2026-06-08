@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/01/day-night"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-05T08:24:55.716033927Z"
-seen = false
+seen = true
 +++
 
 The day holds onto the light for as long as it can. The warm glow of the horizon reminds me of all of the bright adventures of the day, and makes me wonder “what will I do tomorrow?”. I can see the first star, which means that night will soon be here; the time for rest, processing, and preparing to imagine tomorrow.

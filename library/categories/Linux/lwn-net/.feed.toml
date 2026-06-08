@@ -1,0 +1,11 @@
+title = "LWN.net"
+description = """
+ LWN.net is a comprehensive source of news and opinions from
+        and about the Linux community.  This is the main LWN.net feed,
+        listing all articles which are posted to the site front page.
+"""
+url = "https://lwn.net"
+feed_url = "https://lwn.net/headlines/rss"
+author = "LWN.net"
+slug = "lwn-net"
+lastupdated = "2026-06-07T00:10:44.977295444Z"

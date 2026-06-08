@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/06/aether-draft"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-06T20:39:32.770979196Z"
-seen = false
+seen = true
 +++
 
 Today I attended my first Magic the Gathering (MtG) draft: a “secret draft,” where players did not know ahead of time what series of the trading card game would be played. The event was held in a breathtaking church building, now used as a community centre. The building is also home to the [Pianodrome](https://www.pianodrome.org/), an organisation that creates sculptures with pianos that people no longer want.

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-do-fish-know-how-to-build-nests-1279763/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-12T21:28:41.097419363Z"
-seen = true
+seen = false
 +++
 
 Is it nature or nurture?

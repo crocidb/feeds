@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/12/announcing-wonders-of-web-weaving"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-20T09:23:00.354994317Z"
-seen = false
+seen = true
 +++
 
 If you have ever spoken to me, you may have heard me express a meandering interest in doing something with audio. I think the heart of this interest is that I love conversations and storytelling. I love hearing people talk about the things that make them light up. I love asking questions. I enjoy the feeling where you feel like you see the world in a new light after having spoken with someone.

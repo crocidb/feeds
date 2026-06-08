@@ -6,7 +6,7 @@ url = "https://nautil.us/when-fake-supplements-work-1279324/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-29T12:38:12.398411553Z"
-seen = true
+seen = false
 +++
 
 A new twist on the placebo effect

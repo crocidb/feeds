@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-p
 author = "Leila Sloman"
 text = ""
 lastupdated = "2026-03-25T19:10:20.662189Z"
-seen = true
+seen = false
 +++
 
 In ancient Greece, Euclid showed that if you agree on a small list of preliminary principles, or axioms, you can use deductive reasoning to reveal all sorts of new mathematical truths. But although these early proofs, as mathematicians call them, were derived using the laws of logic, they sometimes also contained hidden, unstated assumptions or relied on misleading intuitions. In these cases…

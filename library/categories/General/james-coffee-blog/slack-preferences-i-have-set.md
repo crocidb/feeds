@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/25/slack-preferences"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-26T11:29:02.625548827Z"
-seen = false
+seen = true
 +++
 
 In “[How I use my phone](https://jamesg.blog/2026/05/06/how-i-use-my-phone)”, and in two prior blog posts about greyscale and night shift mode, I spoke about how I customise some of the software I use. I was inspired to write my phone in large part by discussions with friends. I then realised that such blog posts are a means to show how I have customised technology to make it my own. <sup class="footnote-reference" id="f-1"><a href="https://jamesg.blog/longform-feed#1">1</a></sup>

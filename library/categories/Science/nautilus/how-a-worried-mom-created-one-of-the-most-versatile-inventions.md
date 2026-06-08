@@ -6,7 +6,7 @@ url = "https://nautil.us/how-a-worried-mom-created-one-of-the-most-versatile-inv
 author = "Molly Glick"
 text = ""
 lastupdated = "2026-02-11T20:17:08.332248095Z"
-seen = true
+seen = false
 +++
 
 During World War II, a woman named Vesta Stoudt took part in the war effort by working in a munitions plant in Illinois. There, she packed up cartridges that [sent](https://montrealgazette.com/opinion/columnists/the-right-chemistry-the-invention-of-duct-tape) rifle grenades whizzing through the air. Stoudt would place these pieces of equipment in cardboard boxes, which were sealed with paper tape and dipped in wax to make them waterproof. 

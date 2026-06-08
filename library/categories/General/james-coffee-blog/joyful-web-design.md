@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/01/joyful-web-design"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-05T08:24:55.710079189Z"
-seen = false
+seen = true
 +++
 
 I think about joy when I make web pages. If you hover over the mascot on my blog, its eyes will open. The typeface of my blog title on my home page is the same one Taylor Swift used for her *evermore* album. If you explore my website for long enough, you will find an Easter egg. I write and publish stories that I am proud of.

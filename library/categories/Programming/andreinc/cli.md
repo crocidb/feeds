@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/cli/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.321731819Z"
-seen = true
+seen = false
 +++
 
 Links tagged with `cli`.

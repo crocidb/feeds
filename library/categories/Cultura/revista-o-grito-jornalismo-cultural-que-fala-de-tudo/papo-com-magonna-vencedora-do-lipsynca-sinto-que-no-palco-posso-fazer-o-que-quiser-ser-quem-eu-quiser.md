@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/papo-com-magonna-vencedora-do-lipsynca-sinto-qu
 author = "Túlio Vasconcelos"
 text = ""
 lastupdated = "2026-06-06T15:20:27.799782344Z"
-seen = false
+seen = true
 +++
 
 Entre humor, emoção e presença de palco, a drag queen **Magonna** conquistou o título de *“Phenomena Lipsynca Assassin”* na primeira edição do Lipsynca, selo do coletivo **[Phenomena Drag](https://revistaogrito.com/phenomena-drag-uma-comunidade-para-fortalecer-a-arte-drag-no-recife/)** voltado para batalhas de dublagem e performance, no último dia 3 de maio. Realizado na **[Casa Bacurau](https://revistaogrito.com/assunto/casa-bacurau/)**, espaço que se consolidou como um dos principais pontos de encontro da cena alternativa e LGBTQIA+ do Recife, o concurso reuniu seis artistas em disputas marcadas por intensidade, carisma e entrega no palco.
