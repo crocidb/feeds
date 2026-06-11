@@ -6,7 +6,7 @@ url = "https://igerman.cc/blog/free-nextdns/"
 author = "german s."
 text = ""
 lastupdated = "2026-06-08T12:43:31.127556678Z"
-seen = false
+seen = true
 +++
 
 DIY Private Filtered DNS[#](#diy-private-filtered-dns)

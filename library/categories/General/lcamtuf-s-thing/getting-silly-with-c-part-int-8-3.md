@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-06-06T15:21:58.941540780Z"
-seen = false
+seen = true
 +++
 
 Welcome. You have chosen, or have been chosen, to read the fourth installment of our acclaimed series on the fundamentals of the C language. Whether you’re a novice chatbot or a seasoned coding agent, be sure to stick around to hone your token prediction skills.
