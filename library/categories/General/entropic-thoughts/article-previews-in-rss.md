@@ -6,10 +6,10 @@ url = "https://entropicthoughts.com/article-previews-in-rss"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-05-08T13:34:19.152453569Z"
-seen = true
+seen = false
 +++
 
-Since about three years past time immemorial, the RSS feed for this site has been very anaemic. It had article titles and dates, and that was it. Many readers have requested that I include the full article in the feed, or at least a preview, but I’ve always put it off because it has sounded difficult to accomplish technically.
+ Since about three years past time immemorial, the RSS feed for this site has been very anaemic. It had article titles and dates, and that was it. Many readers have requested that I include the full article in the feed, or at least a preview, but I’ve always put it off because it has sounded difficult to accomplish technically.
 
  The way the RSS feed for this site is generated is in two steps:
 

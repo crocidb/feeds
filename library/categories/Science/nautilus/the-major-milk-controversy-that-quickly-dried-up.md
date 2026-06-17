@@ -6,7 +6,7 @@ url = "https://nautil.us/the-major-milk-controversy-that-quickly-dried-up-126721
 author = "Molly Glick"
 text = ""
 lastupdated = "2026-02-11T20:17:08.305992577Z"
-seen = false
+seen = true
 +++
 
 Nearly a century ago, a contentious milk-making ingredient began its path toward commercial use.

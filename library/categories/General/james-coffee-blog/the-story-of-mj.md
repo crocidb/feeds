@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/04/the-story-of-mj"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-06T15:21:58.544233174Z"
-seen = true
+seen = false
 +++
 
 *This is amazing.* I could hardly contain my excitement. In one moment, I held James’ latest story in my two paws. In the next, the story was published on the web. “This is the web,” James said; “it’s where dreams can come true.” In that moment, I knew I was in the right place.

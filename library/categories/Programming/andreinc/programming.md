@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/programming/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.083731049Z"
-seen = false
+seen = true
 +++
 
 Links tagged with `programming`.

@@ -6,7 +6,7 @@ url = "https://nautil.us/a-very-unscientific-history-of-scientific-hoaxes-127940
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-31T22:16:14.748999005Z"
-seen = false
+seen = true
 +++
 
 The past, present, and future of academic deception

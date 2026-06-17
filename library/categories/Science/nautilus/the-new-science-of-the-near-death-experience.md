@@ -6,7 +6,7 @@ url = "https://nautil.us/the-new-science-of-the-near-death-experience-1279957/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-04-20T13:16:27.955927782Z"
-seen = false
+seen = true
 +++
 
 For the first time, scientists are studying these mysterious states in real time

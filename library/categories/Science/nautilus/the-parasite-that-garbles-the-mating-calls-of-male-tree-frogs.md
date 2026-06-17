@@ -6,7 +6,7 @@ url = "https://nautil.us/the-parasite-that-garbles-the-mating-calls-of-male-tree
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-23T12:35:33.010145456Z"
-seen = false
+seen = true
 +++
 
 Leaving female tree frogs with some tough decisions to make

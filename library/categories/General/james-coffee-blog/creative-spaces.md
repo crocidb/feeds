@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/01/creative-spaces"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-01T21:30:16.221751005Z"
-seen = true
+seen = false
 +++
 
 In her [love letter to creative spaces, Britt appreciates](https://britthub.co.uk/a-love-letter-to-creative-spaces/) “anywhere that is welcoming to the big table full of slightly chaotic artists who might make a mess of their carpet from time to time.” Reading through the article brought to mind memories of a table in my school that felt like a creative home for so long.

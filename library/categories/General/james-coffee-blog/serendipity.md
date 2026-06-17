@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/09/serendipity"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-20T09:23:00.358591445Z"
-seen = true
+seen = false
 +++
 
 > The steam of the espresso machine — of focusing in the milk to make sure it is just right, of tapping to remove the bubbles, of preparing. Soft instrumental music plays in the background, more upbeat than the music to which I was listening earlier — easing me more into the day. How the smile of a barista lights up my day. Of noticing the care and attention put into the latte art.

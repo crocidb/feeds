@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/04/quotes-from-tuftes-course"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-05T08:24:55.682925039Z"
-seen = true
+seen = false
 +++
 
 I took Edward Tufte’s [online course on analysing and presenting data](https://www.edwardtufte.com/online-course/). It lasted four hours and was a mixture of reading from his books and listening to lecture material. The course was terrific and I learned so much. As I was taking the course, I took down a few quotes that stood out to me. I feel some of these points have applications that stretch further than data presentation.

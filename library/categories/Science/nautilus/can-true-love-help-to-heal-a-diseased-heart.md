@@ -6,7 +6,7 @@ url = "https://nautil.us/can-true-love-help-to-heal-a-diseased-heart-1254890/"
 author = "Kristen French"
 text = ""
 lastupdated = "2025-12-17T22:54:19.699553106Z"
-seen = false
+seen = true
 +++
 
 Ancient Greek philosopher Aristotle believed that the heart was the command center of the body and the soul. Not just a mechanical blood pump, but the seat of emotion and intellect. Modern science eventually reassigned those latter functions to the brain. Still, the heart has clung to its reputation as love’s headquarters.

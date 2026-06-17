@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cine-pe-celebra-30-anos-e-exibe-true-crime-estr
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-06T15:20:28.141664501Z"
-seen = true
+seen = false
 +++
 
 ##### **Teatro do Parque, Boa Vista, Recife (PE)** #####

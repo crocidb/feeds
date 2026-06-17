@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/04/07/swisscom/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-04-10T10:24:09.908494303Z"
-seen = true
+seen = false
 +++
 
 [![](https://i0.wp.com/craphound.com/images/07Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/07/swisscom/)

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/04/is-there-a-power-law-of-category-use"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-06T15:21:58.548884204Z"
-seen = true
+seen = false
 +++
 
 I have been thinking a lot about categories over the last week or so. It started by [Thomas sharing the work he has been doing to build a category index page](https://vanderwal.net/random/catlist.php), whose design I love. I started to realise that I like to put a lot of my blog posts in one of few categories: moments of joy go in one category, slices of life go in another, posts about coffee go in another.

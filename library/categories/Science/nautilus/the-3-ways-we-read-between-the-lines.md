@@ -6,7 +6,7 @@ url = "https://nautil.us/the-3-ways-we-read-between-the-lines-1254966/"
 author = "Kristen French"
 text = ""
 lastupdated = "2025-12-17T22:54:19.680055659Z"
-seen = false
+seen = true
 +++
 
 A simple chat with a neighbor on the street may last only long enough to make you a few minutes late to work. But it still requires a lot of complex brain power to pull off.

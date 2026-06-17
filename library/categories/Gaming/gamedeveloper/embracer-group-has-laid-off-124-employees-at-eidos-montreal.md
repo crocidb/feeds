@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/embracer-has-laid-off-124-employee
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-03-31T22:15:53.622582620Z"
-seen = false
+seen = true
 +++
 

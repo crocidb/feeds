@@ -6,7 +6,7 @@ url = "https://nautil.us/arachnophobes-beware-tarantulas-are-way-smarter-than-yo
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-20T13:16:27.945696997Z"
-seen = false
+seen = true
 +++
 
 They’re particularly good at remembering where their prey is hiding

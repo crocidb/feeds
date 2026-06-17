@@ -6,7 +6,7 @@ url = "https://nautil.us/the-dark-matter-of-food-1255448/"
 author = "Elena Kazamia"
 text = ""
 lastupdated = "2025-12-19T13:15:38.155866264Z"
-seen = false
+seen = true
 +++
 
 As I swirled and sniffed the red wine in my glass, I felt relieved I didn’t smell any corpses. There was a hint of blackberries—the way the whole bush of the ripe fruit smells after a summer rain, earthy and slightly tart—but mercifully no wisps of decaying flesh or urine. Unfortunately, knowing the wine contained the chemicals cadaverine, spermine, and putrescene, responsible for the rancid smell of bodily effluents and rot, somewhat spoiled the experience.

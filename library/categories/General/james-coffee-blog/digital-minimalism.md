@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/03/digital-minimalism"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-06T15:21:58.559366917Z"
-seen = true
+seen = false
 +++
 
 *This is my entry for this month’s Bear Blog Carnival, on the topic of* [*staying connected while practicing digital minimalism*](https://juni-mp4.bearblog.dev/bearblog-carnival-june-how-do-you-stay-connected-while-practicing-digital-minimalism-and-how-did-you-make-the-switch/)*. Thank you Juni for hosting the Carnival, and for choosing such a fascinating topic!*

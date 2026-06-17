@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-jellies-that-evolved-a-different-way-t
 author = "Marlowe Starling"
 text = ""
 lastupdated = "2026-03-23T12:35:33.112793953Z"
-seen = false
+seen = true
 +++
 
 The passage of the sun across the sky — dawn, day, dusk, night — drives the clock of life. Some species wake with the sun and sleep with the moon. Others do the opposite, and a few keep odd hours. These naturally driven, 24-hour biological cycles are known as circadian rhythms, and they do more than cue bedtime: They regulate hormones, metabolism, DNA repair, and more. When life falls out of sync…

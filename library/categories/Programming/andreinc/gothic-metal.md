@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/albums/gothic-metal/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.600602146Z"
-seen = false
+seen = true
 +++
 
 A filterable list of favorite albums.

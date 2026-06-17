@@ -6,7 +6,7 @@ url = "https://nautil.us/is-this-where-morality-lives-in-the-brain-1279083/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-20T10:31:50.352195243Z"
-seen = false
+seen = true
 +++
 
 What happens in our brain when we fail to live up to our morals

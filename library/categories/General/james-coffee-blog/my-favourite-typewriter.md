@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/16/my-favourite-typewriter"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-20T09:23:00.340271995Z"
-seen = true
+seen = false
 +++
 
 *This is my entry to this month's* [*Bear Blog Carnival*](https://kami.bearblog.dev/bear-blog-carnival-your-favorite-____-in-your-niche-hobby/)*, on the topic of our favourite thing in a niche hobby. Thank you for hosting, Kami! This was a fascinating topic to think about.*

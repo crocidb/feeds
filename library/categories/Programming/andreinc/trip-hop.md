@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/songs/trip-hop/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.457564523Z"
-seen = false
+seen = true
 +++
 
 A filterable list of favorite songs.

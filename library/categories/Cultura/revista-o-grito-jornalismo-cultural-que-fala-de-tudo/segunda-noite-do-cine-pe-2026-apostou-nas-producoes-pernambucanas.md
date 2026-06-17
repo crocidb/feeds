@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/segunda-noite-do-cine-pe-2026-apostou-nas-produ
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-06T15:20:28.046625291Z"
-seen = true
+seen = false
 +++
 
 ##### **Teatro do Parque, Boa Vista, Recife (PE)** #####
