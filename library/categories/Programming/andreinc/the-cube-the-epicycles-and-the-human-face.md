@@ -6,7 +6,7 @@ url = "https://andreinc.net/2026/06/15/the-cube-the-epicycles-and-the-human-face
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-06-16T20:07:36.524872741Z"
-seen = false
+seen = true
 +++
 
 >

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/667"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-06-16T20:07:14.390649261Z"
-seen = false
+seen = true
 +++
 
 .NET on FreeBSD 15, Klara and TrueNAS fixing dedup, dhcpcd and unbound in FreeBSD Jails, and more...
