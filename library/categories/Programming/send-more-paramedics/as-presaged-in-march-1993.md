@@ -6,7 +6,7 @@ url = "https://blog.fogus.me/as-presaged/mar1993.html"
 author = "fogus"
 text = ""
 lastupdated = "2026-03-18T22:16:02.347451298Z"
-seen = false
+seen = true
 +++
 
 Whereby I read the March 1993 issue of Byte and talk about it...

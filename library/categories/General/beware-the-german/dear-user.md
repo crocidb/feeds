@@ -6,7 +6,7 @@ url = "https://igerman.cc/blog/dear-user/"
 author = "german s."
 text = ""
 lastupdated = "2026-06-08T12:43:31.131502638Z"
-seen = true
+seen = false
 +++
 
 Dear user,[#](#dear-user)

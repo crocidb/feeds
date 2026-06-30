@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/03/chat-community-for-web-writers"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-06T15:21:58.563416933Z"
-seen = false
+seen = true
 +++
 
 I have several ideas swirling around for projects I would like to see happen. Sometimes, these ideas manifest as a project. Wonders of Web Weaving was inspired by my interest in having more discussions about the indie web. Other times, ideas make their way onto this blog to sit and grow. The idea I am thinking about right now is in the latter category.

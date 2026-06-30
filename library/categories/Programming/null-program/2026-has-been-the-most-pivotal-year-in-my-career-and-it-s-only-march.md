@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/03/29/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-03-30T10:53:07.075078675Z"
-seen = false
+seen = true
 +++
 
 In February I left my employer after nearly two decades of service. In the moment I was optimistic, yet unsure I made the right choice. Dust settled, I’m now absolutely sure I chose correctly. I’m happier and better for it. There were multiple factors, but it’s not mere chance it coincides with these early months of [the automation of software engineering](https://shumer.dev/something-big-is-happening). I left an employer that is *years behind* adopting AI to one actively supporting and encouraging it. As of March, in my professional capacity **I no longer write code myself**. My current situation was unimaginable to me only a year ago. Like it or not, this is the future of software engineering. Turns out I like it, and having tasted the future I don’t want to go back to the old ways.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/04/23/butterflies"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-04-25T13:20:35.105341326Z"
-seen = false
+seen = true
 +++
 
 I like to walk quickly. One of my childhood friends did, too. Whenever I reflect on the pace at which I walk, I think of the times when we tried to walk as fast as possible. My friend was much more athletic than I – with longer legs, too – so they often had the edge in walking speed. I loved trying to be quick anyway. Now, I have the joy of walking bringing back those memories.

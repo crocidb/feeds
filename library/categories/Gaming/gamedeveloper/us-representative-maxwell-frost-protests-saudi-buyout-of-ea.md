@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/us-representative-maxwell-frost-vo
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-16T17:42:03.300244013Z"
-seen = false
+seen = true
 +++
 

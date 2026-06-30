@@ -6,7 +6,7 @@ url = "https://igerman.cc/blog/tailscale-siflower/"
 author = "german s."
 text = ""
 lastupdated = "2026-06-08T12:43:31.139277148Z"
-seen = true
+seen = false
 +++
 
 <sub>via <a rel="external" href="https://gist.github.com/iGerman00/b45f78685f7db0fa264edf7a0d81bd50">https://gist.github.com/iGerman00/b45f78685f7db0fa264edf7a0d81bd50</a></sub>

@@ -6,7 +6,7 @@ url = "https://igerman.cc/blog/floatplane-hotkeys/"
 author = "german s."
 text = ""
 lastupdated = "2026-06-08T12:43:31.137057639Z"
-seen = true
+seen = false
 +++
 
 <sub>via <a rel="external" href="https://gist.github.com/iGerman00/db6a2c4c8d4dc30ed17d309c97310a50">https://gist.github.com/iGerman00/db6a2c4c8d4dc30ed17d309c97310a50</a></sub>

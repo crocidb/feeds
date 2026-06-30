@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/morre-alfredo-bertini-idealizador-do-cine-pe-ao
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-06T15:20:28.003579561Z"
-seen = false
+seen = true
 +++
 
 O produtor cultural **Alfredo Bertini** morreu nesta quinta-feira (4), aos 65 anos, em decorrência de um transplante de fígado. Ele foi um dos idealizadores do [CINE PE](https://revistaogrito.com/assunto/cine-pe), um dos mais importantes festivais de cinema de Pernambuco e que este ano completou 30 anos.

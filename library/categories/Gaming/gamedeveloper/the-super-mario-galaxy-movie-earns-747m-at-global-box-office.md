@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-super-mario-galaxy-movie-earns
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-25T13:20:33.600589292Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://igerman.cc/blog/media-incompetent-at-depicting-young-people/"
 author = "german s."
 text = ""
 lastupdated = "2026-06-08T12:43:31.132936708Z"
-seen = true
+seen = false
 +++
 
 On media being incompetent at depicting young people[#](#on-media-being-incompetent-at-depicting-young-people)

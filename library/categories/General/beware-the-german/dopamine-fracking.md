@@ -6,7 +6,7 @@ url = "https://igerman.cc/blog/dopamine-fracking/"
 author = "german s."
 text = ""
 lastupdated = "2026-06-08T12:43:31.125394868Z"
-seen = true
+seen = false
 +++
 
 **$ dict "Dopamine Fracking" | less**

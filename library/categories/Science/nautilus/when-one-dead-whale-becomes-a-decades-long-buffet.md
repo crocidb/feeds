@@ -6,7 +6,7 @@ url = "https://nautil.us/when-one-dead-whale-becomes-a-decades-long-buffet-12811
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-05-22T08:27:22.074115727Z"
-seen = true
+seen = false
 +++
 
 An ocean floor feast that’s bottomless

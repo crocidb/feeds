@@ -6,7 +6,7 @@ url = "https://nautil.us/these-odd-birds-flirt-by-clapping-in-the-middle-of-the-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-22T08:27:22.077473545Z"
-seen = true
+seen = false
 +++
 
 Who needs love songs when you can snap your wrists together loudly?
