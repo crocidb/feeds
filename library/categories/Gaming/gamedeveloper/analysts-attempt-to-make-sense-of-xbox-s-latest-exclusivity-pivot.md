@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/analysts-attempt-to-make-sense-of-
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-06-29T12:19:22.802089160Z"
-seen = false
+seen = true
 +++
 

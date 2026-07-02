@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/keywords-has-laid-off-128-employee
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.775119543Z"
-seen = false
+seen = true
 +++
 

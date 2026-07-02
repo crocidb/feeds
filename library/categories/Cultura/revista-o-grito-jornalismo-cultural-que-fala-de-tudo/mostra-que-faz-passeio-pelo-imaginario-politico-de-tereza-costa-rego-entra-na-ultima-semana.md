@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/mostra-que-faz-passeio-pelo-imaginario-politico
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-16T20:07:16.843065600Z"
-seen = false
+seen = true
 +++
 
 A exposição ***[Tereza Costa Rêgo](<https://revistaogrito.com/?s=tereza+costa+rêgo#:~:text=Adeus à Teresa Costa Rego, ícone da pintura pernambucana, aos 91 anos>) – Sem Concessões*** anuncia os últimos dias em cartaz na CAIXA Cultural. Com curadoria de **Denise Mattar**, a mostra reúne 30 obras com o propósito de percorrer artisticamente o [imaginário erótico e político da pintora](<https://revistaogrito.com/?s=tereza+costa+rêgo#:~:text=Tereza Costa Rêgo e Montez Magno ganham duas novas biografias esta semana>). A estreia celebrada em março de 2026 segue gratuitamente até domingo, 21 de junho, no espaço térreo do espaço localizado no bairro do Recife, Centro.

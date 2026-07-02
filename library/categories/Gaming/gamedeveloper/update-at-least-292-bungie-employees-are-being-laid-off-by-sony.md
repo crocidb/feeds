@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/sony-is-laying-off-most-of-the-des
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-29T12:19:22.792104588Z"
-seen = false
+seen = true
 +++
 

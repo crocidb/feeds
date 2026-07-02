@@ -6,7 +6,7 @@ url = "https://igerman.cc/blog/llm-benchmark/"
 author = "german s."
 text = ""
 lastupdated = "2026-06-08T12:43:31.130048668Z"
-seen = false
+seen = true
 +++
 
 My stupid LLM benchmark[#](#my-stupid-llm-benchmark)

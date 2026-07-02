@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/former-xbox-employees-warn-of-pote
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-29T12:19:22.808570681Z"
-seen = false
+seen = true
 +++
 

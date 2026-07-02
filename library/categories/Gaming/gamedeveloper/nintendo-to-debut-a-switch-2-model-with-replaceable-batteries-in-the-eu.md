@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nintendo-to-debut-a-switch-2-model
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-06-06T15:21:55.225000576Z"
-seen = false
+seen = true
 +++
 

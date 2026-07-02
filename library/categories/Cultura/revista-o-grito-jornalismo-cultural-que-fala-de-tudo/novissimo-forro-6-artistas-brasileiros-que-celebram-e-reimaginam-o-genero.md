@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novissimo-forro-6-artistas-brasileiros-que-cele
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-29T12:19:19.339824466Z"
-seen = false
+seen = true
 +++
 
 O forró ocupa o centro das celebrações juninas, mas para além dessa festividade, a real é que o gênero é uma das mais importantes expressões musicais e culturais do Nordeste. Em meio à crescente presença de outros gêneros da música nos palcos e programações tradicionais de São João, uma nova geração de artistas têm encontrado caminhos para renovar a linguagem forrozeira sem descaracterizá-la. Seja por meio do diálogo com a música eletrônica, o rock e até a cultura árabe, esses projetos demonstram que tradição e experimentação podem caminhar juntas.   

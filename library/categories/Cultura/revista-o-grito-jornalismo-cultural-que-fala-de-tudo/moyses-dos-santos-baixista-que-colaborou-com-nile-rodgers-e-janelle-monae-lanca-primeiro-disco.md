@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/moyses-dos-santos-baixista-que-colaborou-com-ni
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-16T20:07:16.841072685Z"
-seen = false
+seen = true
 +++
 
 O baixista e compositor brasileiro **Moyses dos Santos**, radicado em Londres, lançou o seu primeiro álbum solo, intitulado *Maria*. O trabalho combina ritmos do Nordeste brasileiro, como maracatu, baião, frevo e samba, com vertentes de jazz, funk, soul e disco.

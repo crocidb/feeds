@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/atari-and-mobygames-launch-new-car
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-29T12:19:22.816861213Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-ea-conducts-layoffs-in-hyde
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-06-29T12:19:22.823390515Z"
-seen = false
+seen = true
 +++
 

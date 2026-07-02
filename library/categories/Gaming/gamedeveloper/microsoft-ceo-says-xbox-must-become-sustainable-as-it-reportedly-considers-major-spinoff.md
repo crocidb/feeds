@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/console/microsoft-ceo-says-xbox-must-become
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-16T20:07:20.881513543Z"
-seen = false
+seen = true
 +++
 

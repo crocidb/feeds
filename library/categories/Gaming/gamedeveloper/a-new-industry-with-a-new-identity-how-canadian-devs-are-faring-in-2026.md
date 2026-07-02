@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-a-new-industry-with-a-new-identit
 author = "Mathew Kumar"
 text = ""
 lastupdated = "2026-06-29T12:19:22.834531907Z"
-seen = false
+seen = true
 +++
 

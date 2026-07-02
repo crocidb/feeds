@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/how-that-s-no-moon-s-crossfire-evolv
 author = "Alessandro Fillari"
 text = ""
 lastupdated = "2026-06-10T21:35:34.180552126Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-pokemon-go-area-scans-sold-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-16T20:07:20.886991862Z"
-seen = false
+seen = true
 +++
 

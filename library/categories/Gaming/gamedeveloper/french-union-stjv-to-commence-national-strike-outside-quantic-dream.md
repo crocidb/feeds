@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/french-union-stjv-to-commence-nati
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.827116076Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/longa-cearense-fiz-um-foguete-imaginando-que-vo
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-16T20:07:16.846595624Z"
-seen = false
+seen = true
 +++
 
 A 15ª edição do *[Olhar de Cinema – Festival Internacional de Curitiba](<https://revistaogrito.com/?s=olhar+de+cinema+curitiba#:~:text=COBERTURAS,de Dea Ferraz>)* teve o último dia de exibições e a cerimônia de premiação realizada no sábado, 13 de junho. O longa-metragem, intitulado *Fiz um Foguete Imaginando que Você Vinha,* da cearense Janaína Marques, venceu dois troféus: o de Melhor Filme e o de Melhor Atuação.

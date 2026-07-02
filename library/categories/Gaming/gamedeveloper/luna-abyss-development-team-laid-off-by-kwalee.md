@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/luna-abyss-development-team-laid-o
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-17T14:21:18.870261917Z"
-seen = false
+seen = true
 +++
 

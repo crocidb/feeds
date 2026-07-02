@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/imperatriz-leopoldinense-faz-pesquisa-para-samb
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-29T12:19:19.361774241Z"
-seen = false
+seen = true
 +++
 
 A escola de samba carioca ***Imperatriz Leopoldinense*** marcou presença no Museu do Homem do Nordeste (Muhne) no último dia 18/06. O motivo deste intercâmbio cultural foi a pesquisa para criação do samba-enredo usado no desfile do Carnaval do Rio de Janeiro (RJ) de 2027. A intenção é apresentar o maracatu-nação de Pernambuco por meio da história das calungas, bonecas sagradas responsáveis pela proteção do cortejo real. 

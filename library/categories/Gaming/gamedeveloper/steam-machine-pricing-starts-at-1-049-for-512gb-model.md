@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/pc/steam-machine-pricing-starts-at-1-049-fo
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-29T12:19:22.822048405Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/the-art-of-game-writing-in-non-narra
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-06-16T20:07:20.882859540Z"
-seen = false
+seen = true
 +++
 

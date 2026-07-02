@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/programming/unreal-engine-6-will-merge-ue5-
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-29T12:19:22.839471129Z"
-seen = false
+seen = true
 +++
 

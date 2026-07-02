@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/lo-borges-tem-album-postumo-lancado-com-dez-mus
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-10T21:35:30.886546533Z"
-seen = false
+seen = true
 +++
 
 Álbum póstumo do cantor e compositor **[Lô Borges](https://revistaogrito.com/assunto/lo-borges/)** (1952-2025) tem lançamento marcado para amanhã, quarta (10). Das dez faixas que constroem *A Estrada*, a intitulada “Chegada” tem composição do artista mineiro. As demais composições são de autoria do irmão e também músico Márcio Borges. O trabalho chega às plataformas de música como um presente afetivo para os fãs que se [despediram do artista em novembro de 2025.](https://revistaogrito.com/morre-lo-borges-um-dos-fundadores-do-clube-da-esquina-aos-73-anos/)

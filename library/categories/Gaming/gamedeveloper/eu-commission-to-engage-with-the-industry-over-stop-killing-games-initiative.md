@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/eu-commission-to-engage-with-the-i
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-29T12:19:22.848427971Z"
-seen = false
+seen = true
 +++
 

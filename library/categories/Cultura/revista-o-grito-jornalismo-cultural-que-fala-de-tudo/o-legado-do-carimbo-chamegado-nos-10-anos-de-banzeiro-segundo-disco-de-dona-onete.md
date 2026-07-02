@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/o-legado-do-carimbo-chamegado-nos-10-anos-de-ba
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-29T12:19:19.364744231Z"
-seen = false
+seen = true
 +++
 
 Nesta terça (23), o disco ***[Banzeiro](https://revistaogrito.com/top-50-melhores-musicas-de-2016/)*** completa uma década desde a estreia em 2016. Segundo trabalho musical de [**Dona Onete**](https://revistaogrito.com/assunto/dona-onete) e responsável por consolidar a professora e articuladora cultural por formação como a cantora coroada *[Rainha do Carimbó Chamegado](<https://revistaogrito.com/?s=dona+onete#:~:text=- NOTÍCIAS-,: DESTAQUE: LATERAL,-MÚSICA>).* Aos recém-completados 87 anos, a paraense celebra um legado construído a partir da musicalidade amazônica e a continuidade do trabalho musical que teve início aos 73 anos.

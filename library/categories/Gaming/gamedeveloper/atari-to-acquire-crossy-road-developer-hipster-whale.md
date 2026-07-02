@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/atari-to-acquire-crossy-road-devel
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-01T21:30:10.574081928Z"
-seen = false
+seen = true
 +++
 

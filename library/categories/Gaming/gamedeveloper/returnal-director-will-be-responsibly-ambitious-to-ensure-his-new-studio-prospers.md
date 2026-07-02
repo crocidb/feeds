@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/-the-game-is-the-boss-returnal-d
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.843479999Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/vampire-survivors-dev-reviewing-fo
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-29T12:19:22.836972248Z"
-seen = false
+seen = true
 +++
 

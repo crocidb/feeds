@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/investment-house-denmu-announces-a
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-29T12:19:22.811646892Z"
-seen = false
+seen = true
 +++
 

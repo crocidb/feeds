@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/barbarize-apresenta-circulacao-do-album-manifex
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-29T12:19:19.347543587Z"
-seen = false
+seen = true
 +++
 
 A **[Barbarize](https://revistaogrito.com/barbarize-ultrapassa-350-mil-visualizacoes-com-o-clipe-de-aquitaquente/)** dá início a circulação do álbum ***Manifexta*** (2025) pelo Recife neste final de semana. Até o momento são duas apresentações, a primeira no bairro da Várzea, Zona Oeste acontece no sábado (27), às 19h. Já a segunda ocupa a comunidade Ilha de Deus, no bairro da Imbiribeira, Zona Sul, no próximo sábado, 4 de julho, no mesmo horário. As programações são gratuitas e dispõem de recurso de acessibilidade em Libras para pessoas com deficiência auditiva.

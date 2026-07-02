@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/steam-machine-sticker-shock-even-m
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.778455094Z"
-seen = false
+seen = true
 +++
 

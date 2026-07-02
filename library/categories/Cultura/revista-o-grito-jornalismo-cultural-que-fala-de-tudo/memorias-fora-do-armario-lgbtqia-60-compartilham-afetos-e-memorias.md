@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/memorias-fora-do-armario-lgbtqia-60-compartilha
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-06-29T12:19:19.334001754Z"
-seen = false
+seen = true
 +++
 
 As pessoas LGBTQIAPN+ que, hoje, têm mais de 50, 60 ou 70 anos sentem um pouquinho de inveja das novas gerações. Não por elas serem mais jovens, mas pela oportunidade que elas têm de poder exercer, caso desejem, sua orientação sexual e identidade de gênero de forma plena e aberta. Embora ainda exista discriminação e violência, os direitos adquiridos pela comunidade nas últmas décadas fazem uma grande diferença no nosso cotidiano. 

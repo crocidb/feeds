@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/italian-studio-34bigthings-regains
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.795321198Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/palworld-lead-on-genai-gamers-don-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-29T12:19:22.835749598Z"
-seen = false
+seen = true
 +++
 

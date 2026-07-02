@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-announces-business-reset-amid
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-16T20:07:20.891065173Z"
-seen = false
+seen = true
 +++
 

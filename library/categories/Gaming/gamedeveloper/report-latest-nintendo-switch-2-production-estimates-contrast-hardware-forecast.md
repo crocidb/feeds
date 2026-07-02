@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-nintendo-orders-to-assemble
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-27T23:23:10.653260819Z"
-seen = false
+seen = true
 +++
 

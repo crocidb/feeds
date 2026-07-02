@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/rockstar-suffers-legal-blow-in-uni
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-17T14:21:18.864684644Z"
-seen = false
+seen = true
 +++
 

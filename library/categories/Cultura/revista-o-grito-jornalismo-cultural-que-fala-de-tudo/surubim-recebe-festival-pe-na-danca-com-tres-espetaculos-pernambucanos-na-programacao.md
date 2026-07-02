@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festival-pe-na-danca-conduz-o-ritmo-de-surubim-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-06-29T12:19:19.343981386Z"
-seen = false
+seen = true
 +++
 
 O município de **[Surubim](https://revistaogrito.com/amostragem-mostra-de-cinema-de-surubim-abre-inscricoes-para-curtas-metragens-de-todo-o-pais/)**, no Agreste pernambucano, entra no ritmo do **Festival PE na Dança** pelos próximos três dias. Desta segunda (29) até quarta (1), artistas se reúnem pela terceira edição para movimentar a criatividade da cidade com uma programação gratuita, lúdica e pedagógica na mesma medida. 

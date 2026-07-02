@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/tim-sweeney-says-only-hope-for-new
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-06-29T12:19:22.805126610Z"
-seen = false
+seen = true
 +++
 

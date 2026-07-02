@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/magic-the-gathering-arena-unionize
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.798545869Z"
-seen = false
+seen = true
 +++
 

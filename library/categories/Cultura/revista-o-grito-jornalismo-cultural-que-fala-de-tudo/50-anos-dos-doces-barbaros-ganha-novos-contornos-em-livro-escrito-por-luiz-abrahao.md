@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/50-anos-dos-doces-barbaros-ganha-novos-contorno
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-29T12:19:19.355416870Z"
-seen = false
+seen = true
 +++
 
 Exatas cinco décadas após a estreia dos ***Doces Bárbaros***, o pesquisador **Luiz Abrahão** transforma a viagem no tempo por meio de documentos em um livro que reconstrói a trajetória do quarteto. Inspirado no verso da faixa *Esotérico*, o escritor intitula a obra como *Mistério Sempre Há de Pintar Por Aí – Uma História dos Doces Bárbaros* e propõe um resgate aos mistérios que fazem do grupo pós-tropicalista um símbolo de resistência cultural à Ditadura Militar no Brasil. A pré-venda começa nesta quarta (24), pela editora ***Garota FM Books***.

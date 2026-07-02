@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ubisoft-eliminates-93-roles-in-san
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-06-29T12:19:22.824668795Z"
-seen = false
+seen = true
 +++
 

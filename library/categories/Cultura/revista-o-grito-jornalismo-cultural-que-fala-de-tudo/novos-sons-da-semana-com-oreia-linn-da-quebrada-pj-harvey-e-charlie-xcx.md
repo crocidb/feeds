@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-oreia-linn-da-quebrada
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-06-29T12:19:19.328765793Z"
-seen = false
+seen = true
 +++
 
 *Toda a semana aqui na **Revista O Grito!** fazemos uma curadoria dos lançamentos musicais com faixas que estão bombando, os destaques nacionais e também novidades que estão fora do radar! Sempre recebemos muitas dicas, releases, sugestões, mas estamos o tempo todo ativamente sugerindo faixas entre a equipe, cavucando playlists e driblando a montanha de novas faixas que chegam aos streamings diariamente.*

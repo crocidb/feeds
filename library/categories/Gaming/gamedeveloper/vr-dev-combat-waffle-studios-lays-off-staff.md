@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/vr-dev-combat-waffle-studios-lays-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-29T12:19:22.785427196Z"
-seen = false
+seen = true
 +++
 

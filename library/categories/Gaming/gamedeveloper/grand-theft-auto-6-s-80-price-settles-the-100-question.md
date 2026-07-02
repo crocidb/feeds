@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/console/grand-theft-auto-6-s-80-price-settl
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-06-29T12:19:22.815597093Z"
-seen = false
+seen = true
 +++
 

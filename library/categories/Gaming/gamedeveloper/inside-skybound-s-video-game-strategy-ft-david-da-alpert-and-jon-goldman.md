@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/inside-skybound-s-video-game-strat
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-06-29T12:19:22.771894403Z"
-seen = false
+seen = true
 +++
 

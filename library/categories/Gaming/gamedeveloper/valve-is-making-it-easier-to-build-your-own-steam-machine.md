@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/valve-is-making-it-easier-to-build
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.820740755Z"
-seen = false
+seen = true
 +++
 

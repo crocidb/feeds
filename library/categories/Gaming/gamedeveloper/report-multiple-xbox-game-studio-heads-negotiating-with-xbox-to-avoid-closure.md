@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-compulsion-games-leadership
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-16T20:07:20.877404492Z"
-seen = false
+seen = true
 +++
 

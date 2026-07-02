@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nintendo-is-increasing-the-price-o
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.768527222Z"
-seen = false
+seen = true
 +++
 

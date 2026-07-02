@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/trupe-habib-e-valeria-projetam-a-silhueta-do-es
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-10T21:35:30.879700784Z"
-seen = false
+seen = true
 +++
 
 *O Burro Errante* é o título do espetáculo que ocupa o Teatro Fernando Santa Cruz, no bairro do Varadouro, Olinda, neste sábado (13) e domingo (14). Baseado na obra escrita pelo egípcio-pernambucano **[Habib Zahra](https://revistaogrito.com/assunto/habib-zahra/)**, o enredo acompanha um burrinho que deixa a casa de pais superprotetores para uma trajetória de autodescoberta.

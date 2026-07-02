@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/ea-announces-advertising-platform
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-16T20:07:20.878803089Z"
-seen = false
+seen = true
 +++
 

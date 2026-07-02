@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/hasbro-cancels-dungeons-dragons-ga
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-01T21:30:10.639876648Z"
-seen = false
+seen = true
 +++
 

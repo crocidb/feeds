@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-larger-budgets-and-longer-schedul
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.828349396Z"
-seen = false
+seen = true
 +++
 

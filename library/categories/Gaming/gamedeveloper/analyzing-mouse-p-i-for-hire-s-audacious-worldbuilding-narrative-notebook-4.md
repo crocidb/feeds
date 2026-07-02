@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/analyzing-mouse-p-i-for-hire-s-audac
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-16T20:07:20.869438743Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/indie-games-sites-bring-bundles-ba
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-06-16T20:07:20.889721876Z"
-seen = false
+seen = true
 +++
 

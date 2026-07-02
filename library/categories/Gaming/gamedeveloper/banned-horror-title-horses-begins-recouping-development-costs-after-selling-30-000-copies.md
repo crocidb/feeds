@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/horses-begins-recouping-developmen
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-16T20:07:20.874645348Z"
-seen = false
+seen = true
 +++
 

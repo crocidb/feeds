@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-tencent-mulling-exits-from-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.819461723Z"
-seen = false
+seen = true
 +++
 

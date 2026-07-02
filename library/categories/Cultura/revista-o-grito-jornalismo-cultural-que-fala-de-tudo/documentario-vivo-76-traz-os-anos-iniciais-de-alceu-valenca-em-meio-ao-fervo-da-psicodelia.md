@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/documentario-vivo-76-traz-os-anos-iniciais-de-a
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-29T12:19:19.359005540Z"
-seen = false
+seen = true
 +++
 
 Apesar da repressão da ditadura militar, a década de 1970 foi um período rico para a música popular brasileira. A resistência ao regime por meio da criação artística musical produziu frutos valiosos como a [consolidação do tropicalismo](https://revistaogrito.com/entrevista-com-gal-costa-maior-interprete-da-mpb-bolsonaro-ataca-e-quer-banalizar-a-arte/), a realização de festivais e o surgimento de bandas e artistas que oxigenaram os ritmos tradicionais com novos arranjos e sonoridades.

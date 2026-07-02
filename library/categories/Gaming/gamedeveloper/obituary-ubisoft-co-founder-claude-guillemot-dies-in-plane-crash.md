@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/obituary-ubisoft-co-founder-claude
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.829561876Z"
-seen = false
+seen = true
 +++
 

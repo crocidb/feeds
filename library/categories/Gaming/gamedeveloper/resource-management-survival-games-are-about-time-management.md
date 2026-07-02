@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/resource-management-survival-games-a
 author = "Carli Velocci"
 text = ""
 lastupdated = "2026-06-17T14:21:18.867269708Z"
-seen = false
+seen = true
 +++
 

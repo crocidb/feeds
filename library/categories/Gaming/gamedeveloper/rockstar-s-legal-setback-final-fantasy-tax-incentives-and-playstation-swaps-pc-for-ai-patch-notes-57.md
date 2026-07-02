@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/rockstar-s-legal-setback-final-fan
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-29T12:19:22.833275797Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-rockstar-game-workers-union-br
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-28T23:17:49.532407606Z"
-seen = false
+seen = true
 +++
 

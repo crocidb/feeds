@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/filme-suspiria-1977-e-exibido-no-cinema-sao-lui
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-06-29T12:19:19.351578818Z"
-seen = false
+seen = true
 +++
 
 O **[Noturno – Festival Internacional de Cinema do Recife](https://revistaogrito.com/assunto/noturno-festival-internacional-de-curtas-do-recife/)** exibe neste sábado (27/06) o filme ***[Suspiria ](https://revistaogrito.com/suspiria-classico-de-dario-argento-retorna-aos-cinemas-em-4k/)***(1977), do diretor italiano **Dario Argento**, em uma sessão gratuita no **[Cinema São Luiz](<https://revistaogrito.com/assunto/cinema-sao-luiz-projetando-re-existencias/#:~:text=Exposição destaca legado do Cinema São Luiz e marca reabertura do espaço no Recife>)**, localizado no bairro da Boa Vista (Centro), às 18h. O evento integra a lista de atividades que antecedem a segunda edição do festival programado para ocupar as telas públicas do Recife entre os dias 27 e 30 de agosto.

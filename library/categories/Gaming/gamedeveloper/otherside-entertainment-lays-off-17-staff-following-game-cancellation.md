@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-1
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-29T12:19:22.840761519Z"
-seen = false
+seen = true
 +++
 

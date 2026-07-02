@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/how-a-12-year-wait-made-alien-isolat
 author = "Alessandro Fillari"
 text = ""
 lastupdated = "2026-06-29T12:19:22.818097883Z"
-seen = false
+seen = true
 +++
 

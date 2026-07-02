@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nintendo-of-europe-to-pay-40m-fine
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-10T21:35:34.168953040Z"
-seen = false
+seen = true
 +++
 

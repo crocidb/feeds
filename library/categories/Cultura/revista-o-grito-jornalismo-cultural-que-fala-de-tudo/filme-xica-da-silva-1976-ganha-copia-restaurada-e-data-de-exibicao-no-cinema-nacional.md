@@ -1,0 +1,31 @@
++++
+title = "Filme “Xica da Silva” (1976) ganha cópia restaurada e data de exibição no cinema nacional"
+description = "Xica da Silva (1976), do diretor Carlos (Cacá) Diegues, volta às telas em cópia restaurada durante a 21ª Mostra de Cinema de Ouro Preto (CineOP) dedicada à preservação do audiovisual no Brasil. Dentro da programação, que acontece entre 25 e 30 de junho, a restauração do filme é d"
+date = "2026-06-30T08:59:00Z"
+url = "https://revistaogrito.com/filme-xica-da-silva-1976-ganha-copia-restaurada-e-data-de-exibicao-no-cinema-nacional/"
+author = "Equipe O Grito!"
+text = ""
+lastupdated = "2026-07-01T13:54:22.883465067Z"
+seen = true
++++
+
+***Xica da Silva*** (1976), do diretor **Carlos (Cacá) Diegues**, volta às telas em cópia restaurada durante a **21ª [Mostra de Cinema de Ouro Preto (CineOP)](https://controle.revistaogrito.com/19a-cineop-ouro-preto-celebra-o-cinema-de-animacao-brasileiro-e-resgata-classicos-do-audiovisual/)** dedicada à preservação do audiovisual no Brasil. Dentro da programação, que acontece entre 25 e 30 de junho, a restauração do filme é destaque na mesa “Apresentação de Cases de Restauro – Xica da Silva e Vento Norte” nesta terça (30).
+
+<img decoding="async" width="701" height="1024" data-attachment-id="200790" data-permalink="https://revistaogrito.com/filme-xica-da-silva-1976-ganha-copia-restaurada-e-data-de-exibicao-no-cinema-nacional/xica_da_silva_cineop/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/06/xica_da_silva_cineop.jpg" data-orig-size="750,1096" data-comments-opened="0" data-image-title="xica_da_silva_cineop" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/06/xica_da_silva_cineop-701x1024.jpg" loading="lazy" src="https://controle.revistaogrito.com/wp-content/uploads/2026/06/xica_da_silva_cineop-701x1024.jpg" alt="xica da silva cineop" class="wp-image-200790" srcset="https://revistaogrito.com/wp-content/uploads/2026/06/xica_da_silva_cineop-701x1024.jpg 701w, https://revistaogrito.com/wp-content/uploads/2026/06/xica_da_silva_cineop-205x300.jpg 205w, https://revistaogrito.com/wp-content/uploads/2026/06/xica_da_silva_cineop-68x100.jpg 68w, https://revistaogrito.com/wp-content/uploads/2026/06/xica_da_silva_cineop-321x469.jpg 321w, https://revistaogrito.com/wp-content/uploads/2026/06/xica_da_silva_cineop.jpg 750w" sizes="auto, (max-width: 701px) 100vw, 701px">\<img decoding="async" width="701" height="1024" data-attachment-id="200790" data-permalink="https://revistaogrito.com/filme-xica-da-silva-1976-ganha-copia-restaurada-e-data-de-exibicao-no-cinema-nacional/xica\_da\_silva\_cineop/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/06/xica\_da\_silva\_cineop.jpg" data-orig-size="750,1096" data-comments-opened="0" data-image-title="xica\_da\_silva\_cineop" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/06/xica\_da\_silva\_cineop-701x1024.jpg" src="https://controle.revistaogrito.com/wp-content/uploads/2026/06/xica\_da\_silva\_cineop-701x1024.jpg" alt="xica da silva cineop" class="wp-image-200790" srcset="https://revistaogrito.com/wp-content/uploads/2026/06/xica\_da\_silva\_cineop-701x1024.jpg 701w, https://revistaogrito.com/wp-content/uploads/2026/06/xica\_da\_silva\_cineop-205x300.jpg 205w, https://revistaogrito.com/wp-content/uploads/2026/06/xica\_da\_silva\_cineop-68x100.jpg 68w, https://revistaogrito.com/wp-content/uploads/2026/06/xica\_da\_silva\_cineop-321x469.jpg 321w, https://revistaogrito.com/wp-content/uploads/2026/06/xica\_da\_silva\_cineop.jpg 750w" sizes="(max-width: 701px) 100vw, 701px" /\>Cartaz de divulgação do filme “Xica da Silva” na 21ª edição do CineOP. (Foto: Divulgação)
+
+* **Leia mais: [Cacá Diegues foi nome essencial do Cinema Novo e nos legou clássicos como “Xica da Silva” e “Bye Bye Brasil”](https://revistaogrito.com/caca-diegues-foi-nome-essencial-do-cinema-novo-e-nos-legou-classicos-como-xica-da-silva-e-bye-bye-brasil/)**
+
+A sessão propõe uma reflexão sobre os processos de preservação, as escolhas éticas e técnicas envolvidas na restauração e os caminhos de salvaguarda de obras fundamentais do cinema brasileiro. O objetivo é oferecer ao público a oportunidade de conhecer mais de perto os bastidores do restauro de ***Xica da Silva***. O que dialoga com a temática da 21ª edição da CineOP: “Primeiros gestos na preservação audiovisual: práticas, memórias e formação”.
+
+A mesa integra a coordenadora da restauração, **Débora Butruce**; a diretora-presidente da Academia Brasileira de Cinema e viúva do diretor Cacá Diegues, **Renata Almeida Magalhães**; e a gerente executiva da Vitrine Filmes, **Carla Domingues**.
+
+“Trazer de volta ***Xica da Silva*** é proporcionar a oportunidade de que as questões raciais suscitadas pelo filme, a partir dessa personagem mítica brilhantemente interpretada por Zezé Motta, voltem a ser debatidas em toda a sua complexidade”, ressalta Débora Butruce.
+
+* **[Acesse nossa homepage de Cinema](https://revistaogrito.com/musica)**
+* **[Leia mais críticas de filmes](https://revistaogrito.com/cinema/critica-filme)**
+
+Dirigido por Carlos Diegues (Cacá Diegues) e protagonizado por**[ Zezé Motta](https://controle.revistaogrito.com/zeze-motta-ganha-mostra-comemorativa-dos-50-anos-de-carreira/)**, o filme ***Xica da Silva*** (1976) é uma adaptação do livro ***Memórias do Distrito de Diamantina da Comarca do Serro Frio*** (1868), de **João Felício dos Santos**. Em versão audiovisual, a obra é uma combinação de humor, erotismo, música, espetáculo e crítica histórica ao racismo traduzida em uma linguagem popular. O que faz do longa um dos mais emblemáticos do cinema nacional.
+
+No ano em que completa 50 anos, ***Xica da Silva*** retorna em versão restaurada em 4k com estreia no cinema nacional no dia 16 de julho, pela Sessão Vitrine Petrobras.
+
+O post [Filme “Xica da Silva” (1976) ganha cópia restaurada e data de exibição no cinema nacional](https://revistaogrito.com/filme-xica-da-silva-1976-ganha-copia-restaurada-e-data-de-exibicao-no-cinema-nacional/) apareceu primeiro em [Revista O Grito! — Jornalismo cultural que fala de tudo](https://revistaogrito.com).

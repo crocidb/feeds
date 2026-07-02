@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-two-former-rare-execs-are-l
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-06-16T20:07:20.880174907Z"
-seen = false
+seen = true
 +++
 
