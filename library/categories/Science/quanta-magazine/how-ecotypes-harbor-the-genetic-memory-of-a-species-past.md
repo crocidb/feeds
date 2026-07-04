@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/how-ecotypes-harbor-the-genetic-memory-of-
 author = "Marlowe Starling"
 text = ""
 lastupdated = "2026-05-22T08:27:22.166649277Z"
-seen = false
+seen = true
 +++
 
 When she was a graduate student in the 1970s, the evolutionary biologist Kerstin Johannesson regularly walked the shores of a Swedish archipelago, scanning the ground for pebbles that moved: marine snails. Her adviser, a taxonomist, had tasked her with describing the species present there by documenting their traits. She noticed that snails with thicker shells stayed on the shore…

@@ -6,7 +6,7 @@ url = "https://ashvardanian.com/posts/chacha-vs-aes-2025/"
 author = "Ash's Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:52.990019648Z"
-seen = true
+seen = false
 +++
 
 AES-256-GCM now beats ChaCha20-Poly1305 by up to 3x on every modern CPU with hardware acceleration, reversing the 2015 mobile performance advice.

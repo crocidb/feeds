@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/flaira-ferro-embarca-para-turne-europeia-do-alb
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-10T21:35:30.869270359Z"
-seen = true
+seen = false
 +++
 
 A multiartista pernambucana Flaira Ferro embarca para a Europa onde circula com a turnê do disco *Afeto Radical.* Os shows acontecem entre os dias 9 de junho e 2 de julho. O álbum, lançado em 2025, une a força dos ritmos populares nordestinos às influências do rock, pop e música eletrônica.

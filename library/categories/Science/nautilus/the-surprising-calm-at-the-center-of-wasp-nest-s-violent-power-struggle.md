@@ -6,7 +6,7 @@ url = "https://nautil.us/the-surprising-calm-at-the-center-of-wasp-nests-violent
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-27T23:23:28.081996897Z"
-seen = false
+seen = true
 +++
 
 The real heroes don’t have royal ambitions

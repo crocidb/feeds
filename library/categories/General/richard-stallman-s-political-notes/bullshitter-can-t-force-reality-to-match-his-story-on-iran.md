@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(Bullshitter
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.795586127Z"
-seen = false
+seen = true
 +++
 
- \*[[The bullshitter](/glossary.html#bullshitter)], ever the unreliable narrator, is [unable to force](https://www.theguardian.com/us-news/2026/jun/10/trump-iran-war-analysis) reality to match his preferred story on Iran.\*
+\*[[The bullshitter](/glossary.html#bullshitter)], ever the unreliable narrator, is [unable to force](https://www.theguardian.com/us-news/2026/jun/10/trump-iran-war-analysis) reality to match his preferred story on Iran.\*

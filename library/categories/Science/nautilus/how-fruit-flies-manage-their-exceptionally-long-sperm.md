@@ -6,7 +6,7 @@ url = "https://nautil.us/how-fruit-flies-manage-their-exceptionally-long-sperm-1
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-06-29T12:19:38.086249683Z"
-seen = false
+seen = true
 +++
 
 If human sperm were a foot long, fruit fly sperm would span three football fields

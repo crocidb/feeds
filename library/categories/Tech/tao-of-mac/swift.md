@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/dev/swift?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-29T14:23:27.713393319Z"
-seen = true
+seen = false
 +++
 
 This is a stub to start gathering some resources on Swift, which won several of my personal awards for “most breakages between major releases” and has therefore not been something I’ve invested a lot of time on.

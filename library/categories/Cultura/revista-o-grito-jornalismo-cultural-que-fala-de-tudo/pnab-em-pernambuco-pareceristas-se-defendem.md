@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/pnab-em-pernambuco-pareceristas-se-defendem/"
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-08T12:49:48.842082294Z"
-seen = true
+seen = false
 +++
 
 As respostas aos recursos referentes ao edital da última **PNAB – Política Nacional Aldir Blanc de Incentivo à Cultura nº 18/2025 – Multilinguagens** acirraram mais uma vez os ânimos dos produtores culturais do estado. As queixas, como [aconteceu na primeira lista dos resultados da seleção por mérito](https://revistaogrito.com/pnab-estadual-pareceristas-na-berlinda/), são dirigidas sobretudo aos pareceristas. Segundo os artistas, as justificativas continuam insatisfatórias, por vezes, afirmam, até “desrespeitosas”.

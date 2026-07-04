@@ -6,6 +6,6 @@ url = "https://entropicthoughts.com/fizzbuzz-through-monoids"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-05-05T08:24:54.935593523Z"
-seen = true
+seen = false
 +++
 

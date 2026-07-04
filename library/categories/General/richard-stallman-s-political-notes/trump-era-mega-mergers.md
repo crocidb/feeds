@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(elizabeth_w
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.775199363Z"
-seen = false
+seen = true
 +++
 
- Senator Warren calls for reversing some of the many large mergers that have subjected the US to drastic [industrial concentration.](https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers)
+Senator Warren calls for reversing some of the many large mergers that have subjected the US to drastic [industrial concentration.](https://www.theguardian.com/us-news/2026/jun/25/elizabeth-warren-trump-mergers)
 
  Even before the wrecker became president again, the US had a lot less business competition than it did a few decades ago. Several years ago I needed a new condensation pump to pump the air conditioner's water condensation out of the basement. There had traditionally been two competing manufacturers, but the government had allowed them to merge, so there was only one. That merger should have been blocked to maintain competition in that small field.
 

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-duda-beat-carlos-filho
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-16T20:07:16.854390771Z"
-seen = true
+seen = false
 +++
 
 *Toda a semana aqui na* ***Revista O Grito!*** *fazemos uma curadoria dos lançamentos musicais com faixas que estão bombando, os destaques nacionais e também novidades que estão fora do radar! Sempre recebemos muitas dicas, releases, sugestões, mas estamos o tempo todo ativamente sugerindo faixas entre a equipe, cavucando playlists e driblando a montanha de novas faixas que chegam aos streamings diariamente.*

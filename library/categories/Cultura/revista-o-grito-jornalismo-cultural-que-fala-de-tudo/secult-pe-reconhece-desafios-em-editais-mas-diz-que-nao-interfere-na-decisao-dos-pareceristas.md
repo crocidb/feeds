@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/secult-pe-reconhece-desafios-em-editais-mas-diz
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-08T12:49:48.838037922Z"
-seen = true
+seen = false
 +++
 
 As [reações do meio cultural com o último edital ](https://revistaogrito.com/pnab-estadual-pareceristas-na-berlinda/)da **PNAB Multilinguagens estadua**l trouxeram à tona os problemas estruturais que as secretarias de cultura dos estados e municípios estão enfrentando em todo o país para dar conta da seleção dos agentes culturais a serem beneficiados pelos programas de fomento à cultura. Em entrevista à **Revista O Grito!**, a secretária executiva da Secretaria de Cultura de Pernambuco (Secult-PE) **Yasmin Neves**, além de tentar responder às críticas dos artistas ao resultado do edital, apontou algumas das dificuldades existentes hoje neste processo.

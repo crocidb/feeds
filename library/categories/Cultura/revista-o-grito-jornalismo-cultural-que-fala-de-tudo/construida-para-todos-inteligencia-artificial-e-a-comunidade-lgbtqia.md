@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/construida-para-todos-inteligencia-artificial-e
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-08T12:49:48.846321374Z"
-seen = true
+seen = false
 +++
 
 **Por Aaron Spitler, do Global Voices**

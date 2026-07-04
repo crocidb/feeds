@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cineasta-orlando-senna-diretor-de-iracema-uma-t
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-10T21:35:30.854564403Z"
-seen = true
+seen = false
 +++
 
 Há exatos 10 dias para a data em que se celebra o [Cinema Brasileiro](<https://revistaogrito.com/?s=tv+brasil#:~:text=BrasilianaTV, streaming exclusivo para o audiovisual brasileiro, estreia com 400 obras>), a cena do audiovisual nacional se despede da referência cinematográfica: **Orlando Senna**. Dono de um currículo vasto voltado para a cultura brasileira, o cineasta que também foi roteirista, escritor e jornalista morreu na tarde da terça-feira, dia 9 de junho, aos 86 anos, em decorrência de uma inflamação pulmonar desenvolvida após um quadro de broncopneumonia.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/disk-phe-aposta-na-pista-de-danca-como-espaco-d
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-06-16T20:07:16.857937185Z"
-seen = true
+seen = false
 +++
 
 Entre performances, DJs e memórias afetivas compartilhadas na pista, o **disk.phe** surgiu no Recife como uma nova extensão do universo do **Phenomena Drag**. O selo estreou no último dia 5 de junho, no Quintal do Sossego, no bairro de Santo Amaro, na área central da capital pernambucana, com a proposta de deslocar a arte drag para além do palco, transformando a música e a discotecagem em ferramentas de expressão artística tão importantes quanto a própria performance.

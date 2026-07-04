@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/helio-abulidu-lanca-musica-inspirada-em-craque-
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-16T20:07:16.850770556Z"
-seen = true
+seen = false
 +++
 
 O músico pernambucano **Hélio Abulidu**, da banda *[Abulidu](<https://revistaogrito.com/?s=abulidu#:~:text=Abulidu é aquilombamento em música no estreante Códigos Periféricos >),* aproveita o mote da Copa do Mundo de futebol e lança a música “Mané de Bambali”, que fala sobre como o esporte transforma a vida das pessoas além das quatro linhas. A inspiração para a faixa vem de Sadio Mané, craque senegalês que está convocado para esta edição do Mundial.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/05/night-shift"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-08T13:34:21.934536081Z"
-seen = false
+seen = true
 +++
 
 Writing my post on [how I use my phone in grayscale](https://jamesg.blog/2026/05/04/using-greyscale) yesterday got me thinking about other customisations I make to the computing devices I use. The first one that came to mind is that I keep my laptop, and by extension my external display when I am using it, in night shift mode at all times. [According to Apple, night shift mode](https://support.apple.com/en-gb/118583) “adjusts the colours of your display to the warmer end of the spectrum – making the display easier on your eyes.”

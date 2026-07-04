@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-mar-jun.html#29_June_2026_(Extreme_hea
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.820887723Z"
-seen = false
+seen = true
 +++
 
- \*"Woefully unprepared": extreme heat will [double US hospitalizations](https://www.theguardian.com/environment/2026/jun/09/extreme-heat-double-hospitalizations-2040-study) [for heat-related illnesses] by 2040, study finds.\*
+\*"Woefully unprepared": extreme heat will [double US hospitalizations](https://www.theguardian.com/environment/2026/jun/09/extreme-heat-double-hospitalizations-2040-study) [for heat-related illnesses] by 2040, study finds.\*
 
  That is just 14 years from now!
 

@@ -6,7 +6,7 @@ url = "https://nautil.us/what-do-you-do-when-you-lose-gigantic-megalodon-shark-v
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-29T12:19:38.066347808Z"
-seen = false
+seen = true
 +++
 
 Megalodons were the apex predators of the Miocene seas

@@ -6,7 +6,7 @@ url = "https://nautil.us/some-neanderthals-were-genetically-healthy-right-up-unt
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-29T12:19:38.089478813Z"
-seen = false
+seen = true
 +++
 
 Not all populations of the ancient human species were struggling prior to their mysterious demise

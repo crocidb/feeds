@@ -6,7 +6,7 @@ url = "https://nautil.us/mysterious-web-footed-ghost-dog-caught-on-camera-128184
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-10T21:35:56.990957842Z"
-seen = false
+seen = true
 +++
 
 The elusive canids deliberately avoid humans

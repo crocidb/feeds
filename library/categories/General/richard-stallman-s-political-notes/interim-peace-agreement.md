@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(escalating_
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.780819414Z"
-seen = false
+seen = true
 +++
 
- Unsurprisingly, disagreements about vague or unspecified crucial details of the draft US-Iran peace deal have led once again to [an exchange of fire.](https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement)
+Unsurprisingly, disagreements about vague or unspecified crucial details of the draft US-Iran peace deal have led once again to [an exchange of fire.](https://www.theguardian.com/world/2026/jun/28/escalating-us-iran-strikes-threaten-interim-peace-agreement)

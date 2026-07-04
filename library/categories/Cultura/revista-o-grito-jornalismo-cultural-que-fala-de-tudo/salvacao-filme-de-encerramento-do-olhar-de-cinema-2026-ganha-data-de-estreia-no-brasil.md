@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/salvacao-filme-de-encerramento-do-olhar-de-cine
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-16T20:07:16.844652429Z"
-seen = true
+seen = false
 +++
 
 No último sábado, 13 de junho, o [Olhar de Cinema – Festival Internacional de Curitiba](<https://revistaogrito.com/?s=olhar+de+cinema+curitiba#:~:text=Invasão pernambucana no Olhar de Cinema>) chegou ao fim. *Salvação,* do cineasta turco **Emin Alper**, foi o longa-metragem escolhido para concluir a lista de exibições da 15ª edição. A produção vencedora do Urso de Prata do Grande Prêmio do Júri 2026, no [Festival de Cinema de Berlim](<https://revistaogrito.com/?s=Festival+de+Berlim#:~:text=Festival de Berlim-,CINEMA,Último Azul” vence o Urso de Prata no Festival de Berlim,-O longa do>), impactou a cena cinematográfica da região Sul do Brasil e agora conta com data para alcançar as telas de cinema do país.

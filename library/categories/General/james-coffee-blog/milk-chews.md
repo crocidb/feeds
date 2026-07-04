@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/31/milk-chews"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-01T21:30:16.226187823Z"
-seen = false
+seen = true
 +++
 
 Since I am thinking about [delicious Scottish treats](https://jamesg.blog/2026/05/31/the-caramel-log) this evening, I thought this would be an apt time to write about another of my favourite Scottish sweets: milk chews.
