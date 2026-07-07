@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1081012/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-03T12:11:03.274762113Z"
-seen = false
+seen = true
 +++
 
 We were made aware today of an email sent to a reader that was spoofed to appear to be from LWN. The message claimed, among other things, that we were providing personal information about the reader to another site user. As is explained in our [privacy policy](https://lwn.net/op/Privacy.lwn) we do not, and would not, provide such information.

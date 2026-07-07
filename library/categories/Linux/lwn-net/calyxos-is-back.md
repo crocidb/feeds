@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1081038/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-03T12:11:03.269189920Z"
-seen = false
+seen = true
 +++
 
 In August 2025, the [CalyxOS](https://calyxos.org/) privacy-focused Android distribution [announced](https://calyxos.org/news/2025/08/01/a-letter-to-our-community/) that it was pausing all releases while it reworked its release process, security protocols, and changed its signing keys following the departure of one of its founders. The project has now [announced](https://calyxos.org/news/2026/07/01/calyxos-official-release-is-back/) that it is "

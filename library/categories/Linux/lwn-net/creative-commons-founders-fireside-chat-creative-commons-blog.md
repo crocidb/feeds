@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1080518/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-01T13:54:32.007714696Z"
-seen = false
+seen = true
 +++
 
 Dee Harris has published a [summary](https://creativecommons.org/2026/06/30/inside-the-cc-founders-fireside-chat/) of the recent "fireside chat" featuring Creative Commons founders Hal Abelson, Lawrence (Larry) Lessig, Molly Van Houweling, and Glenn Otis Brown. The chat was to mark the [25th anniversary of Creative Commons](https://creativecommons.org/25th-anniversary/) and included a look back at its history as well as a look at the landscape today:

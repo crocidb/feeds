@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1081199/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-03T16:48:46.246188456Z"
-seen = false
+seen = true
 +++
 
 The [GNU Guix](https://guix.gnu.org/) project has [announced](https://guix.gnu.org/blog/2026/guix-substitute-pull-vulnerabilities/) three vulnerabilities in the guix substitute utility as well as a fourth that affects the guix pull and guix time-machine commands. The impact of the vulnerabilities ranges from remote privilege escalation to local disclosure of sensitive files.

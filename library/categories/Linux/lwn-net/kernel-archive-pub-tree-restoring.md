@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1081015/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-03T12:11:03.272012077Z"
-seen = false
+seen = true
 +++
 
 A few astute observers have [noticed](https://berkeley.edu.pl/notice/B7vRdBPBxBnnx12SoK) that some content on kernel.org had disappeared and were understandably concerned. Konstantin Ryabitsev has provided an [update](https://social.kernel.org/notice/B7viUNMy1UsGX9pwHY) via social.kernel.org:

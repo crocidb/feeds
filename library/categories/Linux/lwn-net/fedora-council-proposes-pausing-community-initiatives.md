@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1081013/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-03T12:11:03.277620001Z"
-seen = false
+seen = true
 +++
 
 Aoife Moloney has, on behalf of the [Fedora Council](https://docs.fedoraproject.org/en-US/council/), posted [an announcement](https://discussion.fedoraproject.org/t/fedora-council-statement-on-the-future-of-community-initiatives-and-the-ai-developer-desktop-proposal/195402) that the Fedora Council is "
