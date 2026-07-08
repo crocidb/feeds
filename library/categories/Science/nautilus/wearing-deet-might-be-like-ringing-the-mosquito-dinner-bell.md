@@ -6,7 +6,7 @@ url = "https://nautil.us/wearing-deet-might-be-like-ringing-the-mosquito-dinner-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-28T23:18:14.521287053Z"
-seen = true
+seen = false
 +++
 
 Pavlov’s dog, meet Pavlov’s mosquito

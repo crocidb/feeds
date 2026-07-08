@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24852"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-06-29T12:19:25.752765026Z"
-seen = true
+seen = false
 +++
 
 If you need some fun reading, I have a book in the [Escape From 2026 bundle](https://storybundle.com/timetravel). Fourteen ebooks, DRM-free, all about time travel, alternate worlds, and generally mucking with history. My book, *Tiny Time Wars?* It’s exclusive to this bundle. As in, when this bundle goes away, so does this book. It will never be reissued.

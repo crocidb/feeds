@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/19/late-night-blogging"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.843925635Z"
-seen = true
+seen = false
 +++
 
 *Blue light passes through the edges of the black-out blinds as I lie holding a pillow, on the edge of dreaming.*

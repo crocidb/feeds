@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/06/how-i-use-my-phone"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-08T13:34:21.931151893Z"
-seen = true
+seen = false
 +++
 
 In my last two blog posts, I discussed how I use [greyscale mode on my phone](https://jamesg.blog/2026/05/04/using-greyscale) and [night shift on my computer](https://jamesg.blog/2026/05/05/night-shift). These blog posts were inspired by discussions happening in the IndieWeb community about greyscale, and now, more generally, how we use our phones.

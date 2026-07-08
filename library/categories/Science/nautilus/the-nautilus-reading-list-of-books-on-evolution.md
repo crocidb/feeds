@@ -6,7 +6,7 @@ url = "https://nautil.us/the-nautilus-reading-list-of-books-on-evolution-1282017
 author = "Kevin Berger"
 text = ""
 lastupdated = "2026-06-16T20:08:25.015892766Z"
-seen = true
+seen = false
 +++
 
 Life sure has been some crazy journey

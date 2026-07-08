@@ -6,7 +6,7 @@ url = "https://nautil.us/see-the-stunning-images-psyche-beamed-back-from-mars-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-27T23:23:28.079103037Z"
-seen = true
+seen = false
 +++
 
 The spacecraft took a much-need detour en route to the asteroid of the same name

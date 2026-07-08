@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/666"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-06-06T15:19:48.297566523Z"
-seen = false
+seen = true
 +++
 
 fatgid, why zfs is ideal for media production, the CTF scene is dead, private repo behind TLS, and more...

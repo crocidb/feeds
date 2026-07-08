@@ -6,10 +6,10 @@ url = "https://entropicthoughts.com/pythagorean-addition"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-05-20T09:22:59.438845965Z"
-seen = false
+seen = true
 +++
 
- TL;DR: Instead of labouriously computing \\(c = \\sqrt{a^2 + b^2}\\), we can mentally calculate using the *alpha-max plus beta-min* algorithm, by estimating
+TL;DR: Instead of labouriously computing \\(c = \\sqrt{a^2 + b^2}\\), we can mentally calculate using the *alpha-max plus beta-min* algorithm, by estimating
 
  \\[\\hat{c} = \\mathrm{max}\\left(a, 0.9a + 0.5b \\right)\\]
 

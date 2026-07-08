@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/21/small-wishes"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.823457431Z"
-seen = true
+seen = false
 +++
 
 I like to wish people a happy day, and so many of my conversations start with “Happy Sunday”, or similar. Today I was able to add an additional well-wish: “Happy Solstice!” As I write, it is 9pm and the sun is still radiating over the hills. Trees cast long shadows over the quiet fields. The pattern of branches at the top of a tree reminded me of a village Kirk I saw earlier today.

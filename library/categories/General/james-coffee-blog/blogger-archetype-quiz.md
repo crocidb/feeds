@@ -6,7 +6,7 @@ url = "https://jamesg.blog/blogger-archetypes"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.841153045Z"
-seen = true
+seen = false
 +++
 
 Have you ever wondered how best to summarise your character as a member of the blogging community? If so, this quiz is for you!

@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/addio-redis/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.978514286Z"
-seen = false
+seen = true
 +++
 

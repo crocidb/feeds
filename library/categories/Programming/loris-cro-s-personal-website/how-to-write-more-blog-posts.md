@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/write-more/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.958860424Z"
-seen = false
+seen = true
 +++
 

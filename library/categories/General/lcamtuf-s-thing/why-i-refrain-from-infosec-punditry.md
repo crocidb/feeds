@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/why-i-refrain-from-infosec-punditry"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-04-16T17:42:09.967699772Z"
-seen = false
+seen = true
 +++
 
 If you know about my professional background, the most puzzling aspect of this Substack must be that I don’t use it to talk about my primary field of expertise: information security. In fact, it feels like self-sabotage; most of people who recognize my handle would probably rather read my take on Mythos — the new LLM tool from Anthropic that’s promising to revolutionize vulnerability discovery — than listen to what I have to say about [chicken coops](https://lcamtuf.substack.com/p/weekend-projects-chicken-squisher) or [the foundations of math](https://lcamtuf.substack.com/p/how-has-mathematics-gotten-so-abstract).

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/quando-buenos-aires-viu-buenos-aires-de-tuca-si
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-16T20:07:16.833894805Z"
-seen = false
+seen = true
 +++
 
 ##### **Buenos Aires (PE)** #####

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/25/make-your-own-web-quizzes"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.800536235Z"
-seen = true
+seen = false
 +++
 
 When I announced that I was [open-sourcing a quiz maker](https://jamesg.blog/2026/06/20/open-sourcing-a-quiz-maker) earlier this week, I noted that there were several limitations to what I had built. Most importantly, my quiz maker was a Python script, which substantially limits how many people can use it.

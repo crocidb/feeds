@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/referencia-da-musica-pernambucana-mestre-capiba
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-16T20:07:16.848191274Z"
-seen = false
+seen = true
 +++
 
 O Conselho Estadual de Preservação do Patrimônio Cultural de Pernambuco (CEPPC) aprovou por unanimidade o tombamento do acervo do compositor pernambucano [Capiba (1904 – 1997)](https://revistaogrito.com/assunto/capiba) São cerca de 11 mil partituras originais, 4 mil fotografias, correspondências trocadas com o maestro Guerra-Peixe, um piano alemão da marca C. Bechstein com mais de cem anos, além de 20 quadros pintados pelo próprio Capiba.

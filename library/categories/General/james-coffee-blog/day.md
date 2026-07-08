@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/20/day"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.839383024Z"
-seen = true
+seen = false
 +++
 
 The warm glow at the door, intensified by the morning sun beaming and then reflecting on the blank walls of the hallway, is the first colour I notice when I wake. I then look around and see the blue around the blinds – colour from the evening before, but seen from a new perspective: the hybrid of restfulness and tiredness that occupies the first few moments of the day.

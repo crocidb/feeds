@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/note-about-zig-books/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.963726582Z"
-seen = false
+seen = true
 +++
 

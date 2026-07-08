@@ -6,7 +6,7 @@ url = "https://nautil.us/after-two-centuries-of-mystery-this-is-how-tobacco-plan
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-22T08:27:22.067168390Z"
-seen = true
+seen = false
 +++
 
 Understanding the pathway could lead to better drugs and vaccines

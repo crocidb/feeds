@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24854"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-06-29T12:19:25.749127865Z"
-seen = true
+seen = false
 +++
 
 Just because things connect doesn’t mean they work.

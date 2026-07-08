@@ -6,7 +6,7 @@ url = "https://nautil.us/this-toothless-beaked-crocodile-ancestor-walked-on-two-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-26T13:49:10.578613430Z"
-seen = true
+seen = false
 +++
 
 It came on the scene during a time of evolutionary experimentation

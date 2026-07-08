@@ -6,7 +6,7 @@ url = "https://nautil.us/the-new-seismic-discovery-beneath-the-surface-of-mars-1
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-29T12:19:38.073050390Z"
-seen = true
+seen = false
 +++
 
 Earth isn’t alone—in its rock recycling processes

@@ -6,7 +6,7 @@ url = "https://nautil.us/when-a-century-long-rodent-invasion-ends-1281436/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-05-27T23:23:28.076251067Z"
-seen = true
+seen = false
 +++
 
 The invertebrates definitely come out to play

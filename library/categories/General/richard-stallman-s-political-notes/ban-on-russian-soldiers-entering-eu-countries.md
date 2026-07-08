@@ -6,9 +6,9 @@ url = "https://stallman.org/archives/2026-mar-jun.html#29_June_2026_(Ban_on_Russ
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.819547652Z"
-seen = true
+seen = false
 +++
 
-\*EU plans to [ban Russian soldiers from [entry to EU countries]](https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow) in fresh sanctions on Moscow.\*
+ \*EU plans to [ban Russian soldiers from [entry to EU countries]](https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow) in fresh sanctions on Moscow.\*
 
  I think this is valid, but the EU should give itself the option to grant exceptions to Russian soldiers who are asking for asylum.

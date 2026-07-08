@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/morre-raimundo-carrero-escritor-e-jornalista-pe
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-16T20:07:16.837104705Z"
-seen = false
+seen = true
 +++
 
 O escritor e jornalista **[Raimundo Carrero](https://revistaogrito.com/assunto/raimundo-carrero/)** morreu nesta terça (16) aos 78 anos, no Recife. A informação foi confirmada por sua família nas redes sociais.

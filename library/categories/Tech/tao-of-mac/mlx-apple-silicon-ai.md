@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/ai/mlx?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-25T13:20:54.607705892Z"
-seen = false
+seen = true
 +++
 
 A collection of tools, frameworks, and models built on or optimized for Apple’s [MLX](https://github.com/ml-explore/mlx?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) array framework and the Neural Engine (ANE) on Apple Silicon. MLX is Apple’s answer to PyTorch/JAX for the M-series chip, with lazy evaluation, unified memory, and first-class Python bindings.

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-genetic-secrets-of-a-shark-that-lives-for-500-years
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-28T23:18:14.508814560Z"
-seen = true
+seen = false
 +++
 
 How the Greenland shark lives long and prospers

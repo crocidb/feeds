@@ -6,7 +6,7 @@ url = "https://nautil.us/did-a-roman-legionnaire-wear-eyeliner-1281575/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-06-02T09:38:16.465483701Z"
-seen = true
+seen = false
 +++
 
 An ancient makeup bottle turns up far from its Egyptian home

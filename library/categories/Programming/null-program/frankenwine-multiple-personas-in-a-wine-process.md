@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/01/19/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-02-11T20:17:06.799688980Z"
-seen = false
+seen = true
 +++
 
 I came across a recent article on [making Linux system calls from a Wine process](https://gpfault.net/posts/drunk-exe.html). Windows programs running under Wine are still normal Linux processes and may interact with the Linux kernel like any other process. None of this was surprising, and the demonstration works just as I expect. Still, it got the wheels spinning and I realized an *almost* practical application: build [my pkg-config implementation](/blog/2023/01/18/) such that on Windows `pkg-config.exe` behaves as a native pkg-config, but when run under Wine this same binary takes the persona of a Linux program and becomes a cross toolchain pkg-config, bypassing Win32 and talking directly with the Linux kernel. [Cosmopolitcan Libc](https://justine.lol/cosmopolitan/) cleverly does this out-of-the-box, but in this article we’ll mash together a couple existing sources with a bit of glue.

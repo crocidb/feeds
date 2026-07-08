@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(Unfathomabl
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.793006487Z"
-seen = true
+seen = false
 +++
 
-\* The world's largest banks [committed $906bn in financing](https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025) to the fossil fuel industry last year, an "unfathomable" increase in investment locking in years more of coal, oil and gas production as the world continues to overheat, a new report has found.\*
+ \* The world's largest banks [committed $906bn in financing](https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025) to the fossil fuel industry last year, an "unfathomable" increase in investment locking in years more of coal, oil and gas production as the world continues to overheat, a new report has found.\*

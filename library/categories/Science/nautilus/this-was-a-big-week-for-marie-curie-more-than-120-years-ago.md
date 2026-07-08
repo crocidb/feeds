@@ -6,7 +6,7 @@ url = "https://nautil.us/this-was-a-big-week-for-marie-curie-more-than-120-years
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-06-29T12:19:38.076422851Z"
-seen = true
+seen = false
 +++
 
 Despite steep odds, she became the first woman in France to earn a doctorate in science

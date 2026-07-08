@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/25/unnatural"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.796858595Z"
-seen = true
+seen = false
 +++
 
 *Content warning: This poem is about the ongoing heat in Europe. I strike an optimistic tone toward the end, but if you would prefer not to read about the heat, I offer you one of the* [*Scottish poems I have written in stead*](https://jamesg.blog/2024/05/31/the-lost-poet)*.*
