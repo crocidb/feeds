@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/audiovisual-brasileiro-tera-linhas-de-credito-e
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-05-27T23:22:30.391821785Z"
-seen = true
+seen = false
 +++
 
 O Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) anunciou nesta segunda-feira (25) a criação do **Programa da Nova Indústria do Audiovisual Brasileiro**. O objetivo é disponibilizar linhas de crédito específicas e um plano de exportação de produtos para o setor, considerado pelo governo federal como estratégico para o desenvolvimento nacional. ![ebc](https://agenciabrasil.ebc.com.br/ebc.png?id=1690823&o=node)\<img decoding="async" src="https://agenciabrasil.ebc.com.br/ebc.png?id=1690823&amp;o=node" alt="ebc"\>![ebc](https://agenciabrasil.ebc.com.br/ebc.gif?id=1690823&o=node)\<img decoding="async" src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1690823&amp;o=node" alt="ebc"\>

@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24863"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-06-29T12:19:25.741316834Z"
-seen = false
+seen = true
 +++
 
 One Montague Portal, one Rats’ Man’s Lackey. Both exclusive to my store until I have enough of each to do a collection.

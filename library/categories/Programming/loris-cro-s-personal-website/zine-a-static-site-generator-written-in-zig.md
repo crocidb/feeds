@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/zine-ssg-zig/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.955189015Z"
-seen = true
+seen = false
 +++
 

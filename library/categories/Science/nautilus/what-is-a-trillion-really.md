@@ -6,7 +6,7 @@ url = "https://nautil.us/what-is-a-trillion-really-1282006/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-06-16T20:08:25.024317002Z"
-seen = false
+seen = true
 +++
 
 The sum is hard to comprehend

@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/fix-your-asserts/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-06-01T21:30:38.084179701Z"
-seen = true
+seen = false
 +++
 

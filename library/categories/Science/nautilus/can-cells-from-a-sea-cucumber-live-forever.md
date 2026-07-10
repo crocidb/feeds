@@ -6,7 +6,7 @@ url = "https://nautil.us/can-cells-from-a-sea-cucumber-live-forever-1281447/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-27T23:23:28.073337407Z"
-seen = false
+seen = true
 +++
 
 ​​What scientists are learning about immortality from a humble marine creature

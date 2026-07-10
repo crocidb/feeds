@@ -6,7 +6,7 @@ url = "https://nautil.us/looking-for-signs-of-intelligence-in-chatbots-1281875/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-06-10T21:35:56.970055803Z"
-seen = false
+seen = true
 +++
 
 A new test for AI suggests some newer LLMs are less smart than older models

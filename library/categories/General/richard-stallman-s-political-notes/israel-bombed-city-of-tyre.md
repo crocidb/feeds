@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-mar-jun.html#29_June_2026_(Israel_bomb
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.818258202Z"
-seen = false
+seen = true
 +++
 
- Israel [bombed the ancient city of Tyre](https://www.theguardian.com/world/2026/jun/09/israeli-attack-tyre-lebanon-evacuation-ordered-historic-christian-quarter) and damaged an archaeological site. To repair an archaeological site is impossible.
+Israel [bombed the ancient city of Tyre](https://www.theguardian.com/world/2026/jun/09/israeli-attack-tyre-lebanon-evacuation-ordered-historic-christian-quarter) and damaged an archaeological site. To repair an archaeological site is impossible.

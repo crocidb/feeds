@@ -6,7 +6,7 @@ url = "https://nautil.us/these-stars-swallowed-their-earth-like-planets-1281535/
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-01T21:30:46.386540284Z"
-seen = false
+seen = true
 +++
 
 Their lithium gave them away

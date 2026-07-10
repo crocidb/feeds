@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/the-open-source-game/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.973819657Z"
-seen = true
+seen = false
 +++
 

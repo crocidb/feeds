@@ -6,7 +6,7 @@ url = "https://nautil.us/newly-discovered-four-winged-dinosaur-didnt-need-to-fly
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-06T15:22:21.268144390Z"
-seen = false
+seen = true
 +++
 
 The discovery of Jian changmaensis solved a mystery

@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/contributor-poker-and-ai/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.907589003Z"
-seen = true
+seen = false
 +++
 

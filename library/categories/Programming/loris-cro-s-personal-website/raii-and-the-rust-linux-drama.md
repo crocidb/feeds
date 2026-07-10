@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/raii-rust-linux/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.934364352Z"
-seen = true
+seen = false
 +++
 

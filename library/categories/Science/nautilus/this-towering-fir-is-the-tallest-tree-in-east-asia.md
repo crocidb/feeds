@@ -6,7 +6,7 @@ url = "https://nautil.us/this-towering-fir-is-the-tallest-tree-in-east-asia-1281
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-06-06T15:22:21.284649460Z"
-seen = false
+seen = true
 +++
 
 The Indigenous people of Taiwan call it “the tree that hits the moon”

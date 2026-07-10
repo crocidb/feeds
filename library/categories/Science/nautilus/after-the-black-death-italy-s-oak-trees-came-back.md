@@ -6,7 +6,7 @@ url = "https://nautil.us/after-the-black-death-italys-oak-trees-came-back-128155
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-01T21:30:46.382228608Z"
-seen = false
+seen = true
 +++
 
 Turns out getting rid of large swaths of humanity benefits nature

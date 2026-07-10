@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/til/2026/05/20/2240?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-21T08:46:45.576802209Z"
-seen = false
+seen = true
 +++
 
 This is a little bit of follow-up to my [MiniBook X review](/space/reviews/2025/05/15/2230) – I keep using it routinely (especially when we travel for leisure) and love the little thing to bits, but I’ve been wanting to run it mostly on power saving mode to reap the most benefit out of the hardware (and battery, of course), so I started looking at desktop environment alternatives.

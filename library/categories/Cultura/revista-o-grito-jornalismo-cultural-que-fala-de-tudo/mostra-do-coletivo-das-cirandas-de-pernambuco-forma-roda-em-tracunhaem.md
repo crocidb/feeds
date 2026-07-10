@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/mostra-do-coletivo-das-cirandas-de-pernambuco-f
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-06T15:20:27.894621154Z"
-seen = true
+seen = false
 +++
 
 A 3ª **Mostra do Coletivo das Cirandas de Pernambuco** promete transformar o município de Tracunhaém, na Mata Norte do estado, em uma roda de celebração dividida em dois dias: sábado (6) e domingo (7). Ao som dos tambores e ganzás, o público canta junto a uma programação dedicada ao Dia Estadual da Ciranda. Celebrada oficialmente no dia 10 de maio, diferentes gerações de cirandeiros se reúnem para a relembrar a data o ano inteiro.

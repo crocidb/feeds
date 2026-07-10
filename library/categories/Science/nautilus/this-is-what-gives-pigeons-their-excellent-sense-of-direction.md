@@ -6,7 +6,7 @@ url = "https://nautil.us/this-is-what-gives-pigeons-their-excellent-sense-of-dir
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-28T23:18:14.502087958Z"
-seen = false
+seen = true
 +++
 
 It’s a literal gut feeling

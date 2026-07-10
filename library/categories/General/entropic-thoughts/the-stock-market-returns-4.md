@@ -6,10 +6,10 @@ url = "https://entropicthoughts.com/stock-market-returns-4-percent"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-05-22T08:27:09.801121159Z"
-seen = true
+seen = false
 +++
 
-People assume all sorts of wild stock market returns when they make their financial calculations. Here are some numbers that show up on web searches:
+ People assume all sorts of wild stock market returns when they make their financial calculations. Here are some numbers that show up on web searches:
 
 |6 %|8.4 %|10 %|10.1 %|11.3 %|11.5 %|13.6 %|16 %|
 |---|-----|----|------|------|------|------|----|

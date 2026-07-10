@@ -6,7 +6,7 @@ url = "https://ashvardanian.com/posts/scaling-elections/"
 author = "Ash's Blog"
 text = ""
 lastupdated = "2025-12-10T15:23:52.993219191Z"
-seen = true
+seen = false
 +++
 
 Taking the computationally expensive Schulze voting method from theory to practice on GPUs — exploring parallel algorithms, hardware optimizations, and why Mojo surprised me.

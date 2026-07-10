@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/simple-not-just-easy/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.986815382Z"
-seen = true
+seen = false
 +++
 

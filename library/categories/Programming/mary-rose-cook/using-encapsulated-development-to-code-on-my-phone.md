@@ -6,7 +6,7 @@ url = "https://maryrosecook.com/blog/post/using-encapsulated-development-to-code
 author = ""
 text = ""
 lastupdated = "2026-05-26T11:29:13.877351318Z"
-seen = true
+seen = false
 +++
 
 I’m lucky enough to have a wife, two young children and a job as an AI Engineer at Notion. I’m also lucky enough to have a side project.

@@ -6,7 +6,7 @@ url = "https://nautil.us/watch-bison-fend-off-a-wolf-attack-on-a-newborn-calf-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-01T13:54:40.719505058Z"
-seen = false
+seen = true
 +++
 
 They’re not usually considered prey for wolves

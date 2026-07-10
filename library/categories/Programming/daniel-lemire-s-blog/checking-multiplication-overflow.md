@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/05/06/checking-multiplication-overflow/"
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-05-08T13:34:27.812101976Z"
-seen = true
+seen = false
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/05/Capture-decran-le-2026-05-06-a-16.14.54-150x150.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async">

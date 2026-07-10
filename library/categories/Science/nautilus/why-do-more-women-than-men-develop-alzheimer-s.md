@@ -6,7 +6,7 @@ url = "https://nautil.us/why-do-more-women-than-men-develop-alzheimers-1281454/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-05-27T23:23:28.071914747Z"
-seen = false
+seen = true
 +++
 
 A study in mice suggests loss of estrogen between brain cells as a possible cause

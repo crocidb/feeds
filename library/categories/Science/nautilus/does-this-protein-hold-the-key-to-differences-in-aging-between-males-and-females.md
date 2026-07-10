@@ -6,7 +6,7 @@ url = "https://nautil.us/does-this-protein-hold-the-key-to-differences-in-aging-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-16T20:08:25.013097531Z"
-seen = false
+seen = true
 +++
 
 It maintains the balance of the X chromosome

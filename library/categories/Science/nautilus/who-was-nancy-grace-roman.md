@@ -6,7 +6,7 @@ url = "https://nautil.us/who-was-nancy-grace-roman-1281718/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-06-06T15:22:21.299207156Z"
-seen = false
+seen = true
 +++
 
 The trailblazing astronomer lends her name to the newest space telescope slated to deliver unprecedented insight into the universe

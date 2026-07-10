@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cine-pe-premia-resta-um-como-melhor-filme-em-no
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-08T12:49:48.850697384Z"
-seen = true
+seen = false
 +++
 
 ##### **Teatro do Parque, Boa Vista, Recife (PE)** #####

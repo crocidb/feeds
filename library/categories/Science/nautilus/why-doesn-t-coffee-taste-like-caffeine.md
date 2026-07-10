@@ -6,7 +6,7 @@ url = "https://nautil.us/why-doesnt-coffee-taste-like-caffeine-1281732/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-06T15:22:21.289330278Z"
-seen = false
+seen = true
 +++
 
 It’s the same reason steaks are delicious

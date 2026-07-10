@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/invasao-pernambucana-no-olhar-de-cinema/"
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-10T21:35:30.891846845Z"
-seen = true
+seen = false
 +++
 
 ##### **Curitiba (PR)** #####

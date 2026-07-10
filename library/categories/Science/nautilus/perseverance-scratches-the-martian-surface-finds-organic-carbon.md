@@ -6,7 +6,7 @@ url = "https://nautil.us/perseverance-scratches-the-martian-surface-finds-organi
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-29T12:19:38.092744694Z"
-seen = false
+seen = true
 +++
 
 Another hint life may have existed on the red planet

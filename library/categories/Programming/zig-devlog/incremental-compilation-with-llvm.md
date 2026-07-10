@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-04-08"
 author = ""
 text = ""
 lastupdated = "2026-04-10T10:24:05.654235734Z"
-seen = true
+seen = false
 +++
 
 [Incremental compilation with LLVM](#2026-04-08)

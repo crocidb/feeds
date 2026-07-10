@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1077758/"
 author = "corbet"
 text = ""
 lastupdated = "2026-06-16T20:07:35.351071367Z"
-seen = false
+seen = true
 +++
 
 Linus has [released the 7.1 kernel](https://lwn.net/Articles/1077814/). "
