@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/670"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-07-03T12:10:48.273676613Z"
-seen = false
+seen = true
 +++
 
 How NASA built Artemis II's fault tolerent Computer, Jails vs LXC, Respsectfully getting a personal copy of a website, Opensense 26.1.9 and more...

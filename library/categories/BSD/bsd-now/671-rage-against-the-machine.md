@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/671"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-07-09T17:48:03.981160964Z"
-seen = false
+seen = true
 +++
 
 The 40 Most Rage-Inducing Problems in Tech, ZFS vs Cep, Detecting and removing dangerous secrets on dev workstations before Shai-Hulud does and more...
