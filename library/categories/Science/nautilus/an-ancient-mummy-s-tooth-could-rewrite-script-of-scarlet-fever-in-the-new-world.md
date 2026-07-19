@@ -6,7 +6,7 @@ url = "https://nautil.us/an-ancient-mummys-tooth-could-rewrite-script-of-scarlet
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-20T13:16:27.949092955Z"
-seen = true
+seen = false
 +++
 
 European colonists are off the hook for this one

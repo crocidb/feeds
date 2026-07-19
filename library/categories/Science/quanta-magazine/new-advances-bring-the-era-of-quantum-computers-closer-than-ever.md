@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/new-advances-bring-the-era-of-quantum-comp
 author = "Charlie Wood"
 text = ""
 lastupdated = "2026-04-10T10:24:07.469859736Z"
-seen = true
+seen = false
 +++
 
 Some 30 years ago, the mathematician Peter Shor took a niche physics project — the dream of building a computer based on the counterintuitive rules of quantum mechanics — and shook the world. Shor worked out a way for quantum computers to swiftly solve a couple of math problems that classical computers could complete only after many billions of years. Those two math problems happened to be the…

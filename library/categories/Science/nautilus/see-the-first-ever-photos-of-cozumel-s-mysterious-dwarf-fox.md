@@ -6,7 +6,7 @@ url = "https://nautil.us/see-the-first-ever-photos-of-cozumels-mysterious-dwarf-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-10T21:35:56.999890506Z"
-seen = true
+seen = false
 +++
 
 Many believed the tiny fox had gone extinct

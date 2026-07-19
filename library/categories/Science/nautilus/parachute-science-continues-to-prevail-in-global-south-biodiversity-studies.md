@@ -6,7 +6,7 @@ url = "https://nautil.us/parachute-science-continues-to-prevail-in-global-south-
 author = "Devin Reese"
 text = ""
 lastupdated = "2025-12-19T13:15:38.168052700Z"
-seen = true
+seen = false
 +++
 
 More than a million species have been described by science, yet experts predict that they add up to less than 15 percent of the total species on Earth. That leaves a lot of species to be discovered and named.

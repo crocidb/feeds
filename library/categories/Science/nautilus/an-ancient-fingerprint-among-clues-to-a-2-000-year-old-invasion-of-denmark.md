@@ -6,7 +6,7 @@ url = "https://nautil.us/an-ancient-fingerprint-among-clues-to-a-2000-year-old-i
 author = "Molly Glick"
 text = ""
 lastupdated = "2025-12-17T22:54:19.691909760Z"
-seen = true
+seen = false
 +++
 
 More than 2,000 years ago, a mysterious band of attackers descended on an island called Als off Denmark’s coast. Locals seem to have successfully fought back against the marauders and dumped one of their boats—chock-full of weapons—into a bog to celebrate their defeat of the invaders.

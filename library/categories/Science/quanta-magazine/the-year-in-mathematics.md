@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-year-in-mathematics-20251218/"
 author = "Jordana Cepelewicz"
 text = ""
 lastupdated = "2025-12-19T13:15:37.917444746Z"
-seen = true
+seen = false
 +++
 
 Mathematics is, at its core, an art. Like painters, musicians or writers, mathematicians create and explore new worlds. They test, and then push past, the limits of their imagination. They engage with thousands of years of history, with concepts and tastes and fashions that are constantly in flux. This artistic pursuit of beauty, truth and meaning is what every Quanta math story is about…

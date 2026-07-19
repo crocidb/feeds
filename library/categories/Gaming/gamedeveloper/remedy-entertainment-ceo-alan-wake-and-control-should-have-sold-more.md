@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/remedy-entertainment-ceo-alan-wake
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-28T23:17:49.527786327Z"
-seen = true
+seen = false
 +++
 

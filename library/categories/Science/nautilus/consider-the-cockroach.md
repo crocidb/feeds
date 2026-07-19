@@ -6,7 +6,7 @@ url = "https://nautil.us/consider-the-cockroach-1278994/"
 author = "Marlene Zuk"
 text = ""
 lastupdated = "2026-03-18T22:16:09.740370963Z"
-seen = true
+seen = false
 +++
 
 And ode to one of nature’s most maligned creatures

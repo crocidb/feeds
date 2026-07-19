@@ -6,7 +6,7 @@ url = "https://nautil.us/screwworms-are-back-heres-how-we-eliminated-them-the-fi
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-06T15:22:21.294286182Z"
-seen = true
+seen = false
 +++
 
 Screwworms used plagued the livestock industry for decades

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-right-wing-politics-make-you-physically-ill-1281520
 author = "Kristen French"
 text = ""
 lastupdated = "2026-06-01T21:30:46.390959712Z"
-seen = true
+seen = false
 +++
 
 Over the past two decades, right-wing ideology has become associated with less trust in medicine—and poorer health

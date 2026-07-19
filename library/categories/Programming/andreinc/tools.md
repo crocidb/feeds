@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/tools/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.430095039Z"
-seen = true
+seen = false
 +++
 
 Links tagged with `tools`.

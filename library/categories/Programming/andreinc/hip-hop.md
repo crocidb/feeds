@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/albums/hip-hop/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.628050448Z"
-seen = true
+seen = false
 +++
 
 A filterable list of favorite albums.

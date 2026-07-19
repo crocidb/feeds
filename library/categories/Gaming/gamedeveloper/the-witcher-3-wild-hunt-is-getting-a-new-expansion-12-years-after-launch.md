@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-witcher-3-is-getting-a-new-exp
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-27T23:23:10.649357565Z"
-seen = true
+seen = false
 +++
 

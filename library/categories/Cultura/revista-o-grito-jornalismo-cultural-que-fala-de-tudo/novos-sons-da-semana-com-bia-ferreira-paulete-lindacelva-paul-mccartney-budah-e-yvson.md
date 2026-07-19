@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-bia-ferreira-paulete-l
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-06-01T21:30:06.978094224Z"
-seen = false
+seen = true
 +++
 
 Começando o final de semana com uma leva de novidades musicais! E super variado, como de costume!

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-supernova-that-sparked-the-original-scientific-revo
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-05-27T23:23:28.070502498Z"
-seen = true
+seen = false
 +++
 
 Centuries before we started debating the transformative effect of AI on science, a new light in the sky shone the way

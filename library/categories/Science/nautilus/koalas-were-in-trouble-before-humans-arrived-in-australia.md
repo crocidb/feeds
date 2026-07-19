@@ -6,7 +6,7 @@ url = "https://nautil.us/koalas-were-in-trouble-before-humans-arrived-in-austral
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-06-10T21:35:57.002260145Z"
-seen = true
+seen = false
 +++
 
 DNA evidence points to environmental upheaval as a cause of their Late Pleistocene decline

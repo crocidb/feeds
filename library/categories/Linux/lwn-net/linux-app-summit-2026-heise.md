@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1077084/"
 author = "corbet"
 text = ""
 lastupdated = "2026-06-10T21:35:43.762675329Z"
-seen = true
+seen = false
 +++
 
 Heise is carrying [a report from the Linux App Summit](https://www.heise.de/en/background/Linux-App-Summit-2026-Meeting-of-the-Linux-Desktop-Avant-garde-11316647.html), held in Berlin in May.

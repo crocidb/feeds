@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/tekken-8-game-director-kohei-ikeda
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-06T15:21:55.249646717Z"
-seen = true
+seen = false
 +++
 

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-these-supergiant-sea-creatures-survive-more-than-5-
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-06-10T21:35:56.987106318Z"
-seen = true
+seen = false
 +++
 
 It takes a large stomach and a slow metabolism

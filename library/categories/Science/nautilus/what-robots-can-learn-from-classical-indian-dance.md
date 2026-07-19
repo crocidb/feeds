@@ -6,7 +6,7 @@ url = "https://nautil.us/what-robots-can-learn-from-classical-indian-dance-12536
 author = "Kristen French"
 text = ""
 lastupdated = "2025-12-10T15:24:06.728984640Z"
-seen = true
+seen = false
 +++
 
 A swan’s beak, a blossoming lotus flower, a delicate bracelet: These are some of the highly stylized forms the human hand can make in a classical Indian dance form known as Bharatanatyam. The dancers rely on a visual language of gestures, known as mudras—which involve precise finger, wrist, and palm movements—together with dramatic facial expressions and angular body movements to knit together powerful, ancient stories and express heightened emotion.

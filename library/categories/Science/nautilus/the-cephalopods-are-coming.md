@@ -6,7 +6,7 @@ url = "https://nautil.us/the-cephalopods-are-coming-1281395/"
 author = "Peter Ward"
 text = ""
 lastupdated = "2026-06-01T21:30:46.392396431Z"
-seen = true
+seen = false
 +++
 
 Fossil records reveal Earth’s mass extinctions are followed by a rise of ocean cephalopods. They’re rising again.

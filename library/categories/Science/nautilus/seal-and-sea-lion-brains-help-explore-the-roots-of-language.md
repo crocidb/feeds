@@ -6,7 +6,7 @@ url = "https://nautil.us/seal-and-sea-lion-brains-help-explore-the-roots-of-lang
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-03-23T12:35:33.030390838Z"
-seen = true
+seen = false
 +++
 
 A midbrain bypass may have unlocked their abilities to speak

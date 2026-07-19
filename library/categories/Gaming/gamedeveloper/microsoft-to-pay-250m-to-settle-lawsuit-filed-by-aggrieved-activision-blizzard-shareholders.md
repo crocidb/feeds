@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/microsoft-to-pay-250m-to-settle-la
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-27T23:23:10.656153479Z"
-seen = true
+seen = false
 +++
 

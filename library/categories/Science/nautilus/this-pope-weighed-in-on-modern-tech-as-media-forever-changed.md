@@ -6,7 +6,7 @@ url = "https://nautil.us/this-pope-weighed-in-on-modern-tech-as-media-forever-ch
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-05-27T23:23:28.080526137Z"
-seen = true
+seen = false
 +++
 
 Pope Leo wasn’t the first Holy Father to opine about the promise and peril of an emerging technology

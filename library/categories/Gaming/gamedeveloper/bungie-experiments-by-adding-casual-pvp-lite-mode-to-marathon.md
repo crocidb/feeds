@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/bungie-experiments-by-adding-casual-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-06T15:21:55.258962377Z"
-seen = true
+seen = false
 +++
 

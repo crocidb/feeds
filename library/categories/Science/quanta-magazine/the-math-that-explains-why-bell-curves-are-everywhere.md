@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are
 author = "Joseph Howlett"
 text = ""
 lastupdated = "2026-03-18T22:16:08.564457142Z"
-seen = true
+seen = false
 +++
 
 No matter where you look, a bell curve is close by. Place a measuring cup in your backyard every time it rains and note the height of the water when it stops: Your data will conform to a bell curve. Record 100 people’s guesses at the number of jelly beans in a jar, and they’ll follow a bell curve. Measure enough women’s heights, men’s weights, SAT scores, marathon times — you’ll always get the…

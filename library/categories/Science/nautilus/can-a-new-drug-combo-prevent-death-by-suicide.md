@@ -6,7 +6,7 @@ url = "https://nautil.us/can-a-new-drug-combo-prevent-death-by-suicide-1281440/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-05-27T23:23:28.074816598Z"
-seen = true
+seen = false
 +++
 
 It may reduce suicidal intent for up to a month or more

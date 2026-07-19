@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/valve-confirms-it-won-t-restock-st
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-10T21:35:34.158680031Z"
-seen = true
+seen = false
 +++
 

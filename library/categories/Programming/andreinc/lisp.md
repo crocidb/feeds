@@ -6,7 +6,7 @@ url = "https://andreinc.net/links/lisp/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:58.837449367Z"
-seen = true
+seen = false
 +++
 
 Links tagged with `lisp`.

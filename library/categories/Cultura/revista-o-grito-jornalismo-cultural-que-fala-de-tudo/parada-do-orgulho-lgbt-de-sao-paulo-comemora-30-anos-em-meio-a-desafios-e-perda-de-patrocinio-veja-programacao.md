@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/parada-do-orgulho-lgbt-de-sao-paulo-comemora-30
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-01T21:30:06.970209861Z"
-seen = false
+seen = true
 +++
 
 A cidade de São Paulo sedia a partir desta quarta (3) atividades da[ **30ª Parada do Orgulho LGBT+**](https://revistaogrito.com/milhares-participam-da-28a-parada-do-orgulho-lgbt-em-sao-paulo-evento-combina-celebracao-e-engajamento-politico/). Organizado pela Associação da Parada do Orgulho LGBT de São Paulo (APOLGBT-SP), o cronograma concentrado reúne a tradicional marcha na Avenida Paulista, feira cultural, encontro nacional de entidades, festa oficial e exposição em estação de metrô. O evento anunciou a programação completa após a repercussão da diminuição de patrocinadores, incluindo marcas historicamente associadas ao evento.

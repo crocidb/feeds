@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cine-pe-2026-da-tristeza-ao-otimismo/"
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-06T20:39:26.365940323Z"
-seen = false
+seen = true
 +++
 
 Se a noite de quinta-feira (4) no **CINE PE** foi de tensão e dor, a noite da sexta-feira (5), apesar da tristeza, foi um sopro de solidariedade, alegria e esperança de que o mais antigo festival de cinema de Pernambuco vai continuar vivo e contribuindo para o audiovisual, tal e qual vem fazendo nos seus 30 anos de existência.

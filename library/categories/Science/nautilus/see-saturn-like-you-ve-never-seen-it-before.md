@@ -6,7 +6,7 @@ url = "https://nautil.us/see-saturn-like-youve-never-seen-it-before-1281579/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-02T09:38:16.468634321Z"
-seen = true
+seen = false
 +++
 
 The ringed planet stuns in old photos

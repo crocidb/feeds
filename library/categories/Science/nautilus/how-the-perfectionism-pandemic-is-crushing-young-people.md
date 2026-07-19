@@ -6,7 +6,7 @@ url = "https://nautil.us/how-the-perfectionism-pandemic-is-crushing-young-people
 author = "Kristen French"
 text = ""
 lastupdated = "2026-06-01T21:30:46.379134048Z"
-seen = true
+seen = false
 +++
 
 Our current achievement economy may deserve the blame

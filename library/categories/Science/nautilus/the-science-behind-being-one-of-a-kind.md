@@ -6,7 +6,7 @@ url = "https://nautil.us/the-science-behind-being-one-of-a-kind-1279329/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-29T12:38:12.395196716Z"
-seen = true
+seen = false
 +++
 
 Nature and nurture colliding

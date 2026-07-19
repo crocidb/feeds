@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-year-in-physics-20251217/"
 author = "Natalie Wolchover"
 text = ""
 lastupdated = "2025-12-17T22:54:20.169465607Z"
-seen = true
+seen = false
 +++
 
 It in no way reflects my feelings toward Quanta staff writer Charlie Wood that my favorite moment of the year in physics happened when he got seasick this summer aboard a ferry full of physicists on the North Sea. Charlie and hundreds of the world’s top quantum researchers were en route to Helgoland, the island birthplace of quantum mechanics, for a historic conference to mark the theory’s…

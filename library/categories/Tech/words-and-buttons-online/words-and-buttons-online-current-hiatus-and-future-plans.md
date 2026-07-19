@@ -6,7 +6,7 @@ url = "https://wordsandbuttons.online"
 author = "Words and Buttons Online"
 text = ""
 lastupdated = "2026-07-03T12:11:21.805451204Z"
-seen = false
+seen = true
 +++
 
 Hello! I’m Oleksandr Kaleniuk. I do Words and Buttons Online. Just not too often lately.  

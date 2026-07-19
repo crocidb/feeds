@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/playstation-first-party-game-sales
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-06T15:21:55.252979972Z"
-seen = true
+seen = false
 +++
 

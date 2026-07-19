@@ -6,7 +6,7 @@ url = "https://nautil.us/the-martyrs-hunters-and-nature-lovers-who-came-together
 author = "Kristen French"
 text = ""
 lastupdated = "2026-03-25T19:10:20.237251941Z"
-seen = true
+seen = false
 +++
 
 An interview with James McCommons, author of *The Feather Wars*, about the past and future of bird conservation
