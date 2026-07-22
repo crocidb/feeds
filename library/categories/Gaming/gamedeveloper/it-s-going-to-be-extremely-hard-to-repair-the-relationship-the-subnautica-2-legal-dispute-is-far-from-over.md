@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-subnautica-2-early-access-disp
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-04-25T13:20:33.604374158Z"
-seen = false
+seen = true
 +++
 

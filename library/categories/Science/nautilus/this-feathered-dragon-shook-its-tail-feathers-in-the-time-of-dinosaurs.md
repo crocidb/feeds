@@ -6,7 +6,7 @@ url = "https://nautil.us/this-feathered-dragon-shook-its-tail-feathers-in-the-ti
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-28T23:18:14.527560304Z"
-seen = false
+seen = true
 +++
 
 Some things never go out of style

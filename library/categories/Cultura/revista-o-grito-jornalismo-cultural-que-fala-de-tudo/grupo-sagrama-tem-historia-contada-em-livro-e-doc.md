@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/grupo-sagrama-tem-historia-contada-em-livro-e-d
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-06-01T21:30:06.966933008Z"
-seen = true
+seen = false
 +++
 
 O grupo [SaGrama](https://revistaogrito.com/assunto/sagrama/), conhecido por propor um intercâmbio entre os ritmos da cultura popular nordestina ao formato erudito, tem sua história contada no livro *SaGrama: um álbum por escrito*. Além disso, a Revista Continente lança um documentário com registros de shows e diversos depoimento sobre o grupo. O lançamento das duas obras que comemoram os [mais de 30 anos do grupo ](https://revistaogrito.com/sagrama-celebra-30-anos-de-trajetoria-com-shows-no-teatro-do-parque/)acontece no Paço do Frevo nesta sexta (5), às 17h.

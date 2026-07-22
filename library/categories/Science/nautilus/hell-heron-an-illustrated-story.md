@@ -6,7 +6,7 @@ url = "https://nautil.us/hell-heron-an-illustrated-story-1281695/"
 author = "Mikael Angelo Francisco"
 text = ""
 lastupdated = "2026-06-06T15:22:21.279972467Z"
-seen = false
+seen = true
 +++
 
 A new dinosaur discovered in the sands of the Sahara upends an old model

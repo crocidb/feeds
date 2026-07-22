@@ -6,7 +6,7 @@ url = "https://nautil.us/bumblebees-have-chimp-like-problem-solving-abilities-de
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-06T15:22:21.302797864Z"
-seen = false
+seen = true
 +++
 
 New research may upend the cognitive primacy of humans and other large-brained vertebrates

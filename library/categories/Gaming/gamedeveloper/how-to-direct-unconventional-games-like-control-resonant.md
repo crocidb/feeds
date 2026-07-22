@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/how-to-direct-unconventional-gam
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-02T09:38:02.403870160Z"
-seen = false
+seen = true
 +++
 

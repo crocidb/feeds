@@ -6,10 +6,10 @@ url = "https://entropicthoughts.com/is-monaco-decided-at-qualifying"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-06-02T09:38:03.292432453Z"
-seen = true
+seen = false
 +++
 
-A Formula One driver triggered my fact-checkitis. They claimed that
+ A Formula One driver triggered my fact-checkitis. They claimed that
 
 >
 >

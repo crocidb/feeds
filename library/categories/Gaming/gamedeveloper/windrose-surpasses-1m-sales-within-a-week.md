@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/windrose-surpasses-1m-sales-within
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-22T14:43:13.665536296Z"
-seen = false
+seen = true
 +++
 

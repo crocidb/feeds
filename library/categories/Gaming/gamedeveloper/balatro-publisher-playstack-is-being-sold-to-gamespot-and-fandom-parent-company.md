@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/balatro-publisher-playstack-sold-t
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-01T21:30:10.582668250Z"
-seen = false
+seen = true
 +++
 

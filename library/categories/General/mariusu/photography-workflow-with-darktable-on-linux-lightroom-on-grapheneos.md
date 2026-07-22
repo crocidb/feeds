@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/photography-workflow-with-lightroom-on-graphene
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-05-21T08:46:35.135906204Z"
-seen = true
+seen = false
 +++
 
 **Disclaimer:** I had initially prepared this post under the title *Photography Workflow with *Darktable* on Linux*, but after endless fights with *Darktable* I eventually decided to scrap that workflow altogether and look for an alternative. The workflow documented herein is unfortunately **very** far from the result I was striving for, yet it is sadly the best I can put together given the current state of open-source RAW development and photo editing software.

@@ -1,0 +1,31 @@
++++
+title = "Interesting Links for July 2024"
+description = "Here are some interesting things I recently read on the internet:The Unexpected Poetry of PhD Acknowledgements  I love it when people go out of their usual ways to express their love and gratitu"
+date = "2024-07-31T00:00:00Z"
+url = "https://abhinavsarkar.net/notes/2024-links-07/"
+author = "Abhinav Sarkar"
+text = ""
+lastupdated = "2026-07-21T09:17:41.509044334Z"
+seen = false
++++
+
+Here are some interesting things I recently read on the internet:
+
+[The Unexpected Poetry of PhD Acknowledgements](https://science.anu.edu.au/news-events/news/unexpected-poetry-phd-acknowledgements)  I love it when people go out of their usual ways to express their love and gratitude towards others. And I love it even more when someone pays attention to such things and decides to compile then in a beautiful website. [Generating the Alphabet](https://www.amygoodchild.com/blog/generating-the-alphabet)  I never really thought about programmatically generating fonts, and what all considerations one may need to have for the same. I’m glad that Amy Goodchild did, and explained it so brilliantly. [We Need Visual Programming. No, Not like That.](https://blog.sbensu.com/posts/demand-for-visual-programming/)  I often find myself drawing diagrams to explain my programming projects to others. This posts talks about various such diagrams that are actually useful, instead of just cosmetic. [From the Circle to Epicycles — an Animated Introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)  I guess I had a vague idea that trigonometric series were related to circles somehow. This article goes into the details of how the are related exactly, all the way from simple sine and cosine to Fourier series, and with animated diagrams! [Solving a Mathematic Problem Using Rosette](https://rdivyanshu.github.io/posts/2021/06/crux-mathematicorum-ma122-rosette.html)  Logic programming always have had a special place in my heart. It is such a pleasant feeling to declaratively define your problem and have the computer figure out how to solve it, and then solve it, like in this article that solves a puzzle. [From Recursive Descent to LR Parsing](https://www.abubalay.com/blog/2021/12/31/lr-control-flow)  LR parsing has been somewhat of a mystery to me compared to Recursive descent parsing that I find easy to implement. But this article peels the layers of mystery and builds an intuition of LR parsing starting from Recursive descent. [Loop Fission](https://richardstartin.github.io/posts/loop-fission)  Compiler optimizations are always an interesting topic to delve in. Loop fission is an interesting but less used optimization, which this article demonstrates. [A Simple Semi-space Collector](https://wingolog.org/archives/2022/12/10/a-simple-semi-space-collector)  Garbage collectors can be a complex topic to write about, but this time I bring to you a simple semi-space garbage collector written from scratch, in a quick to read and easy to understand article. [ICFP Contest 2024 — Pure Laziness Report](https://tristancacqueray.github.io/blog/icfpc2024)  This year’s ICFP contest was so much fun. I couldn’t participate in it but I read all the solution reports and this one stands out. [Building a Data Compression Utility in Haskell Using Huffman Codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)  I think it is [quite evident](https://abhinavsarkar.net/posts/tags/haskell/?mtm_campaign=feed) that Haskell is my favourite programming language. I specially love how you can get so much done in so few lines of Haskell. This article builds a data compression utility in just 150 lines of Haskell, that is also super easy to understand. [Haskell FFI](https://doscienceto.it/blog/posts/2024-01-23-ffi.html)  Even though I have never written FFI code in Haskell, I know that FFI is an important part of writing reusable, compatible and performant code. This article goes over some different ways of doing C–Haskell FFI, and notes down the good practices for the same. [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)  This article presents two patterns of using Lisp languages with languages like C or Rust: icing (embedding Lisp in C/Rust) and cake (FFI from Lisp to C/Rust). Both are tasty in my opinion. [Why Do Python Lists Multiply Oddly?](https://blog.codingconfessions.com/p/why-do-python-lists-multiply-oddly)  Well, I actually had a fair idea that lists in Python behave would behave oddly in this case, but this post goes into a lot of detail, all the way to Python’s C source code, to examine why the Python lists work the way to do. [Unexplanations: SQL is Syntactic Sugar for Relational Algebra](https://www.scattered-thoughts.net/writing/unexplanations-sql-is-syntactic-sugar-for-relational-algebra/)  SQL is the most popular and the most weird way of doing Relational Algebra. If you don’t believe me, read this post by an expert database creator to go into the details and come out mind-blown. [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)  My website actually has many of the micro-features that Daniel lists in this article, but it’s great to see them collected, with other example websites. I feel validated and inspired!
+
+ If you have any questions or comments, please leave a comment below. If you liked this post, please share it. Thanks for reading!
+
+---
+
+Thanks for reading this post via feed. Feeds are great, and you're great for using them. ♥
+
+This post was originally published on [abhinavsarkar.net](https://abhinavsarkar.net/notes/2024-links-07/?mtm_campaign=feed).
+
+### Like, repost, or comment on: ###
+
+* [Fediverse](https://fantastic.earth/@abnv/112884254314334265)
+* [My website](https://abhinavsarkar.net/notes/2024-links-07/?mtm_campaign=feed#comment-container)
+
+Read more of my [posts](https://abhinavsarkar.net/posts/) and [notes](https://abhinavsarkar.net/notes/).
+
+![](https://anna.abhinavsarkar.net/matomo.php?idsite=1&rec=1)

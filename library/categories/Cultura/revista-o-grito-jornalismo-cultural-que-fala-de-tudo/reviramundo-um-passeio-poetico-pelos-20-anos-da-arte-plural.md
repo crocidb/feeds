@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/reviramundo-um-passeio-poetico-pelos-20-anos-da
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-06-01T21:30:06.974292454Z"
-seen = true
+seen = false
 +++
 
 Das grande exposições – como as Bienais de São Paulo ou Veneza – a mostras retrospectivas em galerias de arte, mesmo privadas, uma figura é essencial para o êxito da empreitada: o curador. Cabe a ele ou ela escolher as obras ou os artistas que irão compor a exposição, criando uma narrativa que conecta todas as peças para o público. E foi com esse espírito de curiosidade sobre o trabalho de curadoria que fomos visitar a mostra *Reviramundo*, coletiva realizada pela [Arte Plural Galeria](https://revistaogrito.com/assunto/arte-plural-galeria/) para comemorar os seus 20 anos de existência e que estará aberta ao público até o final de julho.

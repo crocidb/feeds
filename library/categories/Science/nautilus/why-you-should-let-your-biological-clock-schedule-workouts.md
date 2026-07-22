@@ -6,7 +6,7 @@ url = "https://nautil.us/why-you-should-let-your-biological-clock-schedule-worko
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-15T00:26:07.024956964Z"
-seen = false
+seen = true
 +++
 
 Going with the flow is better than fighting the system

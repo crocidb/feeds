@@ -6,7 +6,7 @@ url = "https://nautil.us/the-genetic-roots-of-extreme-morning-sickness-1279900/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-16T13:31:42.111752772Z"
-seen = false
+seen = true
 +++
 
 It’s much more than just nausea

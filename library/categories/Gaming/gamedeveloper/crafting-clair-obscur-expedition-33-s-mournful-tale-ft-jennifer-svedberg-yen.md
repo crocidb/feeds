@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/crafting-clair-obscur-expedition-33-
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-06-10T21:35:34.207634359Z"
-seen = false
+seen = true
 +++
 

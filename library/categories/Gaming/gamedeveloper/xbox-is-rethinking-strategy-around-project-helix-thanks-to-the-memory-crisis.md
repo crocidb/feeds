@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-rethinking-strategy-around-pr
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-10T21:35:34.171255924Z"
-seen = false
+seen = true
 +++
 

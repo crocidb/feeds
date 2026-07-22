@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/replaced-wingman"
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-06T15:21:55.229799071Z"
-seen = false
+seen = true
 +++
 

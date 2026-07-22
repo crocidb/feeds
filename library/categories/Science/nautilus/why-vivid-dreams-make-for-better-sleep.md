@@ -6,7 +6,7 @@ url = "https://nautil.us/why-vivid-dreams-make-for-better-sleep-1279185/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-25T10:19:21.881786166Z"
-seen = false
+seen = true
 +++
 
 An active dream life is key to good sleep

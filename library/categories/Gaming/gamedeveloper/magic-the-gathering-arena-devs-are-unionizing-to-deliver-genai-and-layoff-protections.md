@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/magic-the-gathering-arena-devs-see
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-29T14:23:05.281439394Z"
-seen = false
+seen = true
 +++
 

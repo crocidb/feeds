@@ -6,7 +6,7 @@ url = "https://andreinc.net/lists/songs/synth-pop/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-03-30T10:52:59.402557863Z"
-seen = false
+seen = true
 +++
 
 A filterable list of favorite songs.

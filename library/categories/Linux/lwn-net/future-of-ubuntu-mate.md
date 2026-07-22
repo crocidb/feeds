@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1077221/"
 author = "jzb"
 text = ""
 lastupdated = "2026-06-10T21:35:43.752400916Z"
-seen = false
+seen = true
 +++
 
 Thomas Ward has [published](https://discourse.ubuntu.com/t/mate-no-26-04-release-how-does-that-affect-you-and-what-is-the-future-of-ubuntu-mate/83877) an update about the future of the Ubuntu [MATE](https://ubuntu-mate.org/) project, which did not have a 26.04 release with the other [Ubuntu flavors](https://ubuntu.com/desktop/flavors) in April:

@@ -6,7 +6,7 @@ url = "https://nautil.us/edward-teller-tried-to-move-mountains-with-nuclear-bomb
 author = "Molly Glick"
 text = ""
 lastupdated = "2026-02-11T20:17:08.314179387Z"
-seen = false
+seen = true
 +++
 
 Could nuclear bombs be harnessed to help people?

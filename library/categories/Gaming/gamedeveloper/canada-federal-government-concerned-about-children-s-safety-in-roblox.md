@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-canada-federal-government-c
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-04-25T13:20:33.598228054Z"
-seen = false
+seen = true
 +++
 

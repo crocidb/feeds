@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/03/31/actual-federalist-society/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-03-31T22:16:19.488951862Z"
-seen = true
+seen = false
 +++
 
 [![](https://i0.wp.com/craphound.com/images/31Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/31/actual-federalist-society/)

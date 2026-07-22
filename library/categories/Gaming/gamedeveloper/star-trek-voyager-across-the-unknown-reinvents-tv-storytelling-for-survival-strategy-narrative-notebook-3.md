@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/star-trek-voyager-across-the-unknown
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-05-28T23:17:49.537040110Z"
-seen = false
+seen = true
 +++
 

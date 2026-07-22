@@ -6,7 +6,7 @@ url = "https://nautil.us/fitbit-data-sheds-light-on-best-time-to-exercise-127914
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-23T19:25:41.848197022Z"
-seen = false
+seen = true
 +++
 
 New technology chimes in on an age-old question

@@ -6,7 +6,7 @@ url = "https://nautil.us/what-happened-when-the-first-animals-started-to-move-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-01T21:30:46.380680088Z"
-seen = false
+seen = true
 +++
 
 Life on Earth wasn’t always mobile

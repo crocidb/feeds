@@ -6,7 +6,7 @@ url = "https://nautil.us/how-to-heal-people-with-science-fiction-1281841/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-06-10T21:35:56.994325962Z"
-seen = false
+seen = true
 +++
 
 A new healthpunk movement aims to teach physicians to use their imaginations

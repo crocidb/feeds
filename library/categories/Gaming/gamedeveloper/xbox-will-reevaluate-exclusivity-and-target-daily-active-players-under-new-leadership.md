@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-will-reevaluate-exclusivity-a
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-25T13:20:33.591077697Z"
-seen = false
+seen = true
 +++
 

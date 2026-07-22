@@ -6,7 +6,7 @@ url = "https://nautil.us/why-you-should-root-for-the-apex-predator-1279365/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-30T23:56:31.731512641Z"
-seen = false
+seen = true
 +++
 
 They’re indispensable ecosystem engineers

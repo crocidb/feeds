@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/digital-bros-buys-the-rights-to-wu
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-29T14:23:05.272674537Z"
-seen = false
+seen = true
 +++
 

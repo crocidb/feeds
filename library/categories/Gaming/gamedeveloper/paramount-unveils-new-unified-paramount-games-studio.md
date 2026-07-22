@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/paramount-games-studio-breaks-cove
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-06-06T15:21:55.215449214Z"
-seen = false
+seen = true
 +++
 
