@@ -6,7 +6,7 @@ url = "https://nautil.us/watch-immune-system-cells-gobble-up-cancer-cells-128143
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-27T23:23:28.077672047Z"
-seen = true
+seen = false
 +++
 
 It’s the first time the activity has been caught on video

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/20/forward"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.836679494Z"
-seen = true
+seen = false
 +++
 
 *This post develops my thoughts on the theme of home that I first explored with focus in* [*Home*](https://jamesg.blog/2026/05/31/home)*. You may appreciate reading Home before continuing to read this post.*

@@ -6,7 +6,7 @@ url = "https://nautil.us/is-this-the-king-of-glp-1s-1282009/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-16T20:08:25.021556277Z"
-seen = true
+seen = false
 +++
 
 A new meta-analysis stacks three leading GLP-1 medications against each other

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/31/waiting-writing"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-01T21:30:16.223240505Z"
-seen = true
+seen = false
 +++
 
 I love to write while I am walking around in the world. I keep a digital notebook in which I write down what I observe: sights, sounds, scents; emotions, hopes, dreams. The smile I see as two friends embrace each other in a hug as the person who has been waiting patiently at a table sees their friend walk in makes me joyful both in the moment, and as I reflect on the words in my notebook. Every word is part of a story of the day – a story, too, of life.

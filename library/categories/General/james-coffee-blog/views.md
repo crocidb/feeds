@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/18/views"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.845342566Z"
-seen = true
+seen = false
 +++
 
 *The faint reflection of the hall in the water catches my eye; how nature and humanity blend — how there are so many ways to see the world; how painting lets us explore what we see and what we want the world to be, just like words. A figure — a few brush stokes and colours — stands out in the grove of light amid the shadowed grounds. To see the geometry of the inclining hill, the depth of the layers of trees at the end of which is the house and the sky.*

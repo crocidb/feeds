@@ -6,7 +6,7 @@ url = "https://nautil.us/james-webb-space-telescope-captures-the-cigar-galaxys-b
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-29T12:19:38.079773121Z"
-seen = true
+seen = false
 +++
 
 The newly released images offer hints into the galaxy’s turbulent past

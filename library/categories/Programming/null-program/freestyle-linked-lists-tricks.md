@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2025/12/31/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-02-11T20:17:06.817773749Z"
-seen = false
+seen = true
 +++
 
 Linked lists are a data structure basic building block, with especially flexible allocation behavior. They’re not just a useful starting point, but sometimes a sound foundation for future growth. I’m going to start with the beginner stuff, then *without disrupting the original linked list*, enhance it with new capabilities.

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-moon-bases-of-yesteryear-1281513/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-05-28T23:18:14.495218439Z"
-seen = true
+seen = false
 +++
 
 With NASA recently detailing its plans for a lunar settlement, here’s a look at how that concept has taken shape through history

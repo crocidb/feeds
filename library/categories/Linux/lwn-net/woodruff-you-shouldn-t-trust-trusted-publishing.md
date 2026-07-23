@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1081690/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-09T12:05:22.736141285Z"
-seen = true
+seen = false
 +++
 
 William Woodruff, better known online as "yossarian", has [published](https://blog.yossarian.net/2026/07/07/You-shouldnt-trust-trusted-publishing) a blog post to make the case that users should not place their trust in [trusted publishing](https://docs.pypi.org/trusted-publishers/):

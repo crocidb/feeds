@@ -6,7 +6,7 @@ url = "https://nautil.us/four-new-chameleon-species-found-in-tropical-sky-island
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-06-29T12:19:38.069745839Z"
-seen = true
+seen = false
 +++
 
 Two of which are named after pioneering female scientists

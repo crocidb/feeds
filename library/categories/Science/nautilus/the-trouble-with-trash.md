@@ -6,7 +6,7 @@ url = "https://nautil.us/the-trouble-with-trash-1282371/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-07-01T13:54:40.731767910Z"
-seen = true
+seen = false
 +++
 
 A conversation with a trash man turned sociologist about our dangerous waste problem and the heroics that hide it

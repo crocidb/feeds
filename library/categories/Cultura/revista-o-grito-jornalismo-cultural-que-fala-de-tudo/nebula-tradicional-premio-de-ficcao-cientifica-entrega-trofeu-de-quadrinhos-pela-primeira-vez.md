@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/nebula-tradicional-premio-de-ficcao-cientifica-
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-08T12:49:48.834105092Z"
-seen = false
+seen = true
 +++
 
 O tradicional [**Nebula Awards**](https://sfwa.org/2026/06/06/61st-annual-nebula-awards-winners/) premiou uma obra em quadrinhos pela primeira vez. Entregue pela Associação de Escritores de Ficção Científica e Fantasia (SFWA), a 61ª edição do prêmio aconteceu na última sexta (5). A HQ *[Mary Shelley’s School for Monsters: The Killing Stone](https://wickedtreepress.com/shop/p/the-killing-stone)*, de **Jessica Maison**, venceu a categoria inédita de Melhor Quadrinho. A publicação, produzida em parceria com a artista **Anna Wieszczyk** e o letrista **Mark Krotzer**, apresenta a autora de Frankenstein como uma criatura imortal que fundou uma escola para monstros.

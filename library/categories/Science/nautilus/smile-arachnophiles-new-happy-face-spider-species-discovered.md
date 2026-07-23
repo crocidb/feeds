@@ -6,7 +6,7 @@ url = "https://nautil.us/smile-arachnophiles-new-happy-face-spider-species-disco
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-05-27T23:23:28.083551379Z"
-seen = true
+seen = false
 +++
 
 This one hides out in the Indian Himalayas

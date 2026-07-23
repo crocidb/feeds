@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/animacao-de-caruaru-amadeo-o-hipotetico-mundo-n
 author = "Beatriz Santana"
 text = ""
 lastupdated = "2026-06-06T15:20:27.851785318Z"
-seen = false
+seen = true
 +++
 
 Diretamente do Agreste Pernambucano para a China, o longa-metragem de animação ***Amadeo e o Hipotético Mundo Novo*** foi produzido na cidade de Caruaru e tem estreia mundial na 28ª edição do Festival Internacional de Cinema de Xangai, um dos mais importantes festivais de cinema da Ásia. A coprodução dos estúdios caruaruenses ***SAGUI Studio*** e ***Refúgio Onírico*** acontece no dia 15 de junho e tem a diretora recifense **Brenda Lígia** e o diretor de animação norte-taquaritinguense **Everton Amorim** como representantes do filme e do [cinema de Pernambuco](https://revistaogrito.com/livro-reune-100-anos-de-historia-do-cinema-pernambucano/) em território chinês. 

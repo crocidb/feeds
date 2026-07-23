@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/good-open-source/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.967896160Z"
-seen = false
+seen = true
 +++
 

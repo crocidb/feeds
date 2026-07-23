@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/11/taylor-swift-question-challenge"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-16T20:07:27.907383090Z"
-seen = true
+seen = false
 +++
 
 Inspired by the [Bear Blog question challenge](https://blog.avas.space/bear-blog-challenge/) and other blogging challenges, I thought I would make my own: the Taylor Swift question challenge.

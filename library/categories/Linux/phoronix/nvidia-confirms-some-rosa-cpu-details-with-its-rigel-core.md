@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/NVIDIA-Rosa-CPU-Rigel-Core"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-09T12:05:22.890790989Z"
-seen = false
+seen = true
 +++
 
 In a blog post today talking up the single threaded CPU performance of their Vera CPU with Olympus cores, NVIDIA confirmed a few basic details of their next-gen Rosa CPU featuring their "Rigel" core...

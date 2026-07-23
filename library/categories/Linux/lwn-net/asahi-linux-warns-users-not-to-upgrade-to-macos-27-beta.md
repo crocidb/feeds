@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1077209/"
 author = "jzb"
 text = ""
 lastupdated = "2026-06-10T21:35:43.756689370Z"
-seen = true
+seen = false
 +++
 
 The [Asahi Linux](https://asahilinux.org/) project, which brings Linux support to Apple Arm-based Macs, has [warned its users](https://social.treehouse.systems/@AsahiLinux/116719749555082847) not to upgrade to the macOS 27 "Golden Gate" beta.

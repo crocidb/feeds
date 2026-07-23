@@ -6,7 +6,7 @@ url = "https://nautil.us/ice-age-csi-mammoth-cold-case-files-1281756/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-06T15:22:21.271251475Z"
-seen = true
+seen = false
 +++
 
 Mysterious bones bear the marks of human butchering

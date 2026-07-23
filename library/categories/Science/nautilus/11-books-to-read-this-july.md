@@ -6,7 +6,7 @@ url = "https://nautil.us/11-books-to-read-this-july-1282351/"
 author = "Liz Greene"
 text = ""
 lastupdated = "2026-07-01T13:54:40.735271171Z"
-seen = true
+seen = false
 +++
 
 Marvelous maggots, biological warfare, AI survivalists, space myths, and more

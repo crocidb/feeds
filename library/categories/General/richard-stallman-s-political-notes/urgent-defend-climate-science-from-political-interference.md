@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-mar-jun.html#29_June_2026_(Urgent:_Def
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.814390731Z"
-seen = true
+seen = false
 +++
 
-US citizens: call on the National Academies of Science, Engineering and Medicine to [defend climate science](https://civicshout.com/p/stop-big-oil-s-war-on-climate-science-2) from political interference and industry pressure.
+ US citizens: call on the National Academies of Science, Engineering and Medicine to [defend climate science](https://civicshout.com/p/stop-big-oil-s-war-on-climate-science-2) from political interference and industry pressure.

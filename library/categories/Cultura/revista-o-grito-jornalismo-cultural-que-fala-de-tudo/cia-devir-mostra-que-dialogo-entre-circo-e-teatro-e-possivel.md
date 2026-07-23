@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cia-devir-mostra-que-dialogo-entre-circo-e-teat
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-05-27T23:22:30.395417645Z"
-seen = false
+seen = true
 +++
 
 **João Lucas Cavalcanti** e **Vitor Lima** são dois jovens apaixonados pela arte circense. E dessa paixão surgiu a [Cia Devir](https://revistaogrito.com/assunto/cia-devir/) que está apresentando, mais uma vez, o espetáculo *Isso não é um número de circo*, um trabalho em processo que já teve versões precedentes, mas que, nessa temporada, no Teatro Hermilo Borba Filho, chega com uma roupagem renovada e vale muito a pena ser visto.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/22/inside-outside"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.819984570Z"
-seen = true
+seen = false
 +++
 
 Looking idly out the window of my favourite coffee shop, sipping on a cool iced latte that I needed after a long walk on a warm summer’s afternoon, a thought came to mind: *Why am I so fascinated by the outside world when I just sat down inside?*

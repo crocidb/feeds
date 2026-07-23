@@ -6,7 +6,7 @@ url = "https://nautil.us/bad-third-grade-behavior-could-be-a-preview-of-educatio
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-16T20:08:25.027566572Z"
-seen = true
+seen = false
 +++
 
 Kids who can hold it together until the final bell may be primed for more academic success in life

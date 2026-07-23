@@ -6,7 +6,7 @@ url = "https://vermaden.wordpress.com/2026/07/09/gitlab-on-freebsd/"
 author = "vermaden"
 text = ""
 lastupdated = "2026-07-09T12:05:11.774072412Z"
-seen = true
+seen = false
 +++
 
 Today I will share how to install and setup a GitLab server on FreeBSD. Most people just use *Microslopft* GitHub these days but this approach has one big drawback – its cloud only solution. When it comes to on premise solutions there are GitLab and there is also Gitea. GitLab is closest to what GitHub provides while Gitea is very light and smaller brother trying to achieve the same goals by doing less. Good to have alternatives.

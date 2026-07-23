@@ -6,7 +6,7 @@ url = "https://nautil.us/the-many-ways-to-build-a-black-hole-1281480/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-28T23:18:14.515193730Z"
-seen = true
+seen = false
 +++
 
 Gravitational waves point to a multifaceted assembly line for the cosmic oddities

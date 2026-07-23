@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/01/log-in-sign-in"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-05T08:24:55.706921651Z"
-seen = true
+seen = false
 +++
 
 **Log in, sign in**

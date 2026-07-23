@@ -6,7 +6,7 @@ url = "https://nautil.us/this-blood-sucking-fly-drastically-transforms-when-it-f
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-06-01T21:30:46.385091915Z"
-seen = true
+seen = false
 +++
 
 Just in case you needed some new nightmare fuel

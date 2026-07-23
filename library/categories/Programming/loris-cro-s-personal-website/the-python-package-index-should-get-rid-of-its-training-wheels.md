@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/python-training-wheels/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.951420977Z"
-seen = false
+seen = true
 +++
 

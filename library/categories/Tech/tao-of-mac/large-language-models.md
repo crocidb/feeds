@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/ai/llm?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-22T14:43:29.025303656Z"
-seen = false
+seen = true
 +++
 
 This page is a collection of notes and links related to large language models (LLMs), their applications, and the underlying technology. It serves as a reference for understanding the current state of LLMs, their capabilities, and their limitations, and is the result my cleaning up the main [AI page](/space/ai) and splitting it into more manageable sections. It is not exhaustive, but it should provide a good starting point for anyone interested in the topic.

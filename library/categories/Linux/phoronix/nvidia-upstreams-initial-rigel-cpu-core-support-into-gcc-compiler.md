@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/NVIDIA-Rigel-Upstream-GCC"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-09T12:05:22.888283659Z"
-seen = false
+seen = true
 +++
 
 That didn't take long... Mere minutes after NVIDIA confirmed some basic Rosa CPU details and its "Rigel" CPU core, merged to the upstream GNU Compiler Collection (GCC) codebase is initial enablement on the NVIDIA Rigel core...

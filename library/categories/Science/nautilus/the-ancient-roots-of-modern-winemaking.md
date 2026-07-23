@@ -6,7 +6,7 @@ url = "https://nautil.us/the-ancient-roots-of-modern-winemaking-1281970/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-16T20:08:25.038676041Z"
-seen = true
+seen = false
 +++
 
 Two-thousand-year-old grape seeds yield viticultural insight in the Chianti wine region

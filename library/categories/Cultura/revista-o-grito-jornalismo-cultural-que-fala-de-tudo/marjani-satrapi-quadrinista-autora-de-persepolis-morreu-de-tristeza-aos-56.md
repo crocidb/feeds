@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/marjani-satrapi-quadrinista-autora-de-persepoli
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-06-06T15:20:28.093409129Z"
-seen = false
+seen = true
 +++
 
 A quadrinista, cineasta, escritora e ativista franco-iraniana **[Marjane Satrapi](https://revistaogrito.com/marjani-satrapi)** morreu nesta quinta (04) aos 56 anos. Segundo comunicado enviado pela sua família à AFP, ela “morreu de tristeza pouco mais de um ano após a morte de Mattias Ripa, seu marido e o amor de sua vida”.

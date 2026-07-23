@@ -6,7 +6,7 @@ url = "https://nautil.us/editing-the-pesky-bones-out-of-a-popular-farmed-fish-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-01T21:30:46.383663007Z"
-seen = true
+seen = false
 +++
 
 Genetic modification could make carp more accessible for millions

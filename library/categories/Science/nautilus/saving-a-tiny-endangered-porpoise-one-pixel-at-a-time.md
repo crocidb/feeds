@@ -6,7 +6,7 @@ url = "https://nautil.us/saving-a-tiny-endangered-porpoise-one-pixel-at-a-time-1
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-16T23:50:48.039614930Z"
-seen = true
+seen = false
 +++
 
 Only a handful of vaquitas exist in the wild, but now one is preserved in unprecedented digital detail

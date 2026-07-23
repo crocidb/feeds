@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(Urgent:_tax
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.784766175Z"
-seen = true
+seen = false
 +++
 
-US citizens: call on Congress to [tax the pretend-intelligence hype industry](https://actionnetwork.org/letters/tell-congress-tax-the-ai-boom-before-billionaires-rig-the-rules?nowrapper=true).
+ US citizens: call on Congress to [tax the pretend-intelligence hype industry](https://actionnetwork.org/letters/tell-congress-tax-the-ai-boom-before-billionaires-rig-the-rules?nowrapper=true).
 
  In my letter, I denounced the hype term "artificial intelligence" and called for the taxes to be high enough to make human-based customer service, which is superior, competitive again. I deleted the paragraphs that presumed "AI" was a good thing.
 
