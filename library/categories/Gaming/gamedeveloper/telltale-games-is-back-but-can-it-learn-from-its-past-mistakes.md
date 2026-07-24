@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/can-telltale-games-learn-from-it
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-06-10T21:35:34.173394501Z"
-seen = true
+seen = false
 +++
 

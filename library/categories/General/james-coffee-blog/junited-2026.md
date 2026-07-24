@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/01/junited-2026"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-01T21:30:16.215380512Z"
-seen = false
+seen = true
 +++
 
 In recent weeks, I have been talking with a lot of people about personal websites. In so many of my discussions, I mention that one of the reasons I love coming back to my personal website is the community around the indie web: people all over the world sharing what interests them: slices of life, hopes and dreams, tutorials on how to do something, and more. Websites aren’t islands. Websites are houses in a town.

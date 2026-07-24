@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Urgent:_Nat
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.496603684Z"
-seen = false
+seen = true
 +++
 
- US citizens: call on the Federal Reserve to [block obscure local banks](https://actionnetwork.org/forms/block-predatory-100-apr-banks-nationwide) from setting up nationwide high-interest loan businesses.
+US citizens: call on the Federal Reserve to [block obscure local banks](https://actionnetwork.org/forms/block-predatory-100-apr-banks-nationwide) from setting up nationwide high-interest loan businesses.

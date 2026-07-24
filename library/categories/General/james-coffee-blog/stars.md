@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/23/stars"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.807761617Z"
-seen = false
+seen = true
 +++
 
 *I am continuing to experiment with writing some fiction on this blog. Here is a story I wrote today.*

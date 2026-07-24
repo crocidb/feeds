@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(Urgent:_sto
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.534596824Z"
-seen = false
+seen = true
 +++
 
- US citizens: call on Congress to block $3.3 billion in taxpayer funding for Israel's military.
+US citizens: call on Congress to block $3.3 billion in taxpayer funding for Israel's military.
 
  US citizens: Join with this campaign to address this issue.
 

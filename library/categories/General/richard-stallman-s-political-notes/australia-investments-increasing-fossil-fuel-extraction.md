@@ -6,9 +6,9 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Australia_i
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.534905838Z"
-seen = false
+seen = true
 +++
 
- Australia's big retirement funds have ["invested" in increasing fossil fuel extraction](https://www.theguardian.com/australia-news/2026/jul/06/australiansuper-coal-investment-superannuation-net-zero-pledge-climate), and even in coal.
+Australia's big retirement funds have ["invested" in increasing fossil fuel extraction](https://www.theguardian.com/australia-news/2026/jul/06/australiansuper-coal-investment-superannuation-net-zero-pledge-climate), and even in coal.
 
  Some made a big fuss about divesting, then later quietly reversed the move.

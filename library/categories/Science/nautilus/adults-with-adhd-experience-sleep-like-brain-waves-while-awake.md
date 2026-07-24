@@ -6,7 +6,7 @@ url = "https://nautil.us/adults-with-adhd-experience-sleep-like-brain-waves-whil
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-18T22:16:09.728165467Z"
-seen = true
+seen = false
 +++
 
 A glimpse inside the ADHD brain

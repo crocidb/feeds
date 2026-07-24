@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-07T12:18:45.329142072Z"
-seen = true
+seen = false
 +++
 
 The newest, unexpected addition to the Mesa codebase by Microsoft engineers is contributed accelerated AV1 video encoding on the GPU using a combination of DirectX 12 and the Hardware Media Foundation Transform (HMFT) support that is part of the Windows Media Foundation layer...

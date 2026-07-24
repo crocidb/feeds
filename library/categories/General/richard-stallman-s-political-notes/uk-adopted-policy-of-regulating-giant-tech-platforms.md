@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#7_July_2026_(UK_adopted_p
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.490925138Z"
-seen = false
+seen = true
 +++
 
- The UK has adopted a policy of [regulating specific giant tech platforms](https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers).
+The UK has adopted a policy of [regulating specific giant tech platforms](https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers).
 
  The requirements on Google regulations described there seem like a step forward to me, because they can reduce Google's power over the public.
 

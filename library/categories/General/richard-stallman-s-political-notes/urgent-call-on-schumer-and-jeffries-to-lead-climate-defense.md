@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Urgent:_Cal
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.491354651Z"
-seen = false
+seen = true
 +++
 
- US citizens: call on Senator Schumer and Rep. Jeffries to [be leaders for climate defense](https://civicshout.com/p/tell-schumer-and-jeffries-lead-on-climate-now-2).
+US citizens: call on Senator Schumer and Rep. Jeffries to [be leaders for climate defense](https://civicshout.com/p/tell-schumer-and-jeffries-lead-on-climate-now-2).

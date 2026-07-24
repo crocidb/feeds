@@ -6,7 +6,7 @@ url = "https://nautil.us/the-ancient-roots-of-sewer-socialism-1281129/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-05-22T08:27:22.063884481Z"
-seen = false
+seen = true
 +++
 
 Urban planning wasn’t so different 4,000 years ago

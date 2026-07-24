@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/global-game-jam-launches-micro-gra
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-28T23:17:49.541149110Z"
-seen = true
+seen = false
 +++
 

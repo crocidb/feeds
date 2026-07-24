@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Businesses_
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.525604368Z"
-seen = false
+seen = true
 +++
 
- Businesses are increasingly [requiring workers to act like robots](https://futurism.com/artificial-intelligence/ai-boss-surveillance) under the control of the employer's software.
+Businesses are increasingly [requiring workers to act like robots](https://futurism.com/artificial-intelligence/ai-boss-surveillance) under the control of the employer's software.
 
  Cory Doctorow calls this the "reverse centaur" metaphor, suggesting that the human becomes the legs of some combined organism, while the boss becomes its human-like intelligence. But I think that metaphor exaggerates: the worker and the boss do not become one organism, and a real centaur would not despise its legs, or the horse-like part of its body.
 

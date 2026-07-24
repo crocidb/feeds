@@ -6,7 +6,7 @@ url = "https://jamesg.blog/microformats-quiz"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.816396259Z"
-seen = false
+seen = true
 +++
 
 Have you ever wondered which microformat best suits your personality? If so, this quiz is for you!

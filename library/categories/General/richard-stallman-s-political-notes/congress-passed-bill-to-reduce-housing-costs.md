@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(Congress_pas
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.468669192Z"
-seen = false
+seen = true
 +++
 
- Congress [overwhelmingly passed a bill](https://www.theguardian.com/us-news/2026/jun/23/housing-bill-bipartisan-house-trump) to reduce housing costs.
+Congress [overwhelmingly passed a bill](https://www.theguardian.com/us-news/2026/jun/23/housing-bill-bipartisan-house-trump) to reduce housing costs.
 
  Some of the provisions sound good, from the general descriptions here. Others, such as to "reduce federal regulations" and "streamline environmental reviews", make me suspect that this was a change for the worse, a concession to construction businesses, and that it purchased those businesses' support for the bill.
 

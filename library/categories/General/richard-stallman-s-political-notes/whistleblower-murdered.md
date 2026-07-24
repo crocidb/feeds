@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(Whistleblowe
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.469962843Z"
-seen = false
+seen = true
 +++
 
- \*Whistleblower investigating Ecuadorian president's [very large] family business [was murdered](https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business).\* The murder was disguised as suicide by hanging, but examination of the corpse revealed she had had a blow to the head just before.
+\*Whistleblower investigating Ecuadorian president's [very large] family business [was murdered](https://www.theguardian.com/world/2026/jun/23/monika-silva-koniuszek-ecuador-president-family-business).\* The murder was disguised as suicide by hanging, but examination of the corpse revealed she had had a blow to the head just before.

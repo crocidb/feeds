@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(Pesticide_Co
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.479032015Z"
-seen = false
+seen = true
 +++
 
- \*Supreme Court [Gives Pesticide Corporations Immunity](https://www.commondreams.org/newswire/supreme-court-gives-pesticide-corporations-immunity-from-cancer-lawsuits) from Cancer Lawsuits.\*
+\*Supreme Court [Gives Pesticide Corporations Immunity](https://www.commondreams.org/newswire/supreme-court-gives-pesticide-corporations-immunity-from-cancer-lawsuits) from Cancer Lawsuits.\*
 
  The right-wing majority has a firm and insistent policy of giving every advantage to the powerful and undermining democracy. If we can ever kick out the right wing power, setting things right will require reversing hundreds of decisions. We will need to adopt a method that can reliably do that.
 

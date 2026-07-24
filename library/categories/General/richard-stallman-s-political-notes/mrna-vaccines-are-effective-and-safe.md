@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(mRNA_vaccin
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.530952783Z"
-seen = false
+seen = true
 +++
 
- After billions of [doses](/glossary.html#dose) given, records show that [mRNA vaccines are effective and very safe](https://futurism.com/health-medicine/survey-mrna-vaccines).
+After billions of [doses](/glossary.html#dose) given, records show that [mRNA vaccines are effective and very safe](https://futurism.com/health-medicine/survey-mrna-vaccines).

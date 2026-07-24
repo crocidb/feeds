@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Avenues_for
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.524217289Z"
-seen = false
+seen = true
 +++
 
- \*[[Plutocratist](/glossary.html#plutocratist) Supreme Court] [Campaign Finance Ruling Opens New Avenues](https://www.commondreams.org/newswire/flawed-scotus-campaign-finance-ruling-opens-new-avenues-for-billionaires-and-corporations-to-buy-elections) for Billionaires and Corporations to Buy Elections.\*
+\*[[Plutocratist](/glossary.html#plutocratist) Supreme Court] [Campaign Finance Ruling Opens New Avenues](https://www.commondreams.org/newswire/flawed-scotus-campaign-finance-ruling-opens-new-avenues-for-billionaires-and-corporations-to-buy-elections) for Billionaires and Corporations to Buy Elections.\*

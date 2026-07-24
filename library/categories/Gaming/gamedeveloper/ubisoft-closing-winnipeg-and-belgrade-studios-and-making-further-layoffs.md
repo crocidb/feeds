@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ubisoft-closing-winnipeg-and-belgr
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-10T21:35:34.160894468Z"
-seen = true
+seen = false
 +++
 

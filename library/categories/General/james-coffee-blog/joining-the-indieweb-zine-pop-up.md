@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/24/joining-the-indieweb-zine-pop-up"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-26T11:29:02.627093037Z"
-seen = false
+seen = true
 +++
 
 On Saturday I joined an [IndieWeb pop up about zines](https://events.indieweb.org/2026/05/indieweb-zine-pop-up-yKS84XiCzVpw), hosted by [Morgan](https://www.morganwebdev.org/). The meetup was about both zines and the intersection of zines and personal websites – the affordances of each medium, how the mediums compare, where the mediums intersect, and more. I helped take notes ([notes available on the community wiki](https://indieweb.org/events/2026-05-23-zine-pop-up)) and, looking back, I realise it was hard to keep up with all the discussion: there was so much to explore!

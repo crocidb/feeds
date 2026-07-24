@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1077946/"
 author = "jzb"
 text = ""
 lastupdated = "2026-06-16T20:07:35.348152670Z"
-seen = false
+seen = true
 +++
 
 Daniel Stenberg has [announced](https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/) that curl will not be accepting vulnerability reports from July 1 through August 3, unless the submitter has a paid support contract. He is calling it the "curl summer of bliss".

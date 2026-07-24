@@ -6,7 +6,7 @@ url = "https://nautil.us/was-the-saber-toothed-cat-doomed-by-its-signature-fangs
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-01T13:54:40.724030619Z"
-seen = false
+seen = true
 +++
 
 Five million years of evolutionary history were hidden in a museum drawer

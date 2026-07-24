@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Federal_vio
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.540260083Z"
-seen = false
+seen = true
 +++
 
- Federal [thugs](/glossary.html#thug) [violently arrested](https://theintercept.com/2026/07/07/antifa-informant-raid-texas/) protest activist "Doberman" (known by her communication handle), giving her to think that they may charge her with some sort of crime, then offered her $200k to spy on her fellow activists.
+Federal [thugs](/glossary.html#thug) [violently arrested](https://theintercept.com/2026/07/07/antifa-informant-raid-texas/) protest activist "Doberman" (known by her communication handle), giving her to think that they may charge her with some sort of crime, then offered her $200k to spy on her fellow activists.

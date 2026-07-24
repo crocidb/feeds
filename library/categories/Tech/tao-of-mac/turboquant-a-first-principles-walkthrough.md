@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/04/27/1615?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-29T14:23:27.716370542Z"
-seen = true
+seen = false
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/04/27/1615/640,480/8-YXJismIv6ZpDVx5nY2_K21Gjk=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://arkaung.github.io/interactive-turboquant/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

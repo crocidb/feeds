@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/embracer-owned-vr-developer-vertig
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-10T21:35:34.178931741Z"
-seen = true
+seen = false
 +++
 

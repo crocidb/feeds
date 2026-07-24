@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/future-online-meetups/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.980868855Z"
-seen = true
+seen = false
 +++
 

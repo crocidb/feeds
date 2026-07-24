@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#6_July_2026_(Urgent:_Abol
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-07T12:18:41.820156782Z"
-seen = false
+seen = true
 +++
 
- US citizens: call on Congress to [Abolish Super PACs](https://actionnetwork.org/letters/abolish-super-pacs-with-q?nowrapper=true).
+US citizens: call on Congress to [Abolish Super PACs](https://actionnetwork.org/letters/abolish-super-pacs-with-q?nowrapper=true).
 
  See the [instructions](/actionnetwork-letter-instructions.html) for how to sign this letter campaign without running any nonfree JavaScript code--not trivial, but not hard.
 

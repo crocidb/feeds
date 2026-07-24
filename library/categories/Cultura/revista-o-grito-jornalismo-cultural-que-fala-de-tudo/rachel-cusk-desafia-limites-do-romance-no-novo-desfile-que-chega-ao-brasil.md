@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/rachel-cusk-desafia-limites-do-romance-no-novo-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-07-21T09:19:39.542161017Z"
-seen = false
+seen = true
 +++
 
 A escritora **Rachel Cusk** retorna às livrarias brasileiras com *Desfile*, romance recém-lançado pela editora **Todavia**. Ganhadora do Prêmio Goldsmiths de 2024, a autora canadense radicada em Paris constrói uma narrativa fragmentada ambientada no universo das artes visuais, investigando os limites entre a criação artística, a dinâmica familiar e o peso das convenções sociais sobre o indivíduo.

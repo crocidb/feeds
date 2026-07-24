@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(Urgent:_Sto
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.553045452Z"
-seen = false
+seen = true
 +++
 
 US citizens: call on Congress to reject tax giveaways for cryptocurrency owners.

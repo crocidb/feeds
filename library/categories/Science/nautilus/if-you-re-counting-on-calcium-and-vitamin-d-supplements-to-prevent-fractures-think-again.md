@@ -6,7 +6,7 @@ url = "https://nautil.us/if-youre-counting-on-calcium-and-vitamin-d-supplements-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-16T23:50:48.036862254Z"
-seen = false
+seen = true
 +++
 
 A new in-depth analysis casts doubt on the popular supplements

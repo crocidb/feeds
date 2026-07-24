@@ -6,7 +6,7 @@ url = "https://nautil.us/ordinary-lab-gloves-may-have-skewed-microplastic-data-1
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-30T23:56:31.716117407Z"
-seen = true
+seen = false
 +++
 
 That doesn’t mean microplastics aren’t a problem, though

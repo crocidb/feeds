@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Low_reading
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.532275592Z"
-seen = false
+seen = true
 +++
 
- There is [some evidence tying the low reading and math skills](https://futurism.com/future-society/college-students-oecd-reading-literacy-10-year-old) of current undergraduates to habitual use of LLMs.
+There is [some evidence tying the low reading and math skills](https://futurism.com/future-society/college-students-oecd-reading-literacy-10-year-old) of current undergraduates to habitual use of LLMs.

@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24874"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-06-29T12:19:25.733949702Z"
-seen = false
+seen = true
 +++
 
 In an effort to make the word machine in my skull fire up, I’m trying to blog more. Some of those blog posts will be short and/or daft. Besides, why give my silly thoughts to the big companies and not put them here?

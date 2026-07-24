@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#15_July_2026_(Bullshitter
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.465247687Z"
-seen = false
+seen = true
 +++
 
- The bullshitter gets his power [from demonstrating](https://www.theguardian.com/commentisfree/2026/jul/10/nato-summit-trump-power) that he will violate all rules, norms, and standards of decency in the course of bullying.
+The bullshitter gets his power [from demonstrating](https://www.theguardian.com/commentisfree/2026/jul/10/nato-summit-trump-power) that he will violate all rules, norms, and standards of decency in the course of bullying.
 
 This gives him he power to sabotage any functioning system that depends on mutual trust and trustworthiness -- by blatantly abusing that trust, thus compelling other countries to develop new systems based on suspicion and distrust.
 

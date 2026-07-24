@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/micro-grants-for-indies-another-ha
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-01T21:30:10.588088471Z"
-seen = true
+seen = false
 +++
 

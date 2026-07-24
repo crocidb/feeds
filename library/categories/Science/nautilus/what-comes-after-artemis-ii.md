@@ -6,7 +6,7 @@ url = "https://nautil.us/what-comes-after-artemis-ii-1279734/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-04-12T21:28:41.124568177Z"
-seen = true
+seen = false
 +++
 
 Artemis II was one small step in another giant leap

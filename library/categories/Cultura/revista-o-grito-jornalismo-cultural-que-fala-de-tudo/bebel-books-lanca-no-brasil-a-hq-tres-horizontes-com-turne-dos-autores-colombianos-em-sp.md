@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/bebel-books-lanca-no-brasil-a-hq-tres-horizonte
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-07-21T09:19:39.531461701Z"
-seen = false
+seen = true
 +++
 
 A editora [**Bebel Books** ](https://revistaogrito.com/assunto/bebel-books/)lança no Brasil a HQ documental *Três Horizontes*, criada pelos autores colombianos **Lina Flórez** (roteiro) e **Pablo Pérez** (arte). Publicada originalmente em 2021 pela **Cohete Cómics**, a obra combina reportagem jornalística e narrativa visual para retratar a trajetória real de três mulheres de diferentes gerações que enfrentam a violência patriarcal e a desigualdade em Medellín, na Colômbia.

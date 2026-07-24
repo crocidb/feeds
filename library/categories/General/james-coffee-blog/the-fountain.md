@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/18/the-fountain"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.846727546Z"
-seen = false
+seen = true
 +++
 
 I opened my eyes and saw pink flowers; the countryside was dotted with flowers of all colours. Bees bounced between the thistles. I was delighted by all that I saw when I opened my eyes on the train journey; sleep is seductive, but so, too, is colour.

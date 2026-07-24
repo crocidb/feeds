@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#6_July_2026_(Urgent:_Deat
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-07T12:18:41.816822681Z"
-seen = false
+seen = true
 +++
 
- US citizens: call on Congress to require deportation [thugs](/glossary.html#thug) to continue [reporting cases where someone dies within 30 days](https://actionnetwork.org/letters/tell-congress-require-ice-to-report-detainee-deaths-2?nowrapper=true) after release from deportation prison.
+US citizens: call on Congress to require deportation [thugs](/glossary.html#thug) to continue [reporting cases where someone dies within 30 days](https://actionnetwork.org/letters/tell-congress-require-ice-to-report-detainee-deaths-2?nowrapper=true) after release from deportation prison.
 
  See the [instructions](/actionnetwork-letter-instructions.html) for how to sign this letter campaign without running any nonfree JavaScript code--not trivial, but not hard.
 

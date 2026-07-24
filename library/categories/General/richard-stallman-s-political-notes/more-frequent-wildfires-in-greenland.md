@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(More_frequen
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.450866138Z"
-seen = false
+seen = true
 +++
 
 [Global heating](</glossary.html#global heating>) is [resulting in more frequent wildfires](https://www.theguardian.com/world/2026/jun/23/scientists-alarmed-wildfires-greenland) in Greenland!

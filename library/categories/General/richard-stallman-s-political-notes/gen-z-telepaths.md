@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(Gen_Z_Telep
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.533273188Z"
-seen = false
+seen = true
 +++
 
- (satire) \*Study Finds Gen Z Telepaths Lack Attention Span To Read Even Single Mind.\*
+(satire) \*Study Finds Gen Z Telepaths Lack Attention Span To Read Even Single Mind.\*

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/22/ready"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-26T11:29:02.630039798Z"
-seen = false
+seen = true
 +++
 
 When I start writing, sometimes I go to the search engine on my website to see if I have written about a topic before. I did this when I was writing [background; foreground](https://jamesg.blog/2026/05/22/background-foreground). I had been thinking about the contrast between backgrounds and foregrounds for a while, so I wondered if I had any posts on the topic.

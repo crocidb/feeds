@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Reading_cap
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.548227404Z"
-seen = false
+seen = true
 +++
 
- 14% of incoming US college freshmen [were reading](https://futurism.com/future-society/college-students-oecd-reading-literacy-10-year-old) at 10-year-old grade level recently, according to an OECD study.
+14% of incoming US college freshmen [were reading](https://futurism.com/future-society/college-students-oecd-reading-literacy-10-year-old) at 10-year-old grade level recently, according to an OECD study.

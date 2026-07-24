@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Suggestions
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.550905731Z"
-seen = false
+seen = true
 +++
 
 Robert Reich's [suggestions](https://web.archive.org/web/20260705212437/https://robertreich.substack.com/p/sunday-thought-rectifying) for crucial changes in how the US government operates.

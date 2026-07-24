@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/flip-celebra-legado-de-orides-fontela-com-lanca
 author = "Agência Brasil"
 text = ""
 lastupdated = "2026-07-22T09:21:54.571270031Z"
-seen = false
+seen = true
 +++
 
 A 24ª edição **Festa Literária Internacional de Paraty (Flip)**, que começa nesta quarta-feira (22) e vai até domingo (26), terá a filósofa e poeta **Orides** **Fontela** como homenageada. 

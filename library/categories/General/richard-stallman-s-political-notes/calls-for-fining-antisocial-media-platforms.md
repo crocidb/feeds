@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#7_July_2026_(Calls_for_fi
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.486996486Z"
-seen = false
+seen = true
 +++
 
- One contender for leader of the Labour Party — and, therefore, for prime minister — [calls for fining the antisocial media platforms](https://www.theguardian.com/politics/2026/jun/14/make-platforms-that-promote-violent-content-pay-towards-riot-costs-streeting-says) that allow postings that encourage violence such as rioting to pay for the damages.
+One contender for leader of the Labour Party — and, therefore, for prime minister — [calls for fining the antisocial media platforms](https://www.theguardian.com/politics/2026/jun/14/make-platforms-that-promote-violent-content-pay-towards-riot-costs-streeting-says) that allow postings that encourage violence such as rioting to pay for the damages.
 
  The harm done by antisocial media platforms occurs at many levels, not only when it arouses actual violence. I don't see how that harm could be quantified and measured in terms of money.
 

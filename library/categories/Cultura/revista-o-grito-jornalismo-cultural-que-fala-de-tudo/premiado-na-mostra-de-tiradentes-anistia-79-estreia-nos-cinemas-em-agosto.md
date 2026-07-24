@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/premiado-na-mostra-de-tiradentes-anistia-79-est
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-16T14:36:43.140606480Z"
-seen = false
+seen = true
 +++
 
 O longa-metragem documental ***Anistia 79*,** dirigido pela cineasta, pesquisadora e professora da Universidade Federal do Rio de Janeiro (UFRJ), **Anita Leandro**, fará sua estreia no circuito comercial de cinemas no dia 20 de agosto, com distribuição assinada pela Embaúba Filmes. A produção chega às telas no mês em que a aprovação da Lei de Anistia no Brasil completa 47 anos.

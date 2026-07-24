@@ -6,9 +6,9 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(LLMs_can_so
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.515609419Z"
-seen = false
+seen = true
 +++
 
- LLMs can [sometimes identify a person](https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study) who posts anonymously by correlating details in the anonymous posts with details posted non-anonymously on other sites.
+LLMs can [sometimes identify a person](https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study) who posts anonymously by correlating details in the anonymous posts with details posted non-anonymously on other sites.
 
  Please don't assume that [LLMs constitute "intelligence"](https://gnu.org/philosophy/words-to-avoid.html#ArtificialIntelligance)!

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/subnautica-2-hits-four-million-sal
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-05-26T11:29:00.937427923Z"
-seen = true
+seen = false
 +++
 

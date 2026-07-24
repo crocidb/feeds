@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/layoffs-imminent-at-bungie-former-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-26T11:29:00.943152616Z"
-seen = true
+seen = false
 +++
 

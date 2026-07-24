@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-console-exclusives-are-return
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-10T21:35:34.177220786Z"
-seen = true
+seen = false
 +++
 

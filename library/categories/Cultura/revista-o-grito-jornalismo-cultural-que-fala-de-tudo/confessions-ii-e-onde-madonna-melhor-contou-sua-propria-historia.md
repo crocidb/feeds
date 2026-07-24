@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/confessions-ii-e-onde-madonna-melhor-contou-sua
 author = "Schneider Carpeggiani"
 text = ""
 lastupdated = "2026-07-09T12:05:12.652888973Z"
-seen = false
+seen = true
 +++
 
 *Foto: Rafael Pavarotti/Divulgação.*

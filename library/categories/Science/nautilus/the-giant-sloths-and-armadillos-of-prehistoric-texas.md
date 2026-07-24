@@ -6,7 +6,7 @@ url = "https://nautil.us/the-giant-sloths-and-armadillos-of-prehistoric-texas-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-30T23:56:31.743627385Z"
-seen = true
+seen = false
 +++
 
 Snorkeling scientists uncover a treasure trove of megafauna fossils in a flooded cave

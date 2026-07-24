@@ -6,7 +6,7 @@ url = "https://nautil.us/ancient-bee-nests-hiding-in-regurgitated-fossilized-bon
 author = "Molly Glick"
 text = ""
 lastupdated = "2025-12-17T22:54:19.684186575Z"
-seen = true
+seen = false
 +++
 
 Tens of thousands of years ago, some particularly crafty ancient bees decided to take advantage of the food scraps puked up by owls.

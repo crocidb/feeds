@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(The_cheater
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.543911244Z"
-seen = false
+seen = true
 +++
 
- Robert Reich: [The cheater] *will* Try to Steal the Midterms. [Here's How And How We Prevent Him from Doing So.](https://web.archive.org/web/20260712215746/https://robertreich.substack.com/p/trump-will-try-to-steal-the-midterms)
+Robert Reich: [The cheater] *will* Try to Steal the Midterms. [Here's How And How We Prevent Him from Doing So.](https://web.archive.org/web/20260712215746/https://robertreich.substack.com/p/trump-will-try-to-steal-the-midterms)

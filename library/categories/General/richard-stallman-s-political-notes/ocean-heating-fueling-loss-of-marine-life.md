@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#7_July_2026_(Ocean_heatin
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.498604119Z"
-seen = false
+seen = true
 +++
 
- \*[Continuing steady] [ocean heating fuels "staggering" loss of marine life](https://www.theguardian.com/environment/2026/feb/25/chronic-ocean-heating-fuels-staggering-loss-marine-life-study) [over time], study finds.\*
+\*[Continuing steady] [ocean heating fuels "staggering" loss of marine life](https://www.theguardian.com/environment/2026/feb/25/chronic-ocean-heating-fuels-staggering-loss-marine-life-study) [over time], study finds.\*

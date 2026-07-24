@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24835"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-06-01T21:30:28.004928446Z"
-seen = false
+seen = true
 +++
 
 After 34 years together, Liz and I are getting divorced. This is an amicable split, everyone behaved completely honorably, and we remain friends. We are working together to make sure we both have a solid start in the next phase of our lives.

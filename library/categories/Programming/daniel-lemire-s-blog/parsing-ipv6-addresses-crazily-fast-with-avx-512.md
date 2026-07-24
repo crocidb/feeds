@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/05/23/parsing-ipv6-addresses-crazily-fast-wit
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-05-26T11:29:11.485438728Z"
-seen = true
+seen = false
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/05/Capture-decran-le-2026-05-22-a-22.42.35-150x150.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async">

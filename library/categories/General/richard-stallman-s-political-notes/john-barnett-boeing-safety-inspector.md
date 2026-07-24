@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(John_Barnett
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.441522117Z"
-seen = false
+seen = true
 +++
 
 [About John Barnett](https://www.theguardian.com/us-news/2026/jun/23/boeing-documentary-whistleblower-rory-kennedy-interview), the Boeing safety inspector who exposed numerous ways of cutting corners to increase profits at the expense of safety.

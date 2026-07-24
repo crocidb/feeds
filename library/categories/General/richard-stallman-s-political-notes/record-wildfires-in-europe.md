@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#16_July_2026_(Record_wild
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-18T14:48:04.935251615Z"
-seen = false
+seen = true
 +++
 
- \*Record wildfires in Europe [show failure](https://www.theguardian.com/world/2026/jul/07/record-wildfires-europe-failure-to-adapt-mounting-cost-climate-crisis) to [curb [global heating](</glossary.html#global heating>)] carries a mounting cost.\*
+\*Record wildfires in Europe [show failure](https://www.theguardian.com/world/2026/jul/07/record-wildfires-europe-failure-to-adapt-mounting-cost-climate-crisis) to [curb [global heating](</glossary.html#global heating>)] carries a mounting cost.\*

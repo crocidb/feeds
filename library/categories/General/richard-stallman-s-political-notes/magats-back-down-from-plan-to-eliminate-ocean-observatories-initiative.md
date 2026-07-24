@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#7_July_2026_(magats_back_
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.497337389Z"
-seen = false
+seen = true
 +++
 
- The [magats](/glossary.html#magat) [backed down from the plan to eliminate the Ocean Observatories Initiative](https://www.theguardian.com/us-news/2026/jun/18/ocean-monitoring-system-reversal-trump-administration), after the Senate passed a law to prohibit that.
+The [magats](/glossary.html#magat) [backed down from the plan to eliminate the Ocean Observatories Initiative](https://www.theguardian.com/us-news/2026/jun/18/ocean-monitoring-system-reversal-trump-administration), after the Senate passed a law to prohibit that.

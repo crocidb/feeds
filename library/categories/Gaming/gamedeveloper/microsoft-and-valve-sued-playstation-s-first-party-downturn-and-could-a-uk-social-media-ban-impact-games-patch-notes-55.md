@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/atari-bags-a-very-cool-whale-plays
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-06T15:21:55.220221453Z"
-seen = true
+seen = false
 +++
 

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/22/background-foreground"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-26T11:29:02.631607859Z"
-seen = false
+seen = true
 +++
 
 In a way, I carry my website with me wherever I go. Technically, my website is a few keystrokes away on my phone, but I think the presence of my website extends beyond the technical. Having a website encourages me to write, I think, because I know I have a place to put and share my writing. I take notes as I go throughout the world because I love writing, then I come home and ask “could I craft this into an essay?” <sup class="footnote-reference" id="f-1"><a href="https://jamesg.blog/longform-feed#1">1</a></sup> And so over time my website has accrued stories of [bird song](https://jamesg.blog/2025/05/30/things-around-me) and [coffee shops](https://jamesg.blog/2025/04/10/the-evening-coffee-shop) and [ice cream in Tesco](https://jamesg.blog/2025/04/05/tesco-ice-cream).

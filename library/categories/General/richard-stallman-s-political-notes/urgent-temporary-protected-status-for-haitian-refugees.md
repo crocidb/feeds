@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#7_July_2026_(Urgent:_Temp
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.480376865Z"
-seen = false
+seen = true
 +++
 
- US citizens: call on your senators to [extend temporary protected status](https://actionnetwork.org/letters/protect-over-350000-haitian-refugees-from-deportation?nowrapper=true) for the 350,000 Haitian refugees in the US.
+US citizens: call on your senators to [extend temporary protected status](https://actionnetwork.org/letters/protect-over-350000-haitian-refugees-from-deportation?nowrapper=true) for the 350,000 Haitian refugees in the US.
 
  See the [instructions](/actionnetwork-letter-instructions.html) for how to sign this letter campaign without running any nonfree JavaScript code--not trivial, but not hard.
 

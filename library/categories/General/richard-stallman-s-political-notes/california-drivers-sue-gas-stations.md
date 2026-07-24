@@ -6,9 +6,9 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(California_d
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.471273593Z"
-seen = false
+seen = true
 +++
 
- \*California drivers [sue gas stations](https://www.theguardian.com/us-news/2026/jun/22/california-gas-stations-ai-prices-lawsuit) for allegedly\* using computers to survey the prices of other gas stations and following the pattern discerned therein.
+\*California drivers [sue gas stations](https://www.theguardian.com/us-news/2026/jun/22/california-gas-stations-ai-prices-lawsuit) for allegedly\* using computers to survey the prices of other gas stations and following the pattern discerned therein.
 
  It is more or less equivalent to fixing prices.

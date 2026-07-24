@@ -6,9 +6,9 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(German_cour
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.803707619Z"
-seen = false
+seen = true
 +++
 
- A court in Germany ruled that [Google is responsible for accusations in Supposed Intelligence Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) when they are not justified by sources.
+A court in Germany ruled that [Google is responsible for accusations in Supposed Intelligence Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) when they are not justified by sources.
 
  For Google to design the implementation of "overviews" to check their validity require it to understand the sources and what can validly be inferred from them. That would require true intelligence—pretend intelligence isn't sufficient.

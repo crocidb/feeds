@@ -6,7 +6,7 @@ url = "https://nautil.us/space-screws-up-sperms-ability-to-navigate-properly-127
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-27T12:56:09.405080259Z"
-seen = true
+seen = false
 +++
 
 And not because they refuse to ask for directions

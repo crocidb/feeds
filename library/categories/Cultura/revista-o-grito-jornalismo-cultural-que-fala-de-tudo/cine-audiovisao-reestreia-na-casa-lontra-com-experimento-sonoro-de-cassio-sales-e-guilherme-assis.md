@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/4a-temporada-do-cine-audiovisao-estreia-na-casa
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-03T16:48:33.711436303Z"
-seen = false
+seen = true
 +++
 
 A **[Casa Lontra](https://revistaogrito.com/casa-lontra-centro-do-recife/)**, no bairro da Soledade, Centro do Recife, apresenta a estreia da 4ª temporada do **Cine Audiovisão**, neste sábado (4). O espaço cultural promove um encontro do cinema de vanguarda com a música experimental em um cine-concerto gratuito, com início às 19h. Na primeira exibição, o artista **Cássio Sales** convida **[Guilherme Assis](https://revistaogrito.com/assunto/guilherme-assis/)**, do Zelo Estúdio, para criação em conjunto de uma experiência sonora e visual improvisada com acesso gratuito pelo público.

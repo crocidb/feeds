@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#13_July_2026_(Urgent:_Blo
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.483531242Z"
-seen = false
+seen = true
 +++
 
- US citizens: call on your state attorney general to sue to block [the persecutor's](/glossary.html#trump) new [Medicaid Work Requirements](https://actionnetwork.org/letters/block-trumps-medicaid-work-requirements?nowrapper=true).
+US citizens: call on your state attorney general to sue to block [the persecutor's](/glossary.html#trump) new [Medicaid Work Requirements](https://actionnetwork.org/letters/block-trumps-medicaid-work-requirements?nowrapper=true).
 
  If they go into effect, the complex paperwork would be an insuperable burden for many of the handicapped veterans, who would need to satisfy and convince bureaucrats whose mission is to resist.
 

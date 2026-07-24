@@ -6,7 +6,7 @@ url = "https://nautil.us/lung-on-a-chip-reveals-how-asthma-attacks-permanently-c
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-01T13:54:40.728217929Z"
-seen = false
+seen = true
 +++
 
 Researchers built a cultured lung and gave it an asthma attack

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-year-in-biology-20251215/"
 author = "Hannah Waters"
 text = ""
 lastupdated = "2025-12-17T22:54:20.174863152Z"
-seen = true
+seen = false
 +++
 
 As I reflect on a year of Quanta biology stories to decide which of the many excellent ones to recommend, I am relying on memory. But what exactly does that mean? “Memory” is a slippery word. It means one thing to a person striving to recall places, people or moments from the past, and another to someone searching their mind for a fact they swore they knew. A neuroscientist might consider a…

@@ -6,9 +6,9 @@ url = "https://stallman.org/archives/2026-may-aug.html#6_July_2026_(Urgent:_Rele
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-07T12:18:41.806732787Z"
-seen = false
+seen = true
 +++
 
- US citizens: call for the [release of whistleblower Courtney Williams](https://actionnetwork.org/forms/petition-release-alleged-source-courtney-williams?nowrapper=true&referrer=&source=), charged with "espionage" for disclosing discrimination and harassment she experienced as a contractor at Fort Bragg.
+US citizens: call for the [release of whistleblower Courtney Williams](https://actionnetwork.org/forms/petition-release-alleged-source-courtney-williams?nowrapper=true&referrer=&source=), charged with "espionage" for disclosing discrimination and harassment she experienced as a contractor at Fort Bragg.
 
  Don't forget that that military base is named after a traitor, [Braxton Bragg](https://stallman.org/archives//2021-nov-feb.html#30_January_2022_(Fort_Bragg)).

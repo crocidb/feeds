@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/31/home"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-01T21:30:16.227635742Z"
-seen = false
+seen = true
 +++
 
 I remember I was on a trip a few years ago to a place I had wanted to visit for years. Toward the end of the trip, I said to someone that I “missed the poetry” of home. I had come all this way to a place I had dreamed of, had the best of times, and heard the most wonderful of stories. Yet, my heart still yearned for home: here, in Scotland.

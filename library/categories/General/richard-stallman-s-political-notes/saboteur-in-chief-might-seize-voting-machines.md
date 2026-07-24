@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#7_July_2026_(Saboteur_in_
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.502531889Z"
-seen = false
+seen = true
 +++
 
 [The saboteur](/glossary.html#saboteur) in [chief might seize voting machines](https://www.theguardian.com/us-news/2026/feb/27/trump-voting-machines-midterm-election) to sabotage this year's elections. Some of his henchpersons' actions suggest this is under consideration.

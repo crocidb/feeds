@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#16_July_2026_(Endangered_
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-18T14:48:04.767995619Z"
-seen = false
+seen = true
 +++
 
- The wrecker's henchmen [just adopted](https://www.theguardian.com/us-news/2026/jul/10/epa-rollback-endangered-habitats-logging-mining) a narrow standard of "harm" for the Endangered Species Act, in order to enable business activities that risk wiping out endangered species.
+The wrecker's henchmen [just adopted](https://www.theguardian.com/us-news/2026/jul/10/epa-rollback-endangered-habitats-logging-mining) a narrow standard of "harm" for the Endangered Species Act, in order to enable business activities that risk wiping out endangered species.

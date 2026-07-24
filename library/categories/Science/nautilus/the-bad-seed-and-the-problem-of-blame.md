@@ -6,7 +6,7 @@ url = "https://nautil.us/the-bad-seed-and-the-problem-of-blame-1279756/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-04-12T21:28:41.109626055Z"
-seen = true
+seen = false
 +++
 
 A conversation with behavioral geneticist Kathryn Paige Harden about the heritability of vice

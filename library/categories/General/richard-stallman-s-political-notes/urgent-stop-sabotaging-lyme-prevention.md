@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(Urgent:_sto
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.537241315Z"
-seen = false
+seen = true
 +++
 
 US citizens: call on RFK Jr. to stop sabotaging Lyme disease prevention.

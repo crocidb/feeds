@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(ICE_killing
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.529309381Z"
-seen = false
+seen = true
 +++
 
- The deportation thugs [decided to cease the practice](https://theintercept.com/2026/07/14/ice-order-vehicle-stops-killings-shootings/) of ordering drivers to pull over, since that has shown a tendency to lead to killings of drivers.
+The deportation thugs [decided to cease the practice](https://theintercept.com/2026/07/14/ice-order-vehicle-stops-killings-shootings/) of ordering drivers to pull over, since that has shown a tendency to lead to killings of drivers.
 
 However, the [persecutor](/glossary.html#trump) [ordered them to resume](https://www.theguardian.com/us-news/2026/jul/15/trump-ice-traffic-stops). Apparently he thinks that killing people for no reason is a good thing.
 

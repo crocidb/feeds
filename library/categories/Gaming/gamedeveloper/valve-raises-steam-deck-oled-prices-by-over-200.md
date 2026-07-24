@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/valve-raises-steam-deck-oled-price
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-28T23:17:49.544733261Z"
-seen = true
+seen = false
 +++
 

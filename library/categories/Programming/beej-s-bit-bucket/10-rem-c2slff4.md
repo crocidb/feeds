@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/mystery-comment/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-07-22T09:22:33.554153178Z"
-seen = false
+seen = true
 +++
 
 Wherein we chase down a BASIC retrocomputing question that's bugged me for far too long.

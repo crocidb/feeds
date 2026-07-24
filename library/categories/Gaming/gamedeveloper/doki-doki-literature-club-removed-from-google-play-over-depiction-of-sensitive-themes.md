@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/doki-doki-literature-club-removed-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-04-12T21:28:20.837067854Z"
-seen = true
+seen = false
 +++
 
