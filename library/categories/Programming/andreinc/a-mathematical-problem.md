@@ -6,7 +6,7 @@ url = "https://andreinc.net/2026/04/08/a-mathematical-problem/"
 author = "Andrei Ciobanu"
 text = ""
 lastupdated = "2026-04-10T10:23:57.403606760Z"
-seen = false
+seen = true
 +++
 
 While reading some classic poetry, I accidentally found Samuel Taylor Coleridge’s [*A Mathematical Problem*](https://en.wikisource.org/wiki/A_Mathematical_Problem):
