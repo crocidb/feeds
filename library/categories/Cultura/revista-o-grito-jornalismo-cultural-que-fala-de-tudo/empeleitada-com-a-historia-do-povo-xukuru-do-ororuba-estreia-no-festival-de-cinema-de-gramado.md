@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/empeleitada-filma-a-historia-do-povo-xukuru-do-
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-18T14:47:56.189993515Z"
-seen = true
+seen = false
 +++
 
 Em 2026, o **54º Festival de Cinema de Gramado** acontece entre os dias 12 e 22 de agosto. Dentre as produções selecionadas para compor a Mostra Competitiva de Documentários Brasileiros está o longa-metragem pernambucano ***Empeleitada*** com estreia marcada para a primeira terça de exibições (18/8). Filmado em 2023, percorre a história do povo **Xukuru do Ororubá**, comunidade indígena concentrada no município de Pesqueira, Agreste pernambucano.

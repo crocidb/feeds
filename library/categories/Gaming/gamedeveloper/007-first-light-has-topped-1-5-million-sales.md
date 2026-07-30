@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/007-first-light-has-topped-1-5-mil
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-01T21:30:10.585375466Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/inside-housemarque-s-improved-narrat
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-04-25T13:20:33.588596397Z"
-seen = false
+seen = true
 +++
 

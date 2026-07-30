@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/04/02/limited-monopoly/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-04-10T10:24:09.926651083Z"
-seen = true
+seen = false
 +++
 
 [![](https://i0.wp.com/craphound.com/images/02Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/02/limited-monopoly/)

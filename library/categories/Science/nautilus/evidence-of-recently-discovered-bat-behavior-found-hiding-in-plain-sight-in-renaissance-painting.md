@@ -6,7 +6,7 @@ url = "https://nautil.us/evidence-of-recently-discovered-bat-behavior-found-hidi
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-01T13:54:40.751767885Z"
-seen = true
+seen = false
 +++
 
 The Flemish painter Jan Brueghel the Elder captured the bird-eating behavior in 1611

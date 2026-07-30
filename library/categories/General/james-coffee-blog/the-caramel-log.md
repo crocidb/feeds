@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/31/the-caramel-log"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-01T21:30:16.224707604Z"
-seen = true
+seen = false
 +++
 
 I have been a long-time lover of [Tunnocks Caramel Wafers](https://www.tunnock.co.uk/products/caramel-wafer/), made in Uddingston (near Glasgow), Scotland. Made with alternating thin layers of caramel and wafer and chocolate, Caramel Wafers are among my favourite biscuits. But today I learned of a Tunnocks product I had not yet tried that has now become another of my favourite biscuits: the caramel log.

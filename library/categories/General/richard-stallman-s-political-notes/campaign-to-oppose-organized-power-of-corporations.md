@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(Campaign_to_
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.477712355Z"
-seen = true
+seen = false
 +++
 
-The main US organization of labor unions, the AFL-CIO, declares its campaign to [oppose the organized power](https://aflcio.org/resolutions/resolution-9-we-want-just-and-peaceful-world) of corporations and the rich.
+ The main US organization of labor unions, the AFL-CIO, declares its campaign to [oppose the organized power](https://aflcio.org/resolutions/resolution-9-we-want-just-and-peaceful-world) of corporations and the rich.

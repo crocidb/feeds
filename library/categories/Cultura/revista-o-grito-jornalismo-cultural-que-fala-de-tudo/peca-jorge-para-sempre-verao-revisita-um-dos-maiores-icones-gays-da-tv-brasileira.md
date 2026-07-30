@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/peca-jorge-para-sempre-verao-revisita-um-dos-ma
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-07-03T12:10:50.571730527Z"
-seen = true
+seen = false
 +++
 
 Uma carta com um pedido de perdão póstumo é o ponto de partida do espetáculo ***Jorge Para Sempre Verão***, montagem teatral que tem como personagem central Jorge Laffond, homem negro gay que na década de 1980 foi uma das principais atrações do Sistema Brasileiro de Televisão – SBT. Conhecido artisticamente como **Vera Verão**, Laffond alcançou o sucesso, sobretudo pela sua participação no programa humorístico *A Praça É Nossa.*

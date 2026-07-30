@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/summary-of-reading-april-june-2026/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-07-01T13:54:35.691351802Z"
-seen = true
+seen = false
 +++
 
 * "The Nuremberg Trial" by John Tusa and Ann Tusa - a detailed, meticulously researched account of the Nuremberg Trials. There's not a whole lot of side questing in this book - it's all focused on the trials themselves. Interesting read overall, though somewhat dry and academic.

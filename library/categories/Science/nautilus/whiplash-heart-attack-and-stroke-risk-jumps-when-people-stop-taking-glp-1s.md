@@ -6,7 +6,7 @@ url = "https://nautil.us/whiplash-heart-attack-and-stroke-risk-jumps-when-people
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-03-18T22:16:09.725010587Z"
-seen = false
+seen = true
 +++
 
 Stopping GLP-1 treatments has side effects, too

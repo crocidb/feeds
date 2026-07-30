@@ -6,7 +6,7 @@ url = "https://nautil.us/how-tiny-shortcuts-are-poisoning-science-1279176/"
 author = "Thomas Plümper"
 text = ""
 lastupdated = "2026-03-25T10:19:21.875079361Z"
-seen = false
+seen = true
 +++
 
 Seemingly harmless data tweaks are undermining the integrity of the entire field. We must define the problem to prevent it

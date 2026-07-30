@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(Japanese_an
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.796932088Z"
-seen = true
+seen = false
 +++
 
-Japanese fans are angry at [the bullshitter](/glossary.html#bullshitter) for [incorporating images and video segments of adored fictional characters](https://www.theguardian.com/world/2026/jun/10/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts) in his propaganda postings.
+ Japanese fans are angry at [the bullshitter](/glossary.html#bullshitter) for [incorporating images and video segments of adored fictional characters](https://www.theguardian.com/world/2026/jun/10/japanese-manga-anime-fans-urge-trump-to-stop-using-characters-social-media-posts) in his propaganda postings.
 
  The propaganda promotes mass imprisonment, aggressive war, and (I suppose) gross ecocide as well. But the supposed moral principle that the Guardian quotes the fans as citing is an issue that [isn't a moral principle at all](https://gnu.org/philosophy/copyright-vs-community.html): copyright law.
 

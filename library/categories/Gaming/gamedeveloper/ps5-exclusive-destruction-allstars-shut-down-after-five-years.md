@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ps5-exclusive-destruction-allstars
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-27T23:23:10.651684007Z"
-seen = false
+seen = true
 +++
 

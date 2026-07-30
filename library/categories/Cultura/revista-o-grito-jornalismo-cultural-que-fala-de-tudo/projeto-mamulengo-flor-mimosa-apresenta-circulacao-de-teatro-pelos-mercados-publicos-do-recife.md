@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/projeto-mamulengo-flor-mimosa-apresenta-circula
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-09T12:05:12.656183324Z"
-seen = true
+seen = false
 +++
 
 A partir desta sexta (10), o cantador e mestre de saberes tradicionais, **Adiel Luna**, dá início a circulação ***Mamulengo Flor Mimosa.*** A base do projeto é um espetáculo com os fantoches tipo mamulengo como protagonistas. Ao todo são seis apresentações gratuitas que têm os mercados públicos da cidade como palco. 

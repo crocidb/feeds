@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/morre-benedito-ruy-barbosa-autor-das-novelas-pa
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-09T12:05:12.659183945Z"
-seen = true
+seen = false
 +++
 
 Com informações da Agência Brasil, o novelista reconhecido nacionalmente, **Benedito Ruy Barbosa**, morreu na manhã desta terça (7), vítima de insuficiência renal. O estado crônico da doença intensificou o quadro do dramaturgo que se encontrava hospitalizado no Hospital do Coração (HCor), em São Paulo. Nascido em 1931, os 95 anos de vida e de atividade criativa o consolidaram como referência da dramaturgia brasileira. 

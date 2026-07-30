@@ -6,7 +6,7 @@ url = "https://laplab.me/posts/media-server-journey/"
 author = "Posts on Nikita Lapkov"
 text = ""
 lastupdated = "2026-02-11T20:17:03.910217318Z"
-seen = false
+seen = true
 +++
 
 I manage my legally obtained content using a media server. Over the years, both hardware and software on the server went through a bunch of transformations which I find interesting.

@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#16_July_2026_(Global_heat
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-18T14:48:04.777613163Z"
-seen = true
+seen = false
 +++
 
-The saboteur in chief [wants to put](https://www.theguardian.com/us-news/2026/jul/10/trump-climate-report-matthew-wielicki) a global heating denialist in charge of official US government reports on the advance of global heating.
+ The saboteur in chief [wants to put](https://www.theguardian.com/us-news/2026/jul/10/trump-climate-report-matthew-wielicki) a global heating denialist in charge of official US government reports on the advance of global heating.

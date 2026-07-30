@@ -6,9 +6,9 @@ url = "https://stallman.org/archives/2026-may-aug.html#7_July_2026_(Saboteur_in_
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.488300777Z"
-seen = true
+seen = false
 +++
 
-The [saboteur in chief](/glossary.html#s-i-c) is pursuing, in parallel, many different ways of [rigging the 2026 elections](https://www.theguardian.com/us-news/2026/jun/16/trump-voting-rights-elections). His targets include various election stages and many election systems.
+ The [saboteur in chief](/glossary.html#s-i-c) is pursuing, in parallel, many different ways of [rigging the 2026 elections](https://www.theguardian.com/us-news/2026/jun/16/trump-voting-rights-elections). His targets include various election stages and many election systems.
 
  I think this shows that his main policy priority is eliminating democracy in the United States.

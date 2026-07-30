@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#16_July_2026_(Graham_Plat
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-18T14:48:04.888414581Z"
-seen = true
+seen = false
 +++
 
-Graham Platner has [dropped out of the election for senator](https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign) from Maine, after an accusation of rape. Now there is the question of [how to choose another candidate](https://theintercept.com/2026/07/08/graham-platner-maine-democrats-senate-replacement/).
+ Graham Platner has [dropped out of the election for senator](https://www.theguardian.com/us-news/2026/jul/08/graham-platner-maine-senate-campaign) from Maine, after an accusation of rape. Now there is the question of [how to choose another candidate](https://theintercept.com/2026/07/08/graham-platner-maine-democrats-senate-replacement/).
 
  The word "rape" clearly states the gravity of the crime he is accused of. Why, I wonder, do so many journalists seek to substitute the vague term "sexual assault", which could mean anything from stealing a kiss to rape. Such vagueness is bad for justice.
 

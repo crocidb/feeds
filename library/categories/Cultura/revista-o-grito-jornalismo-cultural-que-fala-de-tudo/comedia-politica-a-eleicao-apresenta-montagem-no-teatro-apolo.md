@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/comedia-politica-a-eleicao-apresenta-montagem-n
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-03T12:10:50.583264969Z"
-seen = true
+seen = false
 +++
 
 O espetáculo ***A Eleição*** apresenta um retrato provocante da política brasileira em formato cômico neste sábado (4), no **Teatro Apolo**, bairro do Recife (Centro), às 20h. Criada em 2004 pela Companhia de Projetos Cênicos de Santa Cruz do Capibaribe, é a primeira vez que o público da Capital pode conferir o trabalho artístico do grupo. Os ingressos já podem ser adquiridos pelo Sympla. 

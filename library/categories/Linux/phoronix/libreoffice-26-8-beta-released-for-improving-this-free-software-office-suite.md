@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/LibreOffice-26.8-Beta-1"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-09T12:05:22.875527946Z"
-seen = false
+seen = true
 +++
 
 The Document Foundation today announced the first beta release of the LibreOffice 26.8 open-source office suite set for its stable debut in August...

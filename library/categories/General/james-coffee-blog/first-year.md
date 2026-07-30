@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/27/half-way"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-27T23:23:12.170487471Z"
-seen = true
+seen = false
 +++
 
 I am half-way through my first year of university. I am studying toward an art history degree (although part of me wants to do art history and creative writing, which I would have the option to do starting next year!).

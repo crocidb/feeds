@@ -6,7 +6,7 @@ url = "https://nautil.us/a-rare-cloud-jaguar-photographed-slinking-through-the-h
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-04-15T00:26:07.028201825Z"
-seen = false
+seen = true
 +++
 
 It’s encouraging evidence that conservation measures matter

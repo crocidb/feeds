@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/projeto-fera-oferta-oficinas-gratuitas-de-forma
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-18T14:47:56.203560234Z"
-seen = true
+seen = false
 +++
 
 O projeto **Feminismo e Equidade para Reinventar o Audiovisual (FERA)** convida mulheres cis e trans e pessoas não-binárias com experiência no setor para integrar a equipe de formação cultural. Para participar, é necessário se inscrever na seleção prévia por meio do formulário online disponibilizado no site [www.feraaudiovisual.com.br](http://www.feraaudiovisual.com.br) até o dia 27 de julho. A edição que acontece entre os dias 10 e 29 de agosto oferece oito oficinas técnicas e criativas, além de um laboratório de desenvolvimento de roteiros.

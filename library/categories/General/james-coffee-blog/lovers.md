@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/18/lovers"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.848121956Z"
-seen = true
+seen = false
 +++
 
 *I wanted to try and write a little bit of fiction for my blog. I started with the prompt "You've been staring out of the window for the last 3 hours. Why?" and ended up writing the story below. Please enjoy!*

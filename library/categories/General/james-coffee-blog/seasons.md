@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/02/walking-5"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-05T08:24:55.686169117Z"
-seen = true
+seen = false
 +++
 
 My first thought was the field of pink petals. Day by day, petals fall from the tree as green leaves grow from the blossom. *I wonder for how long the petals will keep falling.* There seem to be a million dots of pink in spring, through which there is a new perspective to see every day. Yesterday I saw a reflection. Today I saw growth.

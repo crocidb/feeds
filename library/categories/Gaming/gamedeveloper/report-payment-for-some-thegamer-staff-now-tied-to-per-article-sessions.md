@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-payment-for-thegamer-writer
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-05-27T23:23:10.647923855Z"
-seen = false
+seen = true
 +++
 

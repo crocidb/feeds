@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-wizards-of-the-coast-is-try
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-05-26T11:29:00.934638712Z"
-seen = false
+seen = true
 +++
 

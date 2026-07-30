@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#6_July_2026_(Urgent:_Stop
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-07T12:18:41.813397190Z"
-seen = true
+seen = false
 +++
 
-US citizens: call on Congress to stop Education Sec. Linda McMahon from [transferring special education and student civil rights](https://actionnetwork.org/letters/linda-mcmahon-gutting-special-ed-and-civil-rights?nowrapper=true) out of the Education Department.
+ US citizens: call on Congress to stop Education Sec. Linda McMahon from [transferring special education and student civil rights](https://actionnetwork.org/letters/linda-mcmahon-gutting-special-ed-and-civil-rights?nowrapper=true) out of the Education Department.
 
  See the [instructions](/actionnetwork-letter-instructions.html) for how to sign this letter campaign without running any nonfree JavaScript code--not trivial, but not hard.
 

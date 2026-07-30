@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#16_July_2026_(US_governme
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-18T14:48:04.798287230Z"
-seen = true
+seen = false
 +++
 
-The New York Times reported on apparent flaws in the plane that Qatar gave the corrupter. Now the government [is demanding](https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one) they identify their sources, saying it wants to prosecute them.
+ The New York Times reported on apparent flaws in the plane that Qatar gave the corrupter. Now the government [is demanding](https://www.theguardian.com/us-news/2026/jul/11/justice-department-subpoenas-new-york-times-air-force-one) they identify their sources, saying it wants to prosecute them.

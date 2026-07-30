@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/ousado-e-instigante-apenas-coisas-boas-desafia-
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-07-18T14:47:56.177872399Z"
-seen = true
+seen = false
 +++
 
 Com boa aceitação da crítica e prêmios em festivais nacionais e internacionais, está em cartaz no Cinema da Fundação o filme *Apenas Coisas Boas*, de Daniel Nolasco. O cineasta goiano vem se tornando uma referência no cinema queer brasileiro sobretudo depois de *Vento Seco*, realizado em 2020.

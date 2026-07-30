@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/semana-hermilo-tem-agenda-de-celebracao-ao-aniv
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-03T12:10:50.580415252Z"
-seen = true
+seen = false
 +++
 
 No mês de aniversário do escritor natural de Palmares, Zona da Mata Sul pernambucana, **Hermilo Borba Filho** (1917-1976), o teatro homônimo prepara uma agenda de celebração. Localizado no bairro do Recife (Centro), o espaço cultural promove gratuitamente a **Semana Hermilo** entre os dias 4 e 11 de julho com uma programação cênica e também literária. 

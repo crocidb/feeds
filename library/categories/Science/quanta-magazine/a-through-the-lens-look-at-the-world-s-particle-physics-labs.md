@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/global-physics-photowalk-2025-winners-reve
 author = "Zack Savitsky"
 text = ""
 lastupdated = "2026-04-10T10:24:07.473082914Z"
-seen = false
+seen = true
 +++
 
 Last summer, a wedding photographer walked begrudgingly into a physics laboratory outside Rome. Feeling uninspired by the intricate machinery around him, he decided to turn off the lights. “I wanted to create a world that was a bit more intimate,” said the photographer, Marco Donghia. He had been brought into the lab to participate in a photography contest by his sister Raffaella Donghia…

@@ -6,9 +6,9 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Oil_extract
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.546868705Z"
-seen = true
+seen = false
 +++
 
-Nearly all the big oil companies [are planning](https://www.theguardian.com/environment/2026/jul/07/big-oil-companies-profiting-fossil-fuel-global-climate-change) to "invest" in increasing the rate of extraction, although the executives cannot help but know that this is going to kill a large number of people.
+ Nearly all the big oil companies [are planning](https://www.theguardian.com/environment/2026/jul/07/big-oil-companies-profiting-fossil-fuel-global-climate-change) to "invest" in increasing the rate of extraction, although the executives cannot help but know that this is going to kill a large number of people.
 
  I suggest laws to define starting a new oil or gas well as murder.

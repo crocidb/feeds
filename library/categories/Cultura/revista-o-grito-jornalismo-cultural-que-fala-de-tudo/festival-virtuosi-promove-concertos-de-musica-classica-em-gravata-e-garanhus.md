@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festival-virtuosi-promove-concertos-de-musica-c
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-03T12:10:50.574881738Z"
-seen = true
+seen = false
 +++
 
 Após realizar a 27ª edição em abril no Recife, o **Festival Virtuosi** de música clássica vai em direção ao interior de Pernambuco para realização da 16ª edição em Gravatá e o 19º Virtuosi na Serra. O primeiro acontece entre 9 e 11 de julho. Já o segundo integra a programação do **Festival de Inverno de Garanhuns (FIG)**, de 16 a 18 e 24 a 26 de julho. Intérpretes, orquestras e solistas, tanto brasileiros como estrangeiros, integram uma programação totalmente gratuita.

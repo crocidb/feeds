@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#16_July_2026_(US_chemical
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-18T14:48:04.899548707Z"
-seen = true
+seen = false
 +++
 
-\*US chemical accidents [rising as [persecutor] rolls back protections](https://www.theguardian.com/us-news/2026/jul/09/us-chemical-accidents-trump), report finds.\*
+ \*US chemical accidents [rising as [persecutor] rolls back protections](https://www.theguardian.com/us-news/2026/jul/09/us-chemical-accidents-trump), report finds.\*

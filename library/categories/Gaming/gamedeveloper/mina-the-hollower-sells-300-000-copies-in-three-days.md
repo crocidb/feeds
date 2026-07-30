@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/mina-the-hollower-sold-300-000-cop
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-06T15:21:55.246785262Z"
-seen = false
+seen = true
 +++
 

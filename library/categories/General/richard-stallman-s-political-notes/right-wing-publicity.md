@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#15_July_2026_(Right-wing_
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.475657892Z"
-seen = true
+seen = false
 +++
 
-The leader of an Australian right-wing party is [seeking publicity](https://www.theguardian.com/australia-news/2026/jul/10/how-pauline-hanson-courts-uks-far-right-builds-brand-with-pseudo-events-publicity-stunts-ntwnfb) through an interview with a British right-wing nationalist.
+ The leader of an Australian right-wing party is [seeking publicity](https://www.theguardian.com/australia-news/2026/jul/10/how-pauline-hanson-courts-uks-far-right-builds-brand-with-pseudo-events-publicity-stunts-ntwnfb) through an interview with a British right-wing nationalist.
 
 \*Dr Imogen Richards, a criminology researcher at Deakin University, said announcing or appearing on podcasts with contentious counterparts was akin to a "pseudo event" that's as much about the publicity as it is about the [substance].
 

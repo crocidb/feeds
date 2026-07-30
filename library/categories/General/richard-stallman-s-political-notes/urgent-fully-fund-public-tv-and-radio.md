@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#6_July_2026_(Urgent:_Full
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-07T12:18:41.823500994Z"
-seen = true
+seen = false
 +++
 
-US citizens: call on your congresscritter and senators to [fully fund public TV and radio](https://actionnetwork.org/letters/fund-public-media?nowrapper=true).
+ US citizens: call on your congresscritter and senators to [fully fund public TV and radio](https://actionnetwork.org/letters/fund-public-media?nowrapper=true).
 
  See the [instructions](/actionnetwork-letter-instructions.html) for how to sign this letter campaign without running any nonfree JavaScript code--not trivial, but not hard.
 

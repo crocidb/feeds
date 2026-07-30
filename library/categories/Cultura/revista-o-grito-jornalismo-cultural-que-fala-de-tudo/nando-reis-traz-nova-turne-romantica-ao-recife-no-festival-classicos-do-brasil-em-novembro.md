@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/nando-reis-traz-nova-turne-romantica-ao-recife-
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-16T14:36:43.143445110Z"
-seen = true
+seen = false
 +++
 
 O cantor **[Nando Reis](https://revistaogrito.com/duda-beat-e-nando-reis-celebram-hits-em-ep-colaborativo/)** confirmou sua apresentação em Recife no dia 7 de novembro de 2026, marcando a estreia na cidade de sua nova turnê, intitulada **“Pra Você Guardei o Amor”**. Focada em seu repertório mais romântico, a apresentação acontece ao ar livre no **Parque Dona Lindu**, em Boa Viagem, como parte do festival **Clássicos do Brasil**. Na mesma data, sobem ao palco o cantor **Humberto Gessinger** e a banda **CPM 22**.

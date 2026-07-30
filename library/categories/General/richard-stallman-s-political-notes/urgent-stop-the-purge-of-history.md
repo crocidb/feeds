@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(Urgent:_Sto
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.554374097Z"
-seen = true
+seen = false
 +++
 
 US citizens: call on Congress to stop the purge of history from parks and public schools.

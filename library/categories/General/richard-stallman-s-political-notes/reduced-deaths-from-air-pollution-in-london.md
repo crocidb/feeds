@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(Reduced_deat
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.454719400Z"
-seen = true
+seen = false
 +++
 
-Limiting vehicle emissions in London has [reduced deaths](https://www.theguardian.com/environment/2026/jun/24/deaths-london-air-pollution-fallen-imperial-college) from air pollution in the affected zone by 40%, saving thousands of lives per year.
+ Limiting vehicle emissions in London has [reduced deaths](https://www.theguardian.com/environment/2026/jun/24/deaths-london-air-pollution-fallen-imperial-college) from air pollution in the affected zone by 40%, saving thousands of lives per year.
 
  This can [now be done anywhere in the world](https://www.theguardian.com/commentisfree/2026/jun/23/air-pollution-clean-up-london-new-york-sadiq-khan-michael-bloomberg), if governments can stand up to the businesses that sell death.
 

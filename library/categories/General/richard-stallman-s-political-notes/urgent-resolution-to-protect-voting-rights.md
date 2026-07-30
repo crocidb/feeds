@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Urgent:_Res
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.499387883Z"
-seen = true
+seen = false
 +++
 
-Us citizens: call on your congresscritter to [support the resolution](https://actionnetwork.org/letters/pass-the-resolution-to-protect-voting-rights?nowrapper=true) to protect voting rights.
+ Us citizens: call on your congresscritter to [support the resolution](https://actionnetwork.org/letters/pass-the-resolution-to-protect-voting-rights?nowrapper=true) to protect voting rights.
 
  See the [instructions](/actionnetwork-letter-instructions.html) for how to sign this letter campaign without running any nonfree JavaScript code--not trivial, but not hard.
 

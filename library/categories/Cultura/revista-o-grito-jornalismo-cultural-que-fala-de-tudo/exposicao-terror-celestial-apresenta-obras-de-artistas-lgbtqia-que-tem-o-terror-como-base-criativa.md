@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/exposicao-terror-celestial-apresenta-obras-de-a
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-16T14:36:43.147026590Z"
-seen = true
+seen = false
 +++
 
 Neste sábado (18), o **Museu de Arte Contemporânea (MAC-CE)** inaugura ***Terror Celestial***, exposição que apresenta o gênero do terror sob a perspectiva de artistas LGBTQIA+. Com curadoria de Lucas Dilacerda, as obras reunidas buscam discutir como a vivência atravessada pelo medo pode ser transformada em força criativa. O acesso é gratuito e segue em cartaz até 4 de outubro.

@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/on-drm/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:56.990404744Z"
-seen = true
+seen = false
 +++
 
 Why not to protect your books with DRM.

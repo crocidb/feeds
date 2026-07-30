@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/anatomia-do-caos-resgata-a-memoria-das-irrespon
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-07-06T19:13:14.674009642Z"
-seen = true
+seen = false
 +++
 
 A comoção tomou conta da plateia do [Cinema São Luiz](https://revistaogrito.com/enredo-de-as-lunaticase-transformado-em-telefilme-com-exibicao-no-cinema-sao-luiz/) na noite deste último sábado. Não era para menos, muitos espectadores chegaram às lágrimas. A exibição do documentário ***Anatomia do Caos***, da cineasta **Dandara Ferreira** trouxe de volta para o presente as nefastas lembranças de um dos períodos mais sombrios da vida brasileira nos últimos anos, quando a irresponsabilidade e crueldade do governo do fascista Jair Bolsonaro, no gerenciamento dos efeitos da [pandemia da covid-19](https://revistaogrito.com/hqs-da-quarentena-joao-pinheiro-e-a-pandemia-na-quebrada/), resultou na morte de 711.380 pessoas (dados oficiais), ou seja, cerca de um brasileiro a cada 303 pessoas perdeu a vida, números que colocaram o Brasil como o quinto país em mortes no panorama mundial.

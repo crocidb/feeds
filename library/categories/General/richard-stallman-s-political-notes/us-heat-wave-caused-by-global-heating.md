@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(US_heat_wav
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.521547702Z"
-seen = true
+seen = false
 +++
 
-The just-ended US heat wave [could never have happened](https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary) before global heating.
+ The just-ended US heat wave [could never have happened](https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary) before global heating.

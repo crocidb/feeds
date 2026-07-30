@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/13/clouds-colour-2"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-16T20:07:27.904775107Z"
-seen = true
+seen = false
 +++
 
 Approaching a junction, I looked up to the sky and saw a hole in the clouds unlike any I have seen before. I usually look up to the stone that must be at least a hundred years old: to the grey buildings – homes – in which I see so many stories. But today the blue sky and the white cloud stood out; the life of the city is made as much in Nature as it is in architecture.

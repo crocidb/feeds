@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(General_lon
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.799756908Z"
-seen = true
+seen = false
 +++
 
-Admired economists suggest a general long-term road map for eliminating poverty.
+ Admired economists suggest a general long-term road map for eliminating poverty.
 
  Policies that [priorities "economic growth"](https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders) have produced hundreds of millions of people in extreme poverty, thousands of billionaires, and massive disasters.
 

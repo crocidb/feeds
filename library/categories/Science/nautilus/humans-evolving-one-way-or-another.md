@@ -6,7 +6,7 @@ url = "https://nautil.us/humans-evolving-one-way-or-another-1279967/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-20T13:16:27.952514513Z"
-seen = false
+seen = true
 +++
 
 Have we moved beyond the reach of natural selection? If so, it’s likely a relatively recent development.

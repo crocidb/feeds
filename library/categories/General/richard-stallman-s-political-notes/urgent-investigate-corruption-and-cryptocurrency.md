@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(Urgent:_Inve
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.422729083Z"
-seen = true
+seen = false
 +++
 
-US citizens: call on the Senate to [investigate corruption and cryptocurrency](https://actionnetwork.org/letters/protect-financial-oversight?nowrapper=true), so as to block deregulation plans which threaten to increase the corruption.
+ US citizens: call on the Senate to [investigate corruption and cryptocurrency](https://actionnetwork.org/letters/protect-financial-oversight?nowrapper=true), so as to block deregulation plans which threaten to increase the corruption.
 
  See the [instructions](/actionnetwork-letter-instructions.html) for how to sign this letter campaign without running any nonfree JavaScript code--not trivial, but not hard.
 

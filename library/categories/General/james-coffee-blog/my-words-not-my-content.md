@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/01/my-words-not-my-content"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-05T08:24:55.703967451Z"
-seen = true
+seen = false
 +++
 
 Every so often I think about the word “content.” It’s not my favourite word. Content feels relatively flat compared to the things to which it can refer.

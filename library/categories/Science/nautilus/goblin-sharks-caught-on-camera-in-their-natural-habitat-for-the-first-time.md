@@ -6,7 +6,7 @@ url = "https://nautil.us/goblin-sharks-caught-on-camera-in-their-natural-habitat
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-16T20:08:25.035944067Z"
-seen = true
+seen = false
 +++
 
 Two of these mysterious sharks were recorded by deep-sea submersibles

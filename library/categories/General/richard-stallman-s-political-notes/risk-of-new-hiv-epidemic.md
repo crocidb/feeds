@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(Risk_of_new
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.802406468Z"
-seen = true
+seen = false
 +++
 
-\*Funding cuts and repressive laws [raise risk of new HIV epidemic](https://www.theguardian.com/global-development/2026/jun/12/health-aids-disease-hiv-infection-unaids-funding-tests-cuts-risk-epidemic), says UNAids.\*
+ \*Funding cuts and repressive laws [raise risk of new HIV epidemic](https://www.theguardian.com/global-development/2026/jun/12/health-aids-disease-hiv-infection-unaids-funding-tests-cuts-risk-epidemic), says UNAids.\*

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/27/views-between"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-27T23:23:12.168420512Z"
-seen = true
+seen = false
 +++
 
 There is beauty in the moments between arriving and reaching your destination. I felt this yesterday in the moments before attending an event in Edinburgh last night. I had an hour before I needed to arrive and, the day being so warm, I decided to slow down and listen to the world around. I walked through the park with my eyes open under the evening sun for which I had been yearning for months. Every breeze through the air enlivened my senses. Every smile stuck a chord somewhere in my soul.

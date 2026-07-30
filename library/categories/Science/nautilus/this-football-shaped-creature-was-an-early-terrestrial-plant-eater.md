@@ -6,7 +6,7 @@ url = "https://nautil.us/this-football-shaped-creature-was-an-early-terrestrial-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-02-11T20:17:08.345749664Z"
-seen = false
+seen = true
 +++
 
 For 100 million years, plants had Earth’s surface mostly to themselves while vertebrates thrashed around in the primordial seas. When vertebrates finally crept up on terra firma, they still opted to dine on their fellow animals, leaving the foliage alone. Tens of millions of years later, that changed. Now, researchers have identified one of the earliest known fossils of a terrestrial vertebrate plant-eater. They [published](http://dx.doi.org/10.1038/s41559-025-02929-8) their findings today in *Nature Ecology and Evolution*.

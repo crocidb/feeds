@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1078242/"
 author = "jzb"
 text = ""
 lastupdated = "2026-06-17T14:21:31.669925245Z"
-seen = true
+seen = false
 +++
 
 [Version 2.0](https://github.com/pynicolas/FairScan/releases/tag/v2.0.0) of the FairScan document-scanning app for Android has been released. The headline feature for this release is the [addition](https://github.com/pynicolas/FairScan/issues/27) of optical-character-recognition (OCR) support using [Tesseract](https://tesseract-ocr.github.io/) to produce PDFs with searchable text from scans. FairScan developer Pierre-Yves Nicolas has written a [detailed blog](https://fairscan.org/blog/when-a-scan-becomes-a-searchable-pdf/) about adding the feature and explaining why it had not been added previously.

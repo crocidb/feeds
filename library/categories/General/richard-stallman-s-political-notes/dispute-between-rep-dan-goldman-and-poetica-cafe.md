@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#7_July_2026_(Dispute_betw
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.503877710Z"
-seen = true
+seen = false
 +++
 
-In the [dispute between Rep. Dan Goldman and the Poetica Cafe](https://www.theguardian.com/us-news/2026/jun/23/new-york-lawmaker-cafe-banned-pro-israel-view), there is wrong on every side.
+ In the [dispute between Rep. Dan Goldman and the Poetica Cafe](https://www.theguardian.com/us-news/2026/jun/23/new-york-lawmaker-cafe-banned-pro-israel-view), there is wrong on every side.
 
  Judging from [Goldman's Wikipedia page](https://en.wikipedia.org/wiki/Dan_Goldman), it is clear that he excuses Israel's atrocities in Gaza, which may have killed hundreds of thousands of Palestinians and seem to have targeted journalists and medical doctors, citing HAMAS's equally cruel but far smaller atrocities.
 

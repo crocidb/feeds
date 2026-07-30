@@ -6,7 +6,7 @@ url = "https://igerman.cc/blog/oracle-backup/"
 author = "german s."
 text = ""
 lastupdated = "2026-07-03T12:10:55.498636112Z"
-seen = true
+seen = false
 +++
 
 Like many enthusiasts, I have a free-tier Ampere A1 instance from Oracle. And like many Oracle users, I live in constant paranoia that Oracle will do what they do best and [fuck me over with zero warning](https://www.reddit.com/r/oraclecloud/comments/1u4lzkk/new_free_tier_limits_confirmed_by_oracle_support/).

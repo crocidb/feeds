@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/bebe-lanca-videoclipes-de-meu-peito-e-se-tocar-
 author = "Rafael Curtis"
 text = ""
 lastupdated = "2026-07-21T09:19:39.539318893Z"
-seen = true
+seen = false
 +++
 
 A cantora, compositora e produtora paulistana [**Bebé** ](https://revistaogrito.com/assunto/bebe/)lançou os videoclipes das faixas “Meu Peito” e “Se Tocar”, trabalhos que expandem o universo visual de *Dissolução*, seu terceiro álbum de estúdio. Dirigidas por **Mariana Maria**, as produções traduzem para a linguagem audiovisual as investigações sobre transformação, identidade e autoacolhimento que atravessam o projeto fonográfico.

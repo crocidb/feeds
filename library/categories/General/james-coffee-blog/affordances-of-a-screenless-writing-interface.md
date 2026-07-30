@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/07/affordances-of-a-screenless-writing-interf
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-08T13:34:21.927917585Z"
-seen = true
+seen = false
 +++
 
 *This post was written first with my* [*screenless writing interface*](https://jamesg.blog/2026/05/07/writing-a-blog-post-without-a-screen)*, and then edited in Ghost, which I use to publish blog posts to this website. The extent of my edits were fixing typos and reworking the introduction and conclusion a little bit.*

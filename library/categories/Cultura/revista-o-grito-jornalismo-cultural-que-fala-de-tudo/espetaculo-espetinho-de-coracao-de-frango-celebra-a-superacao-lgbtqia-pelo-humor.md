@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/espetaculo-espetinho-de-coracao-de-frango-celeb
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-21T10:40:47.142323008Z"
-seen = true
+seen = false
 +++
 
 Pela união do teatro com a festa, o **Coletivo Flutuante** apresenta a primeira temporada aberta ao público do espetáculo ***Espetinho de Coração de Frango.*** A montagem celebra a diversidade LGBTQIA+ em sessões marcadas para os sábados, 25 de julho e 1 de agosto, no espaço cultural **Central das Estrelas,** localizado no bairro de Santo Amaro, área central do Recife, às 21h. O ingresso já está à venda e a pós-apresentação também está garantida com os sets do **DJ KRONOS**. 

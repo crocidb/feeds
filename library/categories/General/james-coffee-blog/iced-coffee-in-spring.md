@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/24/iced-coffee-in-spring"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-26T11:29:02.628565568Z"
-seen = true
+seen = false
 +++
 
 Saturday was a busy day; I was on my feet for most of the day, and then came home to participate in the [IndieWeb Zine meetup](https://jamesg.blog/2026/05/24/joining-the-indieweb-zine-pop-up). Today, however, is comparatively quieter. I started my day reading manga in bed, and then had a slow start to the day – making breakfast, continuing to read Jane Eyre. Because the weather has been so nice this weekend, I knew I had to go out for a walk, which was most wonderful. This weekend has been twenty degrees Celsius. Oh! how much I love the warmer weather.

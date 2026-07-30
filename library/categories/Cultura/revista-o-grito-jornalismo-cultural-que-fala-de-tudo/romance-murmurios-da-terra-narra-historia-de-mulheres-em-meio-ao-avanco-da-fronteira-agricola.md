@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/romance-murmurios-da-terranarra-historia-de-mul
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-03T12:10:50.589072906Z"
-seen = true
+seen = false
 +++
 
 Intitulado ***Murmúrios da Terra,*** o livro inédito da autora **Anna Mariano** narra o movimento migratório responsável pelo êxodo de brasileiros da região Sul para o Centro-oeste e o Norte do país na metade do século 20.

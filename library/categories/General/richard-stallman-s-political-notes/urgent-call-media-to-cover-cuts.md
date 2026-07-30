@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(Urgent:_cal
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.535918549Z"
-seen = true
+seen = false
 +++
 
 US citizens: call on news media to recognize that the [persecutor](/glossary.html#trump)'s henchmen are drumming up false accusations of tolerating fraud as an excuse to deny Medicaid funds to Democratic states.

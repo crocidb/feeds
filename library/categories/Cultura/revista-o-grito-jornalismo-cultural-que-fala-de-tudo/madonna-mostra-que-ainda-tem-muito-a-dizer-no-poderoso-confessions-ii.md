@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/madonna-mostra-que-ainda-tem-muito-a-dizer-no-p
 author = "Nuno Talicosk"
 text = ""
 lastupdated = "2026-07-16T14:36:43.158756453Z"
-seen = true
+seen = false
 +++
 
 *Foto: Rafael Pavarotti/Divulgação*

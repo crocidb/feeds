@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#6_July_2026_(Urgent:_Bloc
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-07T12:18:41.799937204Z"
-seen = true
+seen = false
 +++
 
-US citizens: call on Congress to [block the saboteur in chief from wrecking Social Security](https://act.demandprogress.org/sign/social-security-insolvency-johnson/?t=1004&akid=35262.96703.8mUca2).
+ US citizens: call on Congress to [block the saboteur in chief from wrecking Social Security](https://act.demandprogress.org/sign/social-security-insolvency-johnson/?t=1004&akid=35262.96703.8mUca2).

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/livro-resgata-historia-do-ferros-bar-que-deu-or
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-07-03T12:10:50.592114717Z"
-seen = true
+seen = false
 +++
 
 No último sábado (27/6), a autora **Julia Kumpera** esteve junto a ativista **Rita Quadros** na Livraria Expressão Popular, em São Paulo, para um evento de lançamento do livro ***Na Noite Lésbica: O Levante do Ferro’s Bar*** (2026)**.** A primeira é a autora da obra, já a segunda é a produtora do documentário ***Ferro’s Bar*** (2023)*.* Na ocasião, o episódio conhecido por dar origem ao **Dia Nacional do Orgulho Lésbico** foi o destaque do debate.

@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#7_July_2026_(Estimates_of
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.481662395Z"
-seen = true
+seen = false
 +++
 
-Various groups are estimating that [Israel has killed around 600,000 people](https://www.aljazeera.com/news/2025/9/14/foreign-doctors-say-israel-systematically-targeting-gazas-children-report) in Gaza, which would be 1/4 of the population. Ralph Nader contends that both HAMAS and Israel have reasons to accept the underestimate.
+ Various groups are estimating that [Israel has killed around 600,000 people](https://www.aljazeera.com/news/2025/9/14/foreign-doctors-say-israel-systematically-targeting-gazas-children-report) in Gaza, which would be 1/4 of the population. Ralph Nader contends that both HAMAS and Israel have reasons to accept the underestimate.

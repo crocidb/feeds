@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24839"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-06-16T20:07:30.131924072Z"
-seen = true
+seen = false
 +++
 
 [I’m moving to an apartment this week](https://mwl.io/archives/24835). If you’re waiting for a reply from me, I’ll be back in business next week. But moving is a chance to revisit old setups. A while back, [ZZ Claybourne](https://zzclaybourne.com) saw my desk and declared it to be “some real Geordi La Forge shit.”

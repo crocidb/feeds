@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/playerunknown-productions-is-layin
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-06-06T15:21:55.237226735Z"
-seen = false
+seen = true
 +++
 

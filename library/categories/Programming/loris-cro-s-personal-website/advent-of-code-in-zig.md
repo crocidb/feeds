@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/advent-of-code-zig/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.931264684Z"
-seen = false
+seen = true
 +++
 

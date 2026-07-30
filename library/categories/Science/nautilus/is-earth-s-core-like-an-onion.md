@@ -6,7 +6,7 @@ url = "https://nautil.us/is-earths-core-like-an-onion-1254920/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2025-12-17T22:54:19.695671928Z"
-seen = false
+seen = true
 +++
 
 Earth has been compared to an onion, with layers of atmosphere, crust, mantle, and interior. If you metaphorically peel off one layer, you may find one underneath with its own unique physical properties. Now, a [study](https://www.nature.com/articles/s41467-025-67067-y) published in *Nature Communications* asserts that even Earth’s inner core might justify the onion analogy.

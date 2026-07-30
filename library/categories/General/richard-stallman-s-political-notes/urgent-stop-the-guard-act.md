@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(Urgent:_Sto
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.555729743Z"
-seen = true
+seen = false
 +++
 
 US citizens: call on Congress to [reject the "Guard Act"](http://www.fsf.org/blogs/community/stop-the-guard-act), which would require each program to have a built-in prison guard.

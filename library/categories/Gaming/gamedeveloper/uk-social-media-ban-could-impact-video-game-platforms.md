@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/uk-social-media-ban-could-impact-v
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-01T21:30:10.571292162Z"
-seen = false
+seen = true
 +++
 

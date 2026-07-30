@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#10_July_2026_(Urgent:_Sup
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.502145741Z"
-seen = true
+seen = false
 +++
 
-US citizens: call on your congresscritter and senators to support what is [being called the "AI for the people" act](https://actionnetwork.org/letters/ai-for-the-people?nowrapper=true), but to remove the [marketing hype term "AI"](<https://gnu.org/philosophy/words-to-avoid.html#ArtificialIntelligence >) from the bill.
+ US citizens: call on your congresscritter and senators to support what is [being called the "AI for the people" act](https://actionnetwork.org/letters/ai-for-the-people?nowrapper=true), but to remove the [marketing hype term "AI"](<https://gnu.org/philosophy/words-to-avoid.html#ArtificialIntelligence >) from the bill.
 
  Here is what I wrote about the term "Artificial Intelligence" in the letter I sent.
 

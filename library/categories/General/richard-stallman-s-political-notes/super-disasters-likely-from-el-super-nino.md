@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-may-aug.html#8_July_2026_(Super_disast
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-09T12:05:19.461818071Z"
-seen = true
+seen = false
 +++
 
-El Super-Niño is likely to cause a variety of disasters around the world. Here are [some of them](https://www.theguardian.com/commentisfree/2026/jun/09/super-el-nino-global-economy).
+ El Super-Niño is likely to cause a variety of disasters around the world. Here are [some of them](https://www.theguardian.com/commentisfree/2026/jun/09/super-el-nino-global-economy).

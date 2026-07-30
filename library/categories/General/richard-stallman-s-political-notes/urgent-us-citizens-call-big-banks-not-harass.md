@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#14_July_2026_(Urgent:_Big
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-16T14:36:50.480809794Z"
-seen = true
+seen = false
 +++
 
-US citizens: call on big banks not to harass non-citizens for the bully.
+ US citizens: call on big banks not to harass non-citizens for the bully.
 
 [Check this action](<https://actionnetwork.org/letters/banks-arent-immigration-checkpoints?nowrapper=
 true>)

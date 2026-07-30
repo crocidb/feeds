@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/669"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-06-29T12:19:16.913847122Z"
-seen = true
+seen = false
 +++
 
 inotify in FreeBSD, how changes to poudriere.conf affect the build time, Migrating mail servers from exim to OpenSMTPD, and more...

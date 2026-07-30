@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/banda-paraibana-papangu-lanca-disco-inteirament
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-07-21T10:40:47.140841729Z"
-seen = true
+seen = false
 +++
 
 A banda de rock experimental **Papangu**, formada em João Pessoa, lança seu terceiro álbum de estúdio, intitulado *Celestial*. O trabalho, que sai pela gravadora Deck no próximo dia 7 de agosto, foi registrado inteiramente em formato analógico como um posicionamento contra a inteligência artificial. Junto ao lançamento, o grupo inicia uma turnê de 15 apresentações pela Europa e pelo Reino Unido.

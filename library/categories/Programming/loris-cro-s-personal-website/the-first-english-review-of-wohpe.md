@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/wohpe-first-english-review/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.969088109Z"
-seen = false
+seen = true
 +++
 

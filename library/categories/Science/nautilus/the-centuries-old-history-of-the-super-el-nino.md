@@ -6,7 +6,7 @@ url = "https://nautil.us/the-centuries-old-history-of-the-super-el-nino-1279783/
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-04-14T15:31:23.929763312Z"
-seen = false
+seen = true
 +++
 
 We may get an exceptionally strong El Niño this year, but we’ve been tracking the climatic cycle since 1578

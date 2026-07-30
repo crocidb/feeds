@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/os-violeiros-elomar-joao-omar-e-joao-farias-hom
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-16T14:36:43.130594410Z"
-seen = true
+seen = false
 +++
 
 O cancioneiro **Elomar** se junta aos artistas **João Omar** e **João Farias** para uma homenagem à obra do mestre **Vital Farias** (1943 – 2025) no Teatro do Parque, localizado no bairro da Boa Vista (Centro), nesta sexta (17), às 20h. O violeiro paraibano é o destaque do espetáculo “Uma Cantoria para Vital” que integra a turnê nacional lançada em Belo Horizonte (MG).

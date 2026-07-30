@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/louise-revelacao-do-pop-pernambucano-lanca-o-pr
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-22T09:21:54.575853202Z"
-seen = true
+seen = false
 +++
 
 A pernambucana **[LOUISE](https://revistaogrito.com/novo-projeto-de-jorge-du-peixe-traz-louise-tayna-filha-de-chico-science-como-cantora/)**, nome artístico de Louise França, adentra a trajetória pessoal e apresenta ao público o álbum ***Notívaga.*** Lançado na última quinta (16/7) e já disponível nas plataformas digitais, o projeto marca o momento em que a cantora, filha do expoente do [**movimento manguebeat**](https://revistaogrito.com/novo-livro-de-carlos-gomes-traca-pontos-em-comum-entre-a-tropicalia-e-o-manguebeat/)**,** [**Chico Science**](https://revistaogrito.com/projeto-reune-acervo-pessoal-inedito-de-chico-science-em-site/), decide se colocar no centro da própria história. Ao longo das quatro canções autorais, a noite deixa de ser apenas cenário para se transformar na protagonista da narrativa. 

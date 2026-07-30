@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ingress-developer-niantic-spatial-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-06T19:13:17.860358023Z"
-seen = false
+seen = true
 +++
 

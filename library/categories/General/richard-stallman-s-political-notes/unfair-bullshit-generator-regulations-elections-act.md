@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(Unfair_Bull
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.813103910Z"
-seen = true
+seen = false
 +++
 
-I support the [Unfair Bullshit Generator Regulations Elections Act](https://www.democracydocket.com/news-alerts/exclusive-democrats-unveil-plan-to-protect-elections-from-trump-ai/), but I refuse to call it by the name that its sponsors have given it.
+ I support the [Unfair Bullshit Generator Regulations Elections Act](https://www.democracydocket.com/news-alerts/exclusive-democrats-unveil-plan-to-protect-elections-from-trump-ai/), but I refuse to call it by the name that its sponsors have given it.

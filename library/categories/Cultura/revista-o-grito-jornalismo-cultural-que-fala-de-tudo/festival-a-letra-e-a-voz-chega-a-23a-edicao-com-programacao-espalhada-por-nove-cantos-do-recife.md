@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festival-a-letra-e-a-voz-chega-a-23a-edicao-com
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-28T12:42:14.195972574Z"
-seen = true
+seen = false
 +++
 
 Entre os dias 31 de julho e 8 de agosto, o Recife celebra a programação cultural do **23ª Festival Recifense de Literatura A Letra e A Voz.** Com o tema ***Narrativas Para Habitar O Mundo: Vozes Que Se Eencontram***, homenageia Tiago West e Raimundo Carrero (1947 – 2026) em atividades espalhadas por nove locais. O acesso é garantido mediante a entrega de um quilo de alimento não perecível. 

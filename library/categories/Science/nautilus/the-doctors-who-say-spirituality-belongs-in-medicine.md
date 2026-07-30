@@ -6,7 +6,7 @@ url = "https://nautil.us/the-doctors-who-say-spirituality-belongs-in-medicine-12
 author = "Kristen French"
 text = ""
 lastupdated = "2026-03-27T12:56:09.408352466Z"
-seen = false
+seen = true
 +++
 
 Many patients with neurological disorders want spiritual care, but most clinicians are reluctant to offer it

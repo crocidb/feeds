@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-may-aug.html#19_July_2026_(Empowering_
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-21T09:19:47.527945635Z"
-seen = true
+seen = false
 +++
 
-Call on Congress to pass the Empowering App-Based Workers Act.
+ Call on Congress to pass the Empowering App-Based Workers Act.
 
 [Check this action](https://act.colorofchange.org/sign/pass-the-empowering-app-based-workers-act/)
 

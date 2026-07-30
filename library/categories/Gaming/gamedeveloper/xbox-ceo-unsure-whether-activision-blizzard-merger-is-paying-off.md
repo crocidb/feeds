@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-ceo-unsure-whether-activision
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-06-10T21:35:34.165969054Z"
-seen = false
+seen = true
 +++
 

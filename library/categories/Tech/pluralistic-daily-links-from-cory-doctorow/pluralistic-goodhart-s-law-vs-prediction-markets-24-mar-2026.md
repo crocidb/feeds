@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/03/24/degenerated-gambling/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-03-25T10:19:24.018378094Z"
-seen = true
+seen = false
 +++
 
 [![](https://i0.wp.com/craphound.com/images/24Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/24/degenerated-gambling/)

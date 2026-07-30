@@ -6,7 +6,7 @@ url = "https://nautil.us/does-anger-aggravate-pain-1253545/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2025-12-10T15:24:06.741004358Z"
-seen = false
+seen = true
 +++
 
 Many of us have felt pain in one form or another. Often, those jabs are paired with a sense of anger, whether it’s toward a person or inanimate object that caused the pain, or something else. But new research suggests that this anger, when unregulated, can make the pain worse, creating a vicious feedback loop.

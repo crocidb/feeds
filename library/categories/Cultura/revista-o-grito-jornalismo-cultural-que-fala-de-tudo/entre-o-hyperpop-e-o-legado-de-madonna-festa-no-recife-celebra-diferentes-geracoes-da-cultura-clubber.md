@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/entre-o-hyperpop-e-o-legado-de-madonna-festa-em
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-07-16T14:36:43.150351846Z"
-seen = true
+seen = false
 +++
 
 Há algo de simbólico em aproximar **Madonna** e **Charli XCX** na mesma pista de dança. Separadas por mais de quatro décadas de carreira, as duas artistas representam momentos distintos do pop, mas compartilham uma característica fundamental: transformaram a música de pista em linguagem artística e ajudaram a redefinir os limites entre o mainstream e a cultura clubber.

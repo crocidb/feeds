@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/04/using-greyscale"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-05T08:24:55.679284720Z"
-seen = true
+seen = false
 +++
 
 Back in 2023 I challenged myself to [use my phone in greyscale mode for a week](https://jamesg.blog/2023/03/27/greyscale). The experiment was successful: [a week later, I was still using my phone in greyscale mode](https://jamesg.blog/2023/04/02/greyscale-a-week-on). At some point afterwards, I did disable greyscale mode. But last year, or early this year (I can't remember exactly when) I turned greyscale mode on once again and have had it enabled ever since.
