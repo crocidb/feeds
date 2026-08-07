@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/fitti-da-forma-inedita-ao-album-de-estreia-com-
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-28T12:42:14.204076367Z"
-seen = false
+seen = true
 +++
 
 O cantor e compositor pernambucano **Fitti** retorna ao Recife para uma viagem musical pela atmosfera das emoções humanas no **Teatro do Parque**, no bairro da Boa Vista, área central da cidade. Nesta sexta (23/7), às 19h30, resgata o disco de estreia e o apresenta em um formato atualizado no show ***Transespacial***. O ingresso segue disponível pelo Sympla. 

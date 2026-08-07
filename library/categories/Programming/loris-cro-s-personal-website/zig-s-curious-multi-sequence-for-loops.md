@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/zig-multi-sequence-for-loops/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.965206821Z"
-seen = true
+seen = false
 +++
 

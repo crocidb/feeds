@@ -6,7 +6,7 @@ url = "https://nautil.us/heres-why-our-walking-gets-slower-as-we-age-1281837/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-10T21:35:56.997169158Z"
-seen = false
+seen = true
 +++
 
 And the best ways to prevent it

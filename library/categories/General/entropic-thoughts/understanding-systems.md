@@ -6,6 +6,6 @@ url = "https://entropicthoughts.com/understanding-systems"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-04-29T14:23:05.640830414Z"
-seen = true
+seen = false
 +++
 

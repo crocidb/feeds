@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/eve-online-s-cross-platform-game
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-06T19:13:17.863989392Z"
-seen = true
+seen = false
 +++
 

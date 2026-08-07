@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/13/growing-with-my-website"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-05-20T09:23:00.344184283Z"
-seen = false
+seen = true
 +++
 
 At this evening’s [Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club), I asked: What was the biggest change in our websites since we started them? This question was inspired in part by [Paul](https://paultibbetts.uk/) saying something to the effect of how we build our websites and, in the process, figure out what we want our websites to be.

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-a-tiny-bird-might-tell-the-tale-of-island-giants-12
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-06-01T21:30:46.389504763Z"
-seen = false
+seen = true
 +++
 
 Diminutive wrens go big

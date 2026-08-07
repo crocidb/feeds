@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/668"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-06-29T12:19:16.915438382Z"
-seen = false
+seen = true
 +++
 
 FreeBSD to OpenBSD Wireguard, Object storage with OpenZFS and SeaweedFS, a zfs script for labeling drives, and more...

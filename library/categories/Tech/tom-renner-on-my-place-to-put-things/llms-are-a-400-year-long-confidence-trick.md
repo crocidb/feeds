@@ -6,7 +6,7 @@ url = "https://tomrenner.com/posts/400-year-confidence-trick/"
 author = "Tom Renner on My place to put things"
 text = ""
 lastupdated = "2026-02-11T20:16:51.106471780Z"
-seen = true
+seen = false
 +++
 
 In 1623 the German Wilhelm Schickard produced the first known designs for a mechanical calculator. Twenty years later Blaise Pascal produced a machine of an improved design, aiming to help with the large amount of tedious arithmetic required in his role as a tax collector.

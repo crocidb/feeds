@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(Urgent:_Opp
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.786081635Z"
-seen = false
+seen = true
 +++
 
- US citizens: call on your congresscritter and senators to [oppose the BUILD America 250 Act](https://actionnetwork.org/letters/tell-congress-oppose-the-build-america-250-act?nowrapper=true).
+US citizens: call on your congresscritter and senators to [oppose the BUILD America 250 Act](https://actionnetwork.org/letters/tell-congress-oppose-the-build-america-250-act?nowrapper=true).
 
  See the [instructions](/actionnetwork-letter-instructions.html) for how to sign this letter campaign without running any nonfree JavaScript code--not trivial, but not hard.
 

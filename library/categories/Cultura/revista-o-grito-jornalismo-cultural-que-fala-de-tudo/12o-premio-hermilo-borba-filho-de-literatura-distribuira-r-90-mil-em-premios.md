@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/12o-premio-hermilo-borba-filho-de-literatura-di
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-07-06T19:13:14.676939952Z"
-seen = false
+seen = true
 +++
 
 O Governo de Pernambuco, por meio da Secretaria de Cultura (Secult-PE), abre convocatória para o 12º Prêmio Hermilo Borba Filho de Literatura. O edital disponibiliza R$ 90 mil em premiações com o objetivo de incentivar e difundir a produção literária do estado. Os interessados podem submeter os trabalhos sem custos entre os dias 10 e 29 de julho, por meio da plataforma Mapa Cultural de Pernambuco.

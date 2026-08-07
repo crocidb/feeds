@@ -6,7 +6,7 @@ url = "https://nautil.us/iss-astronaut-shares-incredible-photos-of-volcanoes-tak
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-16T20:08:25.033169412Z"
-seen = false
+seen = true
 +++
 
 And one of them was putting on a show

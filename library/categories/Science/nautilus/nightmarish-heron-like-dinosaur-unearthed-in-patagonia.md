@@ -6,7 +6,7 @@ url = "https://nautil.us/nightmarish-heron-like-dinosaur-unearthed-in-patagonia-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-01T21:30:46.388068084Z"
-seen = false
+seen = true
 +++
 
 Pretty tough to be a fish 70 million years ago

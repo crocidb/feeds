@@ -1,0 +1,25 @@
++++
+title = "Popups are bad, Mkay?"
+description = "Popups on websites are one of the most invasive and focus-eating things (to me)Those sites are usually creatively and beautifully made; the info is wonderful; the fonts are artful and easy-to-read. But by some reason every time I'm moving the mouse around these sites (among thous"
+date = "2026-08-01T00:00:00Z"
+url = "https://vlnn.dev/?stack=popups-are-bad-mkay"
+author = "Generalistic writings from @vlnn"
+text = ""
+lastupdated = "2026-08-06T09:52:33.898116220Z"
+seen = false
++++
+
+Popups on websites are one of the most invasive and focus-eating things (to me)
+
+Those sites are usually creatively and beautifully made; the info is wonderful; the fonts are artful and easy-to-read. But by some reason every time I'm moving the mouse around these sites (among thousands of others) they start to explode in my face.
+
+Two things I hate the most:
+
+* duplication of the information as in `duplication of the information` because the `information being duplicated` and my brain hates it. I guess you understand how duplicated the information can become and how hateful it is. See how same info is in the popup and in the status line: ![](https://vlnn.dev/static/popup.png)
+* hiding of things I was just reading, and now I suddenly can't anymore, just because I was courageous enough to move the cursor over the text I'm fucking trying to read: ![](https://vlnn.dev/static/popup2.png)
+
+Strange thing that people care to invest their time and attention to making those. And I'm speaking about people whos design abilities are much higher than mine, I mean I even stole the design from Andy!
+
+There are either 2 types of people or I don't understand something. Maybe both.
+
+Q: Does @vlnn understand the modern design tendencies? A: Nope.

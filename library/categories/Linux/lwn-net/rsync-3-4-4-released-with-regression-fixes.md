@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1076989/"
 author = "jzb"
 text = ""
 lastupdated = "2026-06-10T21:35:43.768192335Z"
-seen = false
+seen = true
 +++
 
 Andrew Tridgell has [announced](https://lwn.net/ml/all/CAAbv5GYjCWdvALZHZ5B-ep4p7tvMDYrQWKexjM2fLM+htGyVGg@mail.gmail.com/) the release of [rsync](https://rsync.samba.org/) 3.4.4 with fixes for the regressions introduced in the 3.4.3 release. He also notes there will be an rsync 3.5.0 soon, with many more security updates:

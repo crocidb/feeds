@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cine-sao-luiz-recebe-mostra-de-cinema-gratuito-
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-16T14:36:43.134175850Z"
-seen = false
+seen = true
 +++
 
 O Cine São Luiz, no Recife, recebe neste domingo (19 de julho), às 16h, a mostra de cinema ***Olhares Afogadenses***. O evento, que tem entrada inteiramente gratuita, traz à capital pernambucana cinco curtas-metragens produzidos em **Afogados da Ingazeira**, no **[Sertão do Pajeú](https://revistaogrito.com/poesia-do-sertao-do-pajeu-na-tela-do-cinema-em-evento-da-biblioteca-publica-do-estado/)**, entre os anos de 2023 e 2025. Todos os filmes participantes foram viabilizados por meio da Lei Paulo Gustavo do município.

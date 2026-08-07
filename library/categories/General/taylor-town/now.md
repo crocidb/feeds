@@ -6,7 +6,7 @@ url = "https://taylor.town/now"
 author = "Taylor Troesh"
 text = ""
 lastupdated = "2026-04-25T13:20:36.796185994Z"
-seen = true
+seen = false
 +++
 
 2026 #25

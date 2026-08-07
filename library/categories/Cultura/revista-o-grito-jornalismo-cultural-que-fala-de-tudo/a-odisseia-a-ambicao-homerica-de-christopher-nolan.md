@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/a-odisseia-a-ambicao-homerica-de-christopher-no
 author = "Alexandre Cunha"
 text = ""
 lastupdated = "2026-07-18T14:47:56.223545656Z"
-seen = false
+seen = true
 +++
 
 “A Odisseia”: a ambição homérica de Christopher Nolan

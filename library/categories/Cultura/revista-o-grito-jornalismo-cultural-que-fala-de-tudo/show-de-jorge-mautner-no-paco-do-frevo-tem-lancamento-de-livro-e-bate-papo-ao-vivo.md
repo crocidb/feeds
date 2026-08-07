@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/show-de-jorge-mautner-no-paco-do-frevo-tem-lanc
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-03T12:10:50.577591544Z"
-seen = false
+seen = true
 +++
 
 O artista carioca e compositor do clássico pernambucano ***Maracatu Atômico****,* **[Jorge Mautner](https://revistaogrito.com/jorge-mautner-lanca-nao-ha-abismo-em-que-o-brasil-caiba/),** chega em Recife no domingo, 12 de julho para um *pocket-show* no Museu Paço do Frevo, localizado no bairro do Recife (Centro), às 16h. A parceira musical, **Cecilia Beraba** e os artistas pernambucanos **Louise França, [Fred Zero Quatro](https://revistaogrito.com/sonofabit-novo-projeto-de-fred-04-e-sondre-lerche-se-apresentam-no-drops-coquetel-molotov/), [Juliano Holanda](https://revistaogrito.com/holofotes-pe-juliano-holanda-uma-novidade-veterana/) e Zeh Rocha** se juntam à programação como convidados desta apresentação que faz parte da lista de comemorações pelos 85 anos completados por Mautner em janeiro deste ano.

@@ -6,7 +6,7 @@ url = "https://nautil.us/listen-to-the-sound-of-the-most-massive-organism-on-ear
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-10T21:35:56.962976631Z"
-seen = false
+seen = true
 +++
 
 Pando’s voice comes from the wind

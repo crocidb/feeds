@@ -6,7 +6,7 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(Bullshit_ge
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.810447570Z"
-seen = false
+seen = true
 +++
 
- A British [thug](/glossary.html#thug) is being [investigated for using bullshit generators to generate fake "evidence"](https://www.theguardian.com/technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai) for a trial
+A British [thug](/glossary.html#thug) is being [investigated for using bullshit generators to generate fake "evidence"](https://www.theguardian.com/technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai) for a trial

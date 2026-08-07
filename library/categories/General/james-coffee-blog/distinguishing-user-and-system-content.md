@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/01/distinguishing-user-and-system-content"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-01T21:30:16.219988572Z"
-seen = false
+seen = true
 +++
 
 When I was designing the [inline message to indicate a link in a user’s Artemis reader has been flagged as malicious](https://jamesg.blog/2026/06/01/flagging-suspicious-websites-in-artemis), I intentionally designed the system message and state to be distinguished from the user-set author name.

@@ -8,4 +8,5 @@ url = "https://lwn.net"
 feed_url = "https://lwn.net/headlines/rss"
 author = "LWN.net"
 slug = "lwn-net"
-lastupdated = "2026-06-07T00:10:44.977295444Z"
+lastupdated = "2026-08-06T21:59:24.750239934Z"
+etag = '"8b958d1511cb050ae4a1d1346bc13c4549e24e439a49dd5312b87356945364e1"'

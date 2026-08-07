@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/vladimir-safatle-e-a-importancia-de-chamar-as-c
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-07-09T12:05:12.654798594Z"
-seen = false
+seen = true
 +++
 
 É fundamental, hoje, o papel dos intelectuais que interpretam o seu tempo e ajudam a transformá-lo em objeto de debate público. O filósofo, professor e ensaísta **[Vladimir Safatle](https://revistaogrito.com/assunto/vladimir-safatle/)** pertence a esse grupo e é um dos mais instigantes pensadores brasileiros da atualidade. 

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/dinora-obra-experimental-de-dalton-trevisan-gan
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-07-21T09:19:39.534590447Z"
-seen = false
+seen = true
 +++
 
 A editora **Todavia** dá continuidade ao plano de republicação da obra do contista curitibano **[Dalton Trevisan](https://revistaogrito.com/assunto/dalton-trevisan/)** (1925-2024) com o lançamento da nova edição de *Dinorá*. O título, que chegou originalmente às livrarias em 1994, marca um momento de experimentação na trajetória do autor, misturando contos tradicionais, ensaios, haicais e textos de teor autobiográfico que mapeiam as transformações e a melancolia de Curitiba.

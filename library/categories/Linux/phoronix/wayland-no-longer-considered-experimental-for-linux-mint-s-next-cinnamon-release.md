@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/LinuxMint-Cinnamon-Wayland-Good"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-09T12:05:22.881869568Z"
-seen = true
+seen = false
 +++
 
 The Linux Mint distribution has published their June development summary that most notably includes work on Cinnamon's Wayland support where it's now ready to graduate...

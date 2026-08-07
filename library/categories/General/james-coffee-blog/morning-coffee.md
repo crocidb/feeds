@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/07/morning-coffee"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-08T12:49:53.716699353Z"
-seen = false
+seen = true
 +++
 
 *The familiar sounds of the espresso machine never cease to calm me – the joy of the familiar, but also the potential of the variable: of sounds at new tones, of different cadences. Watching as the barista makes sure to stop pulling the espresso shot at 33 seconds — precision at every step.*

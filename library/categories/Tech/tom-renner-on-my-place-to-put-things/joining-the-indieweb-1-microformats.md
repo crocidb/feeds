@@ -6,7 +6,7 @@ url = "https://tomrenner.com/posts/joining-the-indieweb-1/"
 author = "contact@tomrenner.com (Tom Renner)"
 text = ""
 lastupdated = "2026-06-01T21:30:54.492356019Z"
-seen = true
+seen = false
 +++
 
 >

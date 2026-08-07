@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/aza-njeri-e-a-forca-do-pensamento-afrocentrado-
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-07-16T14:36:43.153749943Z"
-seen = false
+seen = true
 +++
 
 O termo “livro-experimento” usado para descrever ***Somos Sol Vivo*** é um excelente ponto de partida para compreender esta obra, que ganha edição pela Harper Collins. Escrito pela pesquisadora e doutora em Literaturas Africanas **Aza Njeri**, a obra surge como uma fresta radical de insubmissão intelectual em relação ao pensamento comumente aceito no mercado editorial e nos estudos acadêmicos, sempre baseado no olhar branco e ocidental. O experimento aqui foi conseguir navegar por diferentes gêneros a partir do ensaio para se portar como um manifesto coletivo que discute as crises éticas, culturais e políticas da modernidade a partir das **perspectivas afrodiaspóricas**.

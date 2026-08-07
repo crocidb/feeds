@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/lancamento-do-fotolivro-papangus-de-nicolas-gon
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-07-16T14:36:43.127655969Z"
-seen = false
+seen = true
 +++
 
 Os Papangus são uns dos personagens mais emblemáticos da cultura popular nordestina e eles serão o centro da atenção na edição especial do evento *Por Dentro da Obra*, que acontece, neste sábado (18/07), das 14h às 18h, na **Arte Plural Galeria**. Com entrada gratuita, a programação terá início com o lançamento do fotolivro digital *Papangus*, do fotógrafo cearense **Nicolas Gondim**, seguida de um bate-papo com o artista sobre o processo de pesquisa, criação e produção da obra.

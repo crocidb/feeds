@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Intel-Ends-Quantum-Intrinsics"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-09T12:05:22.879376617Z"
-seen = true
+seen = false
 +++
 
 Intel has formally archived some more of their now-unmaintained open-source projects this week...

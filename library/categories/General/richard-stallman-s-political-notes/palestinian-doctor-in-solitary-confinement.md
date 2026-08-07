@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(Palestinian
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.790407496Z"
-seen = false
+seen = true
 +++
 
- \*Israel puts Palestinian doctor in [solitary confinement after 17 months](https://www.theguardian.com/world/2026/jun/09/israel-palestinian-doctor-hussam-abu-safiya-solitary-confinement-held-without-charge) held without charge.
+\*Israel puts Palestinian doctor in [solitary confinement after 17 months](https://www.theguardian.com/world/2026/jun/09/israel-palestinian-doctor-hussam-abu-safiya-solitary-confinement-held-without-charge) held without charge.
 
  Dr Hussam Abu Safiya now in cell barely big enough to sit in, says son, after UN experts demanded his release in March.\*
 

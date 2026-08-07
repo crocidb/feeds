@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cinema-da-ufpe-realiza-mostra-de-filmes-brasile
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-07-28T12:42:14.193743275Z"
-seen = false
+seen = true
 +++
 
 O **[Cinema da UFPE](https://revistaogrito.com/assunto/cinema-da-ufpe/)** realiza de amanhã até sexta (31) a mostra *Um Olhar em Torno do Processo de Criações Cinematográficas*, uma iniciativa resultado da parceria entre a Universidade Federal de Pernambuco, a Universidade de Sorbonne de Paris e o grupo de pesquisa CRIMIC (Centre de Recherches Interdisciplinaires sur les Mondes Ibériques Contemporains /Centro de Pesquisas Interdisciplinares sobre os Mundos Ibéricos Contemporâneos).

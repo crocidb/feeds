@@ -1,0 +1,42 @@
++++
+title = "Espetáculo “Pela Noite” retorna ao palco para temporada no Teatro Hermilo Borba Filho"
+description = "Após estreia no 32º Janeiro de Grandes Espetáculos, a peça Pela Noite retorna ao palco para um temporada no Teatro Hermilo Borba Filho, no bairro do Recife, área central, nos dias 8, 9, 15 e 16 de agosto. Com mudanças pontuais, a premissa do espetáculo adaptado do livro homônimo "
+date = "2026-08-04T09:43:26Z"
+url = "https://revistaogrito.com/espetaculo-pela-noite-retorna-ao-palco-para-temporada-no-teatro-hermilo-borba-filho/"
+author = "Beatriz Santana"
+text = ""
+lastupdated = "2026-08-06T09:47:58.292463016Z"
+seen = true
++++
+
+Após estreia no 32º Janeiro de Grandes Espetáculos, a peça ***Pela Noite*** retorna ao palco para um temporada no **Teatro Hermilo Borba Filho**, no bairro do Recife, área central, nos dias 8, 9, 15 e 16 de agosto. Com mudanças pontuais, a premissa do espetáculo adaptado do livro homônimo do autor gaúcho **Caio Fernando Abreu** (1948-1996) é mantida: atravessar o sofrimento e o desejo presente no reencontro de dois homens que não se viam desde à infância. 
+
+Publicado no livro vencedor do Prêmio Jabuti e intitulado ***Trilogia das Águas*** (1983), o conto ganha adaptação e direção de **Edjalma Freitas**, responsável por transportar o enredo igualmente sensual e provocador para o roteiro de um espetáculo produzido pela **NOZ Produz**, formada por **Rogério Wanderley, Álcio Lins e Rebecca Lima.** 
+
+Em cena, o público acompanha dois homens sem nomes. À medida que a personalidade de cada é construída junto ao roteiro, as alcunhas são reveladas: Pérsio **(Rogério Wanderley)** e Santiago **(Paulo César Freire)**. 20 anos após o último encontro, reúnem-se em uma noite de sábado marcada pela tensão entre um amante da efervescente paixão e um apaixonado pela tranquilidade do amor. 
+
+É o amor que sustenta o principal embate dramatúrgico da peça. Caio Fernando Abreu contrapõe a paixão idealizada à intimidade construída no cotidiano, o produtor e ator Rogério Wanderley explica isso em entrevista à ***Revista O Grito!***: “A gente se apaixona por uma fantasia do outro. Quando o tempo passa, as máscaras vão caindo, a superficialidade vai indo embora e a gente começa a conhecer o outro”. Santiago confronta Pérsio ao defender que amar significa aceitar o outro na dimensão mais humana, inclusive nos aspectos que costumam ser rejeitados ou idealizados.
+
+“Diferentemente de Pérsio, Santiago tem uma maturidade amorosa. Santiago é um elefante cinza que tem uma relação muito forte com seus pares. Já Pérsio é um pavão – tem aquela beleza, mas, quando você tira a calda, sobra uma ave indefesa”, define Wanderley.
+
+Embora sejam atravessados pela melancolia, os personagens de ***Pela Noite*** se amparam na comédia. Não como contraponto ao drama, a comicidade se apresenta, na verdade, como parte da própria linguagem concebida por **Caio Fernando Abreu** e preservada pela montagem. O intuito é demonstrar como o humor pode ser uma forma de sobrevivência. Especificamente no caso de Pérsio, são mecanismos para não encarar feridas que nunca deixaram de existir.
+
+“Pérsio é aquela pessoa que tem brincadeiras às vezes tóxicas porque o mundo foi muito tóxico com ele também. As pessoas o chamavam de fresco [em tom pejorativo] e ele nem sabia o que era aquilo. Sempre que uma situação é chata, complicada, Pérsio tira uma piada”, adiciona Wanderley. 
+
+Os pensamentos e medos ocultos que raramente seriam expostos pelos personagens são apresentados ao público por meio da narração em 3ª pessoa de Caio Fernando Abreu personificada em duas atrizes. **Amanda Clélia e Wydi Silva** interpretam um coro e dão materialidade às consciências de Pérsio e Santiago. 
+
+Por meio do cenário circular, assinado por **Peu Carneiro**, o público também acompanha a construção da noite dos personagens. A estrutura formada por andaimes acompanha o percurso emocional dos protagonistas, enquanto se movimenta para marcar o início, o desenvolvimento e o encerramento da noite compartilhada entre eles. 
+
+<img decoding="async" width="682" height="1024" data-attachment-id="201472" data-permalink="https://revistaogrito.com/espetaculo-pela-noite-retorna-ao-palco-para-temporada-no-teatro-hermilo-borba-filho/espetaculo_pela_noite2/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2.jpg" data-orig-size="1066,1600" data-comments-opened="0" data-image-title="espetaculo_pela_noite2" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2-682x1024.jpg" loading="lazy" src="https://controle.revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2-682x1024.jpg" alt="espetaculo pela noite2" class="wp-image-201472" srcset="https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2-682x1024.jpg 682w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2-200x300.jpg 200w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2-67x100.jpg 67w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2-833x1250.jpg 833w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2-1023x1536.jpg 1023w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2-321x482.jpg 321w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2-798x1198.jpg 798w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo_pela_noite2.jpg 1066w" sizes="auto, (max-width: 682px) 100vw, 682px">\<img decoding="async" width="682" height="1024" data-attachment-id="201472" data-permalink="https://revistaogrito.com/espetaculo-pela-noite-retorna-ao-palco-para-temporada-no-teatro-hermilo-borba-filho/espetaculo\_pela\_noite2/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2.jpg" data-orig-size="1066,1600" data-comments-opened="0" data-image-title="espetaculo\_pela\_noite2" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2-682x1024.jpg" src="https://controle.revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2-682x1024.jpg" alt="espetaculo pela noite2" class="wp-image-201472" srcset="https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2-682x1024.jpg 682w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2-200x300.jpg 200w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2-67x100.jpg 67w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2-833x1250.jpg 833w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2-1023x1536.jpg 1023w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2-321x482.jpg 321w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2-798x1198.jpg 798w, https://revistaogrito.com/wp-content/uploads/2026/08/espetaculo\_pela\_noite2.jpg 1066w" sizes="(max-width: 682px) 100vw, 682px" /\>Cenografia de “Pela Noite” é assinada por Peu Carneiro. (Foto: Divulgação)
+
+Cinquenta anos depois da publicação, ***Pela Noite,*** de Caio Fernando Abreu segue atual e conectada com as discussões de gênero e sexualidades dissidentes contemporâneas. “Esse espetáculo é construído tanto para aqueles que já amam quanto para aqueles que não conseguem ou não conseguiram amar. A gente traz esse espetáculo como um sopro de esperança na vida, para quem está amando se renovar”.
+
+### Serviço ###
+
+8, 9, 15 e 16 de agosto  
+Local: Teatro Hermilo Borba Filho, Cais do Apolo nº 142, bairro do Recife, área central  
+Sábados às 18h e domingo às 17h  
+Classificação Indicativa: 16 anos  
+Ingressos no Sympla: R$70,00 (inteira), R$35,00 (meia), R$ 35,00 (meia social)
+
+O post [Espetáculo “Pela Noite” retorna ao palco para temporada no Teatro Hermilo Borba Filho](https://revistaogrito.com/espetaculo-pela-noite-retorna-ao-palco-para-temporada-no-teatro-hermilo-borba-filho/) apareceu primeiro em [Revista O Grito! — Jornalismo cultural que fala de tudo](https://revistaogrito.com).

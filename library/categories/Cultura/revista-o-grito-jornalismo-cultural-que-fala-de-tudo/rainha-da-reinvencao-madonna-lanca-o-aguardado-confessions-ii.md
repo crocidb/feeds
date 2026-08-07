@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/rainha-da-reinvencao-madonna-lanca-o-aguardado-
 author = "Rafael Curtis"
 text = ""
 lastupdated = "2026-07-03T12:10:50.568322512Z"
-seen = false
+seen = true
 +++
 
 Nos últimos meses, [desde que anunciou](https://revistaogrito.com/madonna-anuncia-novo-album-confessions-ii-sequencia-de-sucesso-de-2005/) o seu novo disco, **[Madonna](https://revistaogrito.com/assunto/madonna/)** mostrou que segue sendo uma das mais relevantes artistas do pop. *Confessions II*, que chegou nesta sexta (3/7) às plataformas de streaming, traz uma ode à pista de dança e um elogio ao hedonismo como forma de enfrentar o caos. É um trabalho que faz da dance music um espaço celebratório, um processo ritualístico de cura.

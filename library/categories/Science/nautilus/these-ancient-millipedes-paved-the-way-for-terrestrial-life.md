@@ -6,7 +6,7 @@ url = "https://nautil.us/these-ancient-millipedes-paved-the-way-for-terrestrial-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-06-16T20:08:25.030379537Z"
-seen = false
+seen = true
 +++
 
 They preceded vertebrates on land by about 80 million years

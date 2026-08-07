@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/21/blog-posts-as-starting-points"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.830506492Z"
-seen = false
+seen = true
 +++
 
 In my “[Open sourcing a quiz maker](https://jamesg.blog/2026/06/20/open-sourcing-a-quiz-maker)” blog post, I frame my quiz maker as a step toward what could be something better: a script that you can use, but where I see a vision for something more robust and reliable.

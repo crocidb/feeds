@@ -4,4 +4,6 @@ url = "https://eli.thegreenplace.net/"
 feed_url = "https://eli.thegreenplace.net/feeds/all.atom.xml"
 author = "Eli Bendersky"
 slug = "eli-bendersky-s-website"
-lastupdated = "2026-06-06T20:40:09.222509577Z"
+lastupdated = "2026-08-06T21:59:27.876906588Z"
+etag = '"22210-6582fde665e05-gzip"'
+last_modified = "Tue, 04 Aug 2026 03:01:18 GMT"

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/06/19/rainbows"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-29T12:19:24.842482645Z"
-seen = false
+seen = true
 +++
 
 “Cheers.” I like to say a toast to the day: to myself and others: peace, hope, happiness, health. After I raised my glass of orange juice, I looked up and saw a rainbow. I don’t think I have ever seen a rainbow from this view before: a rainbow that stands out among the grey clouds, originating from a valley in which many stories have been told.

@@ -6,7 +6,7 @@ url = "https://nautil.us/check-out-this-new-colorful-sea-slug-the-size-of-a-sesa
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-06-06T15:22:21.274184226Z"
-seen = false
+seen = true
 +++
 
 There may be other micro-wonders in the waters off Taiwan as well

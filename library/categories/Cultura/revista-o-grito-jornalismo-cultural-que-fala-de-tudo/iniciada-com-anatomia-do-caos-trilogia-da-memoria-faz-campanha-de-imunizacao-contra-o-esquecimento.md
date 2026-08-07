@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/iniciada-com-anatomia-do-caos-trilogia-da-memor
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-16T14:36:43.137599828Z"
-seen = false
+seen = true
 +++
 
 A distribuidora independente Descoloniza Filmes inicia neste segundo semestre de 2026 o projeto **“Trilogia da Memória”**. A iniciativa propõe uma experiência coletiva focada na preservação histórica do Brasil a partir do lançamento de três documentários nacionais inéditos no circuito comercial, divididos como um “esquema de doses” de imunização contra o esquecimento.

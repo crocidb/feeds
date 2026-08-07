@@ -6,10 +6,10 @@ url = "https://stallman.org/archives/2026-mar-jun.html#30_June_2026_(brands_usin
 author = "Richard Stallman"
 text = ""
 lastupdated = "2026-07-01T13:54:28.771112282Z"
-seen = false
+seen = true
 +++
 
- Companies are advertising products using simulated video [depicting simulated customers.](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)
+Companies are advertising products using simulated video [depicting simulated customers.](https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media)
 
  All satisfied, naturally.
 

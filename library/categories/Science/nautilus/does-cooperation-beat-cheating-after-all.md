@@ -6,7 +6,7 @@ url = "https://nautil.us/does-cooperation-beat-cheating-after-all-1282013/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-06-16T20:08:25.018703562Z"
-seen = false
+seen = true
 +++
 
 A new view of the prisoner’s dilemma

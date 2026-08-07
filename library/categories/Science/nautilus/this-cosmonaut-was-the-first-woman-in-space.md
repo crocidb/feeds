@@ -6,7 +6,7 @@ url = "https://nautil.us/this-cosmonaut-was-the-first-woman-in-space-1282046/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-06-16T23:50:48.042393497Z"
-seen = false
+seen = true
 +++
 
 The Soviet Union beat the United States to the punch by 20 years

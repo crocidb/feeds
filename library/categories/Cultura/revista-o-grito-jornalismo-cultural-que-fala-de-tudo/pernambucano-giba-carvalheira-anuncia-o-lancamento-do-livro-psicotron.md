@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/pernambucano-giba-carvalheira-anuncia-o-lancame
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-07-06T19:13:14.670863650Z"
-seen = false
+seen = true
 +++
 
 A cidade do Recife é o protagonista do romance inédito do autor pernambucano [**Giba Carvalheira**](https://revistaogrito.com/giba-carvalheira-lanca-o-livro-psicografia-mistica-versando-sobre-os-desafios-de-ter-transtornos-obsessivos-compulsivos/). O lançamento da obra intitulada ***Psicotron*** acontece nesta quarta (8), no Modigliani Bistrô, localizado no Poço da Panela, Zona Norte. O evento tem início às 19h e conta com uma noite de autógrafos.

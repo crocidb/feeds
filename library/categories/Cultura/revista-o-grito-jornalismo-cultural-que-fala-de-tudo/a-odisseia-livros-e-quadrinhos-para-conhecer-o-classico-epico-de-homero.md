@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/a-odisseia-livros-e-quadrinhos-para-conhecer-o-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-07-18T14:47:56.236654419Z"
-seen = false
+seen = true
 +++
 
 Nesta quinta, 16 de julho, o filme inédito de **Christopher Nolan**, ***A Odisseia***, alcança as telas do cinema brasileiro. Após o sucesso de ***[Oppenheimer](https://revistaogrito.com/os-25-melhores-filmes-de-2024/)*** (2023), vencedor do Oscar de Melhor Filme, o cineasta adiciona a linguagem visual característica da própria filmografia ao poema épico de Homero. De forma original, marca o cinema global como o primeiro longa de ficção gravado totalmente com câmeras IMAX. Inspirada no texto, a adaptação conta com **Matt Damon, Anne Hathaway, Zendaya, Tom Holland, Lupita Nyong’o e Robert Pattinson** no elenco, além de renovar o interesse por uma história que, há quase três mil anos, continua relevante.

@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1080144/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-01T13:54:32.030531990Z"
-seen = false
+seen = true
 +++
 
 The Kubernetes project has published a [blog post](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) explaining its [AI policy](https://www.kubernetes.dev/docs/guide/pull-requests/#ai-guidance):

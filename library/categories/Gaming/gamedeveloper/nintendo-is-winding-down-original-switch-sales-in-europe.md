@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nintendo-is-winding-down-switch-1-
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-07-06T19:13:17.854845040Z"
-seen = true
+seen = false
 +++
 

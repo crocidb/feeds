@@ -6,7 +6,7 @@ url = "https://nautil.us/there-may-be-three-times-more-insect-species-than-we-re
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-01T13:54:40.747751854Z"
-seen = false
+seen = true
 +++
 
 The overwhelming majority are unknown to science

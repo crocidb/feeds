@@ -6,7 +6,7 @@ url = "https://nautil.us/the-emergence-of-a-deadly-hunting-technology-in-prehist
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-01T13:54:40.715094258Z"
-seen = false
+seen = true
 +++
 
 The atlatl is handy enough to re-invent across cultures

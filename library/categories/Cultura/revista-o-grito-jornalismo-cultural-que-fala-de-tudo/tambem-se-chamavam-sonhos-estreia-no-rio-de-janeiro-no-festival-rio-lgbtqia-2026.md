@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/tambem-se-chamavam-sonhos-estreia-no-rio-de-jan
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-07-06T19:13:14.667690708Z"
-seen = false
+seen = true
 +++
 
 O média metragem pernambucano ***Também se Chamavam Sonhos*** faz sua estréia hoje, no Rio de Janeiro, na mostra competitiva do Festival RioLGBTQIA+ 2026. Dirigido por **Carlos Pontes**, o filme é resultado do trabalho de conclusão do seu curso de Design na Universidade Federal de Pernambuco e tem obtido uma ótima recepção nas exibições realizadas até agora.

@@ -6,7 +6,7 @@ url = "http://beej.us/blog/data/ai-making/"
 author = "Beej's Bit Bucket"
 text = ""
 lastupdated = "2026-03-19T16:31:56.984899378Z"
-seen = false
+seen = true
 +++
 
 Out of all the things to love and hate with AI, this is what I miss.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/grupo-pela-vidda-e-instituto-boa-vista-exibem-1
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-28T12:42:14.200697890Z"
-seen = false
+seen = true
 +++
 
 Na terça (4) e quarta (5) de agosto, a partir das 18h, o **Teatro do Parque** sedia a 14ª edição da Cinema Mostra Aids, uma realização do **Grupo Pela Vidda (SP)**, apoio institucional do **Departamento de HIV/Aids, Tuberculose, Hepatites Virais e Infecções Sexualmente Transmissíveis** (Dath), do Ministério da Saúde e parceria com a instituição pernambucana **Instituto Boa Vista**. Juntos, as organizações se propõem a mostrar que unir cultura à assistência social amplifica a articulação contra a Aids. 

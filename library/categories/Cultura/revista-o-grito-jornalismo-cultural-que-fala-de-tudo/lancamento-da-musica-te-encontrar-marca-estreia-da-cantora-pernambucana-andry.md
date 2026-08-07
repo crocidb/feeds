@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/lancamento-da-musica-te-encontrar-marca-estreia
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-07-09T12:05:12.657758634Z"
-seen = false
+seen = true
 +++
 
 Diretamente do bairro do Jordão, Zona Sul do Recife, a artista pernambucana **Andry** se lança como cantora em uma carreira solo. Para marcar o início da carreira, apresenta ao público a música de estreia intitulada ***Te Encontrar***. A produção independente com letra autoral faz um resgate carinhoso à memória e acompanha um videoclipe que também já está disponível nas plataformas de música digitais desde 3 de julho. 

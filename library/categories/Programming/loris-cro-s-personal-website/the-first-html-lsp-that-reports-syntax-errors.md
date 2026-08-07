@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/first-html-lsp/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.957046354Z"
-seen = true
+seen = false
 +++
 

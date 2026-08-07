@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/05/30/mitigating-floods-of-posts-in-artemis"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-06-01T21:30:16.229157872Z"
-seen = false
+seen = true
 +++
 
 *Note: The logic described in this post may be a stepping stone to a more robust system in the future. Please keep that in mind as you read and know that my solution may not be optimal, rather a start toward solving a problem.*
