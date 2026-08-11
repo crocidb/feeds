@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/obituary-taleworlds-co-founder-i-p
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-28T23:42:49.144514505Z"
-seen = false
+seen = true
 +++
 

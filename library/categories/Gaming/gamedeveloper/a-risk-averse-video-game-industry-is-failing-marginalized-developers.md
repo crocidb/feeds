@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/the-game-industry-is-failing-mar
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-07-09T17:48:10.606539842Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/-the-goal-of-design-is-to-efficientl
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-07-18T14:47:58.946757154Z"
-seen = false
+seen = true
 +++
 

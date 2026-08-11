@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/saudi-arabia-s-polarising-ea-buyou
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-23T22:52:27.088708900Z"
-seen = false
+seen = true
 +++
 

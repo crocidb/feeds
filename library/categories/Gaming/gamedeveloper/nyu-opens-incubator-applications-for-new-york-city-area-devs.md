@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nyu-opens-incubator-applications-f
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-07-16T14:36:45.577058787Z"
-seen = false
+seen = true
 +++
 

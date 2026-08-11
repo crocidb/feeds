@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/hasbro-records-56m-write-down-afte
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-23T22:52:27.106780224Z"
-seen = false
+seen = true
 +++
 

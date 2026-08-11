@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/publisher-secret-mode-opens-develo
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-06T09:48:01.052213176Z"
-seen = false
+seen = true
 +++
 

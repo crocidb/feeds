@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/za-um-studios-to-lay-off-up-to-32-
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-07-18T14:47:58.917840721Z"
-seen = false
+seen = true
 +++
 

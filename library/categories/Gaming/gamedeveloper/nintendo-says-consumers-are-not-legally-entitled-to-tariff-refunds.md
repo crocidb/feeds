@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nintendo-says-consumers-are-not-le
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-21T10:40:51.455598978Z"
-seen = false
+seen = true
 +++
 

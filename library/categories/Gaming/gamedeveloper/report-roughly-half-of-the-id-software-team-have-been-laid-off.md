@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-around-half-of-the-id-softw
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-07T12:31:14.175740724Z"
-seen = false
+seen = true
 +++
 

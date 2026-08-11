@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/pentiment-director-emphasizes-the-im
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-22T09:21:57.500190673Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nintendo-switch-2-unit-sales-are-d
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-06T21:59:23.149640001Z"
-seen = false
+seen = true
 +++
 

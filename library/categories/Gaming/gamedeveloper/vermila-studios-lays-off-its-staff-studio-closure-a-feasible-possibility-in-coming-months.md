@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/vermila-studios-lays-off-staff-stu
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-23T22:52:27.085782576Z"
-seen = false
+seen = true
 +++
 

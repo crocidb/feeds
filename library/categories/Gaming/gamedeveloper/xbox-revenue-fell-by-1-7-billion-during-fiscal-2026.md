@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-hardware-revenue-fell-by-1-7-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.105056805Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/uk-union-launches-free-resource-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-16T14:36:45.578464847Z"
-seen = false
+seen = true
 +++
 

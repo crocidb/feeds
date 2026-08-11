@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/quest-maker-meta-spending-billions
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-28T12:42:16.521380447Z"
-seen = false
+seen = true
 +++
 

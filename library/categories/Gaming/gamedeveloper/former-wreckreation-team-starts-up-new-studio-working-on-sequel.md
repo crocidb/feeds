@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/former-wreckreation-team-starts-up
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-22T09:21:57.496914542Z"
-seen = false
+seen = true
 +++
 

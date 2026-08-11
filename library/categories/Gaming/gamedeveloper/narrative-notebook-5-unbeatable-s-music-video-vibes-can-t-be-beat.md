@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/narrative-notebook-5-unbeatable-s-mu
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-08-06T09:48:01.099933298Z"
-seen = false
+seen = true
 +++
 

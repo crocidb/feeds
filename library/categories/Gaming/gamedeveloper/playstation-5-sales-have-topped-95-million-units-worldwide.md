@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/playstation-5-sales-have-topped-95
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.090652953Z"
-seen = false
+seen = true
 +++
 

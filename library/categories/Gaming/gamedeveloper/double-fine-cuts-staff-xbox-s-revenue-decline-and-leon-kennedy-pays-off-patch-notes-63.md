@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-perpetual-hardware-revenue-de
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-06T09:48:01.098690749Z"
-seen = false
+seen = true
 +++
 

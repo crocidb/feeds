@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/how-silent-hill-townfall-gets-deep-i
 author = "Alessandro Fillari"
 text = ""
 lastupdated = "2026-08-06T09:48:01.082174718Z"
-seen = false
+seen = true
 +++
 

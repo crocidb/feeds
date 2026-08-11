@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-truth-behind-the-resurrection-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.101243147Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/microsoft-launches-xbox-backward-c
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-23T22:52:27.094526657Z"
-seen = false
+seen = true
 +++
 

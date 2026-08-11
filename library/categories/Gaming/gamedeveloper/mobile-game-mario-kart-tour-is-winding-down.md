@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/mobile-game-mario-kart-tour-is-win
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-09T12:05:14.778904138Z"
-seen = false
+seen = true
 +++
 

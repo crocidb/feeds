@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/compulsion-games-is-seeking-partne
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-16T14:36:45.585067059Z"
-seen = false
+seen = true
 +++
 

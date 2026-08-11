@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-game-industry-hardship-fund-bu
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-06T09:48:01.068999866Z"
-seen = false
+seen = true
 +++
 

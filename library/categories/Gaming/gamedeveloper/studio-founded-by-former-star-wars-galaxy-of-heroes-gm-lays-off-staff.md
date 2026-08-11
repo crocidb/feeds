@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ex-star-wars-galaxy-of-heroes-gm-s
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-16T14:36:45.586384457Z"
-seen = false
+seen = true
 +++
 

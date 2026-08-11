@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/halo-studios-jettisons-long-serv
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T21:59:23.152372579Z"
-seen = false
+seen = true
 +++
 

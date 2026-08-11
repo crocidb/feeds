@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/-good-work-is-not-going-to-save-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-16T14:36:45.581086863Z"
-seen = false
+seen = true
 +++
 

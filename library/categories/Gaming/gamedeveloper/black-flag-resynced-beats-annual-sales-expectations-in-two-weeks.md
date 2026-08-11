@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/black-flag-resynced-beats-annual-s
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-28T12:42:16.531787749Z"
-seen = false
+seen = true
 +++
 

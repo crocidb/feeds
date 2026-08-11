@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/opinion-welcome-to-the-house-of-pa
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-09T12:05:14.785770749Z"
-seen = false
+seen = true
 +++
 

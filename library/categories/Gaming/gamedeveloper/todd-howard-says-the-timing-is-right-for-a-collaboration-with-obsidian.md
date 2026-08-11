@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/todd-howard-says-the-timing-is-rig
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-07-18T14:47:58.926001825Z"
-seen = false
+seen = true
 +++
 

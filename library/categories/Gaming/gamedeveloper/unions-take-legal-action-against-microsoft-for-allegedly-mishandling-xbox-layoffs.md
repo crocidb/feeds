@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/unions-take-legal-action-against
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-18T14:47:58.940137905Z"
-seen = false
+seen = true
 +++
 

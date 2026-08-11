@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/unity-sells-supersonic-publishing-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-06T21:59:23.151004070Z"
-seen = false
+seen = true
 +++
 

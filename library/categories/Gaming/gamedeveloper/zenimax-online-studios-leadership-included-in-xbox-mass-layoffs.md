@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/zenimax-online-studios-leadership-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-18T14:47:58.953214068Z"
-seen = false
+seen = true
 +++
 

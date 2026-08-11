@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-we-mean-business-xbox-union-worke
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-16T14:36:45.595592986Z"
-seen = false
+seen = true
 +++
 

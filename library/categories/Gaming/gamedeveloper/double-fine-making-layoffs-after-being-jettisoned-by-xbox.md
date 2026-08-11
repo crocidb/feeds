@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/double-fine-making-layoffs-after-b
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.109989092Z"
-seen = false
+seen = true
 +++
 

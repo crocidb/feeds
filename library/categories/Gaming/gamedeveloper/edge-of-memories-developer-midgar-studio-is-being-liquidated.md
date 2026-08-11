@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/edge-of-memories-developer-midgar-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-21T09:19:42.013235023Z"
-seen = false
+seen = true
 +++
 

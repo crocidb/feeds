@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/eurogamer-and-vg247-veterans-launc
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-16T14:36:45.598218602Z"
-seen = false
+seen = true
 +++
 

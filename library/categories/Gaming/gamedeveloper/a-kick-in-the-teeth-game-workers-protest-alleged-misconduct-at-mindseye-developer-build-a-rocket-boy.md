@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-a-kick-in-the-teeth-game-workers-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-16T14:36:45.591685451Z"
-seen = false
+seen = true
 +++
 

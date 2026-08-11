@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ea-boss-awarded-38-6m-after-year-o
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.108765042Z"
-seen = false
+seen = true
 +++
 

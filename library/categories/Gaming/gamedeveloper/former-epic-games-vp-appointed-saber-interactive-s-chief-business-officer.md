@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/former-epic-games-vp-appointed-sab
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-16T14:36:45.574315569Z"
-seen = false
+seen = true
 +++
 

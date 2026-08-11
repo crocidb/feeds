@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/if-knowledge-if-power-why-are-ga
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-08-06T09:48:01.103815715Z"
-seen = false
+seen = true
 +++
 

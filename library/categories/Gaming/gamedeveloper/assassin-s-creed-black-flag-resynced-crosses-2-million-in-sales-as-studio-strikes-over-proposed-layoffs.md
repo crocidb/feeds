@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/assassin-s-creed-black-flag-topped
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-16T14:36:45.582380731Z"
-seen = false
+seen = true
 +++
 

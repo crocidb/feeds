@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/mobile/spin-master-lays-off-paw-patrol-the-
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-07-16T14:36:45.587675035Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/unity-brings-dedicated-engine-supp
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.102560327Z"
-seen = false
+seen = true
 +++
 

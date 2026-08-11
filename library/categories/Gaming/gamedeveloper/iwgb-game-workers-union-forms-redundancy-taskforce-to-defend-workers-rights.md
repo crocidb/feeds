@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/iwgb-game-workers-union-forms-redu
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-16T14:36:45.579779255Z"
-seen = false
+seen = true
 +++
 

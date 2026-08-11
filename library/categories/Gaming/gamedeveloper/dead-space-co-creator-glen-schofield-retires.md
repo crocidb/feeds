@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/call-of-duty-co-director-glen-scho
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-16T14:36:45.575632887Z"
-seen = false
+seen = true
 +++
 

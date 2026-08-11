@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/games-done-quick-apologizes-for-pa
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-16T14:36:45.590391693Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/report-refactor-games-shuttered-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.085194217Z"
-seen = false
+seen = true
 +++
 

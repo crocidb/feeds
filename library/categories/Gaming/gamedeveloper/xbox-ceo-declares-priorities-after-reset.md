@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-ceo-declares-priorities-after
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-08-06T09:48:01.095866920Z"
-seen = false
+seen = true
 +++
 

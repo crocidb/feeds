@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-hardware-now-costs-a-lot-more
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.088058595Z"
-seen = false
+seen = true
 +++
 

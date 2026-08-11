@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/atari-appoints-andreas-deptolla-as
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-09T12:05:14.782368949Z"
-seen = false
+seen = true
 +++
 

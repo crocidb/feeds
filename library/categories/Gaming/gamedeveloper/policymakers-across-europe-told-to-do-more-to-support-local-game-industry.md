@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/policymakers-across-europe-told-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.058777132Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-employers-are-ruthless-cwa-canada
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-09T12:05:14.789228650Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/alpha-dog-games-returns-to-indepen
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-22T09:21:57.493612251Z"
-seen = false
+seen = true
 +++
 

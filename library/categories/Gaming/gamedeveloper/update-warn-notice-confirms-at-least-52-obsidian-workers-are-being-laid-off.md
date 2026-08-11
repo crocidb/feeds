@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-obsidian-losing-around-one-
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-07-09T12:05:14.768163535Z"
-seen = false
+seen = true
 +++
 

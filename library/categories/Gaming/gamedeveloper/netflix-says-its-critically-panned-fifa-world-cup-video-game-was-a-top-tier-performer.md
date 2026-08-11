@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/netflix-says-its-critically-panned
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-21T09:19:42.018564726Z"
-seen = false
+seen = true
 +++
 

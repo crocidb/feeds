@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ea-says-all-regulatory-approvals-h
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-08-06T09:48:01.093325552Z"
-seen = false
+seen = true
 +++
 

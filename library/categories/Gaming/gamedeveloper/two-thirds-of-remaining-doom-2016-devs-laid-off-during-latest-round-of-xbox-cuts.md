@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/two-thirds-of-doom-2016-developm
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-21T09:19:42.021151397Z"
-seen = false
+seen = true
 +++
 

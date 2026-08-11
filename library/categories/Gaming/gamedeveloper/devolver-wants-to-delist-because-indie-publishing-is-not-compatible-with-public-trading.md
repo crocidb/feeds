@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/devolver-wants-to-delist-because-i
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T21:59:23.155081476Z"
-seen = false
+seen = true
 +++
 

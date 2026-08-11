@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ea-is-now-owned-by-saudi-arabia-an
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.065292498Z"
-seen = false
+seen = true
 +++
 

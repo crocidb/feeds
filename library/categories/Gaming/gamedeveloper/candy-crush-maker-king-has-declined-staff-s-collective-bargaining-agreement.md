@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/candy-crush-maker-king-has-decline
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-06T09:48:01.055467963Z"
-seen = false
+seen = true
 +++
 

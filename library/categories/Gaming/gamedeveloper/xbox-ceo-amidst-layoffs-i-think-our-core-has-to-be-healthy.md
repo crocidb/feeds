@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-ceo-amidst-layoffs-i-think-ou
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-09T12:05:14.796275792Z"
-seen = false
+seen = true
 +++
 

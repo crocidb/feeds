@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-xbox-is-testing-a-feature-t
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-09T12:05:14.818715746Z"
-seen = false
+seen = true
 +++
 

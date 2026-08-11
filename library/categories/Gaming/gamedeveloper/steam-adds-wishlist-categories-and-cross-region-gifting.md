@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/pc/steam-adds-wishlist-categories-and-cross
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-23T22:52:27.082849093Z"
-seen = false
+seen = true
 +++
 

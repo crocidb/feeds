@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/saudi-led-ea-buyout-receives-eu-ap
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-28T12:42:16.539357535Z"
-seen = false
+seen = true
 +++
 

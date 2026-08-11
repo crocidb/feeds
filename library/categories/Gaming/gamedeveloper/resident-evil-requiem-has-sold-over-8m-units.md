@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/resident-evil-requiem-has-sold-ove
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-28T23:42:49.141564897Z"
-seen = false
+seen = true
 +++
 

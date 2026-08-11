@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/fired-marathon-director-says-he-s-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-09T17:48:10.605203978Z"
-seen = false
+seen = true
 +++
 

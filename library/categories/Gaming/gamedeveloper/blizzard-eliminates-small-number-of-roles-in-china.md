@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/blizzard-eliminates-small-number-o
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-09T12:05:14.775578807Z"
-seen = false
+seen = true
 +++
 

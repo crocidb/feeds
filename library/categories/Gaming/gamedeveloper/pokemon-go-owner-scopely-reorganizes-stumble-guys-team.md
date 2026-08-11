@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/pokemon-go-owner-scopely-reorganiz
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-18T14:47:58.959359662Z"
-seen = false
+seen = true
 +++
 

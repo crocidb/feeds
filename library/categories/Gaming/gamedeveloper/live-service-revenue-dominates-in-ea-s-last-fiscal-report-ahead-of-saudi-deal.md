@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/live-service-revenue-dominates-in-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T09:48:01.078990590Z"
-seen = false
+seen = true
 +++
 

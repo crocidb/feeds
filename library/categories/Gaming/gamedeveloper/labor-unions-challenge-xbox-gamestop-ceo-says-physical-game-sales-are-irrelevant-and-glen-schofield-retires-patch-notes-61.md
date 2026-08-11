@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/labor-unions-challenge-xbox-gamest
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-18T14:47:58.932913905Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/supercell-starts-developer-grants-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-09T12:05:14.792857121Z"
-seen = false
+seen = true
 +++
 

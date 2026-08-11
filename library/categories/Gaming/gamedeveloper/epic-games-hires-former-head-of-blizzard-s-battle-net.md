@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/epic-games-hires-former-head-of-bl
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-06T09:48:01.107519064Z"
-seen = false
+seen = true
 +++
 

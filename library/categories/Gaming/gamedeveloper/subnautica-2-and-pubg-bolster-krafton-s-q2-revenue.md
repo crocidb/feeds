@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/subnautica-2-and-pubg-bolster-kraf
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-06T09:48:01.106285204Z"
-seen = false
+seen = true
 +++
 

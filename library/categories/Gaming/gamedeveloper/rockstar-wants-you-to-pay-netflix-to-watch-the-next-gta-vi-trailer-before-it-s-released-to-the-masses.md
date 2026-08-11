@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/rockstar-wants-you-to-pay-netflix
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-06T21:59:23.153703377Z"
-seen = false
+seen = true
 +++
 

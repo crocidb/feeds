@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/what-developers-can-learn-from-this-
 author = "Tim Brinkhof"
 text = ""
 lastupdated = "2026-07-22T09:21:57.503356393Z"
-seen = false
+seen = true
 +++
 

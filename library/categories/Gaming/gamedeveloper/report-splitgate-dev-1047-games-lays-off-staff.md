@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-splitgate-dev-1047-games-la
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-22T09:21:57.506965873Z"
-seen = false
+seen = true
 +++
 

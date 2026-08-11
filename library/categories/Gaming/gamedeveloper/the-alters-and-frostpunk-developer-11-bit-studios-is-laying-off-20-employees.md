@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-alters-and-frostpunk-developer
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-16T14:36:45.589018084Z"
-seen = false
+seen = true
 +++
 

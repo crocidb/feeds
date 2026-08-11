@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-cutting-3-200-jobs-and-partin
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-06T19:13:17.857564826Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/canadian-union-workers-slam-xbox
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-23T22:52:27.091621253Z"
-seen = false
+seen = true
 +++
 

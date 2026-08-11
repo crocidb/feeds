@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/io-interactive-closing-istanbul-st
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-09T12:05:14.799865763Z"
-seen = false
+seen = true
 +++
 

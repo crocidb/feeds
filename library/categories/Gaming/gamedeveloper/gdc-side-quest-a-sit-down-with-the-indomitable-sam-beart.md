@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/audio/gdc-side-quest-a-sit-down-with-the-in
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-08-06T09:48:01.097460390Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/splatoon-raiders-started-as-a-tower-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-07-23T22:52:27.100417407Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/atari-and-universal-to-create-movi
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-28T12:42:16.527947933Z"
-seen = false
+seen = true
 +++
 

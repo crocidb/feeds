@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/a-kinect-game-that-debuted-in-2013
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-07-23T22:52:27.097440924Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/tencent-owned-lightspeed-la-is-lay
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-06T09:48:01.075784772Z"
-seen = false
+seen = true
 +++
 
