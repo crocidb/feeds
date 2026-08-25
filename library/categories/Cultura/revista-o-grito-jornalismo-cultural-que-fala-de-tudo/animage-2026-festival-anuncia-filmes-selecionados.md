@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/animage-2026-festival-anuncia-filmes-selecionad
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-08-10T12:13:27.614197503Z"
-seen = false
+seen = true
 +++
 
 Entre os dias 20 e 29 de novembro, no Recife, acontece o Animage, Festival Internacional de Animação de Pernambuco, que marca sua 16ª edição. Foram anunciados os [116 curtas e dez longas](https://drive.google.com/file/d/1fWuFQXLU005ZC2DUdl9pS-1H4RVaswhC/view) desta edição, que marca a estreia da Sessão Petrobras – Mostra Competitiva de Longas-Metragens, que passa a fazer parte do festival ao lado da tradicional competição dedicada aos curtas. Ao todo, o evento recebeu 3.259 filmes inscritos de 108 países.

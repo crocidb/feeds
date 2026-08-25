@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/mostra-comemorativa-do-cinema-pernambucano-exib
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-08-10T22:25:10.949835539Z"
-seen = false
+seen = true
 +++
 
 Entre os dias 13 e 19 de agosto de 2026, o [Cinema da Fundação](https://revistaogrito.com/assunto/cinema-da-fundacao/) recebe a Mostra Comemorativa do Cinema Pernambucano (Aniversários de Décadas, ou filmes que completam datas redondas). Idealizada e realizada pela distribuidora Imovision, a iniciativa ocorre simultaneamente em todo o país e conta, no Recife, com o apoio do equipamento cultural vinculado à Diretoria de Memória, Educação, Cultura e Arte (Dimeca) da Fundação Joaquim Nabuco (Fundaj).

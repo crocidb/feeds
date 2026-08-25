@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/primeiro-longa-de-grace-passo-ganha-trailer-e-c
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-08-10T12:13:27.612635085Z"
-seen = false
+seen = true
 +++
 
 Depois de uma trajetória de destaque em importantes festivais internacionais, *Nosso Segredo*, primeiro longa-metragem dirigido pela atriz e dramaturga **Grace Passô**, divulga seu trailer e cartaz oficiais em preparação para a estreia brasileira. O filme será apresentado na 54ª edição do [Festival de Cinema de Gramado](https://revistaogrito.com/festival-de-gramado-conheca-os-selecionados-para-mostra-competitiva/), onde integra a mostra competitiva de longas brasileiros.

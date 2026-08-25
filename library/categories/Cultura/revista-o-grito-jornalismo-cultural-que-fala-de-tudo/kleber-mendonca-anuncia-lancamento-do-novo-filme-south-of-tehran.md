@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/kleber-mendonca-anuncia-lancamento-do-novo-film
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-08-10T22:25:10.948394979Z"
-seen = false
+seen = true
 +++
 
 [Kleber Mendonça Filho](https://revistaogrito.com/assunto/kleber-mendonca-filho-2/), diretor de “Bacurau” e “O Agente Secreto”, anunciou em sua página do X a estreia de sua nova produção: “South of Tehran”. O curta tem oito minutos e conta com produção de Emilie Leclaux, filmagem de Evgenia Alexandrova e montagem de Edu Serrano; e será exibido pela primeira vez no New York Film Festival, em outubro.

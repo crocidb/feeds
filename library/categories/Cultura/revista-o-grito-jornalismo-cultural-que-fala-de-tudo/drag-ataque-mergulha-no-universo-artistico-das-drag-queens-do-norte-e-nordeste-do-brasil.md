@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/drag-ataque-mergulha-no-universo-artistico-das-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-08-10T12:13:27.615644373Z"
-seen = false
+seen = true
 +++
 
 [“Drag Ataque”](https://drive.google.com/file/d/1zDQGJaSvsplZR9i1kVu53Q2JcJCi94JP/view), a nova série documental a ser lançada na Fashion TV no dia 14 de agosto, às 21 horas, chega com a proposta de mergulhar no universo artístico das drag queens do Norte e do Nordeste do Brasil em 12 episódios que serão exibidos semanalmente.
