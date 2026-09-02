@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-playstation-reworks-horizon
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-24T15:49:14.185839458Z"
-seen = false
+seen = true
 +++
 

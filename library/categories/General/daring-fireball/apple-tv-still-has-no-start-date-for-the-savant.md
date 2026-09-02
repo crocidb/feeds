@@ -6,7 +6,7 @@ url = "https://daringfireball.net/linked/2026/04/19/chastain-says-the-savant-wil
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.139196776Z"
-seen = false
+seen = true
 +++
 
 *[The Savant](https://tv.apple.com/us/show/the-savant/umc.cmc.aar44keiny3h54xvaakg260q)* is a political thriller series starring Jessica Chastain [that was supposed to debut a year ago](https://daringfireball.net/search/chastain+savant). Apple “postponed” it, apparently out of fear of upsetting extremist right-wing nut jobs because the show is about an undercover investigator (Chastain) hunting down extremist right-wing nut jobs. [Chastain was not happy](https://www.instagram.com/p/DO_V2EyEZmj/) about the show being delayed.

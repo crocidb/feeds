@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Unionize-or-die/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.749975440Z"
-seen = false
+seen = true
 +++
 
 Tech workers have long resisted the suggestion that we should be organized into unions. The topic is consistently met with a cold reception by tech workers when it is raised, and no big tech workforce is meaningfully organized. This is a fatal mistake – and I don’t mean “fatal” in the figurative sense. Tech workers, it’s time for you to unionize, and strike, or you and your loved ones are literally going to die.

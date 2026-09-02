@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Circus-freaks-of-FOSS/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.703984416Z"
-seen = false
+seen = true
 +++
 
 The masterwork of Terry A. Davis is his eclectic operating system, TempleOS, which he worked on until his tragic death in 2018. In terms of technical excellence, TempleOS rates well in some respects and poorly in others. For example, it earns the achievement, coveted in OS dev circles, of being self-hosted.<sup class="footnote-ref"><a href="#fn-1" id="fn-1-ref-1">1</a></sup> TempleOS is written in Terry’s own bespoke dialect of C and includes an editor, interpreter, and compiler, as well as a number of original games. In other respects, it compares poorly to many hobby OS projects, some of which have achieved significantly greater levels of technical excellence and sophistication. I would place TempleOS somewhere in, say, the lower middle-class of hobbyist operating systems.

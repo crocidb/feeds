@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/OpenAI-employees-are-you-okay/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.730534870Z"
-seen = false
+seen = true
 +++
 
 You might have seen [an article](https://edition.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis) making the rounds this week, about a young man who ended his life after ChatGPT encouraged him to do so. The chat logs are really upsetting.

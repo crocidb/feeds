@@ -6,7 +6,7 @@ url = "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newslette
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.106309891Z"
-seen = false
+seen = true
 +++
 
 My thanks to WorkOS for sponsoring [the Daring Fireball weekly newsletter](https://daringfireball.net/2026/08/df_posts_drop_in_a_forest) this week to promote their Agent Registration. Agents are hitting your signup flow and they’re bouncing off a browser login that was designed for humans. Every one that gives up is a signup you never see.

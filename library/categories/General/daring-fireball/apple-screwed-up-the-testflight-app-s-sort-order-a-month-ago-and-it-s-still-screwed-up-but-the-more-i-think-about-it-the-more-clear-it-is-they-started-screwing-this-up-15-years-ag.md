@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/08/apple_testflight_list_sort_order"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.121963493Z"
-seen = false
+seen = true
 +++
 
 [Zac Hall at 9to5Mac, a month ago](https://9to5mac.com/2026/07/21/apple-just-improved-testflight-for-users-with-a-lot-of-beta-apps/):

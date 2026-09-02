@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/08/apple_testflight_list_sort_order"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.102041266Z"
-seen = false
+seen = true
 +++
 
 [I complained last week](https://daringfireball.net/2026/08/apple_testflight_list_sort_order) that starting with an update last month, the list of apps I’m testing in Apple’s TestFlight app has been sorted alphabetically, rather than by recency. Whatever is going on with this sort order, it isn’t affecting everyone. John Siracusa, amongst many others, [has the same problem I do](https://mastodon.social/@siracusa/117135117635246786) — his list is now alphabetical, and it’s driving him nuts too. Ryan Booker, amongst many others, [still has his list sorted by recency](https://mastodon.social/@ryanbooker/117141821370254238).

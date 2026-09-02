@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-cd-projekt-red-has-laid-off
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-08-24T15:49:14.213533906Z"
-seen = false
+seen = true
 +++
 

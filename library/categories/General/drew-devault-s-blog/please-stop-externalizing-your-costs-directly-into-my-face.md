@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Stop-externalizing-your-costs-on-me/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.757665431Z"
-seen = false
+seen = true
 +++
 
 *This blog post is expressing personal experiences and opinions and doesn’t reflect any official policies of SourceHut.*

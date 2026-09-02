@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Rewrite-with-zine/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.718347146Z"
-seen = false
+seen = true
 +++
 
 15 years ago, on December 11th, 2010, at the bold age of 17, I wrote [my first blog post](https://web.archive.org/web/20120305160351/http://sircmpwn.blogspot.com/2010/12/everything-you-want-out-of-wp7.html) on the wonders of the [Windows Phone 7](https://en.wikipedia.org/wiki/Windows_Phone_7) on Blogspot. I started blogging as a kid at the behest of a family friend at Microsoft, who promised she’d make sure I would become the youngest [Microsoft MVP](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional) if I started blogging. That never came to pass, though, because as I entered adulthood and started to grow independent of my Microsoft-friendly family I quickly began down the path to the free and open source software community.

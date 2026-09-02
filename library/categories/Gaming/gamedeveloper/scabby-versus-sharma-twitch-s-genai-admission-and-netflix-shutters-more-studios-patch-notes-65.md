@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/scabby-versus-sharma-twitch-s-gena
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.204125314Z"
-seen = false
+seen = true
 +++
 

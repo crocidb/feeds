@@ -6,7 +6,7 @@ url = "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing?giftI
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.169860512Z"
-seen = false
+seen = true
 +++
 
 The Economist (‘twas a gift link, but alas, I guess gift views have been used up — here’s [an archive link](https://archive.ph/20260811223012/https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing) in case the gift link is vexing you):

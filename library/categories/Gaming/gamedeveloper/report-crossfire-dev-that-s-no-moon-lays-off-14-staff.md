@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-crossfire-dev-that-s-no-moo
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-24T15:49:14.222966707Z"
-seen = false
+seen = true
 +++
 

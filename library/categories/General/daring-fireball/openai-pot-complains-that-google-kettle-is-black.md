@@ -6,7 +6,7 @@ url = "https://x.com/thsottiaux/status/2083373529081291076?s=12"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.133200379Z"
-seen = false
+seen = true
 +++
 
 Thibault Sottiaux, the OpenAI genius in charge of Codex and the new ChatGPT Homer Simpson car, on Twitter/X:

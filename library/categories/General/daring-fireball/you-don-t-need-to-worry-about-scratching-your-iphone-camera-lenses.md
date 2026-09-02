@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.151276672Z"
-seen = false
+seen = true
 +++
 
 Following up on [my post yesterday about modern iPhones and scratch resistance](https://daringfireball.net/linked/2026/08/13/ceramic-shield-2-is-the-real-deal), and my personal habits of (a) almost never using an iPhone case, and (b) never setting the iPhone face down except on soft (cloth) surfaces.

@@ -6,7 +6,7 @@ url = "https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.156987065Z"
-seen = false
+seen = true
 +++
 
 Joanna Stern, writing at The New Things (gift link):

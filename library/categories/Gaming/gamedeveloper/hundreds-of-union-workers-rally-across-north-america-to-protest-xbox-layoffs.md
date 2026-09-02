@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/hundreds-of-union-workers-rally-ac
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.181228349Z"
-seen = false
+seen = true
 +++
 

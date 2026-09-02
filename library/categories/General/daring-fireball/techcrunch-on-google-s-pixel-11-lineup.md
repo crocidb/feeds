@@ -6,7 +6,7 @@ url = "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-m
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.159861453Z"
-seen = false
+seen = true
 +++
 
 Ivan Mehta, TechCrunch:

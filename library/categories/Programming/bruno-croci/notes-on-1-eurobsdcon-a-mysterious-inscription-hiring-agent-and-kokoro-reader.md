@@ -6,7 +6,7 @@ url = "https://crocidb.com/post/notes-on/1-eurobsdcon-mysterious-inscription-hir
 author = "Bruno Croci"
 text = ""
 lastupdated = "2026-08-06T09:52:33.774216591Z"
-seen = false
+seen = true
 +++
 
 A lot of my time is spent in reading technical blogs and news. Mostly from my RSS feeds and Hacker News, Lobsters, and Reddit. My browser has dozens of open tabs of articles I want to read, but think they’re too deep for just a quick scan. A lot of these texts require some further research on the subject or new concepts I’ve never heard before. So I realized that taking notes of these articles is the best way of understanding it, along with the further links I’ll follow, improving my chances of actually learn something.

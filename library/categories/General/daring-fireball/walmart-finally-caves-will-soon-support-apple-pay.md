@@ -6,7 +6,7 @@ url = "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.110547216Z"
-seen = false
+seen = true
 +++
 
 Walmart:

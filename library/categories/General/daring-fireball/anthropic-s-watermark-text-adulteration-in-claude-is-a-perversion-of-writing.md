@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.144188790Z"
-seen = false
+seen = true
 +++
 
 When I [wrote this week](https://daringfireball.net/linked/2026/08/11/anthropic-claude-watermarks) about Anthropic’s announcement that all Claude models, worldwide, would soon begin “watermarking” everything they generate, including text, to comply with [this EU regulation](https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content), we were left to speculate *how* this was going to work, because Anthropic offered not even a vague description of how it would work — despite the fact that the title of the announcement was, absurdly and insultingly, “[How Claude Marks AI-Generated Content](https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content)”.

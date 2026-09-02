@@ -6,7 +6,7 @@ url = "https://www.theverge.com/tech/978084/google-camera-looks-interview-comput
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.158489335Z"
-seen = false
+seen = true
 +++
 
 David Imel, The Verge:

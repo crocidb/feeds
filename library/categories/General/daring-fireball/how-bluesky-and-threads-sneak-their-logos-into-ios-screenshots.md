@@ -6,7 +6,7 @@ url = "https://timmarinin.net/2026/bluesky-screenshots/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.117076480Z"
-seen = false
+seen = true
 +++
 
 Bluesky and Threads both pull the same trick: When you take a screenshot on iOS of an individual tweet, they replace the “Follow” button in their user interface with their logo. Tim Marinin noticed this in the Bluesky app, got curious, and because they publish the app’s source code, he dug in to figure out how they do this:

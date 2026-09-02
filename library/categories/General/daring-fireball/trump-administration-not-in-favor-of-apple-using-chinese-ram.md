@@ -6,7 +6,7 @@ url = "https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?st=vfe1SA"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.146910726Z"
-seen = false
+seen = true
 +++
 
 The Wall Street Journal (gift link):

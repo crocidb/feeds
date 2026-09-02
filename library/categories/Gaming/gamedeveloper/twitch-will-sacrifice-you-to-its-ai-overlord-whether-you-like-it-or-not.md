@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/twitch-will-sacrifice-you-to-its-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.212196808Z"
-seen = false
+seen = true
 +++
 

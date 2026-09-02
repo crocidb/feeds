@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Speak-the-truth/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.746398968Z"
-seen = false
+seen = true
 +++
 
 Today, we’re looking at two case studies in how to respond when reactionaries appear in your free software community.

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/programming/godot-adoption-is-rising-what-a
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-08-24T15:49:14.191970017Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.131795990Z"
-seen = false
+seen = true
 +++
 
 Stuart Heritage, writing for The Guardian, under the splendid headline “Dickovers, Baggravation and Botiquette: 18 New Words to Describe Our Tech Hellscape”:

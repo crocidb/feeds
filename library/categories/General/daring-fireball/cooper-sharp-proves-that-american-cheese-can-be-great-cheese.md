@@ -6,7 +6,7 @@ url = "https://sixcolors.com/member/2026/08/this-week-in-apple-lets-fight/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.103478625Z"
-seen = false
+seen = true
 +++
 
 John Moltz, in his weekly members-only column for Six Colors (no gift links, but Moltz’s column is [worth the subscription](https://sixcolors.com/subscribe/) in and of itself):

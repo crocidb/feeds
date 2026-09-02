@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/deus-ex-director-warren-spector-is
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-24T15:49:14.190527939Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/On-intellectual-property/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.759338571Z"
-seen = false
+seen = true
 +++
 
 I’d like to write about intellectual property in depth, in this first of a series of blog posts on the subject. I’m not a philosopher, but philosophy is the basis of reasonable politics so buckle up for a healthy Friday afternoon serving of it.

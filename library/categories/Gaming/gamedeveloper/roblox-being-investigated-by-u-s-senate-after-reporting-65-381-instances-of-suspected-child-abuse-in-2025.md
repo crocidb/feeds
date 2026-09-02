@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/roblox-being-investigated-by-u-s-s
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.193484277Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://design.google/library/expressive-material-design-google-research"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.152663350Z"
-seen = false
+seen = true
 +++
 
 This page from Google Design on their “Material 3” UI language came to my attention after [my snarky post](https://daringfireball.net/linked/2026/08/12/google-design-pants-pissed) about the ungainly new to-do app [they bizarrely bragged](https://x.com/googledesign/status/2087195277094695096) about on Twitter/X this week. I don’t think this “Material 3” page is new — I think it’s a few years old — but I’d never seen it before.

@@ -6,7 +6,7 @@ url = "https://x.com/googledesign/status/2087195277094695096"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.155411515Z"
-seen = false
+seen = true
 +++
 
 A few years ago I’d have looked at this post and maybe leaned toward the idea that a precocious 8th grader somewhere hacked into the @GoogleDesign Twitter account and tried to pass off their little to-do app as having come from Google’s design team. But this is apparently real. I almost hope it’s AI slop and that there aren’t any human designers there who think anything in this app has appropriate proportions or is aesthetically pleasing.

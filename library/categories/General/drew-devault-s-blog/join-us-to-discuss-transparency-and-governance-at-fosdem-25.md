@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Transparency-and-governance-FOSDEM/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.760899649Z"
-seen = false
+seen = true
 +++
 
 Good news: it appears that Jack Dorsey’s FOSDEM talk has been cancelled!

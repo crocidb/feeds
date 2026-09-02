@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/meccha-chameleon-tops-20m-sales-in
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-24T15:49:14.218905135Z"
-seen = false
+seen = true
 +++
 

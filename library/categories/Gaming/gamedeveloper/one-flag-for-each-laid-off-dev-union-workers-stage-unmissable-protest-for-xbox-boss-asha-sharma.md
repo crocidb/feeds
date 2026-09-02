@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-one-flag-for-each-laid-off-dev-un
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.221645270Z"
-seen = false
+seen = true
 +++
 

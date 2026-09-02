@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/netflix-closing-oxenfree-developer
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-08-24T15:49:14.205474632Z"
-seen = false
+seen = true
 +++
 

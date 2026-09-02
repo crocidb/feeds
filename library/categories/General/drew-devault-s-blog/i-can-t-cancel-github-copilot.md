@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/I-cant-cancel-Copilot/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.712804381Z"
-seen = false
+seen = true
 +++
 
 Back when Copilot first came out, I immediately disliked it. But I decided to give it a fair shake and tried to evaulate it in good faith. I wasn’t interested in paying for it, but they had a form for FOSS community members to apply for a free subscription, so I filled it out and gave it a shot. Once approved I spent 15 minutes (successfully) convincing it to write a Python script that printed out the lyrics to “All Star” verbatim, and haven’t touched it since.

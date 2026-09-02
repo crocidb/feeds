@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-each-event-has-to-feel-local-and-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.174521302Z"
-seen = false
+seen = true
 +++
 

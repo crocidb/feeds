@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_litt
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.119102536Z"
-seen = false
+seen = true
 +++
 
 [Apple Newsroom, on Tuesday](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/):

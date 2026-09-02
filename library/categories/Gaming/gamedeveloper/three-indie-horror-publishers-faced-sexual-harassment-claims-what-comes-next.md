@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/three-indie-horror-publishers-fa
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-08-24T15:49:14.224347135Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/remedy-entertainment-touts-pricing
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-24T15:49:14.227035970Z"
-seen = false
+seen = true
 +++
 

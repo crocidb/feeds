@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/memory-crisis-is-causing-uncertain
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-24T15:49:14.189109230Z"
-seen = false
+seen = true
 +++
 

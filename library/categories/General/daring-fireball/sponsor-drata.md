@@ -6,7 +6,7 @@ url = "https://drata.com/daring"
 author = "Daring Fireball Department of Commerce"
 text = ""
 lastupdated = "2026-08-24T15:49:14.172612247Z"
-seen = false
+seen = true
 +++
 
 Leverage autonomous AI agents to automate compliance, manage internal and third-party risk, and continuously prove your security posture.

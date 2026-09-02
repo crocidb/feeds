@@ -6,7 +6,7 @@ url = "https://www.wsj.com/business/media/disneys-abc-sues-fcc-over-challenge-to
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.127272882Z"
-seen = false
+seen = true
 +++
 
 Joe Flint, reporting for The Wall Street Journal (gift link):

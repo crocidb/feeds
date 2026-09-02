@@ -6,7 +6,7 @@ url = "https://www.theinformation.com/articles/anthropics-first-lady-took-windin
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.142082133Z"
-seen = false
+seen = true
 +++
 
 Cory Weinberg, Jemima McEvoy, Jessica E. Lessin, and Stephanie Palazzolo, writing for the paywalled-without-gift-links The Information:

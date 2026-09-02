@@ -6,7 +6,7 @@ url = "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-googl
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.162611998Z"
-seen = false
+seen = true
 +++
 
 Victoria Song, The Verge:

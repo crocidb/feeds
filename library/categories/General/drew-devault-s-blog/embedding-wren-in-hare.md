@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Hare-and-Wren/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.741727942Z"
-seen = false
+seen = true
 +++
 
 I’ve been on the lookout for a scripting language which can be neatly embedded into Hare programs. Perhaps the obvious candidate is [Lua](https://www.lua.org/) – but I’m not particularly enthusiastic about it. When I was evaluating the landscape of tools which are “like Lua, but not Lua”, I found an interesting contender: [Wren](https://wren.io/).

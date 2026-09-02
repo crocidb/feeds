@@ -6,7 +6,7 @@ url = "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.145553888Z"
-seen = false
+seen = true
 +++
 
 James Padolsey, on the Claude-text-watermarking-to-comply-with-an-EU-regulation imbroglio:

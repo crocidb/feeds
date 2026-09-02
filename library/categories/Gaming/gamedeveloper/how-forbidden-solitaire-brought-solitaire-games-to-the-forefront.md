@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/how-forbidden-solitaire-brought-soli
 author = "Khee Hoon Chan"
 text = ""
 lastupdated = "2026-08-24T15:49:14.197715271Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Price-perspective/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.754787227Z"
-seen = false
+seen = true
 +++
 
 I had a fun idea for a small project this weekend, and so I quickly put it together over the couple of days. The result is [Price Perspective](https://addons.mozilla.org/en-US/firefox/addon/price-perspective/).

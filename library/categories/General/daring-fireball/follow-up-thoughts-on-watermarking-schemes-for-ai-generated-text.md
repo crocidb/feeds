@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/08/follow-up_thoughts_on_watermarking"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.137743747Z"
-seen = false
+seen = true
 +++
 
 Some follow-up to this weekend’s stemwinder “[Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)”:

@@ -6,7 +6,7 @@ url = "https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-auto
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.107771910Z"
-seen = false
+seen = true
 +++
 
 Toby Sterling, reporting for Reuters:

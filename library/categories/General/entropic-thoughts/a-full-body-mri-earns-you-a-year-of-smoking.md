@@ -6,10 +6,10 @@ url = "https://entropicthoughts.com/full-body-mri-earns-you-a-base-jump"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-07-07T12:18:39.261780583Z"
-seen = false
+seen = true
 +++
 
- Alternative titles:
+Alternative titles:
 
 * … earns you a high-risk pregnancy
 * … earns you an ascent of Matterhorn

@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Vim-Classic-8.3.0/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.706059321Z"
-seen = false
+seen = true
 +++
 
 Following up on my [earlier announcement](https://drewdevault.com/blog/Forking-vim/) that I was forking Vim, I’m happy to announce the first release of my fork today: Vim Classic 8.3.0.

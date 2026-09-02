@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Neurodivergence-and-accountability-in-free-s
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.765610645Z"
-seen = false
+seen = true
 +++
 
 In November of last year, I wrote [Richard Stallman’s political discourse on sex](https://drewdevault.com/2023/11/25/2023-11-26-RMS-on-sex.html), which argues that Richard Stallman, the founder of and present-day voting member of the board of directors of the Free Software Foundation (FSF), endorses and advocates for a harmful political agenda which legitimizes adult attraction to minors, consistently defends adults accused of and convicted of sexual crimes with respect to minors, and more generally erodes norms of consent and manipulates language regarding sexual harassment and sexual assault in his broader political program.

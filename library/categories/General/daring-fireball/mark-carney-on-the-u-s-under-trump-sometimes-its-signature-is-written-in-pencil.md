@@ -6,7 +6,7 @@ url = "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trum
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.104884293Z"
-seen = false
+seen = true
 +++
 
 Ian Austen, reporting for The New York Times (gift link):

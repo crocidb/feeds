@@ -6,7 +6,7 @@ url = "https://drata.com/daring"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.149851654Z"
-seen = false
+seen = true
 +++
 
 My thanks to Drata for sponsoring last week at DF. Their message is short and sweet: Leverage autonomous AI agents to automate compliance, manage internal and third-party risk, and continuously prove your security posture.

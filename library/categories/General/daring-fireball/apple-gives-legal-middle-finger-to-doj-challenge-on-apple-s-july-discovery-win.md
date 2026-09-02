@@ -6,7 +6,7 @@ url = "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-c
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.128748921Z"
-seen = false
+seen = true
 +++
 
 Marcus Mendes at 9to5Mac has [a fun update](https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/) on *U.S. v. Apple*, the ill-considered antitrust case started by the Biden administration. A bunch of what the DOJ argues are anticompetitive features in Apple’s platforms, Apple argues are in fact privacy and security related.

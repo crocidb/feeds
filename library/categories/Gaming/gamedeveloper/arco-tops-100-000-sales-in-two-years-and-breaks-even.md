@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/arco-breaks-even-after-topping-100
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.194813944Z"
-seen = false
+seen = true
 +++
 

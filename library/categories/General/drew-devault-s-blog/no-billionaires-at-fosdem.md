@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/No-Billionares-at-FOSDEM-please/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.763899395Z"
-seen = false
+seen = true
 +++
 
 *Update: Dorsey’s talk was cancelled! [See the update here](https://drewdevault.com/blog/Transparency-and-governance-FOSDEM/).*

@@ -6,7 +6,7 @@ url = "https://www.axios.com/2026/08/18/nbc-news-taboola-programmatic-display-ad
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.123680766Z"
-seen = false
+seen = true
 +++
 
 Sara Fischer, Axios:

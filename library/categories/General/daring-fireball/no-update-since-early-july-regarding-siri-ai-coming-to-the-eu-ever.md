@@ -6,7 +6,7 @@ url = "https://www.ft.com/content/807d25c3-f4ac-4402-b815-3aa91018237d"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.140676465Z"
-seen = false
+seen = true
 +++
 
 The Financial Times, back on July 1, with the transcontinental byline “Michael Acton in San Francisco and Barbara Moens in Brussels” (non-paywalled summaries from [9to5Mac](https://9to5mac.com/2026/06/30/tim-cook-and-eu-tech-chief-hold-constructive-virtual-meeting-over-siri-ai-standoff/) and [MacRumors](https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/)):

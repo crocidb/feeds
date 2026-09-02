@@ -6,7 +6,7 @@ url = "https://www.bloomberg.com/news/articles/2026-08-19/apple-s-camera-equippe
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.120465054Z"
-seen = false
+seen = true
 +++
 
 Mark Gurman, Bloomberg:

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/inner-pocket-is-a-new-indie-publis
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.199312942Z"
-seen = false
+seen = true
 +++
 

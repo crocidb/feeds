@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Whats-up-with-FUTO/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.733509695Z"
-seen = false
+seen = true
 +++
 
 Some time ago, I noticed some new organization called [FUTO](https://futo.org/) popping up here and there. I’m always interested in seeing new organizations that fund open source popping up, and seeing as they claim several notable projects on their roster, I explored their website with interest and gratitude. I was first confused, and then annoyed by what I found. Confused, because their website is littered with [bizzare manifestos](https://web.archive.org/web/20251022104006/https://futo.org/about/what-is-futo/),<sup class="footnote-ref"><a href="#fn-1" id="fn-1-ref-1">1</a></sup> and ultimately annoyed because they were playing fast and loose with the term “open source”, using it to describe commercial source-available software.

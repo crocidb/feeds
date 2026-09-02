@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/2k-announces-new-vancouver-based-s
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-24T15:49:14.206825149Z"
-seen = false
+seen = true
 +++
 

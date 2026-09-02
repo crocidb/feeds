@@ -6,7 +6,7 @@ url = "https://tumbledry.org/2026/08/07/idrive_ads"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.171251570Z"
-seen = false
+seen = true
 +++
 
 Alex Micek:

@@ -6,7 +6,7 @@ url = "https://bsky.app/profile/masnick.com/post/3mtk7cuvbok2x"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.114990973Z"
-seen = false
+seen = true
 +++
 
 Mike Masnick, in a thread on Bluesky:

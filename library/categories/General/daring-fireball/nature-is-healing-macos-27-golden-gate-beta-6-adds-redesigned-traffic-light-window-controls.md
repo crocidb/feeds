@@ -6,7 +6,7 @@ url = "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redes
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.134651677Z"
-seen = false
+seen = true
 +++
 
 Zac Hall, 9to5Mac:

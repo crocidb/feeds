@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Bunnix/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.770501173Z"
-seen = false
+seen = true
 +++
 
 I needed a bit of a break from “real work” recently, so I started a new programming project that was low-stakes and purely recreational. On April 21st, I set out to see how much of a Unix-like operating system for x86\_64 targets that I could put together in about a month. The result is [Bunnix](https://git.sr.ht/~sircmpwn/bunnix). Not including days I didn’t work on Bunnix for one reason or another, I spent 27 days on this project.

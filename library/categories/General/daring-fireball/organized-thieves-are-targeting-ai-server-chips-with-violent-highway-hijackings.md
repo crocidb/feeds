@@ -6,7 +6,7 @@ url = "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-tur
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.130254810Z"
-seen = false
+seen = true
 +++
 
 Paresh Dave and Aarian Marshall, reporting for Wired ([News+ link](https://apple.news/AXazcsSUuTOq8F32MB2X88w) in case Wired hits you with their paywall):

@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/So-you-want-to-compete-with-FOSS/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.768733802Z"
-seen = false
+seen = true
 +++
 
 We are living through an interesting moment in source-available software.<sup class="footnote-ref"><a href="#fn-1" id="fn-1-ref-1">1</a></sup> The open source movement has always had, and continues to have, a solid grounding in grassroots programmers building tools for themselves and forming communities around them. Some looming giants brought on large sums of money – Linux, Mozilla, Apache, and so on – and other giants made do without, like GNU, but for the most part if anyone thought about open source 15 years ago they were mostly thinking about grassroots communities who built software together for fun. With the rise of GitHub and in particular the explosion of web development as an open platform, commercial stakeholders in software caught on to the compelling economics of open source. The open source boom that followed caused open source software to have an enormous impact on everyone working in the software industry, and, in one way or another, on everyone living on planet Earth.

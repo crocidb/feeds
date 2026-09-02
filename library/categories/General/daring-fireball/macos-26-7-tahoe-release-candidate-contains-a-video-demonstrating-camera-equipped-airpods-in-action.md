@@ -6,7 +6,7 @@ url = "https://www.macrumors.com/2026/08/17/camera-equipped-airpods-macos-26-7/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.136014465Z"
-seen = false
+seen = true
 +++
 
 Oops.

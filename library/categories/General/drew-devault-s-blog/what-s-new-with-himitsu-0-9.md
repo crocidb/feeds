@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Whats-new-with-himitsu/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.744060760Z"
-seen = false
+seen = true
 +++
 
 Last week, Armin and I worked together on the latest release of [Himitsu](https://himitsustore.org/), a “secret storage manager” for Linux. I haven’t blogged about Himitsu since I announced it [three years ago](https://drewdevault.com/blog/Himitsu/), and I thought it would be nice to give you a closer look at the latest release, both for users eager to see the latest features and for those who haven’t been following along.<sup class="footnote-ref"><a href="#fn-1" id="fn-1-ref-1">1</a></sup>

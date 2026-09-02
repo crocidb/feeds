@@ -6,7 +6,7 @@ url = "https://mastodon.social/@BasicAppleGuy/117073366339407186"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.168419713Z"
-seen = false
+seen = true
 +++
 
 Basic Apple Guy:

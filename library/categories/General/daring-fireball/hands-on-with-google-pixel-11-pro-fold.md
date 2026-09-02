@@ -6,7 +6,7 @@ url = "https://www.engadget.com/2235294/google-pixel-11-pro-fold-hands-on/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.161242220Z"
-seen = false
+seen = true
 +++
 
 Sam Rutherford, writing for Engadget:

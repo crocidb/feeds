@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/opinion-deprofessionalization-co
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-08-24T15:49:14.210855261Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/BA-on-border-disputes/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.751887473Z"
-seen = false
+seen = true
 +++
 
 My spouse and I are on vacation in Japan, spending half our time seeing the sights and the other half working remotely and enjoying the experience of living in a different place for a while. To get here, we flew on British Airways from London to Tokyo, and I entertained myself on the long flight by browsing the interactive flight map on the back of my neighbor’s seat and trying to figure out how the poor developer who implemented this map solved the thorny problems that displaying a world map implies.

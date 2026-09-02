@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/pokemon-pokopia-has-topped-5-milli
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.200925093Z"
-seen = false
+seen = true
 +++
 

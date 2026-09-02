@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/rsync-without-rsync/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.721067158Z"
-seen = false
+seen = true
 +++
 
 So apparently [rsync is slop](https://codeberg.org/small-hack/open-slopware) now. When I heard, I wanted to drop a quick note on my blog to give an alternative: tar. It doesn’t do everything that rsync does, in particular identifying and skipping up-to-date files, but tar + ssh can definitely accomodate the use case of “transmit all of these files over an SSH connection to another host”.

@@ -6,7 +6,7 @@ url = "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.113377503Z"
-seen = false
+seen = true
 +++
 
 Sarah Perez, writing at TechCrunch last week:

@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/An-impossible-future-for-JS/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.738253111Z"
-seen = false
+seen = true
 +++
 
 In the wake of [the largest supply-chain attack in history](https://www.ox.security/blog/npm-2-0-hack-40-npm-packages-hit-in-major-supply-chain-attack/), the JavaScript community could have a moment of reckoning and decide: never again. As the panic and shame subsides, after compromised developers finish re-provisioning their workstations and rotating their keys, the ecosystem might re-orient itself towards solving the fundamental flaws that allowed this to happen.

@@ -6,7 +6,7 @@ url = "https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durabil
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.154044968Z"
-seen = false
+seen = true
 +++
 
 Philip Michaels, writing last September for Tom’s Guide:

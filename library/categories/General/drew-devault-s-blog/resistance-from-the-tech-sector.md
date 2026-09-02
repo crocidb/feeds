@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Tech-sector-restistance/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.753350090Z"
-seen = false
+seen = true
 +++
 
 As of late, most of us have been reading the news with a sense of anxious trepidation. At least, those of us who read from a position of relative comfort and privilege. Many more read the news with fear. Some of us are already no longer in a position to read the news at all, having become the unfortunate subjects of the news. Fascism is on the rise worldwide and in the United States the news is particularly alarming. The time has arrived to act.

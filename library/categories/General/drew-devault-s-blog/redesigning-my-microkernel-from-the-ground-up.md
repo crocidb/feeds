@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Hermes-from-the-ground-up/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.728431835Z"
-seen = false
+seen = true
 +++
 
 [As you may recall](https://drewdevault.com/blog/helios/), circa 2022-2023 I was working on a microkernel written in Hare named Helios. Helios was largely inspired by and modelled after the design of [seL4](https://sel4.systems/) and was my first major foray into modern OS development that was serious enough to get to a somewhat useful state of functionality, with drives for some real hardware, filesystems, and an environment for running user programs of a reasonable level of sophistication.

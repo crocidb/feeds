@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Forking-vim/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.723730120Z"
-seen = false
+seen = true
 +++
 
 Vim is important to me. I’m using it to write the words you’re reading right now. In fact, almost every word I have ever committed to posterity, through this blog, in my code, all of the docs I’ve written, emails I’ve sent, and more, almost all of it has passed through Vim.

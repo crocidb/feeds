@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/big-walk-has-sold-over-1-million-c
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.231027542Z"
-seen = false
+seen = true
 +++
 

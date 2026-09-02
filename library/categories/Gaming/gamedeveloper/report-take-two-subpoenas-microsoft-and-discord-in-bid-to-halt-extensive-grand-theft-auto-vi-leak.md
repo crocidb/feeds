@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-d
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-08-24T15:49:14.175873669Z"
-seen = false
+seen = true
 +++
 

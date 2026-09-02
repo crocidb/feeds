@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-aus
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-24T15:49:14.182646097Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/08/df_posts_drop_in_a_forest"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.111962324Z"
-seen = false
+seen = true
 +++
 
 It occurred to me last night that I’d gotten less feedback regarding recent posts than usual. There were a [few](https://daringfireball.net/2026/08/apple_testflight_list_sort_order) [items](https://daringfireball.net/linked/2026/08/20/bluesky-threads-sneak-logo-into-screenshots) I’d posted in recent days that I felt sure to hear from readers about, both yea and nay. But: nothing. Crickets chirping. I almost always hear from squeaky wheels in the EU when I write about Apple and the DMA, for example, but I heard nothing about [my take yesterday that Apple has effectively pantsed the European Commission](https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little) regarding App Store commissions.

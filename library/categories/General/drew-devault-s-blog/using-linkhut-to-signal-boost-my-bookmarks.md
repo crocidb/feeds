@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Using-linkhut/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.756208054Z"
-seen = false
+seen = true
 +++
 
 ---

@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Cloudflare-and-fascists/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.736099966Z"
-seen = false
+seen = true
 +++
 
 US politics has been pretty fascist lately. The state is filling up concentration camps, engaging in mass state violence against people on the basis of racialized traits, deporting them to random countries without any respect for habeas corpus, exerting state pressure on the free press to censor speech critical of the current administration, and Trump is openly floating the idea of an unconstitutional third term.

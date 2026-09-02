@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Cult-of-TDD-and-LLMs/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-07-21T09:21:06.726180539Z"
-seen = false
+seen = true
 +++
 
 I’ve gotten a lot of flack throughout my career over my disdain towards test-driven development (TDD). I have met a lot of people who swear by it! And, I have also met a lot of people who insisted that I adopt it, too, often with the implied threat of appealing to my boss if appealing to me didn’t work.

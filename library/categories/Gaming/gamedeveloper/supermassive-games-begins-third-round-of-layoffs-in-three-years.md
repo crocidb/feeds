@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/supermassive-games-begins-third-ro
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-08-24T15:49:14.228353337Z"
-seen = false
+seen = true
 +++
 

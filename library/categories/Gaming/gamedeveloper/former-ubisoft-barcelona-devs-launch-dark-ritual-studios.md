@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/former-ubisoft-barcelona-devs-laun
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-08-24T15:49:14.225715143Z"
-seen = false
+seen = true
 +++
 

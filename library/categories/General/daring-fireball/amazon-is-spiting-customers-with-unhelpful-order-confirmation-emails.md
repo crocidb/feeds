@@ -6,7 +6,7 @@ url = "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-e
 author = "John Gruber"
 text = ""
 lastupdated = "2026-08-24T15:49:14.164002166Z"
-seen = false
+seen = true
 +++
 
 Mia Sato, The Verge:
