@@ -1,0 +1,8 @@
+title = "Ratfactor Feed"
+description = "Dave Gauer's personal website. Mostly technical articles."
+url = "http://ratfactor.com/atom.xml"
+feed_url = "http://ratfactor.com/atom.xml"
+author = "Dave Gauer"
+slug = "ratfactor-feed"
+lastupdated = "2026-08-07T00:30:01.108646590Z"
+last_modified = "Fri, 31 Jul 2026 20:46:55 GMT"

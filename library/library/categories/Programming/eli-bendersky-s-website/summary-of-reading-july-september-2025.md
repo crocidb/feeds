@@ -1,0 +1,27 @@
+---
+title = "Summary of reading: July - September 2025"
+description = '* "The Compromise" by Sergei Dovlatov - (read in Russian) the author was a journalist in the Soviet Union in the 60s and 70s. This book is a humorous, semi-biographic account of some of the issues faced by Soviet journalists in their attempt to report news aligned with party line'
+date = "2025-10-01T02:21:00Z"
+url = "https://eli.thegreenplace.net/2025/summary-of-reading-july-september-2025/"
+author = "Eli Bendersky"
+text = ""
+lastupdated = "2025-10-22T08:59:05.224089474Z"
+seen = true
+---
+
+* "The Compromise" by Sergei Dovlatov - (read in Russian) the author was a journalist in the Soviet Union in the 60s and 70s. This book is a humorous, semi-biographic account of some of the issues faced by Soviet journalists in their attempt to report news aligned with party lines. Very good writing, though the Russian in this book was a bit difficult for me at times.
+* "Twilight of the Gods: War in the Western Pacific, 1944-1945" by Ian Toll - the third part of the trilogy. As an overall conclusion to the series, I will reiterate the earlier feedback: the writing is great, the book is very readable for such immense size, but I wish the author's focus was elsewhere. If you're looking for very detailed tactical accounts of key battles, this is the book for you. It doesn't have much about the more strategic aspects, and especially the U.S. industrial capacity that played such a key role in the war. How was the production scaled so much, especially with millions of people drafted? I'd be definitely interested in looking for additional sources of information on this subject.
+* "Threaded Interpretive Languages" by R.G. Loeliger - describes some traditional approaches to implementing FORTH (which is the prime example of a thread-interpretive language, or TIL) in assembly. This book is from the late 1970s, so the target machine used is a Z80. Overall it's pretty good, with useful diagrams and quirky humor, but it certainly shows its age.
+* "System Design Interview – An insider's guide" by Alex Xu - a book form of the author's guidelines for system design interviews. It's *okay*, far from great. The sections are all very repetitive and the sum total of unique insights and ideas in the book is low. Moreover, it's some sort of samizdat instant-Amazon printing of rather low quality, no index, unfocused diagrams and barely any copywriting.
+* "Why Nations Fail: The Origins of Power, Prosperity, and Poverty" by Daron Acemoglu and James A. Robinson - describes the author's theory of why some countries are rich and others are poor. The crux if the theory is extractive vs. inclusive political and economical institutions; in other words, a dictatorship vs. a pluralist government. Overall, the theory is interesting and insightful; the book is a bit scattered, though, with the authors jumping between examples haphazardly, making it difficult to focus. I like that the book doesn't shy away from making predictions for the future rather than just analyzing history.
+* "A biography of the Pixel" by Alvy Ray Smith - the history of computer graphics, told by one of the founders of Pixar. Some parts of this book are good, but I can't say I really enjoyed most of it. Lots of very detailed history and names, and project names, etc.
+* "The Age of Revolution: A History of the English Speaking Peoples, Volume III" by Winston Churchill - covers the period from 1688 to 1815. Though this series is ostensibly about all the "English speaking peoples", the focus is clearly on England. There's some coverage of the USA, but it mostly focuses on the interactions with the British (revolution and war of 1812), and there's also quite a bit on Napoleon and France. The series becomes somewhat more interesting as it approaches the more modern era.
+* "The Nvidia Way: Jensen Huang and the making of a tech giant" by Tae Kim - a very interesting and well-written biography of Nvidia, from the early founding days to \~2024.
+* "Babylon: Mesopotamia and the Birth of Civilization" by Paul Kriwaczek - an interesting historic account of Mesopotamia, from Eridu and until the fall of Babylon.
+* "Demon Copperhead" by Barbara Kingsolver - a novel about a boy coming of age as an orphan in foster care, houses of friends, etc. The backdrop is the opioid epidemic of the early 2000s in the Appalachia, with broken families and lots of drugs. The book is pretty good, but the Pulitzer prize here is clearly for the unsettling coverage of an ongoing hot topic, not for any sort of literary flourish.
+* "The Color of Our Sky" by Amita Trasi - the fictional story of two girls from different castes in India who find their lives intertwined in complex ways. Some thought provoking and troubling accounts of traditions still prevalent in India in relation to discrimination, human trafficking, child abuse and modern slavery.
+* "El murmullo de las abejas" by Sofía Segovia - (read in Spanish) slightly mystical novel about the life of an aristocratic family in the north of Mexico in the early 20th century. Maybe it's just the Spanish, but I definitely got "100 años de soledad" vibes from this book: the mysticism, the multi-generational story going in circles, the ambience.
+
+Re-reads:
+
+* "The Mysterious Island" by Jules Verne

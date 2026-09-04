@@ -1,0 +1,12 @@
+title = "BSD Now"
+description = """
+Created by three guys who love BSD, we cover the latest news and have an extensive series of tutorials, as well as interviews with various people from all areas of the BSD community. It also serves as a platform for support and questions. We love and advocate FreeBSD, OpenBSD, NetBSD, DragonFlyBSD and TrueOS. Our show aims to be helpful and informative for new users that want to learn about them, but still be entertaining for the people who are already pros.
+The show airs on Wednesdays at 2:00PM (US Eastern time) and the edited version is usually up the following day. 
+"""
+url = "https://www.bsdnow.tv"
+feed_url = "https://www.bsdnow.tv/rss"
+author = "JT Pennington"
+slug = "bsd-now"
+lastupdated = "2026-08-24T15:49:19.257619730Z"
+etag = 'W/"84dbb08ba1d21b36a1492fd0c2ccb0e6"'
+last_modified = "Thu, 20 Aug 2026 16:15:05 GMT"

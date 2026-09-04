@@ -1,0 +1,36 @@
+---
+title = "MenuCity"
+description = "This game is called MenuCity and it’s a numbers game. Well that’s the theme anyway. The game pretty much held to what I planned for - except that it deviated from the theme -again- a bit.My game is very reminiscent of the old calculator classic Block Dude made by Brandon Sterne"
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2009/10/13/menucity/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.974849655Z"
+seen = true
+---
+
+This game is called MenuCity and it’s a numbers game. Well that’s the theme anyway. The game pretty much held to what I planned for - except that it deviated from the theme -again- a bit.
+
+My game is very reminiscent of the old calculator classic *Block Dude* made by Brandon Sterner. If you like that game, or any puzzle game for that matter, you’re gonna love this one.
+
+MenuCity
+==========
+
+![](/images/games/thumbs/menucity1.png) ![](/images/games/thumbs/menucity2.png) ![](/images/games/thumbs/menucity3.png)
+
+Instructions
+==========
+
+Left/Right arrows - Move  
+ Up arrow - Climb  
+ Down arrow - Pick up/Put down  
+ f1 - Secret dev console
+
+If you’re stuck this might help: [Walkthrough Level 0](/blog/2009/10/16/menucity_level_0_walkthrough/)
+
+Credits
+==========
+
+Music: The Year Before The War - [Eric Maskol](http://ericmaskol.com/)  
+ Sound effects: Random from [freesound](http://www.freesound.org/)  
+ Rest: Me

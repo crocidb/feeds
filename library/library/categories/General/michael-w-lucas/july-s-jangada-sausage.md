@@ -1,0 +1,32 @@
++++
+title = "July’s Jangada Sausage"
+description = "This post went to Patronizers in July and to the public in August. Not a Patronizer? You could be! It’s 98F outside and will remain so for the foreseeable future. Settling into the new apartment continues. My master plan for a smaller desk I can wheel onto the balcony is almost c"
+date = "2026-08-08T20:41:53Z"
+url = "https://mwl.io/archives/24931"
+author = "Michael Lucas"
+text = ""
+lastupdated = "2026-08-10T12:13:28.512001894Z"
+seen = false
++++
+
+This post went to Patronizers in July and to the public in August. Not a Patronizer? [You could be](https://patronizemwl.com)!
+
+It’s 98F outside and will remain so for the foreseeable future. Settling into the new apartment continues. My master plan for a smaller desk I can wheel onto the balcony is almost complete, but it’s 98F outside. I did go to the dojo yesterday despite the heat, but I think going tonight would be pushing my limits. Fortunately, my physical labor of getting our home ready to sale is done and I don’t have to go out in it. Other people are working on the house, preparing it for sale, and I don’t have to go back until next week. The divorce is in the court’s hands and everyone’s waiting.
+
+Which means I have a week to catch up, starting with getting the monthly See the Sausage Being Made article back on the schedule I prefer. It feels like putting out to sea in a raft designed by observing nature rather than a knowledge of physics.
+
+I’ve been reading the [OpenZFS Mastery](https://mwl.io/sponsor) manuscript, tweaking tidbits here and there in the beginning. I hope to build up momentum so that when I reach the point where I stopped writing, I just keep going. This technique has worked well for me in the past and I’m hopeful it will again. Besides, I have nothing to do but hide indoors and write, because 98F.
+
+No bright idea survives contact with reality, so I’m still rearranging the apartment. I had set up my test server under my desk, as one does, and configured a wireless bridge to give it Ethernet. It worked fine. I want to kill the power to the office when I’m not working, however. I call the test server as such because it hosts the VMs I use for testing, and it has eight hard drive bays for ZFS testing. I have a couple projects that I want to write about next that would benefit from having a production server running 24/7. I’ve relocated the test host to the living room and plugged it directly into the demarc switch. In my copious free time I’ll be configuring a DNS server and a netflow collector on it. That’ll let me play with things like DNS-based ad blocking and IPv6 analysis, two topics that will play against each other. The software license on my streaming media TV permits it to use my bandwidth during off hours to pillage web sites to feed AI scumbags? First, how dare. Second, turn off the TV at the power strip when not in use. But log its DNS queries so you can send those queries to oblivion, and analyze the traffic so you can feed it garbage? That’s the goal. Plus, you know, solving actual sysadmin problems. But mostly grinding my personal axes, the source of my best books.[<sup>1</sup>](https://mwl.io/archives/24931#easy-footnote-bottom-1-24931)
+
+Earlier today, I got a message on the [Run Your Own Mail Server](https://mwl.io/static/books/run-your-own-mail-server.html) Kickstarter. It ended in 2024, but a backer had missed both the original download link and the second download link I posted for folks who missed the first one. Two years. I don’t mind resending a download link, but when does Kickstarter fulfillment stop? I hired a naturally organized and disciplined person to shepherd physical fulfillment, so I’m confident that future books will have less drama. If someone fills out a backer survey two years after the campaign ends, should I interrupt everything to ship them the book? Set aside a day a month to check for stragglers on every campaign I’ve ever run? I’m pondering saying something in the Kickstarter like “Fulfillment stops three months after the first shipment leaves my house.” If someone contacts me I can choose to be accommodating, but it also leaves me an exit if necessary. I generally want to be accommodating. I also need room to say “come on, it’s been four years and the thing you backed for no longer exists. I sent you four requests for your shipping address before giving up. We are *done* here.” I’d leave ebook download links up for a year, because that’s the easy way to be accommodating.
+
+Speaking of fulfillment: all of the N4SA2e Defenestrated Edition copies are on their way. I appreciate everyone’s patience. If I had known or believed Liz and I were going to divorce I would not have run the Kickstarter. Oops, I need to update the SNMP MIB and the web site for it! Tomorrow, I guess. Maybe I’ll do the MIB tonight, that’s nice easy Perl and doesn’t involve any icky images. Book covers are overrated anyway.
+
+If there’s interest, I’m also thinking of an all-Patronizer video hangout this month. It’s been a while since I’ve done one, but life is no longer overwhelming me. Any interest?
+
+Oh! I have managed some original writing from scratch since moving out. The [FreeBSD Journal](https://freebsdfoundation.org/our-work/journal/) Letters column on improving software quality came out well enough. The Journal has a new editor and is making some changes, which gives me new opportunities to be cranky. I had some fun with it. I also did [an interview for the Escape From 2026 Bundle](https://blackbirdpublishing.com/interview-michael-warren-lucas-tiny-time-wars/), where I talked singularities and orcdom. Writing that interview was the first time I’ve felt the words come alive in over a year. Oh crap–I owe Digital Reader backers a copy of Tiny Time Wars! And I must update the web site for it!
+
+These fiction bundles where I say my book goes out of print when the bundle ends? They’re collections. I gathered a few of my alternate history and time travel tales into a file, put a cover on it, and boom–an exclusive! The stories are all available elsewhere, but this particular collection won’t ever be in stores. If I need a collection of time travel stories in stores, I’ll write another time travel story and make a different book.
+
+Publishing is an absolute scam. I have no idea why you support me. But I sincerely appreciate it.

@@ -1,0 +1,28 @@
++++
+title = "Views; between"
+description = "There is beauty in the moments between arriving and reaching your destination. I felt this yesterday in the moments before attending an event in Edinburgh last night. I had an hour before I needed to arrive and, the day being so warm, I decided to slow down and listen to the worl"
+date = "2026-05-27T00:00:00Z"
+url = "https://jamesg.blog/2026/05/27/views-between"
+author = "James' Coffee Blog"
+text = ""
+lastupdated = "2026-05-27T23:23:12.168420512Z"
+seen = true
++++
+
+There is beauty in the moments between arriving and reaching your destination. I felt this yesterday in the moments before attending an event in Edinburgh last night. I had an hour before I needed to arrive and, the day being so warm, I decided to slow down and listen to the world around. I walked through the park with my eyes open under the evening sun for which I had been yearning for months. Every breeze through the air enlivened my senses. Every smile stuck a chord somewhere in my soul.
+
+Nature invites us to see more, closely, in the warmer weather; we emerge from the indoors and seek the outdoors. Looking around, I saw humanity everywhere. I saw humanity in the revived bridge in the heart of the city – a bridge under construction for years that, now, brings colour where there was none for so long. We built the new on old foundations: we added colour. I heard humanity in the parting words of a young couple on an early date: with smiles on their faces, one said to the other with a laugh on the precipice “I don’t want you to see get on my bike.”
+
+I saw humanity in the child with the red hat who climbed the lamp post, dismounting to throw a coin in the bagpipe case to the right of the foot of the piper playing in the park. The sweet sounds of life play. Amazing Grace. A woman in a perfect white dress walks past, also dropping a coin in the case. Several people stand to appreciate the music. I realised that I was among them, standing more at a distance to see not only the piper but more of the people walking past. I walked from pace to pace, seeking new views of the same place, and noticing how short the distance one must travel to see something new.	
+
+The solemnity of the pipes catch the ear of all around. The repertoire of the piper delights. I noticed that he played a song I could not recall ever hearing on the pipes. You can hear an instrument for so long and continue to discover new music. How many chords have I not heard, or heard but not known? There is always something new to appreciate.
+
+I brought the music with me on my journey, albeit not the pipes. I hummed in the bookshop where I searched for a title I wanted to have on my bookshelf. I don’t know why I like humming in bookshops: maybe it is because there is no music playing and it feels there should be some. Or maybe it’s because books bring out the colour of human stories, but the sounds are trapped within the pages – we as viewers bring the melody. Subsequently and serendipitously I learned there is a new book in another series I have been reading that is now out. I purchased the books with joy: I held stories in my hand.
+
+Returning to the park, I found myself philosophising – asking questions about the things that interest me. Where better to ponder? Among people living life in a million ways; around trees growing in infinitely complex ways; under the sun in a place forever my home; near people going at a pace like me: slowly, admiring the world around. I realised that the linear path ahead in the park is only linear in form – we can always choose how we walk it.
+
+The park in which I found myself was on a hill, above which there are wonderful buildings with hundreds of years of history. A castle catches the corner of one’s eye. The topology of the garden – its steep hill, inclining into the city – invites us all to look up; to admire history and the sky and the skying and the music and the colour and the all-encompassing nature of all the stories around. The park invites us to be with ourselves, with others, and with the world around.
+
+Departing for my destination, touching a leaf so delicate that silk could not match, and seeing the light shine through the trees in myriad different ways – through a constellation of buildings and trees (we too are constellations?) – I thought of reverie, of how on our travels some details stand out and become magnified. I thought about how reverie intersects with pace: some emotions can only be experienced when slowing down; conditions matter: the sun and the smiles and the pipes and the lovers.
+
+(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.\_\_CF$cv$params={r:'a028bf79ad308c94',t:'MTc3OTkyNDAwMg=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&amp;&amp;(document.onreadystatechange=e,c())}}}})();

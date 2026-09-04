@@ -1,0 +1,20 @@
++++
+title = "Wonders of Web Weaving, Episode 17"
+description = """The seventeenth episode of Wonders of Web Weaving is out: In Episode 17, Mike interviews James, the author of "with words, wonder" (formerly James' Coffee Blog) about, among other things, identity and personal websites, writing on the web, communicating the potential of personal """
+date = "2026-09-01T00:00:00Z"
+url = "https://jamesg.blog/2026/09/01/www-17"
+author = "with words, wonder"
+text = ""
+lastupdated = "2026-09-01T19:33:13.038199192Z"
+seen = false
++++
+
+[The seventeenth episode of Wonders of Web Weaving is out](https://web-weaving.jamesg.blog/17):
+
+> In Episode 17, [Mike](https://shellsharks.com) interviews [James](https://jamesg.blog), the author of "with words, wonder" (formerly James' Coffee Blog) about, among other things, identity and personal websites, writing on the web, communicating the potential of personal websites, and more.
+
+I hope you enjoy the episode!
+
+[*Wonders of Web Weaving also has an RSS feed*](https://web-weaving.jamesg.blog/subscribe/) *you can use to follow along from wherever you get your podcasts.*
+
+(function(){function c(){var b=a.contentDocument||(a.contentWindow&amp;&amp;a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.\_\_CF$cv$params={r:'a346b445f86d3bf9',t:'MTc4ODI5MTE4MA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&amp;&amp;(document.onreadystatechange=e,c())}}}})(); [James](https://jamesg.blog) [Mike](https://shellsharks.com) [The seventeenth episode of Wonders of Web Weaving is out](https://web-weaving.jamesg.blog/17) [Wonders of Web Weaving also has an RSS feed](https://web-weaving.jamesg.blog/subscribe/)

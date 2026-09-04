@@ -1,0 +1,114 @@
+---
+title = "2021 in review"
+description = "A new year is always a good time to review the past year. Funny how this is already the 12<supth</supyear I’ve done this kind of quick review… Time sure flies.2021 Non-Geek Achievements1. Started strength training using a strength coach f"
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2022/01/10/2021_in_review/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.364734211Z"
+seen = true
+---
+
+A new year is always a good time to review the past year. Funny how this is already [the 12<sup>th</sup> year](/blog/tags/yearly_review/) I’ve done this kind of quick review… Time sure flies.
+
+2021 Non-Geek Achievements
+==========
+
+1. Started strength training using a strength coach from [Kabuki](https://kabukistrength.com/coaching/).
+
+   I got inspired by the book [Peak](https://www.goodreads.com/book/show/26312997-peak) that makes the case for the efficiency of having an experienced coach guide your skill development, and I decided to try out the virtual coaching. I get help with designing a program and checking my form and so far it’s been great.
+
+2. Wrote [8 blog posts](/archive).
+
+3. Started the re-read of [The First Law](https://joeabercrombie.com/books/) series and the other books in the universe.
+
+   The stand-alone books *Best Served Cold* and *The Heroes* are seriously great (haven’t gotten to *Read Country* yet).
+
+2021 Geek Achievements
+==========
+
+1. I [self-published a book](https://whycryptocurrencies.com/)!
+
+   ![](/images/whycrypto/cover-hand.png) It’s so real I can hold it in my hand.
+2. Got funding for [BitPal](https://github.com/bitpal/bitpal), an open-source project I’ve been working on.
+
+3. Wrote a bunch of Rust.
+
+   Bought a bunch of Rust programming books too, but the only one I’ve read yet is *Programming Rust*, which was very good.
+
+4. Wrote a lot of Elixir.
+
+   Also read a bunch of Elixir books. *Elixir in Action* was fantastic.
+
+5. Wrote some C, Python, Typescript and probably something else too.
+
+6. Started using a (very) [custom keyboard layout](/blog/tags/t-34/) on a 34-key split keyboard.
+
+   ![](/images/t-34-1/base.png) The base layout of my keyboard layout T-34/1
+7. Did some web design.
+
+   The book *The Non-Designer’s Design Book* is great for design-fledglings like me.
+
+Boardgames I remember
+----------
+
+* *Vital Lacerda* is famous for designing thematic and very complex Eurogames. Some hate them, others maintain that they’re the best things since sliced bread, and I lean towards the latter.
+
+  I bought and played three of them:
+
+  1. [On Mars](https://boardgamegeek.com/boardgame/184267/mars) is very complex with a lot of rules (it took me \~30 min to explain them, even though I skipped a bunch and came prepared). Still, it’s an absolutely amazing game and it was the highlight of the year for me.
+  2. [The Gallerist](https://boardgamegeek.com/boardgame/125153/gallerist) is also on the complex side, but I still find it very approachable. Also an amazing game and it’s right up there with On Mars for me.
+  3. I only played [Vinhos](https://boardgamegeek.com/boardgame/175640/vinhos-deluxe-edition) once. While it’s undoubtedly a very good game, it has taken a step back compared to the two other Lacerdas. I’d like to play it more.
+
+* [Food Chain Magnate](https://boardgamegeek.com/boardgame/175914/food-chain-magnate) is easily one of my favorite games of all time, and I got to play a game with the new milestones from the [Ketchup expansion](https://boardgamegeek.com/boardgameexpansion/261526/food-chain-magnate-ketchup-mechanism-other-ideas). And what can I say? It was great, and if you want more variation to the game the expansion is fantastic.
+
+* My kid is now 4 years old and at long last he’s old enough to play some decent board games. Both me and him liked [Animal Upon Animal](https://boardgamegeek.com/boardgame/17329/animal-upon-animal) and [Rhino Hero](https://boardgamegeek.com/boardgame/91514/rhino-hero), which are fun enough to play with adults as well!
+
+New mangas/manwhas I remember
+----------
+
+* Tired of unoriginal OP MCs? Want a smart MC and clever story?
+
+  Then *SSS-Class Suicide Hunter* or *Omniscent Reader’s Viewpoint* might be for you! (I hear the light novels are amazing too.)
+
+* Maybe you still want awesome action, but avoid the common tropes?
+
+  Then check out *Legend of the Northern Blade*.
+
+* Perhaps your thing is regression stories?
+
+  I loved *The Beginning After the End* and *Volcanic Age*.
+
+* Or a satisfying combination of fighting and humor?
+
+  *Murim Login* is half-part hilarity and half-part awesomeness.
+
+2021 Failures
+==========
+
+1. My book project wasn’t completely finished.
+
+   I still need to finish the e-book and make it available for sale.
+
+2. Did not advance [BitPal](https://github.com/bitpal/bitpal) into a useable state.
+
+   This is my open source cryptocurrency payment processor I’ve been working on. Unfortunately, it’s still not in a state where I’d be comfortable for others to use. Apart from the missing documentation, the web interface is still work-in-progress and there are some breaking changes to the API I’d like to make.
+
+Plans for 2022
+==========
+
+1. Be with my kids.
+
+   They’re in a lovely age right now.
+
+2. Finish my book project for real.
+
+   This includes making the e-book, some blog posts about the process, integrate with BitPal to sell digital copies and everything else to completely wrap-up the project.
+
+3. Exercise & health focus.
+
+   * I will eat healthier.
+   * I will continue working with my strength coach.
+   * I will exercise up to 5 days a week (weight lifting + grappling).
+
+(I’m working on converting these to [SMART goals](https://www.indeed.com/career-advice/career-development/smart-goals). We’ll see how that goes, maybe I’ll make another post about them, but maybe not.)

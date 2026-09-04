@@ -1,0 +1,45 @@
+---
+title = "Back to lazy.nvim"
+description = "Around a month ago I had an affair with rocks.nvim. It was fun, but I’m back together with lazy.nvim again. This is a short post to explain why—at this "
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2024/06/25/back_to_lazynvim/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.182993480Z"
+seen = true
+---
+
+Around a month ago [I had an affair](/blog/2024/06/02/migrating_to_rocksnvim) with [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim). It was fun, but I’m back together with [lazy.nvim](https://github.com/folke/lazy.nvim) again. This is a short post to explain why—at this point in time—the grass wasn’t greener on the other side.
+
+[Problems with ](#Problems-with-rocksnvim)[rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)
+----------
+
+1. Too many weird issues.
+
+   I had quite a few weird bugs that I couldn’t pin down. What finally broke the camel’s back was that [I couldn’t run neotest with Elixir](https://github.com/jfpedroza/neotest-elixir/issues/35). I think the problem was that I didn’t have the correct treesitter grammar but no matter how I tried to `:Rocks sync`, `:Rocks update`, `:TSInstall`, or nuke the nvim folders in `~/.local` and do a complete reinstall, I couldn’t get it to work.
+
+   I don’t want to mess with my Neovim configuration when I’ve got work to do. With [lazy.nvim](https://github.com/folke/lazy.nvim) these issues went away.
+
+2. Update and sync was really slow.
+
+   `:Rocks update` and `:Rocks sync` is *painfully* slow compared to [lazy.nvim](https://github.com/folke/lazy.nvim). I was already frustrated with packages breaking and having to wait for the `:Rocks sync` to finish when I trying to fix them made me want to smash the computer to pieces.
+
+   That there’s no way to `update` or `sync` an individual package was just gravy.
+
+   Update
+
+   I’m told that `:Rocks install {rock}` updates an installed package.
+
+[Lazy.nvim 11.0 supports luarocks and rockspec](#Lazynvim-110-supports-luarocks-and-rockspec)
+----------
+
+The *single* reason I started looking into [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) was support for [luarocks](https://luarocks.org/) where plugins can specify their own dependencies so that I don’t have to. [With 11.0](https://www.reddit.com/r/neovim/comments/1dng1d6/lazynvim_110_is_released_packages_luarocks_and/) lazy.nvim added support for [luarocks](https://luarocks.org/) including the ability to specify any [luarocks](https://luarocks.org/) dependency (such as a [toml library](https://luarocks.org/modules/LebJe/toml)).
+
+Given that [lazy.nvim](https://github.com/folke/lazy.nvim) supports [semver versioning](https://lazy.folke.io/spec/versioning) and [`:Lazy restore`](https://lazy.folke.io/usage/lockfile) there are no longer any features I need that [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) have that [lazy.nvim](https://github.com/folke/lazy.nvim) don’t.
+
+Specifying plugins in a `.toml` file rather than in Lua has the benefit of making it easier to create management commands like `:Rocks install`. It’s not something I really care about but I can see the attraction of plugin management being as simple as running a few commands.
+
+[I will be faithful, I promise](#I-will-be-faithful-I-promise)
+----------
+
+I really need my configuration to *just work* and unfortunately that wasn’t the case for me with [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim). That’s why I’m back to [lazy.nvim](https://github.com/folke/lazy.nvim) and I’m really enjoying the fantastic speed of [lazy.nvim](https://github.com/folke/lazy.nvim). Why did I ever leave you?

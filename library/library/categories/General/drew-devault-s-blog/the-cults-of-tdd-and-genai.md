@@ -1,0 +1,34 @@
++++
+title = "The cults of TDD and GenAI"
+description = "I’ve gotten a lot of flack throughout my career over my disdain towards test-driven development (TDD). I have met a lot of people who swear by it! And, I have also met a lot of people who insisted that I adopt it, too, often with the implied threat of appealing to my boss if appe"
+date = "2026-01-29T00:00:00Z"
+url = "https://drewdevault.com/blog/Cult-of-TDD-and-LLMs/"
+author = "Drew DeVault's blog"
+text = ""
+lastupdated = "2026-07-21T09:21:06.726180539Z"
+seen = true
++++
+
+I’ve gotten a lot of flack throughout my career over my disdain towards test-driven development (TDD). I have met a lot of people who swear by it! And, I have also met a lot of people who insisted that I adopt it, too, often with the implied threat of appealing to my boss if appealing to me didn’t work.
+
+The basic premise of TDD, for those unaware, is that one *first* writes a unit test that verifies the expected behavior for some code they want to write, observes the new test fail, and *then* one writes the implementation, iterating on it until the test passes. The advantage of this approach is, first, to ensure that your codebase is adequately covered by testing, and, second, to provide you a rapid feedback loop to assist in your work.
+
+I have often found elements of TDD to be quite useful. Using a unit test or something similar to provide an efficient rapid feedback loop is a technique which I have employed many times. However, I am and have always been skeptical of the cult which arises around automated software testing and in particular TDD. A lot of people adopt an unquestioning loyalty to TDD, building tools and practices and vibes around the idea. It’s often too much.
+
+ .rainbow { font-weight: bold; background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red); background-clip: text; background-size: 800% 800%; animation: rainbow 8s ease infinite; -webkit-text-fill-color: transparent; } @keyframes rainbow { 0%{background-position:0% 50%} 50%{background-position:100% 25%} 100%{background-position:0% 50%} }
+
+The flaw with TDD is that, while it ensures that you have a test for every function you write, it also exerts an influence on the tested codebase, shaping the code to be as “testable” as possible, which only sometimes leads to better code. Moreover, TDD has no means of ensuring that the behavior that your tests verify is the *right* behavior for your software to have. Software with a thousand passing tests and 100% test coverage could be doing whatever the user or the business or whatever needs it to, but it could just as easily not meet the requirements in spite of those comprehensive tests – and in any case it gives you confidence in your work, which may or may not be misplaced.
+
+The cult of TDD exploits the fact that TDD is very good at making you feel like a good, diligent programmer. That rapid feedback loop not only assists in your work but also enables a powerful dopamine cycle. Add into that a culture of aiming for 100% coverage and you get the bonus hit from watching a number go up. Buy into the whole cult and you get a slew of new README badges to keep green, and lots of cool charts and numbers, hundreds of blinkenlights on your test suite, a bunch of fun Slack messages from Jenkins, and a cute cardboard cut-out of the CTO to keep in the cubicle of whoever last broke the build.<sup class="footnote-ref"><a href="#fn-1" id="fn-1-ref-1">1</a></sup> All of this pomp and circumstance is *fun* and it feels *good* and because it’s all in the name of testing (which is good, right?) it makes you feel like a *good programmer* even if none of it necessarily contributes to the results your team is supposed to achieve.
+
+All of these flashy traits allow one to adopt the aesthetics of good, diligent software engineering work regardless of how good the work actually is. It’s an intoxicating way to work, especially for someone who struggles with software engineering. It makes you feel like a good programmer and gives you data to “back it up”, stuff you can cite at your performance review. But, software development is really hard, and TDD doesn’t go that far to making it easier. All of the really hard problems are not solved by TDD.
+
+I suspect that coding agents are tapping into the same emotional and psychological reflexes that the cult of TDD gives us an early example of. Software development is still hard, but using an agent allows someone who’s just “so-so” at programming to feel the rush of being great at programming, a rush they might have been chasing for their entire career, and I bet the rush is so much sweeter than watching the lights on your test suite runs tick over to green.
+
+A coding agent permits one to feel as if they have the raw productive power a great programmer can tap into. One may feel like the “10× programmers” they’ve sat next to in the open office for ten years, whose skills they never quite achieved themselves. It scales up the raw output by a factor of ten, and lets one assemble apparently great works in a fraction of the time, solo-coding great cathedrals in the time it used to take them to build, with great difficulty, a homely shack.
+
+But, if it seems too good to be true…
+
+Those cathedrals are not the great works they appear to be. The construction is shoddy and the architecture nonsensical and a great programmer hand-writing code will still outperform any mediocre programmer once the gleam wears off of their respective works and the bugs and problems start showing up. The project has 99.9% coverage on a thousand beautiful green tests, and, inside, the foundations are still rotten.
+
+God, though, I understand why so many people are chasing that dragon, even though it’s going to ruin their careers, and maybe even their lives. I get why people fall for this, in spite of the externalities that they must know of by now. In spite of the colossal waste, the loss of fresh water resources, the fact that AI datacenters are the fastest growing source of carbon emissions, the people suffering sky-rocketing power bill and rolling outages near these new datacenters, the reams and reams of fascist propaganda these machines are producing to tear our society apart, the corruption, the market manipulation, the plain and simple fact that the ultimate purpose of these tools is to put their users *out of a job entirely*… well, once you finally get a taste of what it feels like to be *great*… I suppose all of those problems seem so far away.

@@ -1,0 +1,115 @@
++++
+title = "A week in Nürnberg"
+description = "James’ Coffee Blog has been on a bit of a break while I went on holiday to Nürnberg, Germany. I set off last Friday and returned the Friday after, during which time I attended an IndieWebCamp, an in-person Homebrew Website Club at Technische Hochschule Nürnberg, and spent many ho"
+date = "2026-07-05T00:00:00Z"
+url = "https://jamesg.blog/2026/07/05/a-week-in-nurnberg"
+author = "James' Coffee Blog"
+text = ""
+lastupdated = "2026-07-06T19:13:25.342382217Z"
+seen = false
++++
+
+pre { line-height: 125%; } td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; } span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; } td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; } span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; } .highlight .hll { background-color: #49483e } .highlight { background: #272822; color: #F8F8F2 } .highlight .c { color: #959077 } /\* Comment \*/ .highlight .err { color: #ED007E; background-color: #1E0010 } /\* Error \*/ .highlight .esc { color: #F8F8F2 } /\* Escape \*/ .highlight .g { color: #F8F8F2 } /\* Generic \*/ .highlight .k { color: #66D9EF } /\* Keyword \*/ .highlight .l { color: #AE81FF } /\* Literal \*/ .highlight .n { color: #F8F8F2 } /\* Name \*/ .highlight .o { color: #FF4689 } /\* Operator \*/ .highlight .x { color: #F8F8F2 } /\* Other \*/ .highlight .p { color: #F8F8F2 } /\* Punctuation \*/ .highlight .ch { color: #959077 } /\* Comment.Hashbang \*/ .highlight .cm { color: #959077 } /\* Comment.Multiline \*/ .highlight .cp { color: #959077 } /\* Comment.Preproc \*/ .highlight .cpf { color: #959077 } /\* Comment.PreprocFile \*/ .highlight .c1 { color: #959077 } /\* Comment.Single \*/ .highlight .cs { color: #959077 } /\* Comment.Special \*/ .highlight .gd { color: #FF4689 } /\* Generic.Deleted \*/ .highlight .ge { color: #F8F8F2; font-style: italic } /\* Generic.Emph \*/ .highlight .ges { color: #F8F8F2; font-weight: bold; font-style: italic } /\* Generic.EmphStrong \*/ .highlight .gr { color: #F8F8F2 } /\* Generic.Error \*/ .highlight .gh { color: #F8F8F2 } /\* Generic.Heading \*/ .highlight .gi { color: #A6E22E } /\* Generic.Inserted \*/ .highlight .go { color: #66D9EF } /\* Generic.Output \*/ .highlight .gp { color: #FF4689; font-weight: bold } /\* Generic.Prompt \*/ .highlight .gs { color: #F8F8F2; font-weight: bold } /\* Generic.Strong \*/ .highlight .gu { color: #959077 } /\* Generic.Subheading \*/ .highlight .gt { color: #F8F8F2 } /\* Generic.Traceback \*/ .highlight .kc { color: #66D9EF } /\* Keyword.Constant \*/ .highlight .kd { color: #66D9EF } /\* Keyword.Declaration \*/ .highlight .kn { color: #FF4689 } /\* Keyword.Namespace \*/ .highlight .kp { color: #66D9EF } /\* Keyword.Pseudo \*/ .highlight .kr { color: #66D9EF } /\* Keyword.Reserved \*/ .highlight .kt { color: #66D9EF } /\* Keyword.Type \*/ .highlight .ld { color: #E6DB74 } /\* Literal.Date \*/ .highlight .m { color: #AE81FF } /\* Literal.Number \*/ .highlight .s { color: #E6DB74 } /\* Literal.String \*/ .highlight .na { color: #A6E22E } /\* Name.Attribute \*/ .highlight .nb { color: #F8F8F2 } /\* Name.Builtin \*/ .highlight .nc { color: #A6E22E } /\* Name.Class \*/ .highlight .no { color: #66D9EF } /\* Name.Constant \*/ .highlight .nd { color: #A6E22E } /\* Name.Decorator \*/ .highlight .ni { color: #F8F8F2 } /\* Name.Entity \*/ .highlight .ne { color: #A6E22E } /\* Name.Exception \*/ .highlight .nf { color: #A6E22E } /\* Name.Function \*/ .highlight .nl { color: #F8F8F2 } /\* Name.Label \*/ .highlight .nn { color: #F8F8F2 } /\* Name.Namespace \*/ .highlight .nx { color: #A6E22E } /\* Name.Other \*/ .highlight .py { color: #F8F8F2 } /\* Name.Property \*/ .highlight .nt { color: #FF4689 } /\* Name.Tag \*/ .highlight .nv { color: #F8F8F2 } /\* Name.Variable \*/ .highlight .ow { color: #FF4689 } /\* Operator.Word \*/ .highlight .pm { color: #F8F8F2 } /\* Punctuation.Marker \*/ .highlight .w { color: #F8F8F2 } /\* Text.Whitespace \*/ .highlight .mb { color: #AE81FF } /\* Literal.Number.Bin \*/ .highlight .mf { color: #AE81FF } /\* Literal.Number.Float \*/ .highlight .mh { color: #AE81FF } /\* Literal.Number.Hex \*/ .highlight .mi { color: #AE81FF } /\* Literal.Number.Integer \*/ .highlight .mo { color: #AE81FF } /\* Literal.Number.Oct \*/ .highlight .sa { color: #E6DB74 } /\* Literal.String.Affix \*/ .highlight .sb { color: #E6DB74 } /\* Literal.String.Backtick \*/ .highlight .sc { color: #E6DB74 } /\* Literal.String.Char \*/ .highlight .dl { color: #E6DB74 } /\* Literal.String.Delimiter \*/ .highlight .sd { color: #E6DB74 } /\* Literal.String.Doc \*/ .highlight .s2 { color: #E6DB74 } /\* Literal.String.Double \*/ .highlight .se { color: #AE81FF } /\* Literal.String.Escape \*/ .highlight .sh { color: #E6DB74 } /\* Literal.String.Heredoc \*/ .highlight .si { color: #E6DB74 } /\* Literal.String.Interpol \*/ .highlight .sx { color: #E6DB74 } /\* Literal.String.Other \*/ .highlight .sr { color: #E6DB74 } /\* Literal.String.Regex \*/ .highlight .s1 { color: #E6DB74 } /\* Literal.String.Single \*/ .highlight .ss { color: #E6DB74 } /\* Literal.String.Symbol \*/ .highlight .bp { color: #F8F8F2 } /\* Name.Builtin.Pseudo \*/ .highlight .fm { color: #A6E22E } /\* Name.Function.Magic \*/ .highlight .vc { color: #F8F8F2 } /\* Name.Variable.Class \*/ .highlight .vg { color: #F8F8F2 } /\* Name.Variable.Global \*/ .highlight .vi { color: #F8F8F2 } /\* Name.Variable.Instance \*/ .highlight .vm { color: #F8F8F2 } /\* Name.Variable.Magic \*/ .highlight .il { color: #AE81FF } /\* Literal.Number.Integer.Long \*/ .highlight .nn, .highlight .n{color: light-dark(black, var(--dark-foreground-color)) }pre { line-height: 125%; } td.linenos .normal { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; } span.linenos { color: inherit; background-color: transparent; padding-left: 5px; padding-right: 5px; } td.linenos .special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; } span.linenos.special { color: #000000; background-color: #ffffc0; padding-left: 5px; padding-right: 5px; } .highlight .hll { background-color: #ffffcc } .highlight { background: #f8f8f8; } .highlight .c { color: #3D7B7B; font-style: italic } /\* Comment \*/ .highlight .err { border: 1px solid #F00 } /\* Error \*/ .highlight .k { color: #008000; font-weight: bold } /\* Keyword \*/ .highlight .o { color: #666 } /\* Operator \*/ .highlight .ch { color: #3D7B7B; font-style: italic } /\* Comment.Hashbang \*/ .highlight .cm { color: #3D7B7B; font-style: italic } /\* Comment.Multiline \*/ .highlight .cp { color: #9C6500 } /\* Comment.Preproc \*/ .highlight .cpf { color: #3D7B7B; font-style: italic } /\* Comment.PreprocFile \*/ .highlight .c1 { color: #3D7B7B; font-style: italic } /\* Comment.Single \*/ .highlight .cs { color: #3D7B7B; font-style: italic } /\* Comment.Special \*/ .highlight .gd { color: #A00000 } /\* Generic.Deleted \*/ .highlight .ge { font-style: italic } /\* Generic.Emph \*/ .highlight .ges { font-weight: bold; font-style: italic } /\* Generic.EmphStrong \*/ .highlight .gr { color: #E40000 } /\* Generic.Error \*/ .highlight .gh { color: #000080; font-weight: bold } /\* Generic.Heading \*/ .highlight .gi { color: #008400 } /\* Generic.Inserted \*/ .highlight .go { color: #717171 } /\* Generic.Output \*/ .highlight .gp { color: #000080; font-weight: bold } /\* Generic.Prompt \*/ .highlight .gs { font-weight: bold } /\* Generic.Strong \*/ .highlight .gu { color: #800080; font-weight: bold } /\* Generic.Subheading \*/ .highlight .gt { color: #04D } /\* Generic.Traceback \*/ .highlight .kc { color: #008000; font-weight: bold } /\* Keyword.Constant \*/ .highlight .kd { color: #008000; font-weight: bold } /\* Keyword.Declaration \*/ .highlight .kn { color: #008000; font-weight: bold } /\* Keyword.Namespace \*/ .highlight .kp { color: #008000 } /\* Keyword.Pseudo \*/ .highlight .kr { color: #008000; font-weight: bold } /\* Keyword.Reserved \*/ .highlight .kt { color: #B00040 } /\* Keyword.Type \*/ .highlight .m { color: #666 } /\* Literal.Number \*/ .highlight .s { color: #BA2121 } /\* Literal.String \*/ .highlight .na { color: #687822 } /\* Name.Attribute \*/ .highlight .nb { color: #008000 } /\* Name.Builtin \*/ .highlight .nc { color: #00F; font-weight: bold } /\* Name.Class \*/ .highlight .no { color: #800 } /\* Name.Constant \*/ .highlight .nd { color: #A2F } /\* Name.Decorator \*/ .highlight .ni { color: #717171; font-weight: bold } /\* Name.Entity \*/ .highlight .ne { color: #CB3F38; font-weight: bold } /\* Name.Exception \*/ .highlight .nf { color: #00F } /\* Name.Function \*/ .highlight .nl { color: #767600 } /\* Name.Label \*/ .highlight .nn { color: #00F; font-weight: bold } /\* Name.Namespace \*/ .highlight .nt { color: #008000; font-weight: bold } /\* Name.Tag \*/ .highlight .nv { color: #19177C } /\* Name.Variable \*/ .highlight .ow { color: #A2F; font-weight: bold } /\* Operator.Word \*/ .highlight .w { color: #BBB } /\* Text.Whitespace \*/ .highlight .mb { color: #666 } /\* Literal.Number.Bin \*/ .highlight .mf { color: #666 } /\* Literal.Number.Float \*/ .highlight .mh { color: #666 } /\* Literal.Number.Hex \*/ .highlight .mi { color: #666 } /\* Literal.Number.Integer \*/ .highlight .mo { color: #666 } /\* Literal.Number.Oct \*/ .highlight .sa { color: #BA2121 } /\* Literal.String.Affix \*/ .highlight .sb { color: #BA2121 } /\* Literal.String.Backtick \*/ .highlight .sc { color: #BA2121 } /\* Literal.String.Char \*/ .highlight .dl { color: #BA2121 } /\* Literal.String.Delimiter \*/ .highlight .sd { color: #BA2121; font-style: italic } /\* Literal.String.Doc \*/ .highlight .s2 { color: #BA2121 } /\* Literal.String.Double \*/ .highlight .se { color: #AA5D1F; font-weight: bold } /\* Literal.String.Escape \*/ .highlight .sh { color: #BA2121 } /\* Literal.String.Heredoc \*/ .highlight .si { color: #A45A77; font-weight: bold } /\* Literal.String.Interpol \*/ .highlight .sx { color: #008000 } /\* Literal.String.Other \*/ .highlight .sr { color: #A45A77 } /\* Literal.String.Regex \*/ .highlight .s1 { color: #BA2121 } /\* Literal.String.Single \*/ .highlight .ss { color: #19177C } /\* Literal.String.Symbol \*/ .highlight .bp { color: #008000 } /\* Name.Builtin.Pseudo \*/ .highlight .fm { color: #00F } /\* Name.Function.Magic \*/ .highlight .vc { color: #19177C } /\* Name.Variable.Class \*/ .highlight .vg { color: #19177C } /\* Name.Variable.Global \*/ .highlight .vi { color: #19177C } /\* Name.Variable.Instance \*/ .highlight .vm { color: #19177C } /\* Name.Variable.Magic \*/ .highlight .il { color: #666 } /\* Literal.Number.Integer.Long \*/  @font-face { font-family: 'MonaspaceArgon'; src: url('/assets/fonts/MonaspaceArgon-Regular.woff2') format('woff2'); font-weight: 400; font-style: normal; } pre, code { font-family: 'MonaspaceArgon', ui-monospace, monospace; }
+
+James’ Coffee Blog has been on a bit of a break while I went on holiday to Nürnberg, Germany. I set off last Friday and returned the Friday after, during which time I [attended an IndieWebCamp](https://jamesg.blog/2026/07/05/indiewebcamp-nurnberg-2026), an in-person [Homebrew Website Club at Technische Hochschule Nürnberg](https://indieweb.org/events/2026-07-01-hwc-nuremberg), and spent many hours exploring museums, coffee shops, and, of course, eating delicious ice cream and gelato (why does Nürnberg have so many gelato shops?).
+
+My trip was anchored around the IndieWeb events. The IndieWebCamp was hosted on Saturday and Sunday, which coincided with the hottest days of the heatwave. This meant I was able to stay inside and (relatively) cool for both of those days. This suited me well: I didn’t want to be out too long in the sun in \~40C temperatures.
+
+Museum explorations
+----------
+
+On the days after the event, I, along with friends, visited the Germanisches Museum, the Neues Museum, the Futures Museum, the Deutsche Bahn Museum, and more. The Germanisches Museum was a delight to visit, filled with medieval, renaissance, and modern art. I especially enjoyed the renaissance room. The museum was so big that, despite spending at least eight hours in the museum across two days, I was unable to fully cover all of the museum. This is especially surprising given that several rooms were even closed!
+
+I especially appreciated the German expressionist art in the Germanisches Museum. I haven’t seen many German expressionist paintings. One that stood out to me was Man and Machine by Hannah Hoch ([photo via Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Man_and_Machine_by_Hannah_Hoch,_1921,_oil_on_canvas_-_Germanisches_Nationalmuseum_-_Nuremberg,_Germany_-_DSC02361.jpg/1280px-Man_and_Machine_by_Hannah_Hoch,_1921,_oil_on_canvas_-_Germanisches_Nationalmuseum_-_Nuremberg,_Germany_-_DSC02361.jpg?_=20171023224414)):
+
+![](https://editor.jamesg.blog/content/images/2026/07/Man_and_Machine_by_Hannah_Hoch-_1921-_oil_on_canvas_-_Germanisches_Nationalmuseum_-_Nuremberg-_Germany_-_DSC02361.jpg)
+
+In the museum gift shop, I saw, randomly, a Taylor Swift friendship bracelet making kit, and a few books on Taylor Swift. This, it turned out, would be something of a mini-theme in my museum adventures.
+
+After having seen the Germanisches Museum – well, as much as I could, given that I had the choice of either going back again to cover the rest of the museum or trying somewhere new; I opted for the latter – I went to the Neues Museum, a museum of modern art and design. While modern art museums aren’t my favourite to visit, this museum was one of the highlights of the whole trip. I feel that I am becoming steadily more comfortable with modern art.
+
+Here is where I can bring Taylor Swift back in. One of the exhibitions, featuring many illustrated children’s books, was entitled “WONDERLAND” and mentioned Taylor Swift on the wall plaque. Using Google Translate to read the plaque, I still don’t know the connection between Taylor Swift and the exhibit beyond the fact Swift wrote a song called “Wonderland”. If anyone has been to the museum and knows what this connection is, I’d love to know!
+
+The architecture of the Neues Museum was impressive, especially, and somewhat surprisingly, from the (almost) empty bottom floor where the lockers and bathrooms were. There was a huge empty space there that was both liminal and fascinating at the same time. And from the staircase downstairs, the view upward toward the museum gift shop and the ceiling of the building was impressive.
+
+![A large empty space on the bottom, basement floor of the Neues Museum. The walls are grey concrete and the floor is made with black tiles.](https://editor.jamesg.blog/content/images/2026/07/IMG_4790-Large.jpeg)
+
+ALT
+
+A large empty space on the bottom, basement floor of the Neues Museum. The walls are grey concrete and the floor is made with black tiles.
+
+![Looking up to the museum gift shop and roof from the stairs leading to the basement. The ceiling has strips of glass panes letting in natural light; the walls are concrete.](https://editor.jamesg.blog/content/images/2026/07/IMG_4788-Large.jpeg)
+
+ALT
+
+Looking up to the museum gift shop and roof from the stairs leading to the basement. The ceiling has strips of glass panes letting in natural light; the walls are concrete.
+
+Later in the week, I visited the Futures Museum and the Deutsche Bahn Museum. While I generally prefer art museums, these two museums were both terrific. In the former, I saw part of a quantum computer in a display case; in the latter, I saw many wonderful trains, including a royal train. I even saw the engine of an old train!
+
+![An huge, old mechanical train engine in a warehouse-like building in the Deutsche Bahn Museum.](https://editor.jamesg.blog/content/images/2026/07/IMG_4835-Large.jpeg)
+
+ALT
+
+An huge, old mechanical train engine in a warehouse-like building in the Deutsche Bahn Museum.
+
+The Deutsche Bahn Museum had some unsettling displays about Germany in the 1920s-40s. I am glad those exhibits were there, for I learned so much and felt I had space to reflect on history. The displays on propaganda were especially interesting from an art history perspective, which displayed how everything from typography to scenery was used to build support for the NSDAP.
+
+Homebrew Website Club
+----------
+
+On Wednesday, Tilman hosted an in-person [Homebrew Website Club event](https://indieweb.org/events/2026-07-01-hwc-nuremberg). Happening monthly in Nürnberg at the technical university, the event I attended was a special edition that was part of the Nürnberg Digital Festival. There were at least 20 people there, all joining to learn and chat about personal websites.
+
+The event had two halves: first, we all demoed our websites; second, we discussed all things on the web. I thoroughly enjoyed listening to all the demos of people’s sites. In the background, I even worked on a new feature for my website. Previously, my homepage introductory sentence said “Hello! I’m James (he/him/his)”. During the event, I wrote some JavaScript to change the sentence to be:
+
+> Happy [day of week]! I’m James (he/him/his)
+
+I did this with the following code:
+
+```
+"Happy " + ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"][new Date().getDay() - 1];
+
+```
+
+This code uses the current day of the week in the user’s timezone to display a message. As I wrote this blog post, I realised this code doesn’t work on Sundays. This is because `new Date().getDay()` returns `0` on a Sunday, and 0 minus 1 is `-1`, which cannot be retrieved from the array using the syntax I used. I have just updated the code to the following, using the `at()` method, which correctly retrieves the name of the day of the week:
+
+```
+"Happy " + ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"].at(new Date().getDay() - 1);
+
+```
+
+This message is then added into a `span` tag with the ID `day`. By default, the `span` tag says “Hello!” This means that if the JavaScript fails to load for whatever reason, a welcome message (“Hello!”) will still appear. This follows the principle of [progressive enhancement](https://indieweb.org/progressive_enhancement):
+
+> **progressive enhancement** is the web development practice of building web pages, sites, apps so they are at least readable, and preferably allow for most if not all interactions, from any kind of browser, and optionally take advantage of additional capabilities (like various CSS & [JS](https://indieweb.org/JS) features) when available.
+
+Because I organise Homebrew Website Club (HWC) events both in person (in Edinburgh) and online, I was curious to attend not only to meet new people and chat about websites but also to see what I could learn about organising events. One thing that stood out to me was that having a space in the university meant it was easy for people to present their websites. There was also ample space for people to break out into smaller discussions after demos were finished.
+
+In contrast, the HWC Edinburgh event is run in a coffee shop, which creates more of an informal vibe. I think our current setup in Edinburgh works well, especially because our attendance rarely exceeds eight people. But the IWC Nürnberg setup of having a dedicated room with all the technology we needed felt perfect for the larger group we had. Having a dedicated space definitely made it easier for us all to relax and chat given there were \~20 people in attendance.
+
+After HWC Nürnberg and getting dinner, I joined [HWC Eastern](https://indieweb.org/events/2026-07-01-hwc-eastern) online, which started at 12 midnight if I recall correctly, for a little while. I joined until my laptop battery ran out, after which point I promptly fell asleep. The idea of "IndieWeb badges" came up, during which discussion I shared my idea for badges like "website made at the highest altitude" and "person who has made websites on the most different modes of transportation in a day." Whether this idea comes to fruition I'm not sure, but I certainly loved the discussion.
+
+More adventures
+----------
+
+On the last day in Nürnberg, I visited Ultra Comix, the largest comic book store I have visited. Across three floors and a basement, Ultra Comix had almost everything you could imagine: a wide range of manga, MTG cards, cute plushies, and more. I have never seen so much manga in one place. I took down a few notes of titles that I might want to read as I explored the store.
+
+![Shelves and shelves of manga in Ultra Comix.](https://editor.jamesg.blog/content/images/2026/07/IMG_4846-Large.jpeg)
+
+ALT
+
+Shelves and shelves of manga in Ultra Comix.
+
+Also, the food in Nürnberg was terrific. I tried vegan schnitzel, a real delight, served with a lingonberry sauce. This was my first time tasting lingonberry. I love visiting places and trying the fruits they have. I also relied heavily on Backwerk, a bakery chain, for snacks: everything I ate there was delicious and filling.
+
+I fit so much into the week that it is hard to summarise everything: between events and time spent with friends and museums and walking and visiting a castle, it was a full week.
+
+I loved all my time in Nürnberg – everyone in the city, from friends to people in shops, made me feel so welcome.
+
+Alas, after a week of adventuring, it was time to come back home. With that said, the adventure was not over yet: at the Munich airport, on my way back home, I stopped by the Lego shop and my eyes were immediately caught my a giant unicorn Minifigure at the "Build your own Minifigures" station – so cool!
+
+![A giant Minifigure made out of Lego. The Minifigure is dressed in a white suit with a unicorn hat and a shirt that has a blue unicorn on it.](https://editor.jamesg.blog/content/images/2026/07/IMG_4884-Large.jpeg)
+
+ALT
+
+A giant Minifigure made out of Lego. The Minifigure is dressed in a white suit with a unicorn hat and a shirt that has a blue unicorn on it.
+
+[JS](https://indieweb.org/JS) [HWC Eastern](https://indieweb.org/events/2026-07-01-hwc-eastern) [Homebrew Website Club at Technische Hochschule Nürnberg](https://indieweb.org/events/2026-07-01-hwc-nuremberg) [Homebrew Website Club event](https://indieweb.org/events/2026-07-01-hwc-nuremberg) [progressive enhancement](https://indieweb.org/progressive_enhancement) [attended an IndieWebCamp](https://jamesg.blog/2026/07/05/indiewebcamp-nurnberg-2026) [photo via Wikipedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Man_and_Machine_by_Hannah_Hoch,_1921,_oil_on_canvas_-_Germanisches_Nationalmuseum_-_Nuremberg,_Germany_-_DSC02361.jpg/1280px-Man_and_Machine_by_Hannah_Hoch,_1921,_oil_on_canvas_-_Germanisches_Nationalmuseum_-_Nuremberg,_Germany_-_DSC02361.jpg?_=20171023224414)

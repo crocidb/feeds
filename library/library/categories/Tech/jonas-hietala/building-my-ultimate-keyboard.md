@@ -1,0 +1,767 @@
+---
+title = "Building my ultimate keyboard"
+description = " The Cybershard keyboard.What comes to mind when you see the description “the ultimate keyboard”?There are many keyboards in this world; here are some that might fit the “ultimate” moniker:* [Das Keyboard 4 Ultimate mechanical keyboard](https:/"
+date = "2024-12-01T08:14:22Z"
+url = "http://jonashietala.se/blog/2024/11/26/building_my_ultimate_keyboard/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.136736236Z"
+seen = true
+---
+
+![](/images/cosmos/cybershard.jpg) The Cybershard keyboard.
+
+What comes to mind when you see the description “the ultimate keyboard”?
+
+There are *many* keyboards in this world; here are some that might fit the “ultimate” moniker:
+
+* [Das Keyboard 4 Ultimate mechanical keyboard](https://www.daskeyboard.com/daskeyboard-4-ultimate/)
+* [DataHand](https://en.wikipedia.org/wiki/DataHand)
+* [Ergodox EZ](https://ergodox-ez.com/)
+* [Glove80](https://www.moergo.com/)
+* [Happy Hacking Keyboard](https://hhkeyboard.us/)
+* [Model M Keyboard](https://en.wikipedia.org/wiki/Model_M_keyboard)
+* [Stenotype](https://en.wikipedia.org/wiki/Stenotype) keyboards.
+* [Ultimate Hacking Keyboard](https://ultimatehackingkeyboard.com/)
+* [CharaChorder](https://www.charachorder.com/)
+
+Some even have “ultimate” in their name, although I’ll assert that they’re far from ultimate.
+
+>
+>
+> Any man who must say, “I am the King”, is no true king.
+>
+>
+>
+> Tywin Lannister
+>
+>
+
+I’ll go one step further to say that no keyboard is universally the ultimate because it’s impossible to agree on how to rank different keyboards. For example, while I personally prefer a split keyboard, you might not. Some people have very long fingers and some have very short fingers, making some layouts more preferable. Others may not even have 10 fingers (or both hands), requiring more drastic modifications.
+
+If an ultimate keyboard exists, it differs from person to person. This is my attempt to build *my* ultimate keyboard.
+
+[My wishlist](#My-wishlist)
+----------
+
+To me, the ultimate keyboard should have these features:
+
+1. Should be split to support a more natural typing position.
+
+   Really the biggest ergonomical leap in my opinion.
+
+2. Customized for my own fingers and typing eccentricities.
+
+   Column stagger, curvatures and tenting are features I think I want but they need to be tuned, probably by trial-and-error. The position of the thumb keys is another sticking point that the other keyboards I’ve tried have failed to get just right.
+
+3. Have an integrated trackball or trackpad.
+
+   This way I don’t have to move my hand so far and I can free up some valuable desk space. It shouldn’t be operated with my thumb due to my RSI.
+
+4. Contain the keys I need but no more.
+
+   I like smaller keyboards and I’ve been very happy and with [my custom keyboard layout](/series/t-34) that only has 34 keys. Some modifications are fine of course but for the most part I want to be able to use the same layout on both the [Ferris](https://github.com/pierrechevalier83/ferris) and my new keyboard.
+
+1. To fulfill these requirements I need to be able to customize all parts of the keyboard and I really don’t want to learn CAD and create one from scratch; I wonder what alternatives I have?
+
+[](#Cosmos-keyboard-configurator)[Cosmos](https://ryanis.cool/cosmos/) keyboard configurator
+----------
+
+Having looked around, I probably want something similar to a [Dactyl](https://github.com/adereth/dactyl-keyboard) / [Dactyl Manuform](https://github.com/carbonfet/dactyl-manuform) (many variants exists). They’re keyboards you generate from parameters (such as number of rows and columns and the amount of curvature). I’ve always wanted to try one and now [with a 3D printer](/series/voron_trident), I can.
+
+When looking for a generator I stumbled upon the [Cosmos keyboard configurator](https://ryanis.cool/cosmos/) and I want to gush about it a little because it’s excellent.
+
+![](/images/cosmos/cosmos_config.png) A relatively standard Dactyl Manuform with an encoder and trackpad.
+
+It’s excellent because it allows a clueless sod like me to configure a keyboard the way I want to and it has an impressive feature list:
+
+1. Easily generate keyboards of any size.
+2. Customize XY-spacing, row- and colomn curvature, and more.
+3. Several pre-made thumb clusters.
+4. UI to move around all the keys.
+5. Supports different switches (I so need my Choc switches).
+6. An `Expert` mode that allows you to customize anything via JavaScript.
+7. Supports encoders, trackpads, OLED displays, and trackballs.
+8. Can generate a wrist rest.
+9. Exports `.stl` for easy printing or `.step` you can import to CAD.
+
+Here’s a small snippet from how the code in `Expert` mode might look like:
+
+```
+const curvature = {
+  curvatureOfColumn: 15,
+  curvatureOfRow: 5,
+  spacingOfRows: 18, // 18x19 Choc spacing
+  spacingOfColumns: 19,
+  arc: 0,
+};
+
+/**
+ * Useful for setting a different curvature
+ * for the pinky keys.
+ */
+const pinkyCurvature = {
+  ...curvature,
+  curvatureOfColumn: 15,
+};
+
+/**
+ * The plane used to position the upper keys.
+ * It's rotated by the tenting and x rotation
+ * then translated by the z offset.
+ */
+const upperKeysPlane = new Trsf()
+   // `20` specifies the tenting angle.
+  .rotate(20, [0, 0, 0], [0, 1, 0], false)
+  .rotate(1, [0, 0, 0], [1, 0, 0], false)
+  .translate(0, 0, 0, false);
+
+```
+
+The entire state of the keyboard is also stored in the url, so I can easily share my config by including a link: [Cosmos reference of the final keyboard configuration](https://ryanis.cool/cosmos/beta#cm:CoYBChASBRCQQSATEgASADgxQIBOCg0SBRCQTSATEgASADgdChUSBRCQWSATEgASAxCwLzgJQITIvQIKFRIFEJBlIBMSABIDELA7OApAgYCcAQomEhEQkHEgE0CClKQMSP2JzLSQDBIHQICaJEiJBxIAOB5Aiq6KgAUYAECihdis8FJI3oyrwAEKQQouEhMQQCAAQMuFsI6gAki5j4i2oZILEhUIloASIABA2oPYttAKSMmjwM3g+wc4ABgCQOOLzKzwM0imqeDG8LMICo4BChASBRCQNSATEgASADgyQIBOCg0SBRCQKSATEgASADgeChkSBRCQHSATEgASABIFELBSQAQ4CkCDyL0CChkSBRCQESATEgASABIFELBQQAE4CUCCgJwBCiYSERCQBSATQIKUpAxI/YnQtJAMEgdAgJokSIkHEgA4HUCJroqABRgBQKGF2KzwUkjeiqu4AQo9CioSExBAIABAwIPontA1SLmPhLaRkgsSESAAQMyFsI6gAki5j4S2kZILOAAYA0Dki8ys8DNIpqncxoC0CBADGIYgIgYIvgEQtAE4A4IBAgQCUABYQ3IYSGSAAWRQ6AJY/giIAcwIYIQHaIQHcNAFeLyLvP7wOPIBAggB). (Barring any breaking changes in the tool of course…)
+
+[Initial design parameters](#Initial-design-parameters)
+----------
+
+Even with a keyboard configurator I needed a way to start. I already have a [layout that I really like](/series/t-34) so I wasn’t starting from nothing. These were the important parts going into the design process:
+
+1. A 3x5 grid with 1-2 thumb keys (in practice one thumb key is enough).
+
+   If you question why I want to build such a small keyboard I’ll redirect you to the discussion in [The T-34 keyboard layout](/blog/2021/06/03/the-t-34-keyboard-layout/) post.
+
+2. Integrated trackball on the right-hand side.
+
+3. Choc switches.
+
+   One of the major decisions with a keyboard is what kind of switch to use. While MX-style switches are the most common I personally really love Choc switches for a couple of reasons:
+
+   * Low-profile
+   * Low actuation force
+   * Can be closer together
+
+   While a low profile switch is more important for a flat keyboard, not a tented and curved one like I’m building now, the flatter keycaps and the switches being closer together is crucial for pressing two keys with one finger:
+
+   [![](/images/cosmos/compo_no_press.jpg)](/images/cosmos/compo_no_press.jpg) [![](/images/cosmos/combo_press.jpg)](/images/cosmos/combo_press.jpg)
+
+   A horizontal combo is pressed with the finger in the middle of the keys. It’s surprisingly comfortable.
+
+   The low-actuation force is also more comfortable to me as it helps reduce the strain on my fingers, and makes combos (pressing several switches at once) generally more pleasant.
+
+[Hardware and material](#Hardware-and-material)
+----------
+
+It’s not enough with just a 3D printer, to build a working keyboard you need a bunch of hardware:
+
+1. Two microcontrollers.
+
+   I got the [Liatris](https://splitkb.com/products/liatris) microcontroller as it has enough pins to connect a trackball sensor and it supports [QMK](https://docs.qmk.fm/).
+
+2. Switches
+
+   What kind of Choc switch should I use?  
+   [Linear](https://splitkb.com/collections/switches-and-keycaps/products/kailh-low-profile-choc-switches?variant=42309434802435), [tactile](https://splitkb.com/collections/switches-and-keycaps/products/sunset-kailh-low-profile-choc-switches), or [clicky](https://splitkb.com/collections/switches-and-keycaps/products/kailh-low-profile-choc-switches?variant=39459382427725)?  
+    Exactly how heavy should they be?  
+    Should they be [silent](https://splitkb.com/collections/switches-and-keycaps/products/ambients-kailh-low-profile-choc-switches)?
+
+   I wasn’t sure so I ordered a sampling of different switches to try.
+
+   ![](/images/cosmos/choc_switches.jpg) A collection of different Choc switches.
+
+   For the final keyboard I used the [Ambients silent Noctural (linear / 20gf)](https://splitkb.com/collections/switches-and-keycaps/products/ambients-kailh-low-profile-choc-switches) switches, where the deciding factor was getting as light switches as possible. (I’ve previously used modded 15gf switches, which were even better, but I couldn’t find a way to buy them.)
+
+3. Keycaps
+
+   ![](/images/cosmos/choc_keycaps.jpg) It’s hard to decide on a colorscheme so I [bought a bunch of random colors](https://splitkb.com/collections/switches-and-keycaps/products/mbk-pbt-coloured-blank-keycaps).
+
+   Keycaps aren’t only for looking cool. A convex keycap for the thumb button instead of the standard concave one makes it much more comfortable:
+
+   ![](/images/cosmos/keycaps_concave_convex.jpg) The blue convex keycap to the left and the red concave to the right.
+
+   I also got keycaps for the index row with these small [homing notches](https://splitkb.com/collections/switches-and-keycaps/products/mbk-pbt-coloured-blank-keycaps?variant=47289185632603) to help my fingers more easily find the home row.
+
+4. A pair of [TRRS connectors](https://splitkb.com/products/trrs-jacks?_pos=2&_sid=2fdada9a4&_ss=r) and a [TRRS cable](https://splitkb.com/products/braided-trrs-cable?variant=31226379501645).
+
+5. A Trackball with a matching sensor.
+
+   I decided to pick up [this PMW3389 sensor](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/) because it was recommended in the keyboard configurator and [a red 34mm trackball from Amazon](https://www.amazon.se/dp/B071NX7Y2J?th=1).
+
+6. Filament for the 3D printed pieces.
+
+   I ended up settling on the [PolyTerra PLA Army Purple](https://www.3djake.com/polymaker/polyterra-pla-army-purple) for the case but I used a bunch of different filament during the prototype phase.
+
+7. Diodes, screws, heatset inserts, and cable to do the wiring.
+
+[Prototypes](#Prototypes)
+----------
+
+![](/images/cosmos/prototype_cases.jpg) Some discarded prototypes.
+
+When you’re trying to design something like a custom keyboard I think you need to go through a bunch of trial-and-error until you find something that fits.
+
+Here’s a short rundown of some of the significant revisions I went through, mostly to illustrate that it’s very much an iterative process.
+
+When I first started this process the [Cosmos](https://ryanis.cool/cosmos/) keyboard configurator didn’t support generating both halves at the same time, so I focused on getting the right side comfortable first.
+
+### [First print](#First-print) ###
+
+For my first print I mostly wanted to print it out and test how a keyboard with a standard curvature felt. I also wanted to try to place a trackball somewhere.
+
+I ended up removing a regular thumb key (I’ve used two thumb keys with my [keyboard layout](/series/t-34)) to make it fit and I added a “mouse thumb key” that I plan to use as a `left mouse button` when I’m operating the trackball. It was tricky to place the trackball as I wanted to operate it with my index + middle finger, not my thumb.
+
+Another tweak I made was to reduce the spacing between the keys to be closer to the Choc spacing. Choc spacing seems to be 18.6 x 17.6 mm, but I used 19 x 18 mm spacing—the attraction to round numbers is real.
+
+![](/images/cosmos/v2_proto.jpg) This is the very first prototype I printed. Please ignore the bad print quality; the filament was wet and the temperature was too high. It’s just a prototype so it really doesn’t matter.
+
+### [Pressing the top right key with the ring finger](#Pressing-the-top-right-key-with-the-ring-finger) ###
+
+Most of the keys on the keyboard felt fine but I had one major annoyance: I have a habit of using the ring finger to press the top right key instead of the pinky but with the curvature on the keyboard this just wasn’t possible anymore.
+
+You might wonder, why don’t I just create a new habit and use the pinky *as you’re supposed to*? The simple answer is that I **hate** it. To my fingers that feels beyond terrible and I’d rather remove the key and only have two keys in the outermost column. As it happens, pressing the key with my ring finger (on a flat keyboard) feels good so I’d rather adjust the key than remove it.
+
+That’s the beauty of designing a custom keyboard for yourself—you can do weird shit that only makes sense to you.
+
+![](/images/cosmos/v3_proto.jpg) The second printed prototype, with some keys installed for testing. The printer clogged before the print was finished but it did its job as a prototype. ![](/images/cosmos/v3_p_ring_finger.png) Here’s an angle from the configurator showing the offset of the `p` key compared the other keys in the column.
+
+I also added an extra mouse thumb key and lowered the pinky column a bit.
+
+### [Adjust mouse keys and increase tenting](#Adjust-mouse-keys-and-increase-tenting) ###
+
+![](/images/cosmos/v6_proto.jpg) It’s starting to look like an actual keyboard. With color coded keycaps; red for mouse-only buttons and violet for the home-row keys.
+
+Pressing `p` with my ring finger feels great. Pressing the thumb normal thumb key feels awful because the mouse thumb keys are in the way when I relax my hand.
+
+Adjustments made:
+
+* Moved mouse thumb keys to be more vertical and pressed from the side.
+* Added an extra pinky key reachable when I’m using the trackball.
+* Increased tenting to 20 degrees from 10 degrees.
+
+![](/images/cosmos/v6_config.png) 20 degrees of tenting.
+
+### [Rounded base and pinky tweak](#Rounded-base-and-pinky-tweak) ###
+
+![](/images/cosmos/v8_proto.jpg) Yet another prototype.
+
+* I tried the “rounded” sides and top feature of [Cosmos](https://ryanis.cool/cosmos/).
+* The mouse pinky key was too low, I raised it up a bunch.
+
+### [Thumb keys adjustments](#Thumb-keys-adjustments) ###
+
+![](/images/cosmos/v9_proto.jpg)
+
+* Rotated the main thumb key inwards
+* Added an area for a display
+
+* Lowered the mouse thumb keys a little
+* Removed the “rounded” features
+
+### [More tweaks and the left half](#More-tweaks-and-the-left-half) ###
+
+![](/images/cosmos/v11_proto.jpg)
+
+* Configure the left half of the keyboard
+* Move pinky keys a little upwards
+* Move all thumb keys a little further away
+
+* Removed the display (felt like too much of a hassle for a little coolness)
+
+Although I said I wanted to have a 3x5 grid, the generator included an easy option to include a small bottom row with 2 extra keys (for the ring and middle finger) that I wanted to try out for the left side. They’re… Okay I guess. Not crazy uncomfortable but not quite comfortable enough that I want to have common keys there.
+
+### [Beta V3](#Beta-V3) ###
+
+![](/images/cosmos/v12_proto.jpg)
+
+At this point the Beta V3 of [configurator](https://ryanis.cool/cosmos/) is out and in it there’s several improvements, most notably:
+
+* Both halves can be configured at the same time.
+
+* Can go between the Advanced and Expert tabs! WOW!
+
+  I had to manually keep track of the JavaScript changes I made, and update them manually if I wanted to make a change in the UI… But no more!
+
+I had to redo most of the configuration and I think I made some minor changes that I didn’t keep track of, but I made two larger ones:
+
+* Lowered the tenting angle to 15 degrees (from 20)
+* Lowered ring pinky column key a little
+
+### [Small tweaks to pinky and thumb keys](#Small-tweaks-to-pinky-and-thumb-keys) ###
+
+![](/images/cosmos/v13_proto.jpg)
+
+* Raise/tilt top pinky row key
+* Move thumb keys on left side closer together
+
+### [Trackball mounting types](#Trackball-mounting-types) ###
+
+![](/images/cosmos/roller_trackball.jpg) Roller bearings for the trackball.
+
+When I started this project [Cosmos](https://ryanis.cool/cosmos/) only supported a single type of trackball mount: roller bearings. They worked quite poorly for me as the ball was spinning well in one direction but poorly in others.
+
+Luckily new options were added and as I’m writing this there’s 4 different ways you can mount the trackball:
+
+1. Roller bearings (the old option)
+2. [BTU (7.5mm or 9mm)](https://www.aliexpress.com/item/1005005411108700.html)
+3. [Static ball bearings (3.175mm)](https://www.aliexpress.com/item/4000140404600.html)
+
+Because I was burned with the bad experience (and I didn’t want to rebuild the keyboard yet again) I made small prototypes of the three different options:
+
+![](/images/cosmos/trackball_types.jpg) The new trackball mounts; BTU 9mm, BTU 7.5mm, and static ball bearings.
+
+The BTUs had the least friction and it felt really easy to spin the ball but they were also distressingly loud. The static ball bearings had more friction than the BTUs and less than the roller bearings while being completely silent, so I chose to go with the ball bearings.
+
+![](/images/cosmos/trackball_mount.jpg) The ball bearings installed on the keyboard, with the trackball sensor peeking through.
+
+While they don’t feel nearly as good as the [Kensington SlimBlade](https://www.kensington.com/p/products/ergonomic-desk-accessories/ergonomic-input-devices/slimblade-trackball/) they’re decent enough. I try not to use the mouse *that* much and having the trackball so much closer is worth it compared to having a separate trackball unit besides the keyboard.
+
+When I discovered this issue I had already wired up the keyboard, so to switch mount I had to redo the wiring. It was worth it.
+
+### [Remove mouse keys](#Remove-mouse-keys) ###
+
+![](/images/cosmos/right_complete_no_mouse_keys.jpg)
+
+After having used the keyboard for real I realized that the three keys dedicated to mouse buttons would have to go. There were two major issues with them:
+
+* The pinky key got in the way sometimes when I reached for the top column, and I couldn’t retrain myself to avoid it.
+* One of the goals with the [keyboard layout I use](/series/t-34) is to reduce the thumb and pinky usage of my right hand. The mouse keys counteract this goal.
+
+So I had them removed and I rewired the right half for the 3rd time. *Sigh*.
+
+I think the lesson is that it’s not enough to print a prototype and press switches pretending to type, you have to build and *use* the keyboard a bunch before you can evaluate some of the design decisions.
+
+[Cosmos reference](https://ryanis.cool/cosmos/beta#cm:CoYBChASBRCQQSATEgASADgxQIBOCg0SBRCQTSATEgASADgdChUSBRCQWSATEgASAxCwLzgJQITIvQIKFRIFEJBlIBMSABIDELA7OApAgYCcAQomEhEQkHEgE0CClKQMSP2JzLSQDBIHQICaJEiJBxIAOB5Aiq6KgAUYAECihdis8FJI3oyrwAEKQQouEhMQQCAAQMuFsI6gAki5j4i2oZILEhUIloASIABA2oPYttAKSMmjwM3g+wc4ABgCQOOLzKzwM0imqeDG8LMICo4BChASBRCQNSATEgASADgyQIBOCg0SBRCQKSATEgASADgeChkSBRCQHSATEgASABIFELBSQAQ4CkCDyL0CChkSBRCQESATEgASABIFELBQQAE4CUCCgJwBCiYSERCQBSATQIKUpAxI/YnQtJAMEgdAgJokSIkHEgA4HUCJroqABRgBQKGF2KzwUkjeiqu4AQo9CioSExBAIABAwIPontA1SLmPhLaRkgsSESAAQMyFsI6gAki5j4S2kZILOAAYA0Dki8ys8DNIpqncxoC0CBADGIYgIgYIvgEQtAE4A4IBAgQCUABYQ3IYSGSAAWRQ6AJY/giIAcwIYIQHaIQHcNAFeLyLvP7wOPIBAggB)
+
+[Additional printed parts](#Additional-printed-parts)
+----------
+
+While the case is the biggest and most important part of this kind of keyboard, there are a few other parts I had to print to complete the keyboard.
+
+### [Wrist rests](#Wrist-rests) ###
+
+![](/images/cosmos/prototype_rests.jpg) Some of the different wrist rests I tried.
+
+While they’re called a *wrist* rests, I don’t think you should hold your arms so that there’s pressure on the wrist as that can easily lead to carpal tunnel syndrome. Surprisingly this is even worse with a softer support but I don’t want to risk it either way.
+
+I think of them more as *palm* rests, where I rest the lower part of the palm on the rest, making sure the wrist itself doesn’t receive any pressure.
+
+#### [Magnet attachments](#Magnet-attachments) ####
+
+[![](/images/cosmos/magnets_in_case.jpg)](/images/cosmos/magnets_in_case.jpg) [![](/images/cosmos/magnets_on_rest.jpg)](/images/cosmos/magnets_on_rest.jpg)
+
+The wrist rests didn’t come with any sort of attachment to the case, so they just always drifted away. I tried to combat this by gluing magnets inside the case and outside the wrist rest, making them stick together just enough to stay together during normal use, while being easily removable.
+
+#### [I ended up not using the wrist rests](#I-ended-up-not-using-the-wrist-rests) ####
+
+Despite my efforts, I haven’t been using the printed rests as I reverted to the [”squishy” ones](https://splitkb.com/products/crystals-gel-flexible-wrist-rest?_pos=1&_sid=43057db1e&_ss=r) I’ve used before:
+
+![](/images/cosmos/squishy_rest.jpg) It’s not visible from this angle but my hand rests using the palm instead of the wrist.
+
+The printed felt too uncomfortable and I couldn’t find an angle I liked more than the gel rests. Oh well.
+
+### [Microcontroller holder](#Microcontroller-holder) ###
+
+![](/images/cosmos/microcontroller_holder.jpg) The microcontroller is held in place by a holder you screw into the case.
+
+There’s a holder to fasten the microcontroller to the case that I use. I had to manually make a hole to make the `Boot` button accessible, which was easily accomplished when slicing the model.
+
+### [Bottom plate](#Bottom-plate) ###
+
+![](/images/cosmos/bottom_plate.jpg) A flexible bottom plate hides the wiring.
+
+One problem with the [Ferris](https://github.com/pierrechevalier83/ferris) was that it would sometimes slip on the table. I counteracted this by using an old Netrunner playmat but I wanted another solution.
+
+The keyboard is generated with a bottom plate that’s used to hide and protect the internals. I printed it in TPU, a flexible and rubbery material, that gives enough grip to stay relatively still when I’m typing.
+
+[Wiring](#Wiring)
+----------
+
+![](/images/cosmos/right_wiring_complete.jpg) The complete wiring of the right-side keyboard.
+
+### [Matrix](#Matrix) ###
+
+One of the first things you need to do when wiring up a custom keyboard is to plan out a matrix. I guess you could directly wire every switch directly to the controller too, but that’s not feasible if you have a larger amount of keys, so the usual thing is to use a matrix.
+
+What a matrix means is you should wire together all keys in a row and connect that to a pin on the controller, and to the same with the columns.
+
+It might look something like this:
+
+[![](/images/cosmos/left_wiring.jpg)](/images/cosmos/left_wiring.jpg) [![](/images/cosmos/right_wiring.jpg)](/images/cosmos/right_wiring.jpg)
+
+The green lines indicate columns and the purple lines indicates rows.
+
+You should also use diodes in the matrix (for either rows or columns, I chose the rows). Pay attention to the diode direction.
+
+![](/images/cosmos/left_rows_soldered.jpg) The rows are connected with diodes and with a cable to a pin on the controller. ![](/images/cosmos/right_matrix.jpg) The first matrix I soldered on the right side. It was a lot more difficult to solder because of the awkward positions of the switches. ![](/images/cosmos/right_matrix_no_mouse_keys.jpg) The 3rd matrix I soldered for the right side, this time without the challenging mouse keys. Note that I wired it up slightly differently than in the wiring plan above because it felt more straightforward. Exactly how you choose to construct the matrix doesn’t really matter, as long as every key has a unique row/column combination. ![](/images/cosmos/left_matrix.jpg) Both the rows and columns are wired up and soldered to the controller.
+
+The wiring is horrible, I know.
+
+I only lost one microcontroller due to a short… With my wiring prowess I consider that a success!
+
+### [Controller wiring](#Controller-wiring) ###
+
+![](/images/cosmos/microcontroller_cutoff.jpg) The right-side controller connected to the TRRS and the trackball sensor. This was after I had removed them from my second wired right half and was preparing to rebuild it.
+
+It’s a good idea to plan out the pin assignments in advance. I made the mistake of *soldering* the wrong pins, mixing the two sets of SPI pins (you can’t use RX0 together with TX1 for example).
+
+Or you could not solder directly on the controller, like a normal person.
+
+![](/images/cosmos/liatris.webp) The pins of the [Liatris](https://splitkb.com/products/liatris) microcontroller. It’s an RP2040-based controller.
+
+|Controller pin|                             Connection                              |
+|--------------|---------------------------------------------------------------------|
+|      1       |Handedness (V<sub>CC</sub> on the left keyboard and GND on the right)|
+|      2       |                              TRRS data                              |
+|3, 4, 5, 6, 7 |                           Matrix columns                            |
+|20, 22, 26, 27|                             Matrix rows                             |
+|   13 (CS1)   |                            Trackball SS                             |
+|  14 (SCK1)   |                            Trackball SCK                            |
+|   15 (TX1)   |                           Trackball MOSI                            |
+|   16 (RX1)   |                           Trackball MISO                            |
+
+Although I connected trackball MT to pin 21 on the controller, the motion functionality isn’t supported for split keyboards. I also didn’t connect RST.
+
+![](/images/cosmos/left_micro_soldered.jpg) The TRRS connector is connected to Vcc, GND, and pin 2 (and similarly on the right side). Pin 1 is also connected to Vcc to signal to QMK that this is the left side of the keyboard, whereas pin 1 is connected to GND on the right controller. ![](/images/cosmos/pmw339.jpg) The [pmw3389](https://www.tindie.com/products/citizenjoe/pmw3389-motion-sensor/) sensor attached beneath the trackball.
+
+The trackball sensor is *very* sensitive with the distance towards the trackball. With my last print I had to file down the print where the sensor was attached to in order to get the sensor to track properly.
+
+[Adding the keyboard to QMK](#Adding-the-keyboard-to-QMK)
+----------
+
+The QMK cli has the `qmk new-keyboard` command that helps you get started. I couldn’t get the generated template to work for me, so I copied settings from an existing keybord with `rp2042` support.
+
+I’ll try to hit on the most important parts of the config, take a [look at the source code](https://github.com/treeman/qmk_firmware/tree/master/keyboards/cybershard) for all details.
+
+### [Basic setup](#Basic-setup) ###
+
+The folder structure for the keyboard looks like this:
+
+```
+cybershard
+├── keyboard.json
+├── rules.mk
+├── halconf.h
+├── mcuconf.h
+└── keymaps
+    └── default
+        ├── config.h
+        ├── keymap.c
+        ├── rules.mk
+        └── ...
+
+```
+
+(Cybershard is the name I eventually settled on for the keyboard.)
+
+The most important part is `keyboard.json` that defines (almost) everything we need for a new keyboard in QMK.
+
+First you need to set the `processor`, `bootloader`, and `usb` values. The [Liatris](https://splitkb.com/products/liatris) microcontroller uses the [RP2040](https://docs.qmk.fm/platformdev_rp2040) MCU, and I just picked some vendor- and product identifiers:
+
+```
+{
+    "keyboard_name": "cybershard",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "usb": {
+        "device_version": "0.0.1",
+        "pid": "0x0002",
+        "vid": "0x0361"
+    },
+}
+
+```
+
+Then we need to define the matrix (with the pins we soldered) and the layout (how we’ll configure the keymap in `keymap.c`):
+
+```
+{
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        // We need to use a `GP` prefix for the pins.
+        "rows": ["GP26", "GP27", "GP22", "GP20"],
+        "cols": ["GP3", "GP4", "GP5", "GP6", "GP7"]
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                // First physical row
+                { "matrix": [1, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 0, "y": 0 },
+                { "matrix": [0, 2], "x": 0, "y": 0 },
+                { "matrix": [0, 3], "x": 0, "y": 0 },
+                { "matrix": [0, 4], "x": 0, "y": 0 },
+
+                // Second row
+                { "matrix": [2, 0], "x": 0, "y": 0 },
+                { "matrix": [1, 1], "x": 0, "y": 0 },
+                { "matrix": [1, 2], "x": 0, "y": 0 },
+                { "matrix": [1, 3], "x": 0, "y": 0 },
+                { "matrix": [1, 4], "x": 0, "y": 0 },
+
+                // etc...
+            ]
+        }
+    }
+}
+
+```
+
+Note that we can pick whatever physical pins we want as we can move around and configure them in software. The `LAYOUT` macro is what we use in `keymap.c` to define our keymap. When defining it we can choose to skip certain keys and reorganize it to be easier to define; for example, there’s no switch at `0,0` in my keyboard so I skip that.
+
+The above `LAYOUT` can then be used like this:
+
+```
+LAYOUT(
+ SE_J,    SE_C,    SE_Y,    SE_F,    SE_P,
+ SE_R,    SE_S,    SE_T,    SE_H,    SE_K,
+ SE_COMM, SE_V,    SE_G,    SE_D,    SE_B,
+          SE_A,    SE_B,
+                            // Thumb keys
+                            FUN_CLR, MT_SPC,
+),
+
+```
+
+### [Flashing](#Flashing) ###
+
+With the above setup we should be able to flash the keyboard by first entering the boot loader and running:
+
+```
+qmk flash -kb cybershard -km default
+
+```
+
+I didn’t add a reset button to the keyboard that you typically use to enter the boot loader. The [Liatris](https://splitkb.com/products/liatris) has a boot button that you can hold when you connect the keyboard, but I want to hide the controller inside the casing.
+
+QMK has a `QK_BOOT` key that does the same. I added it as a 5-finger [combo](https://docs.qmk.fm/#/feature_combo) to make it easily accessible but difficult to press by accident.
+
+Now the process of updating the firmware is quite nice and unless I screw up I don’t need to connect another keyboard to do it.
+
+1. Start flashing with `qmk flash` (it will wait until it finds a flashable target).
+2. Press the `QK_BOOT` combo (the keyboard becomes unresponsive).
+3. Wait until the script finishes and the keyboard is available again.
+
+`qmk flash` first didn’t work for me and it always got stuck at:
+
+```
+Flashing for bootloader: rp2040
+Waiting for drive to deploy...
+
+```
+
+After some digging around I found that the script is trying to copy a `.uf2` file into a usb storage, and the controller will then reboot as a keyboard with *something* like this:
+
+```
+qmk compile -kb cybershard -km default
+sudo mount /dev/sdX1 /media/sd
+sudo cp cybershard_default.uf2 /media/sd/
+
+```
+
+After more frustration I found out that the flash scripts looks for a file called `INFO_UF2.TXT` under all drives mounted below `/media`. Because my system doesn’t mount usb drives by default the script would never find it and hang.
+
+The simple solution is to start mounting usb drives automatically, which I did by installing [udevil](https://ignorantguru.github.io/udevil/) and running `devmon` on system startup.
+
+### [Split keyboard](#Split-keyboard) ###
+
+To get the split keyboard feature to work I had to set the `SERIAL_DRIVER` option in `rules.mk`:
+
+```
+SERIAL_DRIVER = vendor
+
+```
+
+And add the `split` configuration to `keyboard.json` and modify the `LAYOUT` macro:
+
+```
+{
+    "split": {
+        "enabled": true,
+        // The pin that signals if the current controller is the left (high)
+        // or right (low) controller.
+        "handedness": {
+            "pin": "GP1"
+        },
+        // The TRRS data pin.
+        "soft_serial_pin": "GP2",
+        "matrix_pins": {
+            "right": {
+                // We can override the pins for the right controller.
+                // Note that GP26 and GP27 are swapped compared to the left side
+                // due to a mistake I made when soldering.
+                "rows": ["GP27", "GP26", "GP22", "GP20"],
+                "cols": ["GP3", "GP4", "GP5", "GP6", "GP7"]
+            }
+        },
+        "transport": {
+            "sync": {
+                // We need to sync the matrix state to allow combos, mods, and
+                // other stuff to work.
+                "matrix_state": true
+            }
+        }
+    },
+    "layouts": {
+        "LAYOUT": {
+            // The rows 0 to 3 specifies rows on the left side and
+            // 4 to 7 the rows on the right side.
+            "layout": [
+                // These 5 keys are the first row on the left side.
+                { "matrix": [1, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 0, "y": 0 },
+                { "matrix": [0, 2], "x": 0, "y": 0 },
+                { "matrix": [0, 3], "x": 0, "y": 0 },
+                { "matrix": [0, 4], "x": 0, "y": 0 },
+                // These 5 keys are the first row on the right side.
+                { "matrix": [4, 0], "x": 0, "y": 0 },
+                { "matrix": [4, 1], "x": 0, "y": 0 },
+                { "matrix": [4, 2], "x": 0, "y": 0 },
+                { "matrix": [4, 3], "x": 0, "y": 0 },
+                { "matrix": [4, 4], "x": 0, "y": 0 },
+
+                // etc..
+            ]
+        }
+    }
+}
+
+```
+
+The `LAYOUT` macro is just a function with many arguments but with the right order it can be formatted to look similar to the physical keyboard. For example, this is how the base layer of my keyboard could look like:
+
+```
+LAYOUT(
+ // Left side                                    // Right side
+ SE_J,    SE_C,    SE_Y,    SE_F,    SE_P,       SE_X,    SE_W,    SE_O,    SE_U,    SE_DOT,
+ SE_R,    SE_S,    SE_T,    SE_H,    SE_K,       SE_M,    SE_N,    SE_A,    SE_I,    REPEAT,
+ SE_COMM, SE_V,    SE_G,    SE_D,    SE_B,       SE_SLSH, SE_L,    SE_LPRN, SE_RPRN, SE_UNDS,
+          // The extra two keys on the left side
+          SE_MINS, SE_PLUS,
+                            // Left thumb keys   // Right thumb key
+                            FUN_CLR, MT_SPC,     SE_E
+),
+
+```
+
+### [Trackball](#Trackball) ###
+
+It took a long time for me to get the trackball working (admittedly, mostly because I soldered the pins wrong). There’s quite a lot of documentation for QMK but curiously enough I didn’t find anything that covered the whole setup. I arrived here by trial and error, trying to piece together parts from other keyboards into a setup that worked for me.
+
+First we need to create the files `halconf.h` and `mcuconf.h` (they go in the same folder as `keyboard.json`) to enable the SPI driver:
+
+```
+#pragma once
+#include_next <halconf.h>
+#define HAL_USE_SPI TRUE
+
+```
+
+```
+#pragma once
+#include_next <mcuconf.h>
+#undef RP_SPI_USE_SPI1
+#define RP_SPI_USE_SPI1 TRUE
+
+```
+
+I enable the `SPI1` device that uses the `CS1`, `SCK1`, `TX1`, and `RX1` pins on the controller. If you want to use the `SPI0` device then you must connect to the `CS0`, `SCK0`, `TX0`, and `RX0` pins instead.
+
+And enable the pointing device with the `pmw3389` device driver in `rules.mk`
+
+```
+POINTING_DEVICE_ENABLE = yes
+POINTING_DEVICE_DRIVER = pmw3389
+
+```
+
+Now we need to add the sensor pins to `config.h`:
+
+```
+// SPI1, matching mcuconf.h
+#define SPI_DRIVER SPID1
+// The pin connections from the pmw3389 sensor
+#define SPI_MISO_PIN GP12
+#define PMW33XX_CS_PIN GP13
+#define SPI_SCK_PIN GP14
+#define SPI_MOSI_PIN GP15
+
+```
+
+This should be enough to get the sensor going, but because we have a split keyboard we need to set that up too:
+
+```
+#define SPLIT_POINTING_ENABLE
+// The trackball is on the right
+#define POINTING_DEVICE_RIGHT
+
+```
+
+There are some additional tweaks that I had to play with to make the trackball work well:
+
+```
+// The trackball is quite sensitive to how
+// large the liftoff distance should be.
+#define PMW33XX_LIFTOFF_DISTANCE 0x10
+// Sets the mouse resolution, up to 16000.
+#define PMW33XX_CPI 1600
+// The directions where messed up, this fixes it.
+#define POINTING_DEVICE_ROTATION_270 1
+#define POINTING_DEVICE_INVERT_X 1
+
+```
+
+With that I got the trackball moves the mouse as expected.
+
+#### [Debug](#Debug) ####
+
+As I struggled to get the trackball working I tried to use the debug output. I’ll include it here for completeness sake:
+
+1. Enable the console in `rules.mk`:
+
+   ```
+   CONSOLE_ENABLE = yes
+
+   ```
+
+2. Enable pointing device debugging in `config.h`:
+
+   ```
+   #define POINTING_DEVICE_DEBUG
+
+   ```
+
+3. Turn on debugging in `keymap.c`:
+
+   ```
+   void keyboard_post_init_user(void) {
+       debug_enable = true;
+       debug_mouse = true;
+   }
+
+   ```
+
+And then run `qmk console` from the command line.
+
+[Is this the ultimate keyboard?](#Is-this-the-ultimate-keyboard)
+----------
+
+No.
+
+This keyboard is certainly the most comfortable keyboard I’ve used but it’s not close to being an “ultimate” keyboard. Here’s a few things that might improve the keyboard:
+
+1. The trackball still isn’t nearly as comfortable as the [Kensington SlimBlade](https://www.kensington.com/p/products/ergonomic-desk-accessories/ergonomic-input-devices/slimblade-trackball/).
+
+   Maybe a keyboard with a larger trackball would be better?
+
+2. The extra keys on the left side are barely useful.
+
+   It’s not a big deal, maybe I can find some usage for them, but to me having barely useful keys feels wrong.
+
+3. There are more extra features I feel an *ultimate* keyboard should have.
+
+   The keyboard I’ve built is nice… But it’s still just a normal keyboard with a trackball. Maybe a vibration sensor, a display, or even some LEDs? A [smart knob with software-configurable endstops and detents](https://github.com/scottbez1/smartknob) would really add some weight to the moniker of an ultimate keyboard.
+
+[Next steps](#Next-steps)
+----------
+
+It’s hard to know how good the keyboard is before I’ve put it through extensive use, and to do that I need to settle on a keyboard layout for the keyboard. I’ve already [designed a layout](/series/t-34) for a 34-key keyboard that should be fairly straightforward to adapt but I still need to figure out how to add mouse keys and what to do with the “extra” keys on the left-hand side.
+
+Check out [The current Cybershard layout](/blog/2024/11/26/the_current_cybershard_layout) for how the keyboard layout is coming along.

@@ -1,0 +1,14 @@
+title = "Lambda Land"
+description = "Lambda: The Ultimate Blog Post—a blog mostly about programming languages, academia, and Emacs"
+url = "https://lambdaland.org/atom.xml"
+feed_url = "https://lambdaland.org/atom.xml"
+author = """
+
+            
+              Ashton Wiersdorf
+            
+          """
+slug = "lambda-land"
+lastupdated = "2026-08-10T22:25:11.613559285Z"
+etag = '"dkj6kmxetquqlunc-gzip"'
+last_modified = "Sat, 08 Aug 2026 01:45:01 GMT"

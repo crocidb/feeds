@@ -1,0 +1,386 @@
+---
+title = "The T-34 keyboard layout"
+description = "A couple of months ago I started looking into ergonomical keyboards; mainly split keyboards with much fewer keys, like the 36-key Gergoplex and the 44-key Kyria. I may write another post abo"
+date = "2025-01-18T19:07:44Z"
+url = "http://jonashietala.se/blog/2021/06/03/the-t-34-keyboard-layout/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.379101161Z"
+seen = true
+---
+
+A couple of months ago I started looking into ergonomical keyboards; mainly split keyboards with much fewer keys, like the [36-key Gergoplex](https://www.gboards.ca/product/gergoplex) and the [44-key Kyria](https://splitkb.com/products/kyria-pcb-kit). I may write another post about the reasons why, but long story short I started getting pain in my thumbs, fingers, wrist and forearm, and I thought it was time to do something about it.
+
+Because my new shiny layout has been unchanged for more than a week, I’ve clearly found my Ultimate Layout™ and it’s time to immortalize it with a blog post!
+
+… Best get comfortable, this is a long post.
+
+![](/images/t-34/T-3457-prototype-side.png) T-34/57 prototype. Because any self-respecting layout needs a name—and tanks are awesome.
+
+(To be completely transparent, I’ve made a few changes to it during the time it has taken me to write this post. And I’m sure, the tweaking will never stop.)
+
+[The journey is long and full of peril](#The-journey-is-long-and-full-of-peril)
+----------
+
+When you start looking at it, there are ****tons**** of good and interesting layouts. For example [Dvorak](https://en.wikipedia.org/wiki/Dvorak_keyboard_layout), [Workman](https://workmanlayout.org/), [Colemak Mod-DH](https://colemakmods.github.io/mod-dh/), [Hands Down](https://sites.google.com/alanreiser.com/handsdown), [MTGAP 2.0](https://mathematicalmulticore.wordpress.com/the-keyboard-layout-project/), BEAKL (many variants) and many others…
+
+They all have their pros and cons, and which one you prefer is highly subjective. At first I chose [BEAKL 15](https://deskthority.net/wiki/BEAKL#BEAKL_15), mostly because I liked the discussion on the now defunct BEAKL forums, and I had some strain on my right pinky that I wanted to minimize.
+
+Although the layout felt much better than QWERTY, after trying out a bunch of modifications, I’ve since moved away from BEAKL. At around 50 WPM I got increasingly annoyed at the high same finger usage (called SFU) and I found that I wanted to use my pinkies more than BEAKL was designed for, which could be used to address the high SFU.
+
+The breaking point came when I read an article about the benefits of [E on one of the thumb keys](https://precondition.github.io/pressing-e-with-the-thumb), which made me abandon BEAKL and try something else.
+
+[My preferences](#My-preferences)
+----------
+
+The keymap is optimized for me and my quirks:
+
+1. Comfort above speed.
+
+   For me I can comfortably reach 34 keys (2 thumb keys per hand), and I use very light choc keys that makes combos very comfortable.
+
+2. Minimize pinky movement.
+
+   I’ve always used my ring finger to press keys above the home-row pinky. Maybe I have short pinkies, I dunno. It’s also why I use a 5-column layout instead of a 6-column layout.
+
+3. Optimized for programming and Vim usage.
+
+   A vast majority of time is spent programming in Vim.
+
+4. I type mostly English, but it should work well with Swedish too.
+
+I find it hard to put it in numbers how difficult/easy I think certain keys are, but it’s **something** like this:
+
+![](/images/t-34/effort.png) A relative effort grid, lower is better. Right pinky and thumb have a bit of RSI.
+
+My RSI isn’t that inhibiting. Just going down to 5 columns and two thumb keys fixes most of my issues. Pressing the top outer keys with the ring finger feels good.
+
+[Some armchair analysis](#Some-armchair-analysis)
+----------
+
+Because it gives you the illusion that the layout is backed by science.
+
+![](/images/t-34/science.jpg) God I miss the show
+
+### [Symbols](#Symbols) ###
+
+The problem with trying to optimize for programming is that it varies **a lot** depending on the language.
+
+Take for example three of my own projects: a WIP Rust implementation of Git (following the excellent Building Git), a crypto payment processor in Elixir, and the [source code for my book](https://github.com/treeman/why_cryptocurrencies) (mostly English, but with some Racket and other codey things):
+
+![](/images/t-34/combined-symbol-freq.svg) Symbol frequencies from a Rust, an Elixir and a book project.
+
+While there’s a general trend here, we see some massive outliers. Like how `-` is incredibly overrepresented in the book’s source (because the Racket convention is `kebab-case` and I use `---` to represent an em dash `—`) or how `;` is very common in Rust but almost non-existent in Elixir.
+
+What should we do then? We can try a keylogger to see what symbols we’re typing. Here’s the results, together with a dataset of all my personal projects I could find (labeled “Code”):
+
+![](/images/t-34/code-key-freq.svg) Symbol frequencies during a keylog session and from a random collection of personal projects (mostly in C++).
+
+It’s not perfect either, as I didn’t run the keylog as long as I should, and I only used a small selection of languages at that time. The big outliers that come from Vim are `:` (I save a lot with `:w`), `.` (repeat last action), `/` (regex search) and `$` (end-of-line). I don’t know why `'` is overrepresented in the keylog, it’s not something I use a lot in Vim.
+
+One might wonder, where do the symbols appear? Are they mostly next to characters, or next to other symbols? Here’s a table of where the symbols end up, and what symbol bigrams they appear (ignoring double symbols like `||`), using the Code source:
+
+|Char|Count |Next to letter|Next to symbol|               Common bigrams               |
+|----|------|--------------|--------------|--------------------------------------------|
+|`,` |220930|    31.22%    |    12.23%    |          `),` `",` `},` `],` `_,`          |
+|`_` |169048|****86.21%****|    4.89%     |               `_,` `(_` `_}`               |
+|`)` |158614|    24.11%    |    29.00%    |  `);` `()` `),` `")` `])` `})` `)}` `).`   |
+|`(` |158598|****66.06%****|    19.71%    |`()` `("` `(:` `!(` `(&` `(%` `?(` `({` `([`|
+|`:` |132580|    43.62%    |    12.95%    |          `{:` `(:` `:/` ``:` `[:`          |
+|`.` |129818|****72.88%****|    5.98%     |                    `).`                    |
+|`"` |105618|    24.83%    |    27.41%    |          `",` `")` `("` `"]` `"%`          |
+|`=` |73090 |    1.95%     |    13.92%    |               `<=` `>=` `=>`               |
+|`{` |69068 |    23.20%    |    28.68%    |       `{:` `%{` `#{` `]{` `{}` `({`        |
+|`}` |69060 |    20.28%    |    24.41%    |       `},` `})` `)}` `{}` `]}` `_}`        |
+|`-` |67076 |    37.11%    |    13.43%    |                    `->`                    |
+|`;` |55914 |    17.22%    |    24.83%    |                 `);` `];`                  |
+|`>` |54178 |    15.33%    |    33.62%    |            `->` `|>` `>=` `=>`             |
+|`/` |49296 |    36.72%    |    10.94%    |                    `:/`                    |
+|`[` |44042 |    46.64%    |    28.06%    |            `[]` `][` `[:` `([`             |
+|`]` |43998 |    28.92%    |    48.22%    |  `],` `[]` `])` `][` `]{` `]}` `"]` `];`   |
+|`#` |35456 |    12.57%    |    17.64%    |                    `#{`                    |
+|`<` |32828 |    31.43%    |    19.31%    |                    `<=`                    |
+|``` |29158 |    27.60%    |    20.64%    |                   ``: `                    |
+|`'` |18572 |****70.55%****|    15.70%    |                                            |
+|`|` |17820 |    3.69%     |    21.87%    |                    `|>`                    |
+|`+` |17736 |    14.71%    |    6.87%     |                                            |
+|`?` |16712 |    22.64%    |    24.49%    |                    `?(`                    |
+|`%` |16660 |    26.81%    |    39.81%    |               `%{` `(%` `"%`               |
+|`&` |15068 |    28.36%    |    16.44%    |                    `(&`                    |
+|`@` |14076 |    48.70%    |    5.52%     |                                            |
+|`*` |13896 |    13.02%    |    14.72%    |                                            |
+|`\` |10236 |    35.55%    |    29.35%    |                                            |
+|`!` | 9812 |    34.80%    |    40.13%    |                    `!(`                    |
+|`$` | 4226 |    36.63%    |    25.01%    |                                            |
+|`~` | 2596 |    32.16%    |    17.41%    |                                            |
+|`^` | 1436 |    24.23%    |    41.23%    |                                            |
+
+Note that it it tracks letters on both sides of the symbol, which is why `,` is only next to a letter 31% of the time (it’s almost always next to a space).
+
+And a plot of how common the bigrams themselves are:
+
+![](/images/t-34/bigram-freq.svg) Symbol bigrams, for bigrams seen over 1000 times
+
+So what observations can we draw from this imperfect dataset? Here are some thoughts I have:
+
+1. Parens `(` `)` are very common. I’d expect it if it was Lisp, but they seem very common even in Rust. They’re also neighbours with many other symbols, making them a high priority.
+2. The symbols `_`, `.`, `'` are almost always next to an alpha character, meaning they don’t have to be placed next to other symbols, and can be optimized to be easily reachable from the base layer. I’ll add `,` to this class as well.
+3. Brackets `{` `}` and `[` `]` aren’t super common, but they do combine with many other symbols (mostly other types of brackets). If `<` `>` are used in a symbol bigram then it’s mostly in arrow form, like `->` or `>=`.
+4. Computation symbols like `=`, `+` and `*` are mostly surrounded by space, and they’re less used than I would’ve thought.
+5. Interestingly, `"` and `_` have traditionally been on a shift layer, but here they’re much more common than their counterparts `'` and `-`.
+
+### [Digits](#Digits) ###
+
+Typically digits follow [Benford’s law](https://en.wikipedia.org/wiki/Benford's_law) that says that lower numbers are more common. How does that hold up for us?
+
+![](/images/t-34/combined-digit-freq.svg) Digit frequencies
+
+Fairly well I’d say. Again, the keylog displays some different results, mainly because I tend to use workspaces `1`, `2`, `8` and `9` more on a traditional keyboard (accessed with `Gui` + number). This can be ignored when designing the layout as I can use whatever digit is convenient.
+
+### [Letters](#Letters) ###
+
+![](/images/t-34/combined-se-en-letter-freq.svg) Letter frequencies from the code and keylog corpus, and a large English and Swedish dataset
+
+Optimizing letters is an area where layouts have focused a lot of attention on. Some notes from my own data:
+
+1. Code basically follows English, which makes sense as you’re mostly typing English words.
+2. There are some differences with Swedish, most notably `k` and `r` are more common (and some extra vowels of course).
+3. My Vim usage makes some unusual keys quite common. Apparently I’m a `j`/`k` spammer (up/down)—which isn’t a good habit to have as there are more efficient ways to move vertically. `w` and `b` (forward and backwards a word) and `:w` (save) are used a lot. I also seem to mistype a bunch as `u` is very common (undo).
+
+On one hand you might want to place these keys in better positions, but on the other hand they’re often typed with a pause, after I’ve had time to think for a second or two, so it might not be important enough to warp the entire layout.
+
+[The layout](#The-layout)
+----------
+
+On to the actual layout then. Illustrations are inspired by [the darnedest thing](<http://thedarnedestthing.com/daily beakl>).
+
+![](/images/t-34/legend.png) Legend
+
+### [Base layer](#Base-layer) ###
+
+![](/images/t-34/base.png) Base layer
+
+There are two different ways you can make decisions: you either take a strictly logical approach, using the left half of your brain, or you let your subconscious decide as you go by feeling, letting the right half of your brain run the show.
+
+It’s common to use a program to optimize the layout, letting the computer explore tons of layouts very quickly. I did not go this route, as I found it difficult to write down my exact preferences. Instead I based my layout on [RSTHD](https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/), which is a well optimized layout, and tweaked it whenever I ran into things that annoyed me.
+
+>
+>
+> Feel the force!
+>
+>
+>
+>
+>
+>
+>
+> Yoda
+>
+>
+
+These are the most notable changes I’ve made to RSTHD:
+
+* `e` on other thumb. Feels much better to avoid having “here”, “there” and similar combinations on the same hand.
+* `q` and `z` moved away to combos in favor of more symbols.
+* Swap `d` and `p` as I dislike the center column and lower index is good.
+* Swap `l` and `w` to place `l` on that good lower index.
+* `k` is in a better spot as it’s much more common in Swedish, and I use it a lot with Vim. As a bonus it makes `ck` very nice to type, again common in Swedish.
+
+I **really** like `e` on the thumb and I don’t think I’ll ever want to give it up. The low SFU and the consonant/vowel separations also feels very good to me.
+
+And the rationale for choosing the symbols:
+
+* `(` and `)` some of the most common symbols, so they got prime real estate that let’s me type `()` quickly. As a bonus I can use them as a prefix for a lot of things in Vim. For instance `)d` (next LSP diagnostics), `)q` (next quickfix) and `)s` (next spellcheck error). (Nah, I never used `()` for their original purpose.)
+* `_` is also very common, and is almost always next to letters in `snake_case`, so having it on base is awesome. And it doubles as a Vim prefix, for example `_d` (goto definition) and `_h` (show help of thing under cursor).
+* Which of `.` and `,` to prioritize is a good question. I put `.` in a better position as it’s used as “repeat last action” in Vim.
+* Some of the most common symbols that don’t usually stand next to other symbols are moved to home-row combos. I find they’re easier to type than moving my fingers off home-row, so `:`, `/`, `'`, and `;` were moved off base.
+* `"` is very common. I’ve also had `/` here, but I haven’t fully decided which I prefer yet.
+* `=` is on base as it makes ` = ` very comfortable, which is the primary usage for it. It also makes it easy to pair with the different symbols, such as `+`, `-` and `~`.
+
+This feels quite good—especially `(`, `)` and `_`.
+
+### [Combos](#Combos) ###
+
+A combo (sometimes called a chord) is when you press down two keys at the same time to produce something else. For instance if I press `c` and `k` at the same time I get `q`. With the light choc switches I use this feels very nice, even pressing three keys or vertical combos with two keys using a single finger.
+
+I use it for lots of things. For instance:
+
+* Hide the least common chars `q` and `z`.
+* “Big keys” on home-row: `Tab`, `Enter` and `Escape` (perfect for Vim!).
+* Delete things: `Delete` and `Backspace`.
+* Symbols like `:`, `'` and `$`.
+* Special things, like saving in Vim (`:wq<br>`).
+
+Here’s a table (because I wasn’t happy with the visualization I tried to make):
+
+---
+
+|   Top Left    |   Res    |   Top Right    |            Res            |
+|---------------|----------|----------------|---------------------------|
+|   `c` + `k`   |   `q`    |   `x` + `w`    |         `#{ ↓ }`          |
+|   `k` + `f`   |   `z`    |    `,` + `u`   |        `Backspace`        |
+|`c` + `k` + `f`| `Delete` | `w` + `,` + `u`|`Ctrl + W` (backspace word)|
+|   Home Left   |   Res    |   Home Right   |            Res            |
+|   `t` + `h`   | `Escape` |   `n` + `a`    |            `:`            |
+|   `s` + `t`   |  `Tab`   |    `a` + `i`   |          `Enter`          |
+|   `s` + `h`   |   `;`    |   `n` + `i`    |            `'`            |
+|`s` + `t` + `h`|   `/`    |`n` + `a` + `i` |         Vim save          |
+|  Bottom Left  |   Res    |  Bottom Right  |            Res            |
+|   `v` + `g`   |Vim vsplit|   `l` + `(`    |            `^`            |
+|               |          |    `(` + `)`   |            `$`            |
+|`v` + `g` + `p`|Vim close |`l` + `(` + `)` |       Swedish layer       |
+
+---
+
+|              Mixed               |  Res   |
+|----------------------------------|--------|
+|  `t` + `a` (left + right ring)   |CAPSWORD|
+|`Space` + `e` (left + right thumb)|NUMWORD |
+
+---
+
+The rationale here is that home-row combos are very easy to type, so the common keys like `Enter` and `:` go there. Split combos with the index and ring finger are slightly more awkward to type, but still good.
+
+Having related functionality close to each other makes it a little easier to learn, so `^` (goto first non-space char in line) and `$` (goto last char in line) pairs nicely. They, and the other combo-able symbols, are mostly stand-alone so there’s minimal switching between layers to type them.
+
+There are also vertical combos with the common arrow combinations you often see in programming:
+
+![](/images/t-34/sym-combo.png) Vertical symbol combos
+
+Depending on the language, symbols like `>=`, `=>`, `|>` and `->` are common, but often difficult to type. Combos solve this really well.
+
+Also, splitting windows in vim is something I do a lot. Horizontal/vertical splits are laid out to match the split direction, and they’re grouped next to closing a window. (Why is saving vim on the right side then? Because `);` is very common. It’s not perfect I know.)
+
+### [What about shift?](#What-about-shift) ###
+
+Where to place shift was one of the most difficult decisions for me. I considered these options:
+
+1. [One-shot shift](https://docs.qmk.fm/#/one_shot_keys), where you press and release shift and the next letter will be shifted, is great. But it doesn’t vibe well with `e` on the thumb (and no outer column).
+2. [Home-row mods](https://precondition.github.io/home-row-mods), where you press and hold a regular key to turn it into shift. Many people love it, but I found it difficult to coordinate between left/right (as you often want to hold with the opposite hand).
+3. [Auto Shift](https://docs.qmk.fm/#/feature_auto_shift), where you just do a long press to get an uppercase letter. It’s convenient for single letters, but many people who have tried it says it messed up their rhythm.
+
+I wanted to use one-shot shift, but I just couldn’t get it to work well with `e` on the thumb. I got the fiddly home-row config to work, and I think I could learn to live with it, but for me auto shift felt better.
+
+Sure, it’s harder to type quickly with auto shift, but I want to maximize comfort over speed, and auto shift feels like the option requiring the least amount of effort. I do have one-shot shift keys, but on a separate layer, which I use for some shortcuts (more on that shortly).
+
+Typing multiple uppercase letters in a row does suck. That’s why I also use “CAPSWORD”, which is a smart caps lock that turns itself off after space or some other special characters. It makes it super easy to type variables like `POST_LIMIT` for example.
+
+### [Mods & symbols](#Mods-symbols) ###
+
+I have modifiers combined with the other symbols, across two layers:
+
+![](/images/t-34/lmod.png) Press left button for mods on the left and symbols on the right ![](/images/t-34/rmod.png) Press right button for mods on the right and symbols on the left
+
+Instead of home-row mods, I have mods on a separate layer. (Some refer to it as [callum-style mods](https://github.com/callum-oakley/qmk_firmware/tree/master/users/callum#oneshot-modifiers), from the person who invented/popularized it.) While you need to press one key extra to access `Ctrl` for instance, there are no timings here so it’s very quick and it feels surprisingly good. I’ve kept same-side mod activation because that’s what I started with, and I don’t feel a need to change it.
+
+Some shortcuts, like `Ctrl` + `a`, are impossible to press left-handed (when I use the mouse/trackball), so I’ve added them here.
+
+I tried to place the symbols ordered by frequency, in some kind of logical groupings. There are very few symbol bigrams I have trouble typing. I find it’s mostly holding down `LMOD` to type `[]` or similar. I’ve also kept the position of the symbols from base layer, so I don’t have to switch layers if I type bigrams like `](` (but truthfully, it almost never comes up).
+
+While I can use the layer switches as one-shot for the symbols, I also have combos with `Space` + `<key>` to produce symbols from the base layer, for example `Space` + `a` = `[`. I now use that exclusively, and relegate the layer switch for the symbol bigrams (because I dislike having to move the thumb).
+
+One last annoyance is double- or triple-tapping symbols, particularly with the pinky, for things like `||`. I got around it by adding long press for them, similar to what auto shift does:
+
+|                    Tap                    | Long press  |
+|-------------------------------------------|-------------|
+|`|` `&` `+` `*` `-` `_` `<` `>` `/` `\` `#`|Double symbol|
+|              `"` `'` `=` ```              |Triple symbol|
+
+### [Where are the digits?](#Where-are-the-digits) ###
+
+Here they are:
+
+![](/images/t-34/num.png) Num layer, the dark gray keys turns off NUMWORD
+
+Yupp, I use numbers on home-row (and the low index, which is the next best key apart from the thumbs). They’re laid out prioritizing lower digits, slightly de-emphasizing index fingers as they’re responsible for two digits. Separating even from odd numbers made sense from an optimization aspect, but it also made it easier to learn.
+
+What makes this special is that the layer switch is smart, similar to CAPSWORD as the layer turns off on space (which I call NUMWORD). So if I want to write `if x == 3 do` then I type `if x == <NUMWORD>3 do` and the layer turns off after the space.
+
+What about `k`, `j` and `G`? Those are for easy navigation with Vim. So `13k` means “13 lines above” and `127G` means “line number 127”. Naturally, the layer turns itself off, so it doesn’t interfere with my next commands. I use it all the time and it’s fantastic.
+
+### [Navigation](#Navigation) ###
+
+![](/images/t-34/nav.png) Navigation, both two handed and one-handed
+
+Navigation is the only “hold key down” I have. Vim-like arrows on the right side (but I try not to use them in Vim, as jumping with the NUM layer is more efficient). `Ctrl` + arrow is used to switch windows in Vim and `Gui` + `w`/`e`/`r` switches between my three monitors (it’s here because it’s so common).
+
+Navigation on the left hand is great when I have the right hand on the mouse; initially I didn’t have arrows here, but I found myself missing them. `Ctrl` + `Tab` and `Ctrl` + `Shift` + `Tab` switches tabs in Firefox.
+
+I also have a workspace navigation layer, used exclusively for workspace manipulation:
+
+![](/images/t-34/wnav.png) Workspace nav layer. All keys have `Gui` implicit.
+
+`Gui` + number switches to that workspace; `Gui` + `k`/`j` switches between windows; and if you `Shift` (long press) you move the current window there.
+
+Having a separate layer for this isn’t strictly needed, but it feels much more convenient. I tried the regular one-shot mods and home-row mods on the number layer, but I just didn’t like it that much. I also tried a smart layer or a simple layer switch (where I had to exit the layer explicitly), but I prefer having to hold down a key so I know that I’m in the workspace layer.
+
+### [Function layer](#Function-layer) ###
+
+![](/images/t-34/fun.png) Function keys
+
+Nothing special going on with the function keys. Having them on the same positions as numbers makes them easy to learn, which is important for me as I almost never use them.
+
+### [Swedish overlay](#Swedish-overlay) ###
+
+![](/images/t-34/swe.png) Swedish overlay
+
+As a Swede, I do type Swedish from time to time. But I never type code and Swedish at the same time, so it made sense to have a Swedish mode that I can toggle, for example when I need to write an email or similar.
+
+It replaces `(`, `)` and `_`, as they’re mostly used in code, and `åäö` are practically never used next to the vowels, making the layout very pleasant for Swedish as well. The layer is is activated with `l` + `(` + `)` (and deactivated with the same keys). I can still access the symbols with the one-shot layer on the left thumb or with combos like `Space` + `å` = `(`.
+
+### [Options](#Options) ###
+
+![](/images/t-34/opt.png) Options
+
+I have some runtime options I might occasionally want to access:
+
+* On a regular keyboard and on my laptop I’ve had `Escape` and `Caps Lock` swapped (to make it easier to press in Vim). I can toggle it on the keyboard so I can use it there as well.
+* I don’t currently have anything that differs between Windows and Linux I don’t think, but things like window switching works differently. When I go back to working on Windows I’ll probably make use of this.
+* `NUM` toggles a regular number layer, that don’t deactivate on `Space`, which I use when I practice number typing.
+
+### [Specials](#Specials) ###
+
+![](/images/t-34/spec.png) Special characters
+
+There’s plenty of room here for rare, but useful, symbols. Such as the arrow symbols `↑` and dead key modifiers.
+
+The pink keys are called “dead keys”. A dead key is a sort of prefix to modify a symbol, so to type `ã` you press `~` (dead) + `a`. The `^` combo is also turned into a dead key on this layer.
+
+You might say it’s ridiculous to have this kind of layer, but I think it’s very easy to learn with the keys staying in logical positions (dead ``` has the same position as the normal ``` for instance).
+
+[34 keys are plenty](#34-keys-are-plenty)
+----------
+
+If you’re not into tweaking layouts it might sound crazy with only 34 keys (and maybe it is), but I still think there’s plenty of space here:
+
+* With layers you multiply your available space, making it easy to have arrows, numbers, function keys and symbols right under your fingers.
+* Combos will in practice give you access to even more keys than a regular keyboard.
+* Multi function keys, with long press or double clicks (which I don’t even use), combined with combos and layers gives you more available space than you’ll ever need.
+
+I could easily fit much more functionality into my layout if I needed to. The constraint isn’t space—it’s your ability to learn and get proficient with a complex layout. (And I don’t think it’s **that** hard to learn a new layout, but that’s a topic for another day.)
+
+[Is this the perfect layout?](#Is-this-the-perfect-layout)
+----------
+
+Oh, that’s funny…
+
+There are always things that could be done better. Here are some things that currently annoy me:
+
+* As I press the outer top keys (`y` and `,`) with my ring finger, “sys” is terrible to type as it’s three letters in a row with the same finger.
+
+  I’ve tried to address this by moving `y` and `j`, but everything I’ve tried so far has created larger problems. So maybe I’ll shove in a combo to produce “sys” and call it a day?
+
+* `bj` is crazy annoying. It gets worse if I program in a codebase that uses `Object` all over the place.
+
+* `j` is in the worst spot, even though I use it a lot in Vim.
+
+  Tried `j` as combos, but I liked that even less. At first I actually used the `NAV` layer, but I got annoyed at the extra layer switch and I had some misfiring due to timing issues.
+
+* I’m not 100% content with the symbols layer, and I’ll probably try to move some symbols around a bit.
+
+And there are a bunch of things that aren’t optimal, but at this point I’m hitting diminishing returns, so I’ll try to avoid changing things unless it’s something that really bothers me.
+
+[How did you implement this?](#How-did-you-implement-this)
+----------
+
+I use QMK and [my keymap is on GitHub](https://github.com/treeman/qmk_firmware/tree/master/keyboards/splitkb/kyria/keymaps/treeman).

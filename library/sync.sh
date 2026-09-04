@@ -1,4 +1,18 @@
-FEEDS_HOST="${FEEDS_HOST:-http://maelle:23284}"
+#!/bin/sh
+# Client-side sync helper for bulletty feeds.
+#
+# Usage:
+#   sync.sh
+#
+# Configuration (set in your shell profile or .env):
+#   FEEDS_HOST        WebDAV server URL, e.g. http://myhost:8080
+#   FEEDS_USER        WebDAV username (default: admin)
+#   FEEDS_PASS        WebDAV password (plain text; rclone will obscure it)
+#   FEEDS_LOCAL_DIR   Local feeds directory (default: $PWD)
+#
+# To change hosts (e.g. migrate from homelab to VPS), just update FEEDS_HOST.
+
+FEEDS_HOST="${FEEDS_HOST:-http://dwight:23284}"
 FEEDS_USER="${FEEDS_USER:-admin}"
 FEEDS_PASS="${FEEDS_PASS:-changeme}"
 FEEDS_LOCAL_DIR="${FEEDS_LOCAL_DIR:-$PWD}"

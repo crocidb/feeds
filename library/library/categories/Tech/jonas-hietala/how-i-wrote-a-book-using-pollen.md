@@ -1,0 +1,488 @@
+---
+title = "How I wrote a book using Pollen"
+description = "I wrote an online book using Pollen, a static site generator in Racket. An earlier post contains my first impressions of it, bu"
+date = "2025-01-18T19:21:22Z"
+url = "http://jonashietala.se/blog/2020/05/03/how_i_wrote_my_book_using_pollen/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.404226702Z"
+seen = true
+---
+
+I wrote [an online book](https://whycryptocurrencies.com/) using [Pollen](https://docs.racket-lang.org/pollen/), a static site generator in [Racket](https://racket-lang.org/). [An earlier post](/blog/2019/03/03/first_impressions_of_pollen/) contains my first impressions of it, but as the book is now completed I think I can summarize some implementation details in more detail with this post.
+
+I **really** like the markup language and the usage of X-expressions. You do need to write code yourself for a bunch of things, but if you want a more complex markup for your site it’s a trade-off I’d make every time.
+
+If you want to use Pollen yourself the [Pollen documentation](https://docs.racket-lang.org/pollen/) is pretty good and you can also view the [source code of my book](https://github.com/treeman/why_cryptocurrencies) if you want more details on anything.
+
+[Configuring vim](#Configuring-vim)
+----------
+
+First off I do my writing and coding in vim (or rather [neovim](https://neovim.io/)). I use plugins for Racket and Pollen (but truthfully I don’t remember what they do, syntax highlighting perhaps?) and I also have two keybindings for two special chars I don’t normally use:
+
+```
+" Plugin handling using vim-plug
+Plug 'https://github.com/wlangstroth/vim-racket'
+Plug 'https://github.com/otherjoel/vim-pollen.git'
+
+" Easy insertion of special chars
+imap <C-L> λ
+imap <C-E> ◊
+
+```
+
+Pollen markup uses `◊` extensively so having an easy way to insert it is very important. And in Racket instead of writing lambdas `(lambda (x) ...)` you can write `(λ (x) ...)`. It’s not necessary but I thought, why not?
+
+[Configuring Pollen](#Configuring-Pollen)
+----------
+
+The [Pollen documentation](https://docs.racket-lang.org/pollen/) does a decent job of walking you through initial setup, there’s just a few gotchas I ran into.
+
+I wanted to turn three dots into a single character “…” and also remove `/index.html` from links, while doing the default paragraph expansion and converting quotes and dashes to their special chars as described in the Pollen docs. I ended up with these decoding functions:
+
+```
+(define (ellipses x)
+  (string-replace x "..." "…"))
+
+(define (de-indexify x)
+  (string-replace x "/index.html" ""))
+
+(define string-proc (compose1 smart-quotes
+                              smart-dashes
+                              ellipses
+                              de-indexify))
+(define (std-decode args)
+  (decode-elements args
+                   #:txexpr-elements-proc decode-paragraphs
+                   #:string-proc string-proc
+                   #:exclude-tags `(figure pre)))
+
+```
+
+The paragraph expansion is sometimes messed up, but I customized it by ignoring `figure` and `pre` while marking some tags as blocks:
+
+```
+  (define block-tags (append '(img table tbody tr dt dd dl) default-block-tags))
+
+```
+
+This isn’t perfect, and for example when creating image figures I had to call `std-decode` to parse caption text correctly.
+
+After a while I also wanted to organize my Racket files into a subfolder, and to get Pollen to recognize this I had to tell it to add them to the watchlist to have them reload the code automatically:
+
+```
+(module setup racket/base
+  (require file/glob)
+  ...
+  (define rkt-files (glob "rkt/*.rkt"))
+  (define cache-watchlist rkt-files))
+
+```
+
+[The markup language](#The-markup-language)
+----------
+
+Pollen’s markup language can at first look extremely cumbersome, but I ended up liking it. Just prefix with `◊` and you’ll automatically create html elements:
+
+```
+◊ul{
+  ◊li{First item}
+  ◊li{Second item}
+  ◊li{Third item}
+}
+
+```
+
+You can also specify attributes such as classes, which is quite handy:
+
+```
+◊div[#:class "my-class"]{ ... }
+
+```
+
+But the real power of the markup language is how easy it is to create your own tags. Just define regular Racket functions and provide them in pollen.rkt like so: `(provide (all-from-out "rkt/tags.rkt"))`
+
+Here are some examples of tags I’ve implemented:
+
+1. Code
+
+   Non-highlighted code is simple and is provided by:
+
+   ```
+   (define (code . args)
+       `(pre (code ,@args)))
+
+   ```
+
+   But for a more interesting example say that you want to include an external file and highlight it like so:
+
+   ```
+   ◊(code-hl "python3" "scripts/gambling.py")
+
+   ```
+
+   I implemented this by by calling out to `pygmentize`:
+
+   ```
+   (define (code-hl lang path)
+       (define cmd (string-append
+                   "pygmentize -f html"
+                   " -l " lang
+                   " " path))
+       (string->xexpr
+       (with-output-to-string (λ () (system cmd)))))
+
+   ```
+
+   There is an implementation in Pollen that does something similar, but it’s **much** more complex. The simple one has worse performance, but since I only have a single instance where I highlight code it’s good enough for me.
+
+2. Quotes
+
+   I use quotes heavily throughout the text, either as a standalone or wrapped in an epigraph (just used to italize quotes that begins a chapter):
+
+   ```
+   ◊epigraph{
+     ◊qt[#:author "Attributed to Michael Cassius McDonald"]{
+       There's a sucker born every minute
+     }
+   }
+
+   ```
+
+   Producing:
+
+   ```
+   <div class="epigraph">
+     <blockquote>
+       <p>There’s a sucker born every minute</p>
+       <footer><span class="author">Attributed to Michael Cassius McDonald</span></footer>
+     </blockquote>
+   </div>
+
+   ```
+
+   There’s a large list of arguments to customize the quote, but that’s a little overkill to go through here.
+
+3. Links
+
+   At first I used a very simple tag for links:
+
+   ```
+   In the text ◊link[my-link]{link text}.
+
+   ◊(define my-link "https://some-url")
+
+   ```
+
+   Later on I started separating links into regular links, book references and internal chapter references. This so I could mark when I had accessed external links, format book references in different ways and to generate alt-text for existing chapters easily. In practice link definitions looks like this:
+
+   ```
+   (define 1984-book
+     (book-ref
+       "https://www.goodreads.com/book/show/40961427-1984"
+       "George Orwell"
+       "1984"))
+   (define public-key-cryptography
+     (ch-ref
+       'cryptography.html #:ref "public-key-cryptography"
+       "Public-key cryptography"))
+   (define block-0
+     (x-ref
+       "2019-10-25"
+       "https://blockchair.com/bitcoin/block/0"
+       "Bitcoin block 0"))
+
+   ```
+
+   And used like this:
+
+   ```
+   ◊book-qt[1984-book]{ ... }
+
+   ◊em{Thoughtcrime}, as explored in the book ◊(book-link 1984-book), ...
+
+   It uses ◊def[public-key-cryptography]{public-key cryptography} which allows ...
+
+   For example Satoshi ◊link[block-0]{left a message} in the first ever Bitcoin block:
+
+   ```
+
+   I could have gone much further with more link handling options, but I only really started branching out after I had written most of the book and going back to fix it is too much effort for no gain.
+
+[Sidenotes](#Sidenotes)
+----------
+
+I wrote a post about [Tufte style sidenotes and marginnotes in Pollen](/blog/2019/03/04/pollen_sidenotes/) in an earlier post, but I’ve since then changed them from being hidden on smaller screens until you click them, to placed beneath the text instead of to the side.
+
+---
+![](/images/whycrypto/sidenotes_wide.png) On a wider screen sidenotes are placed to the right.
+---
+![](/images/whycrypto/sidenotes_below.png) If the sidenote doesn’t fit, it’s instead placed below.
+---
+
+Now it would be fairly easy (or at least it’s possible to style it in such a way with a lot of trial and error) to just move it to the right if it doesn’t fit. But notice that on the narrower screen the sidenote is placed below the last paragraph!
+
+I wanted to be able to customize the placement on the narrower screen as I wanted, while the floating sidenote should be as close to their reference as possible. I solved it, but it’s not very pretty…
+
+My first thought was to insert two sidenotes, and set `display:none` to hide one of them. But this would break screen readers or simplified readers that removes much of the styling, such as the “reader view” in Firefox. So I opted for a more complex solution of manually modifying the top margin for each sidenote.
+
+In practice it means I insert a sidenote using `◊sn{my-ref}`, which by default inserts it below the current paragraph. If I want to manually place it somewhere else I use `◊note-pos[#:top -9]{my-ref}`. So for example:
+
+```
+First paragraph.◊sn{my-ref}
+
+Second paragraph.
+
+◊note-pos[#:top -9]{my-ref}
+
+```
+
+The text for the sidenote is given by `◊ndef["my-ref"]{Sidenote text here}`, which can be paced anywhere in the source file.
+
+There’s a bunch of sidenote specific styling, but the important parts are given by:
+
+```
+.side-space {
+    /* Serves to take up space. Inline content from the chapter is floated on top. */
+    width: 420px;
+}
+@media (max-width: $sidenote-float-width - 1) {
+    .sidenote {
+        display: block;
+        margin: 1em 4em 1.4em 4em !important;
+    }
+}
+@media (min-width: $sidenote-float-width) {
+    .side-space {
+        display: block;
+    }
+    .sidenote {
+        float: right;
+        clear: right;
+        /* Approximate adjustment for notes at the last line of a paragraph. */
+        /* Will get overridden by local styles. */
+        margin-top: -2em;
+        margin-bottom: 4em;
+        margin-right: -420px;
+        width: 380px;
+        position: relative;
+        display: inline-block;
+    }
+}
+
+```
+
+And margins are overridden by `<div class="sidenote" style="margin-top:-9em;">`.
+
+The actual implementation of `◊sn` and `◊ndef` has grown surprisingly large and I went through the old version in the [previous post](/blog/2019/03/04/pollen_sidenotes/), so I’ll skip it here. The implementation has changed a little but not in any major way. You can always find the [latest code on GitHub](https://github.com/treeman/why_cryptocurrencies/blob/master/rkt/sidenotes.rkt) if you’re interested.
+
+[Local markup](#Local-markup)
+----------
+
+Another very powerful feature is that you can easily create custom markup for individual pages. For example in the chapter [What is money?](https://whycryptocurrencies.com/what_is_money.html) when giving a number of examples of money I wanted to add custom styling, like this:
+
+---
+![](/images/whycrypto/ex_money_slim.png) I wanted to have an image associated with each example, alternated from left to right. I also wanted to give each example a title with an associated timeframe.
+---
+
+This is the tag I came up with:
+
+```
+◊(define (money title #:img img #:date [date #f] . text)
+   (define xdate
+     (cond
+       [(and (list? date) (not (null? date)))
+        `(div ((class "date")) ,@date)]
+       [date
+        `(div ((class "date")) ,date)]
+       [else
+        ""]))
+   `(div ((class "example"))
+      (img ((src ,img)))
+      (div ((class "txt"))
+        (div ((class "header"))
+          (h3 ,title)
+          ,xdate)
+        ,@text)))
+
+```
+
+Which can be called like this:
+
+```
+◊money["Dogecoin"
+       #:date "2013"
+       #:img "images/doge.png"]{
+    Dogecoin is a cryptocurrency, while created as a "joke currency", it quickly gained popularity as a tipping tool online. You can still find merchants who accept it today for things like domain names, web hosting, VPNs or games.
+}
+
+```
+
+To produce this html:
+
+```
+<div class="example"><img src="images/doge.png">
+    <div class="txt">
+        <div class="header">
+            <h3>Dogecoin</h3>
+            <div class="date">2013</div>
+        </div>
+        <p>Dogecoin is a cryptocurrency, while created as a “joke currency”, it quickly gained popularity as a tipping tool online. You can still find merchants who accept it today for things like domain names, web hosting, VPNs or games.</p>
+    </div>
+</div>
+
+```
+
+So easy! So powerful! So great!
+
+Of course you could’ve done this manually in for example Markdown, but with 10 different examples that’s a ton of copy-pasting making any changes to the html **really** annoying to make. I could’ve also written a callback in for example Hakyll (the site generator I use for this blog) that I could then call from my markup file, but having the code embeddable right next to the markup is much nicer and more performant.
+
+I use local custom markup all over the place, another example is styling transcripts of a Youtube video:
+
+---
+![](/images/whycrypto/transcript.png) The timestamps should be aligned in a certain way and have a horizontal bar.
+---
+
+We could be as explicit as we were with the money example, but here I wanted it to be simpler and to auto detect the timestamps. So I can write it like this:
+
+```
+◊div[#:class "transcript-wrapper"]{
+
+  ◊transcript{
+      02:34  He's got an RPG [Rocket Propelled Grenade]?
+      02:35  All right, we got a guy with an RPG.
+  }
+
+  Except now we know it's not an RPG but a camera held by a Reuters journalist.
+
+  ◊transcript{
+      03:45  All right, hahaha, I hit [shot] 'em...
+      ...
+      04:55  Oh, yeah, look at those dead bastards.
+      05:00  Nice.
+      ...
+      06:57  Come on, buddy.
+      07:01  All you gotta do is pick up a weapon.
+  }
+
+  After killing a bunch of people they're looking at an injured person crawling on the ground wanting him to pick up a weapon---so they're allowed to kill him.
+
+```
+
+This can be accomplished by writing a bit of lisp code in the tag that splits the strings on the double spaces:
+
+```
+◊(define (transcript . rows)
+   (define (make-row row)
+     (if (string=? row "\n")
+       ""
+       (let ((cols (string-split row "  ")))
+         `(div ((class "row"))
+            (span ((class "time")) ,(car cols))
+            (span ((class "txt")) ,@(cdr cols))))))
+   `(div ((class "transcript"))
+      ,@(map make-row rows)))
+
+```
+
+(Yes I know that the “…” row will generate a `<span class="time">...</span>` and a `<span class="txt"></span>` element, but it doesn’t affect the appearance.)
+
+[Table of contents](#Table-of-contents)
+----------
+
+Pollen have automatic support for tracking table of contents, called a pagetree. It’s not something I use for two reasons:
+
+1. I wanted to be able to display chapters not written yet
+2. I wanted a second layer in the chapter hierarchy
+
+So it could look like this:
+
+```
+(define toc
+  ;; This replaces the previously hand-made pagetree in index.ptree.
+  ;; String entries gets removed and are treated as planned chapters.
+  `(eli5.html
+    (about_the_book.html
+     acknowledgements.html
+     how_to_use.html
+     "Completely free"
+     "About me, the author")
+    (what_is_a_cryptocurrency.html
+     properties_of_a_cryptocurrency.html
+     how_do_cryptocurrencies_work.html
+     ...
+
+```
+
+Where I have a main section with a number of chapters inside and denote an unfinished chapter with the planned title. The functions that transforms this into output is also custom, [see the source](https://github.com/treeman/why_cryptocurrencies) if you’re curious.
+
+One annoyance I have is that titles of chapters are also defined with Racket code:
+
+```
+◊(define-meta title "For the unbanked")
+
+```
+
+This means I cannot automatically fetch the chapter title (for a better alt-text when linking to chapters) because it might cause a circular dependency as it has to load the whole chapter!
+
+My extremely ugly workaround was to define links and their alt-text manually:
+
+```
+(define for_the_unbanked
+  (ch-ref
+    'for_the_unbanked.html
+    "For the unbanked"))
+
+```
+
+Yes this means I’ll duplicate the post title, but I added chapter alt-text after the book was already done, so I didn’t bother doing it a better way.
+
+[Hosting](#Hosting)
+----------
+
+I’ve hosted my blog as a static webpage on Amazon S3 for years. It has worked well so being lazy I did the same with the book. I’ve described how to easily set it up with SSL [in an earlier post](/blog/2019/04/03/easy-setup-of-a-static-site-on-amazon-s3-with-ssl/).
+
+To update the site I use an old Perl script that shells out to `s3cmd` to upload data. It will generate commands like:
+
+```
+s3cmd sync -M -m text/css --acl-public --add-header="Cache-Control: max-age=60" \
+    _site/css s3://whycryptocurrencies.com/
+
+```
+
+Although I’ve started to prefer Python for my scripts, I still have fond memories of when I wrote most of my scripts in Perl. There are things you can criticize Perl for, but it’s still one of the most fun programming languages I’ve used.
+
+[Unsolved annoyances](#Unsolved-annoyances)
+----------
+
+There are some things that doesn’t work as I want them to, but that I didn’t bother fixing.
+
+1. Lack of routing control
+
+   I complained about it in [first impressions post](/blog/2019/03/03/first_impressions_of_pollen/), but it still bothers me that chapters ends with `/private_money.html` instead of `/private_money`. But removing it completely would have me rewrite the auto reload system, so I have to live with this admittedly small annoyance.
+
+2. Slow
+
+   Regenerating the book is pretty darn slow. I also have to clean the cache when I add or change Racket functions outside of chapters, which happens more often than I’d like.
+
+3. External styling script
+
+   I wanted to use [Sass](https://sass-lang.com/) for styling and at first I tried to create a `main.css.p` file that pipes out to `sassc`, which is the way to generate arbitrary files with Pollen. I use this approach when I generate the xml feed, but I couldn’t get the reload to work properly so I just used an external script for it:
+
+   ```
+   #!/bin/bash
+
+   sassc sass/main.scss --style compressed > css/main.css
+   echo "created: css/main.css"
+
+   inotifywait -e close_write,moved_to,create -m sass/ |
+   while read -r directory events filename; do
+       sassc sass/main.scss --style compressed > css/main.css
+       echo "updated: css/main.css"
+   done
+
+   ```
+
+   It uses `inotifywait` to issue a command when files in the `sass/` folder change. It can be found in the `inotify-tools` package.
+
+And that’s it I think for the large part? I’m sure I missed something, but feel free to [check out the source code](https://github.com/treeman/why_cryptocurrencies) if you’re curious about anything.

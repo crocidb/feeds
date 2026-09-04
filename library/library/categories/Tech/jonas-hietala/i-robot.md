@@ -1,0 +1,34 @@
+---
+title = "I, Robot"
+description = "Here are the results of the big robot construction course we had before christmas! The whole process went smooth and our group was amazing. The design and building of the robot went well even though in hindsight I would’ve changed a lot of stuff. The ending competition didn’t go "
+date = "2024-07-17T19:35:07Z"
+url = "http://jonashietala.se/blog/2013/01/20/i_robot/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.687711978Z"
+seen = true
+---
+
+Here are the results of the big robot construction course we had before christmas! The whole process went smooth and our group was amazing. The design and building of the robot went well even though in hindsight I would’ve changed a lot of stuff. The ending competition didn’t go quite as we had hoped, but we never did place much effort in it anyhow. In summary I’m very pleased with the result.
+
+Competition
+==========
+
+We had a competition with the other robots at the end. It didn’t matter how it went really, but as always it’s fun to do well. I couldn’t embed the youtube links, but here are our epic matches!
+
+* [Game one](http://www.youtube.com/watch?v=EPU83cX80lY). Went well, getting our hopes up!
+* [Game two](http://www.youtube.com/watch?v=8vdG_2DkTNM). Everything sucks. We accidentally touched the recalibrate button so the robot did not see the lines…
+* [Game three](http://www.youtube.com/watch?v=cSmzn0bQOu8). Something is wrong with that curve I tell you! At least it felt better than loosing like the last one.
+* [Game four (part 1)](http://www.youtube.com/watch?v=YlRP1cb5iaw) [Game four (part 2)](http://www.youtube.com/watch?v=Jc7EPJa72wE). Retribution!
+* [Exhibition](http://www.youtube.com/watch?v=ckLn-DY2yck). Just a ploy game, with no rules. But they cheated anyway!
+
+A bit upset about the second game… If that didn’t happen I’m sure we could’ve won the whole thing, maybe. But no matter!
+
+![](/images/trap14/Robot_0017.JPG) Do not **ever** place the blue start button right next to the gray nuke button! Or was the nuke button blue?
+
+Gallery
+==========
+
+Here’s a bunch of nice photos of our robot.
+
+[![](/images/trap14/Robot_0001.jpg)](/images/trap14/Robot_0001.jpg) [![](/images/trap14/Robot_0002.jpg)](/images/trap14/Robot_0002.jpg) [![](/images/trap14/Robot_0005.jpg)](/images/trap14/Robot_0005.jpg) [![](/images/trap14/Robot_0010.JPG)](/images/trap14/Robot_0010.JPG) [![](/images/trap14/Robot_0012.JPG)](/images/trap14/Robot_0012.JPG) [![](/images/trap14/Robot_0013.JPG)](/images/trap14/Robot_0013.JPG) [![](/images/trap14/Robot_0016.JPG)](/images/trap14/Robot_0016.JPG) [![](/images/trap14/Robot_0017.JPG)](/images/trap14/Robot_0017.JPG) [![](/images/trap14/Robot_0018.JPG)](/images/trap14/Robot_0018.JPG) [![](/images/trap14/Robot_0021.JPG)](/images/trap14/Robot_0021.JPG) [![](/images/trap14/Robot_0024.JPG)](/images/trap14/Robot_0024.JPG) [![](/images/trap14/Robot_0029.JPG)](/images/trap14/Robot_0029.JPG) [![](/images/trap14/Robot_0031.JPG)](/images/trap14/Robot_0031.JPG) [![](/images/trap14/Robot_0032.JPG)](/images/trap14/Robot_0032.JPG) [![](/images/trap14/Robot_0033.JPG)](/images/trap14/Robot_0033.JPG) [![](/images/trap14/Robot_0034.JPG)](/images/trap14/Robot_0034.JPG) [![](/images/trap14/Robot_0035.JPG)](/images/trap14/Robot_0035.JPG) [![](/images/trap14/Robot_0037.JPG)](/images/trap14/Robot_0037.JPG)

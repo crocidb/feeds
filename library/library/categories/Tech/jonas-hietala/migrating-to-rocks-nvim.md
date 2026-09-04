@@ -1,0 +1,484 @@
+---
+title = "Migrating to rocks.nvim"
+description = "My relationship with my Neovim config is best described as an On-again, off-again relationship. At times I’m deeply i"
+date = "2025-01-18T19:07:40Z"
+url = "http://jonashietala.se/blog/2024/06/02/migrating_to_rocksnvim/index.html"
+author = "Jonas Hietala"
+text = ""
+lastupdated = "2025-10-22T08:58:11.190446928Z"
+seen = true
+---
+
+![](/images/rocks_nvim_files.png)
+
+My relationship with my [Neovim config](https://github.com/treeman/dotfiles/tree/master/.config/nvim) is best described as an [On-again, off-again relationship](https://en.wikipedia.org/wiki/On-again,_off-again_relationship). At times I’m deeply in love and spend all my time caressing the config—like how in September I [did a complete rewrite in Lua](https://www.jonashietala.se/blog/2023/10/01/rewriting_my_neovim_config_in_lua/)—while other times I’m busy with other love interests and the config is left alone, sometimes for months or even years.
+
+While not as intense as the September affair, I recently got back together with my config to migrate her from the “old and boring” [lazy.nvim](https://github.com/folke/lazy.nvim) package manager to the new and exciting [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim). It wasn’t all smooth sailing but with some patience—and a drink or two—our threesome with [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) was quite enjoyable.
+
+There’s nothing wrong with [lazy.nvim](https://github.com/folke/lazy.nvim)—it’s great.  
+ Sometimes I just want a new experience.
+
+[Why ](#Why-rocksnvim)[rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)?
+----------
+
+To be honest, the biggest reason I started looking into [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) was that my brain—for some weird reason—tends to *get stuck* thinking of things. Rewriting my config wasn’t something I wanted to do but it’s not easy to escape the brain lock.
+
+Luckily, this time my brain locked onto something a worthwhile as [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) has some nice and ambitious features.
+
+### [Benefits over other package managers](#Benefits-over-other-package-managers) ###
+
+1. [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) makes dependency management the responsibility of the plugin.
+
+   With other package managers you as a user have to specify the dependencies for the plugin. Using [lazy.nvim](https://github.com/folke/lazy.nvim) it might look like this:
+
+   ```
+   return {
+     "NeogitOrg/neogit",
+      dependencies = {
+        "nvim-lua/plenary.nvim",
+        "nvim-telescope/telescope.nvim",
+        "sindrets/diffview.nvim",
+      },
+      opts = opts,
+   }
+
+   ```
+
+   There are several issues with this:
+
+   1. It’s annoying.
+   2. You need to babysit the config if the plugin adds or removes a dependency.
+   3. The plugin might break if there’s a breaking change in a dependency.
+   4. What if you have several plugins that depend on a different version of a dependency? (You’re going to have a bad time.)
+
+   [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) moves the dependency management to the plugin, so we can just specify the plugin itself:
+
+   ```
+   "neo-tree.nvim" = "3.26"
+
+   ```
+
+   This makes plugin management easier and should reduce the risk of plugins breaking.
+
+2. [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) supports loading Lua packages from [luarocks](https://luarocks.org/).
+
+   Lua is a neat little language but it’s very bare-bones and doesn’t include a large standard library. Neovim has been incorporating more and more utility functions—such as `vim.split` and `vim.fs.joinpath()`—but there are still plenty of functionality that we need to import. That’s why utility plugins such as [plenary.nvim](https://github.com/nvim-lua/plenary.nvim) exists and is a dependency to a lot of different plugins.
+
+   With [luarocks](https://luarocks.org/) you get access to many more libraries; for example a [yaml](https://luarocks.org/modules/gaspard/yaml) and a [toml](https://luarocks.org/modules/LebJe/toml) library that would’ve saved me [from parsing them with regex](/blog/2024/05/08/browse_posts_with_telescopenvim#Finding-the-post-data-to-populate-the-picker).
+
+### [Drawbacks compared to ](#Drawbacks-compared-to-lazynvim)[lazy.nvim](https://github.com/folke/lazy.nvim) ###
+
+Naturally, it’s not all fun and games and there are drawbacks to [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) compared to [lazy.nvim](https://github.com/folke/lazy.nvim):
+
+1. Most plugins don’t have a rockspec that define their dependencies, meaning you still need to manage the dependencies yourself, forgoing the biggest benefit of [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim).
+
+2. Installing and updating all packages feels a lot slower.
+
+3. You must manage lazy loading manually. I’ve seen rumors of lazy loading support for [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) but as I’m writing this post there’s nothing released yet.
+
+4. [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) is newer than [lazy.nvim](https://github.com/folke/lazy.nvim); meaning less fancy features, more bugs, and more rough edges.
+
+While I think that [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) is taking a necessary and difficult step forward for Neovim package managers, there are valid reasons to stick with [lazy.nvim](https://github.com/folke/lazy.nvim).
+
+[Basic setup](#Basic-setup)
+----------
+
+You can install [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) by manually sourcing an installer script but I wanted [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) to install itself automatically. It’s possible by dropping [the bootstrap script](https://github.com/nvim-neorocks/rocks.nvim?tab=readme-ov-file#rocket-bootstrapping-script) into your `init.lua` file.
+
+Then you’re good to go with managing plugins with the `:Rocks` commands:
+
+* `:Rocks install {rock}` to install a package.
+* `:Rocks sync` to sync packages with `rocks.toml`.
+* `:Rocks update` to update packages *and* their versions in `rocks.toml`.
+* `:Rocks prune {rock}` to uninstall a package.
+
+I was a bit surprised that you can’t update or sync an individual package but otherwise the commands feel intuitive.
+
+### [Separate config file per plugin](#Separate-config-file-per-plugin) ###
+
+One feature I *really* like about [lazy.nvim](https://github.com/folke/lazy.nvim) is the ability to separate plugin configuration into separate files. This is easy to setup in [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) using [rocks-config.nvim](https://github.com/nvim-neorocks/rocks-config.nvim):
+
+1. Run `:Rocks install rocks-config.nvim` or edit `rocks.toml` manually:
+
+   ```
+   [plugins]
+   "rocks-config.nvim" = "1.6.0"
+
+   ```
+
+2. Create a plugin-specific file at `lua/plugins/<plugin-name>.lua` with the plugin setup and configuration code.
+
+   For example, we can install [conform.nvim](https://github.com/stevearc/conform.nvim) with `:Rocks install conform.nvim` and configure it in `lua/plugins/conform.lua`:
+
+   ```
+   require("conform").setup({
+     formatters_by_ft = {
+       lua = { "stylua" }
+     }
+   })
+
+   ```
+
+   There are [some rules](https://github.com/nvim-neorocks/rocks-config.nvim?tab=readme-ov-file#options) on what to name the config file:
+
+   * The plugin’s name (as long as it is a valid module name).
+   * The plugin’s name with the `.[n]vim` suffix removed.
+   * The plugin’s name with the `[n]vim-` prefix removed.
+   * The plugin’s name with `-` substituted for `.`.
+
+   For [conform.nvim](https://github.com/stevearc/conform.nvim) we could name the config file `conform-nvim.lua` or simply `conform.lua`.
+
+Something to keep in mind when migrating to a setup with a config file per plugin is a potential ordering issue. I for example use [mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) for my LSP setup and it’s important to call the setup in the right order:
+
+1. Setup [mason.nvim](https://github.com/williamboman/mason.nvim).
+2. Setup [mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim).
+3. Setup [lspconfig](https://github.com/neovim/nvim-lspconfig).
+
+If the plugins have their own config file then we can’t guarantee this order. We can instead setup them all in one of the config files—although I’m not a fan of commingling setup of different plugins in a single file in `lua/plugins`, I prefer them to have a 1-to-1 relationship with a plugin. I think it’s cleaner to place such a file in a runtimepath such as `plugin/lspconfig.lua`.
+
+### [Git dependencies](#Git-dependencies) ###
+
+Another crucial feature is the ability to install plugins from git repositories. This requires the [rocks-git.nvim](https://github.com/nvim-neorocks/rocks-git.nvim) module that’s installed with `:Rocks install rocks-git.nvim`:
+
+```
+[plugins]
+"rocks-git.nvim" = "1.5.1"
+
+```
+
+You can then add git dependencies using `:Rocks install <git-path>` or add them to `rocks.toml` manually:
+
+```
+[plugins]
+"vim-fugitive" = { git = "tpope/vim-fugitive" }
+"trouble.nvim" = { git = "folke/trouble.nvim", branch = "dev" }
+"nvim-ts-autotag" = { git = "windwp/nvim-ts-autotag", rev = "aeb7090" }
+
+```
+
+As I’m writing this almost exactly half of my plugins in `rocks.toml` depends on a git repository instead of [luarocks](https://luarocks.org/). Mostly because they don’t exist on [luarocks](https://luarocks.org/) but I also have some Vimscript plugins that never will be.
+
+One feature I’m missing is a command to automatically update `rev` to the latest available value or removing it, now I did it manually.
+
+[How to build a plugin?](#How-to-build-a-plugin)
+----------
+
+There are some plugins that needs to be built before we can use them in Neovim. [telescope-fzf-native](https://github.com/nvim-telescope/telescope-fzf-native.nvim) is such an example where we need to run `make` after we clone the repository. If this plugin was on [luarocks](https://luarocks.org/) this would be managed seamlessly by [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) but since the dependency is a git repository we need to build it ourselves.
+
+I spent some time wondering how I should solve this but turns out it’s as simple as adding a `build` option to the plugin:
+
+```
+"telescope-fzf-native.nvim" = { git = "nvim-telescope/telescope-fzf-native.nvim", build = "make" }
+
+```
+
+Before I discovered the `build` option I called `make` the hard way:
+
+```
+require("nio").run(function()
+  local package_path =
+    vim.fs.joinpath(
+      vim.fn.stdpath("data"),
+      "site/pack/rocks/start",
+      "telescope-fzf-native.nvim/"
+    )
+
+  -- Before loading the extension we need to build it with `make`.
+  require("nio").process.run({
+    cmd = "make",
+    args = {},
+    cwd = package_path,
+  })
+  -- Now we can load the extension.
+  require("telescope").load_extension("fzf")
+end)
+
+```
+
+That’s what you get if you skip the manual.
+
+[Lazy loading](#Lazy-loading)
+----------
+
+One big feature that [lazy.nvim](https://github.com/folke/lazy.nvim) promotes is lazy loading—it’s even in the name! Unfortunately [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) doesn’t provide first-class support for lazy loading so we have to manage it ourselves.
+
+### [The problem with lazy loading](#The-problem-with-lazy-loading) ###
+
+Before looking at how to implement lazy loading, I’d like to bring up a few problems with lazy loading plugins.
+
+1. It’s easy to half-ass it.
+
+   For example, with [lazy.nvim](https://github.com/folke/lazy.nvim) you can add commands and events that you want to lazy load on:
+
+   ```
+   {
+     "nvim-treesitter/nvim-treesitter",
+     cmd = { "TSInstall", "TSUpdate" },
+     event = { "BufReadPre", "BufNewFile" },
+     config = config,
+     build = ":TSUpdate",
+   }
+
+   ```
+
+   But how do you know that you used the correct events and listed the right commands? And how do you keep up to date when a plugin adds or removes commands?
+
+   I managed to get **really** agitated when I thought I’d messed up the treesitter installation when I couldn’t call `:TSInstallInfo`, until I remembered that I hadn’t registered that command to load [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)…
+
+   ![](/images/extend_blog/treesitter_cmds.png) [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) defines a lot of commands that we ideally should list when we setup lazy loading.
+2. Extra complexity.
+
+   Earlier in this post I complained about having to [manage the dependencies for the plugins](#Benefits-over-other-package-managers) you install. When you lazy load a plugin you also need to specify commands and events you want to use for lazy load.
+
+   And if you *really* want to commit to lazy loading as many plugins as possible (I did!) you might end up with some pretty horrendous code, like how you’d lazy load [oil.nvim](https://github.com/stevearc/oil.nvim):
+
+   ```
+   {
+     "stevearc/oil.nvim",
+     dependencies = { "nvim-tree/nvim-web-devicons" },
+     opts = opts,
+     command = "Oil",
+     -- This is how to lazy load oil according to:
+     -- https://github.com/folke/lazy.nvim/issues/533
+     init = function()
+       if vim.fn.argc() == 1 then
+         local stat = vim.loop.fs_stat(vim.fn.argv(0))
+         if stat and stat.type == "directory" then
+           require("lazy").load({ plugins = { "oil.nvim" } })
+         end
+       end
+       if not require("lazy.core.config").plugins["oil.nvim"]._.loaded then
+         vim.api.nvim_create_autocmd("BufNew", {
+           callback = function()
+             if vim.fn.isdirectory(vim.fn.expand("<afile>")) == 1 then
+               require("lazy").load({ plugins = { "oil.nvim" } })
+               -- Once oil is loaded, we can delete this autocmd
+               return true
+             end
+           end,
+         })
+       end
+     end,
+   }
+
+   ```
+
+In general I think properly lazy loading should be the responsibility of the plugin, not us as users.
+
+With that said, being able to lazy load plugins is a great feature when you need it.
+
+### [Lazy setup with packadd and setup](#Lazy-setup-with-packadd-and-setup) ###
+
+On a basic level you can accomplish lazy loading by following these three steps:
+
+1. Mark the plugin with `opt = true`.
+
+   ```
+   [plugins]
+   neorg = { version = "1.0.0", opt = true }
+
+   ```
+
+   This will prevent [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) from sourcing the plugin at startup.
+
+2. Add the plugin with `packadd`.
+
+   ```
+   vim.cmd("packadd neorg")
+
+   ```
+
+3. Setup and configure the plugin as needed.
+
+Steps 2 and 3 should be done on-demand, for example via an autocommand:
+
+```
+vim.api.nvim_create_autocmd({ "BufReadPre", "BufNewFile" }, {
+  pattern = "*.norg",
+  callback = function()
+    vim.cmd("packadd neorg")
+    require("neorg").setup()
+    return true
+  end,
+})
+
+```
+
+Although `packadd` is neat, according to [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) it’s only relevant for the plugin’s `ftdetect` and `plugin` scripts. I haven’t seen the need to go quite this far to get a snappy experience and right now I don’t use `packadd` at all. I don’t even have 100 plugins yet, I’m practically running stock Neovim!
+
+### [Lazy LSP setup](#Lazy-LSP-setup) ###
+
+There’s one instance where I’ve made the plugin setup lazy: the LSP config.
+
+It’s important to me that Neovim starts quickly as I have a weird workflow where I start Neovim dozens of times a day. But after migrating my config I noticed that Neovim was feeling slow. I tracked it down to the LSP setup (and in particular setting up [elixir-tools.nvim](https://github.com/elixir-tools/elixir-tools.nvim)).
+
+My solution was to create an autocommand that sources the LSP config when reading a file:
+
+```
+vim.api.nvim_create_autocmd({ "BufReadPre", "BufNewFile" }, {
+  pattern = "*",
+  callback = function()
+    require("lazy_plugins.lspconfig")
+    return true
+  end,
+})
+
+```
+
+```
+local mason_lspconfig = require("mason-lspconfig")
+
+mason_lspconfig.setup({
+  -- ...
+})
+
+require("elixir").setup({
+  -- ...
+})
+
+mason_lspconfig.setup_handlers({
+  -- ...
+})
+
+-- And a bunch of other LSP related setup.
+
+```
+
+I could of course make it more granular and make more plugins lazy but I haven’t bothered since Neovim now starts under 150 ms, which my brain interprets as instant.
+
+You can get info about Neovim’s startup time by passing the `--startuptime` argument:
+
+```
+nvim --startuptime log.txt
+
+```
+
+Here’s a shortened output of `log.txt` where you can see the overall startup time but also how long loading packages take:
+
+```
+000.000  000.000: --- NVIM STARTING ---
+...
+028.386  000.119  000.119: require('fzy_native')
+028.388  000.201  000.082: require('fzy')
+...
+130.398  000.255: before starting main loop
+131.047  000.649: first screen update
+131.049  000.001: --- NVIM STARTED ---
+
+```
+
+[Treesitter](#Treesitter)
+----------
+
+Another feature [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) promotes is a “just works” [tree-sitter setup](https://github.com/nvim-neorocks/rocks-treesitter.nvimhttps://github.com/nvim-neorocks/rocks-treesitter.nvim). Unfortunately, I couldn’t get it to work and I instead rely on the [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) git repository.
+
+It’s likely I made some configuration error somewhere but after spending many hours reworking the entire configuration from scratch (on multiple machines) I gave up when I had a working setup.
+
+1. At first I tried [rocks-treesitter.nvim](https://github.com/nvim-neorocks/rocks-treesitter.nvimhttps://github.com/nvim-neorocks/rocks-treesitter.nvim) without [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter).
+
+   Installing grammars using [rocks-treesitter.nvim](https://github.com/nvim-neorocks/rocks-treesitter.nvimhttps://github.com/nvim-neorocks/rocks-treesitter.nvim) was straightforward and worked well. However, I use a bunch of extra features found in [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) and related packages that I need. This [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) config activates the features:
+
+   ```
+   require("nvim-treesitter.configs").setup({
+     highlight = {
+       enable = true,
+     },
+     matchup = {
+       enable = true,
+     },
+     autotag = {
+       enable = true,
+     },
+     endwise = {
+       enable = true,
+     },
+     indent = {
+       enable = true,
+     },
+     textobjects = {
+       move = {
+         enable = true,
+       },
+       swap = {
+         enable = true,
+       },
+       select = {
+         enable = true,
+       },
+     },
+   })
+
+   ```
+
+   But I couldn’t figure out how to make these feature work using [rocks-treesitter.nvim](https://github.com/nvim-neorocks/rocks-treesitter.nvimhttps://github.com/nvim-neorocks/rocks-treesitter.nvim).
+
+2. I tried to have both [rocks-treesitter.nvim](https://github.com/nvim-neorocks/rocks-treesitter.nvimhttps://github.com/nvim-neorocks/rocks-treesitter.nvim) and [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) installed.
+
+   That only lead to the dreaded [invalid node type](https://github.com/nvim-treesitter/nvim-treesitter/issues/6419) error (meaning there’s a mismatch between the grammar and the query files). Which kind-of makes sense as [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) provides query files for all grammars but there’s no guarantee that [rocks-treesitter.nvim](https://github.com/nvim-neorocks/rocks-treesitter.nvimhttps://github.com/nvim-neorocks/rocks-treesitter.nvim) installs the correct grammar for those query files.
+
+3. I tried to use the [nvim-treesitter from luarocks](https://luarocks.org/modules/neovim/nvim-treesitter) without [rocks-treesitter.nvim](https://github.com/nvim-neorocks/rocks-treesitter.nvimhttps://github.com/nvim-neorocks/rocks-treesitter.nvim).
+
+   Yet once again the Rust tree-sitter grammar hit the [invalid node type](https://github.com/nvim-treesitter/nvim-treesitter/issues/6419) error. I also couldn’t install all the grammars as a lot of them failed during installation:
+
+   ```
+   nvim-treesitter[bass]: Failed to execute the following command:
+   {
+     cmd = "mv",
+     opts = {
+       args = { "-f", "tree-sitter-bass-tmp/tree-sitter-bass-master", "tree-sitter-bass" },
+       cwd = "/home/tree/.local/share/nvim",
+       stdio = {
+         [2] = ,
+         [3] =
+       }
+     }
+   }
+   mv: cannot stat 'tree-sitter-bass-tmp/tree-sitter-bass-master': No such file or directory
+
+   ```
+
+   Weird.
+
+4. Fallback to the git repository for [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) and friends.
+
+   It’s surprising, because I’d assume the luarocks dev version would be the same as the GitHub source, yet this worked for me:
+
+   ```
+   nvim-treesitter = { git = "nvim-treesitter/nvim-treesitter", rev = "1eabe69" }
+   nvim-treesitter-endwise = { git = "RRethy/nvim-treesitter-endwise", rev = "8b34305" }
+   nvim-ts-context-commentstring = { git = "JoosepAlviste/nvim-ts-context-commentstring", rev = "0bdccb9" }
+   nvim-treesitter-context = { git = "nvim-treesitter/nvim-treesitter-context", rev = "55e2908" }
+   nvim-ts-autotag = { git = "windwp/nvim-ts-autotag", rev = "aeb7090" }
+   nvim-treesitter-textobjects = { git = "nvim-treesitter/nvim-treesitter-textobjects", rev = "5f9bf4b" }
+
+   ```
+
+   I pin them to a revision because I got tired of things breaking.
+
+While I can now install all grammars that [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) provides and use all treesitter features I used before, I’m annoyed that I couldn’t make it work using [rocks-treesitter.nvim](https://github.com/nvim-neorocks/rocks-treesitter.nvimhttps://github.com/nvim-neorocks/rocks-treesitter.nvim). I’m sure there’s something obvious I’m missing but I don’t have the energy to retrace the steps again right now. I’ll instead document my failings publicly on the blog and move on with my life.
+
+[Other resolved issues](#Other-resolved-issues)
+----------
+
+While migrating I ran into some other minor issues that I managed to resolve:
+
+* Some plugins in [luarocks](https://luarocks.org/) are outdated.
+
+  For example, the last update to the [luarocks gitsigns.nvim ](https://github.com/lewis6991/gitsigns.nvim) was made 2 years ago, while the [gitsigns.nvim on GitHub](https://luarocks.org/modules/teto/gitsigns.nvim) was updated this week.
+
+* Got some weird errors I couldn’t debug.
+
+  For example, help for [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) wasn’t available. A clean reinstall by removing the folders `~/.local/share/nvim/` and `~/.cache/nvim/` seems to have resolved the help installation and some other weird errors.
+
+* `:Rocks sync` didn’t respect the provided git branch.
+
+  There was a PR [that resolved this issue](https://github.com/nvim-neorocks/rocks-git.nvim/pull/29) while I was migrating. It does sound suspiciously similar to the issue with the tree-sitter grammars failing to install but I haven’t explored that further.
+
+[Should you use ](#Should-you-use-rocksnvim)[rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim)?
+----------
+
+I had issues while migrating my config over to [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim), with rough edges and missing features. For instance, I miss the install speed of [lazy.nvim](https://github.com/folke/lazy.nvim) and [lazy.nvim](https://github.com/folke/lazy.nvim)’s excellent dashboard.
+
+Yet I’ll stay with [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) as it deserves props for tackling the huge task of cleaning up dependency management in Neovim and for giving us access to the broader Lua landscape with [luarocks](https://luarocks.org/).
+
+It may be too bleeding edge for some people; but I think more Neovim users and plugin authors should take note of [rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) and give it a try. I’d like it if a more sane approach to package management become more popular in the Neovim community.

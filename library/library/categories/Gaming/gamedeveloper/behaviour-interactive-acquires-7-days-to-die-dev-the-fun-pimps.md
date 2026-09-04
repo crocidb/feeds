@@ -1,0 +1,11 @@
++++
+title = "Behaviour Interactive acquires 7 Days to Die dev The Fun Pimps"
+description = "Behaviour shut down Midwinter Entertainment in 2024, amidst two layoff rounds."
+date = "2026-03-24T16:16:13Z"
+url = "https://www.gamedeveloper.com/business/behaviour-interactive-acquires-7-days-to-die-dev-the-fun-pimps"
+author = "Diego Argüello"
+text = ""
+lastupdated = "2026-03-30T10:52:52.752895848Z"
+seen = true
++++
+

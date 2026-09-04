@@ -1,5 +1,7 @@
-datapath = "/home/crocidb/.local/share/bulletty"
+datapath = "/home/crocidb/Projects/feeds/library"
+tui_auto_update = true
+parallel_feed_updates = true
 
 [hooks]
-before_tui = "/home/crocidb/.config/bulletty/sync.sh"
-after_tui = "/home/crocidb/.config/bulletty/sync.sh"
+before_tui = "$(bulletty dirs local-config)/sync.sh"
+after_tui = "$(bulletty dirs local-config)/sync.sh"

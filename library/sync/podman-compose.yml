@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  feeds-sync:
+    build:
+      context: .
+      dockerfile: Containerfile
+    ports:
+      # the port that our WebDAV server will run
+      - "23284:23284"
+    volumes:
+      # bind mount the all the feed directory to the container
+      - ../:/repo:Z
+      # ssh key backup the feed data to github (read-only)
+      - ~/.ssh:/root/.ssh:ro,Z
+    environment:
+      WEBDAV_USER: ${WEBDAV_USER:-admin}
+      WEBDAV_PASS: ${WEBDAV_PASS:-changeme}
+      GIT_REMOTE: ${GIT_REMOTE:-origin}
+      GIT_BRANCH: ${GIT_BRANCH:-main}
+      GIT_USER_NAME: ${GIT_USER_NAME:-feeds-sync}
+      GIT_USER_EMAIL: ${GIT_USER_EMAIL:-feeds-sync@localhost}
+    restart: unless-stopped

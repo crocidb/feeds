@@ -1,0 +1,30 @@
++++
+title = "Vera Fischer Era Clubber lança o single “Calcinha Gozada” com Katy da Voz e as Abusadas"
+description = "A banda carioca Vera Fischer Era Clubber lança nesta quinta-feira (3/9) o single “Calcinha Gozada”, primeiro feat oficial de sua carreira, gravado em parceria com Katy da Voz e as Abusadas. A canção é a primeira amostra de VERAS II, segundo álbum de estúdio do quarteto formado po"
+date = "2026-09-02T10:00:00Z"
+url = "https://revistaogrito.com/vera-fischer-era-clubber-lanca-o-single-calcinha-gozada-com-katy-da-voz-e-as-abusadas/"
+author = "Equipe O Grito!"
+text = ""
+lastupdated = "2026-09-03T22:47:03.667234212Z"
+seen = false
++++
+
+A banda carioca **Vera Fischer Era Clubber** lança nesta quinta-feira (3/9) o single “Calcinha Gozada”, primeiro *feat* oficial de sua carreira, gravado em parceria com [**Katy da Voz e as Abusadas**](https://revistaogrito.com/no-ar-coquetel-molotov-reune-diferentes-geracoes-e-cenas-em-sua-23a-edicao/). A canção é a primeira amostra de *VERAS II*, segundo álbum de estúdio do quarteto formado por **Crystal Duarte**, **Malu**, **Pek0** e **Vickluz**, com lançamento marcado para o dia 17 de setembro de 2026 pelo selo Palatável Records e distribuição da Tratore.
+
+<img decoding="async" width="630" height="630" data-attachment-id="201858" data-permalink="https://revistaogrito.com/vera-fischer-era-clubber-lanca-o-single-calcinha-gozada-com-katy-da-voz-e-as-abusadas/vfec_veras-ii_capa-disco/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/09/VFEC_VERAS-II_Capa-Disco.webp" data-orig-size="630,630" data-comments-opened="0" data-image-title="VFEC_VERAS II_Capa Disco" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/09/VFEC_VERAS-II_Capa-Disco.webp" loading="lazy" src="https://controle.revistaogrito.com/wp-content/uploads/2026/09/VFEC_VERAS-II_Capa-Disco.webp" alt="VFEC VERAS II Capa Disco" class="wp-image-201858" srcset="https://revistaogrito.com/wp-content/uploads/2026/09/VFEC_VERAS-II_Capa-Disco.webp 630w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC_VERAS-II_Capa-Disco-100x100.webp 100w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC_VERAS-II_Capa-Disco-300x300.webp 300w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC_VERAS-II_Capa-Disco-321x321-1.webp 321w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC_VERAS-II_Capa-Disco-418x418.webp 418w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC_VERAS-II_Capa-Disco-613x613.webp 613w" sizes="auto, (max-width: 630px) 100vw, 630px">\<img fetchpriority="high" decoding="async" width="630" height="630" data-attachment-id="201858" data-permalink="https://revistaogrito.com/vera-fischer-era-clubber-lanca-o-single-calcinha-gozada-com-katy-da-voz-e-as-abusadas/vfec\_veras-ii\_capa-disco/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/09/VFEC\_VERAS-II\_Capa-Disco.webp" data-orig-size="630,630" data-comments-opened="0" data-image-title="VFEC\_VERAS II\_Capa Disco" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/09/VFEC\_VERAS-II\_Capa-Disco.webp" src="https://controle.revistaogrito.com/wp-content/uploads/2026/09/VFEC\_VERAS-II\_Capa-Disco.webp" alt="VFEC VERAS II Capa Disco" class="wp-image-201858" srcset="https://revistaogrito.com/wp-content/uploads/2026/09/VFEC\_VERAS-II\_Capa-Disco.webp 630w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC\_VERAS-II\_Capa-Disco-100x100.webp 100w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC\_VERAS-II\_Capa-Disco-300x300.webp 300w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC\_VERAS-II\_Capa-Disco-321x321-1.webp 321w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC\_VERAS-II\_Capa-Disco-418x418.webp 418w, https://revistaogrito.com/wp-content/uploads/2026/09/VFEC\_VERAS-II\_Capa-Disco-613x613.webp 613w" sizes="(max-width: 630px) 100vw, 630px" /\>Capa do álbum “VERAS II”, que lança dia 17 de setembro. (Foto: Divulgação)
+
+Com produção musical de **Augusto Feres** e capa assinada por **Bambi Pessego**, a faixa une a estética *eletroclash* e *post-punk* da banda às batidas do *funk* e da vanguarda *underground*. O novo disco sucede a estreia com *VERAS I* (2025) e explora uma narrativa ambientada na cidade fictícia de Vulgária, trazendo ainda a participação especial de **Kiko Dinucci** na música “Amor de Anjo”.
+
+* **[Acesse nossa seção de Música](http://revistaogrito.com/musica)**
+* **[Leia críticas de novos discos](http://revistaogrito.com/musica/critica-disco)**
+
+A agenda de divulgação do álbum inclui audição para a imprensa em São Paulo (SP) no dia 9 de setembro e festa de pré-lançamento no Rio de Janeiro (RJ) em 16 de setembro. O show oficial de apresentação de *VERAS II* está agendado para o dia 15 de outubro de 2026, no palco do Sesc Avenida Paulista, na capital paulista, após passagens do grupo por eventos como o festival [Coquetel Molotov](https://www.google.com/search?q=https://www.revistaogrito.com/materias).
+
+**Serviço**   
+Single “Calcinha Gozada” – Vera Fischer Era Clubber feat. Katy da Voz e as Abusadas   
+**Lançamento:** 3 de setembro de 2026 nas plataformas digitais   
+**Show de lançamento do álbum *VERAS II*:** 15 de outubro de 2026, no Sesc Avenida Paulista (São Paulo – SP)
+
+**Erramos:** *Uma versão anterior desse post informava erroneamente que a banda é paulista. O Vera Fischer Era Clubber é, como sabemos, carioquíssima. O texto foi corrigido.*
+
+O post [Vera Fischer Era Clubber lança o single “Calcinha Gozada” com Katy da Voz e as Abusadas](https://revistaogrito.com/vera-fischer-era-clubber-lanca-o-single-calcinha-gozada-com-katy-da-voz-e-as-abusadas/) apareceu primeiro em [Revista O Grito! — Jornalismo cultural que fala de tudo](https://revistaogrito.com).
