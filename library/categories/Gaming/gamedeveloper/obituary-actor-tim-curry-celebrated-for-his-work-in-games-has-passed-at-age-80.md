@@ -5,7 +5,7 @@ date = "2026-08-26T20:08:56Z"
 url = "https://www.gamedeveloper.com/audio/obituary-actor-tim-curry-celebrated-for-his-work-in-games-has-passed-at-age-80"
 author = "Bryant Francis"
 text = ""
-lastupdated = "2026-09-01T19:33:12.897553046Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.448249685Z"
+seen = false
 +++
 

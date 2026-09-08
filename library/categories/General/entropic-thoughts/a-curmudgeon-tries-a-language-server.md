@@ -5,7 +5,7 @@ date = "2026-08-24T22:00:00Z"
 url = "https://entropicthoughts.com/curmudgeon-tries-language-server"
 author = "a@xkqr.org (kqr)"
 text = ""
-lastupdated = "2026-09-01T19:33:12.232347294Z"
+lastupdated = "2026-09-03T13:15:06.000800929Z"
 seen = true
 +++
 

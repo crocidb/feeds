@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/2021-q3-roundup/"
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.188128309Z"
-seen = false
+seen = true
 +++
 

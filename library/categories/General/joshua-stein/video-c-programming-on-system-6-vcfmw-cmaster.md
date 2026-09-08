@@ -6,7 +6,7 @@ url = "https://jcs.org/2025/08/15/cmaster"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.643918593Z"
-seen = false
+seen = true
 +++
 
 I found a neat THINK C extension that I wanted to share, and I'm going to have a table at the [Vintage Computer Festival Midwest](https://vcfmw.org/) next month.

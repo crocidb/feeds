@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.244674294Z"
-seen = false
+seen = true
 +++
 
 These are some of my class notes. Learning to derive the [Y Combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator#Y_combinator) from first principles is something I’ve always wanted to do. This isn’t *quite* the Y Combinator, but it’s very close and it still gets you recursion without relying on recursive structures to begin with.

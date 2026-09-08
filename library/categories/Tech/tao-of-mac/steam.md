@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/steam?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T21:59:30.634706034Z"
-seen = false
+seen = true
 +++
 
 [Steam](https://store.steampowered.com?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) is [Valve](com/valve)’s game distribution platform, which became especially relevant to me when it started incorporating the [Proton](https://github.com/ValveSoftware/Proton?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) [WINE](/space/emulation/wine)-based compatibility layer for running DirectX Windows games on [Linux](/space/os/linux).

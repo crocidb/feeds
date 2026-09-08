@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.333106427Z"
-seen = false
+seen = true
 +++
 
 DuckDuckGo is a search engine. Like Google Search, you just throw some keywords into a box and get a list of results. Lots of people use Google, but I don’t. DuckDuckGo works better for me, and this is why.

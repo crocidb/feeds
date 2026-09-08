@@ -6,7 +6,7 @@ url = "https://nautil.us/how-dinosaur-skeletons-became-so-expensive-1282687/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-16T14:37:07.147783298Z"
-seen = false
+seen = true
 +++
 
 Today’s T. rex auction could be cause for concern

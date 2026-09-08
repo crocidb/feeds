@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.234619072Z"
-seen = false
+seen = true
 +++
 
 This is the story of how I solved a problem (ugly, cumbersome boilerplate code) that I ran into while writing a program in a functional language (Elixir). Functional programming languages often pride themselves on expressiveness and elegance; but occasionally they are not amenable to the most obvious solutions to the problems we wish to solve. In this case, the simplest solution to my problem would have been to have a global mutable variable. But no one likes those.

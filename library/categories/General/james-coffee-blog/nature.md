@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/09/nature-walking"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-09T17:48:14.282412859Z"
-seen = false
+seen = true
 +++
 
 *Breathe in. Breathe out.* Standing in the fresh warm summer’s air, I found my breath slowing, and deepening. I wandered as I transitioned from the feeling of indoors to the Nature of outdoors. Trees and bushes and the light sounds of Nature accompany me as I put one foot forward in front of another.

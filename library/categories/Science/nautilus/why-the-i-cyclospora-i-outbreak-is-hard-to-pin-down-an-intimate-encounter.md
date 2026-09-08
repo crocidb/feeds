@@ -6,7 +6,7 @@ url = "https://nautil.us/why-the-cyclospora-outbreak-is-hard-to-pin-down-an-inti
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-22T09:22:42.072111543Z"
-seen = false
+seen = true
 +++
 
 The parasite has a long incubation period, which means affected people might not experience explosive diarrhea up to two weeks after exposure

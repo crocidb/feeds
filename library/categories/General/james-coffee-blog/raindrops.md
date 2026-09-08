@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/04/raindrops"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.677955490Z"
-seen = false
+seen = true
 +++
 
 Raindrops cascade from the skies in straight lines, watering the ground left dry after July. Since the rain started falling again, the plant outside has been growing well. Will it blossom again this year? Can plants blossom twice in one year? I hope to see the pink petals again, but, if nothing else, I have the memories of its colours from earlier in the season.

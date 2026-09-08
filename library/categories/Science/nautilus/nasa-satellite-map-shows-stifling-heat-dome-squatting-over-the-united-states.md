@@ -6,7 +6,7 @@ url = "https://nautil.us/nasa-satellite-map-shows-stifling-heat-dome-squatting-o
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-16T14:37:07.136414670Z"
-seen = false
+seen = true
 +++
 
 And now it’s come for the East Coast

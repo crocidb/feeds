@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/05/31/1000?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-01T21:30:51.413329694Z"
-seen = false
+seen = true
 +++
 
 Today I realised that I could just spend the day doing essentially *nothing* and that nobody would hold it against me (at least in Western nations), so… I might well do just that, with a few caveats:

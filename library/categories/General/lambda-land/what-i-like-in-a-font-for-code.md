@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.269176528Z"
-seen = false
+seen = true
 +++
 
 I’m well aware that I may have a bit of an [obsession with fonts](/posts/2022-08-01_a_new_font/). I don’t think that’s too unusual for someone who works in tech, however. Sites like [Programming Fonts](https://www.programmingfonts.org/) exist to let people test drive and compare a bunch of different fonts. Just for fun, I thought I’d write up some of the features I look for in a programming font that I’ve come to deliberately pick out.

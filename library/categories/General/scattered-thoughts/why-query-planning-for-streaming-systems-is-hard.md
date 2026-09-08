@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/why-query-planning-for-streami
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.213910024Z"
-seen = false
+seen = true
 +++
 

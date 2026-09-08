@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/severance"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-08-06T09:52:32.876550448Z"
-seen = false
+seen = true
 +++
 
 *» Mark has joined the call.  

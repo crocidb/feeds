@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/06/08/2040?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-10T21:36:01.779688480Z"
-seen = false
+seen = true
 +++
 
 This was the weirdest WWDC26 keynote in a while, and some of the past ones were visibly phoned in. It was rife with weirdness and flashbacks.

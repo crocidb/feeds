@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.183672020Z"
-seen = false
+seen = true
 +++
 
 I got asked how I manage papers, notes, and citations for doing research. I started writing out a *very* long Slack message, but it quickly passed the threshold where I ought to just turn it into a blog post.

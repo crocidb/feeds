@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/tech-note-making-your-own-v-i-plots"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-07-18T14:48:02.885366560Z"
-seen = false
+seen = true
 +++
 
 When working on my latest book, *[The Secret Life of Circuits](https://lcamtuf.coredump.cx/electronics/)*, I wanted to keep the artwork real. My beef with the diagrams in popular electronics textbooks and online tutorials is that most of them are fake. At best, they’re retraced from ancient texts; at worst, they’re sketched from memory and can be charitably described as *“inspired by true events”*:

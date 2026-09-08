@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.285553355Z"
-seen = false
+seen = true
 +++
 
 Brief update on the blog: I had been running a custom fork of the [Anatole](https://github.com/lxndrblz/anatole) theme; it diverged pretty heavily, and I found a nice way to customize the CSS. Behold! The new-and-improved blog.

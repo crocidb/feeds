@@ -6,7 +6,7 @@ url = "https://nautil.us/why-we-stopped-burying-our-dead-at-home-1283097/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-28T20:39:57.292646088Z"
-seen = false
+seen = true
 +++
 
 Home burials declined throughout antiquity

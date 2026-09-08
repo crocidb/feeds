@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/07/27/eucd-6/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-07-28T12:42:40.049972821Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/27Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/27/eucd-6/)

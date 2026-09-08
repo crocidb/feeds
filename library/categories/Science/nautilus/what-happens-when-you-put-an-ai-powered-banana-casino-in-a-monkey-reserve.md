@@ -6,7 +6,7 @@ url = "https://nautil.us/what-happens-when-you-put-an-ai-powered-banana-casino-i
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-06T09:52:38.245313133Z"
-seen = false
+seen = true
 +++
 
 AI really is everywhere these days

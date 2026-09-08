@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/implicit-ordering-in-relationa
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.204090472Z"
-seen = false
+seen = true
 +++
 

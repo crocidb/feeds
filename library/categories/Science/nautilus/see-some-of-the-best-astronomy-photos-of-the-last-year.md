@@ -6,7 +6,7 @@ url = "https://nautil.us/see-some-of-the-best-astronomy-photos-of-the-last-year-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-07T12:18:54.141878490Z"
-seen = false
+seen = true
 +++
 
 From Earth to the moon to deep space—and back again

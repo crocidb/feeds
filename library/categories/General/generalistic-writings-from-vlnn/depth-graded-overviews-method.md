@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=depth-graded-overviews-method"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.839800393Z"
-seen = false
+seen = true
 +++
 
 My idea is to effectively consume a complex information with sequence of depth-graded overviews of the sources.

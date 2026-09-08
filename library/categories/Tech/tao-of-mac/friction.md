@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/friction?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-08T12:50:10.478114140Z"
-seen = false
+seen = true
 +++
 
 [Friction](https://friction.graphics?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) is a cross-platform motion graphics application for building vector and raster animations for the web and for video. It sits somewhere between a compositing tool and an animation editor, with a timeline-based workflow, SVG/SMIL output for the web, shader/raster effects, expressions, and enough structure to tackle more than one scene at a time.

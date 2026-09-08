@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.301805451Z"
-seen = false
+seen = true
 +++
 
 It’s cliché at this point to say that 2020 was a rough year. I’m grateful in that I and my wife were relatively unscathed by the pandemic. I had some personal health issues however that by themselves made 2020 a bit of a struggle. I learned some important lessons.

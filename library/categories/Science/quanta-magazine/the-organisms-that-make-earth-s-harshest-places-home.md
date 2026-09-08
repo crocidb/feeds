@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/the-organisms-that-make-earths-harshest-pl
 author = "Jake Buehler"
 text = ""
 lastupdated = "2026-07-21T09:20:05.408374623Z"
-seen = false
+seen = true
 +++
 
 Life has scarcely found a boundary on Earth that it can’t push. While much of life’s diversity exists in lush, bountiful habitats like tropical rainforests and coral reefs, even the most brutal corners of the planet are also occupied. The organisms that thrive in extreme environments — blistering temperatures, crushing pressures, corrosive acid — are what we call “extremophiles.

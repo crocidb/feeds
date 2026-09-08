@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/08/04/1335?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.176975672Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/08/04/1335/large.jpg?v=447a5d975e82" alt="quicklook" width="320" height="240">](https://blog.cloudflare.com/smaller-faster-safer-models?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

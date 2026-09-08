@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/ai/embeddings?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-25T13:20:54.611003843Z"
-seen = false
+seen = true
 +++
 
 Libraries, databases, and models for generating, storing, and querying dense vector embeddings — the backbone of semantic search, RAG pipelines, and similarity-based retrieval across text, images, and other modalities.

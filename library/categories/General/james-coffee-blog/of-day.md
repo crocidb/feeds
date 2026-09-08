@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/19/of-day"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-21T09:19:44.788230203Z"
-seen = false
+seen = true
 +++
 
 I close my eyes and listen to the church bells reverberate through the city — the air, the street, the park; the hearts.

@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/06/25/thieve-different/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-06-29T12:19:40.506318316Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/25Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/25/thieve-different/)

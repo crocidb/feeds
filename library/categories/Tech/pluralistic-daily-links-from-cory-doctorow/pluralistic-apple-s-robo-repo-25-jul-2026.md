@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-07-28T12:42:40.056263457Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/25Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/25/cruel-cruelty-oh-cruelty/)

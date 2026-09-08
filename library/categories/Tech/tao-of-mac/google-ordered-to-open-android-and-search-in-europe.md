@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/07/17/0810?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-18T14:48:32.025725679Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/07/17/0810/640,480/TjEFynt29ZYc7XMOaY_omCdIquI=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

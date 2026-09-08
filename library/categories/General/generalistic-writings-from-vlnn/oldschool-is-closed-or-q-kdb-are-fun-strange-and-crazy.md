@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=oldschool-is-closed"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.902087287Z"
-seen = false
+seen = true
 +++
 
 [https://lv1.sh/](https://lv1.sh/) is another layer of crazyness that seems to be normal for k/q language for decades. Also beware, this link was [removed on lobste.rs](https://vlnn.dev/gatekeeping-at-lobste-rs.org)

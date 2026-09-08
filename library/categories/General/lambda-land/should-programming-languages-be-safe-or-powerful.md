@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.207592697Z"
-seen = false
+seen = true
 +++
 
 Should a programming language be powerful and let a programmer do a lot, or should it be safe and protect the programmer from bad mistakes? Contrary to what the title insinuates, these are *not* diametrically opposed attributes. Nevertheless, this is the mindset that underlies notions such as, “macros, manual memory management, etc. are power tools—they’re not supposed to be safe.” If safety and power are not necessarily opposed, why does this notion persist?

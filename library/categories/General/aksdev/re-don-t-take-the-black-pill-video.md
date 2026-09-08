@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/re-don-t-take-the-black-pill-video/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-07-28T12:42:16.812639473Z"
-seen = false
+seen = true
 +++
 
 Reply to [Don't Take the Black Pill - Andrew Kelley | SSW 2026](https://www.youtube.com/watch?v=zLZwpH5lCD4)

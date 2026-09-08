@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/07/16/1320?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-16T14:37:13.553062237Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/07/16/1320/640,480/BiYc7XfLvrP6jIM1QMwNwD_mveQ=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://hackaday.com/2026/07/16/google-earth-desktop-client-to-be-retired-in-2027/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

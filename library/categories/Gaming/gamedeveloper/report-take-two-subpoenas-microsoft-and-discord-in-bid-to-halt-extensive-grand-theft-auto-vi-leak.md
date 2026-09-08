@@ -5,7 +5,7 @@ date = "2026-08-21T20:03:39Z"
 url = "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak"
 author = "Bryant Francis"
 text = ""
-lastupdated = "2026-08-24T15:49:14.175873669Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.466367981Z"
+seen = false
 +++
 

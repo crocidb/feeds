@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/05/indiewebcamp-nurnberg-2026"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-06T19:13:25.327736282Z"
-seen = false
+seen = true
 +++
 
 ![All of the participants of IndieWebCamp Nürnberg, lined up in three rows, one row behind the other. I am in the middle of the back row, wearing my green and grey microformats t-shirt. ](https://editor.jamesg.blog/content/images/2026/07/1000px-iwc-nbg-2026-10.jpg)

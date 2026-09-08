@@ -5,7 +5,7 @@ date = "2026-09-01T09:19:23Z"
 url = "https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furloughed-workers-ahead-of-launch"
 author = "Chris Kerr"
 text = ""
-lastupdated = "2026-09-01T19:33:12.877972303Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.431847168Z"
+seen = false
 +++
 

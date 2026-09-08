@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/06/26/0556?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.659946284Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/06/26/0556/640,480/t44eAoxv0IUJvdrIR7XrJUto_qk=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://www.macstories.net/news/apple-raises-prices-across-most-of-its-product-lines/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

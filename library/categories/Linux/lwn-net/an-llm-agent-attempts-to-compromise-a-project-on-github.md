@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1087162/"
 author = "corbet"
 text = ""
 lastupdated = "2026-08-06T09:52:34.749341268Z"
-seen = false
+seen = true
 +++
 
 The AI Security Institute has released [a detailed report](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing) on an security incident of its own making. The Institute set some LLM agents loose on the Internet with a security challenge; soon they were creating malware-laden pull requests and sock-puppet accounts to promote them.

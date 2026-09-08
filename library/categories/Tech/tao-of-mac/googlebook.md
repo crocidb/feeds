@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/05/14/1145?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.785854102Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/05/14/1145/640,480/vSLAYqLuwMtRAamq6_zKT9mr-fk=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://blog.google/products-and-platforms/platforms/android/meet-googlebook/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.193772911Z"
-seen = false
+seen = true
 +++
 
 The key principle I follow is this: *how I take my notes will evolve over time*. I do not stick to any system too dogmatically.

@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/what-is-a-database/"
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.146153620Z"
-seen = false
+seen = true
 +++
 

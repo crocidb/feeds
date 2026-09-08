@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/music?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.758578366Z"
-seen = false
+seen = true
 +++
 
 One of my pursuits of yore and for ever more (in the sense that I stopped short of joining the Conservatorium when I was a kid and still maintain a somewhat active - if diffuse - interest in it).

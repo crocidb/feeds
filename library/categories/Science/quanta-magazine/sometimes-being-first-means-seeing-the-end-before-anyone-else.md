@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/jacob-tsimerman-wins-2026-fields-medal-for
 author = "Kevin Hartnett"
 text = ""
 lastupdated = "2026-07-23T22:53:02.620457433Z"
-seen = false
+seen = true
 +++
 
 Jacob Tsimerman knows that many people see mathematics as a search for beauty. Over the course of his career, he has encountered beauty many times. But beauty is not what drives him. What he loves most is to solve hard problems, and to be the first to do so. “In my experience, and I think many people’s experience, math is very much a goal-oriented endeavor,” he said. “The truth-and-beauty stuff…

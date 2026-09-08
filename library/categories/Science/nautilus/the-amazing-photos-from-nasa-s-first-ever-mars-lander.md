@@ -6,7 +6,7 @@ url = "https://nautil.us/the-amazing-photos-from-nasas-first-ever-mars-lander-12
 author = "David Nield"
 text = ""
 lastupdated = "2026-07-23T22:53:02.357262689Z"
-seen = false
+seen = true
 +++
 
 Viking 1 landed on Mars 50 years ago

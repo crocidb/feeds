@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/more-conversations-complex-questions-and-b
 author = "Simon Frantz"
 text = ""
 lastupdated = "2026-06-06T15:22:21.523384423Z"
-seen = false
+seen = true
 +++
 
 What is the future of gene editing with CRISPR? Has AI changed mathematics forever? Will we find other civilizations in the universe? What if we’ve been wrong about dark energy all along? These are just a few of the big, bold questions we’ll be exploring in the new season of The Joy of Why. Mathematician Steven Strogatz and physicist Janna Levin are back as your hosts for these and other…

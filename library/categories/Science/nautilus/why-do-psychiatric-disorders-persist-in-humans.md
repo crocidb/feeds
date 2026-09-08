@@ -6,7 +6,7 @@ url = "https://nautil.us/why-do-psychiatric-disorders-persist-in-humans-1283057/
 author = "Kristen French"
 text = ""
 lastupdated = "2026-07-28T12:42:37.298204239Z"
-seen = false
+seen = true
 +++
 
 Genetics suggest they may be linked to certain forms of intelligence

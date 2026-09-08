@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-cod
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.194286800Z"
-seen = false
+seen = true
 +++
 

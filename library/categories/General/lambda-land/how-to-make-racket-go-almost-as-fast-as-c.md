@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.213096404Z"
-seen = false
+seen = true
 +++
 
 I recently wrote about [using first-class functions to help make a BF interpreter](/posts/2024-09-11_parameterized_decisions/). This is a follow-up post to describe a nifty solution to a tricky problem that made my program go 2–5× faster and put it about on-par with an interpreter written in pure C.

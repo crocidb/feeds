@@ -5,7 +5,7 @@ date = "2026-09-01T18:03:04Z"
 url = "https://www.gamedeveloper.com/business/the-majority-of-doom-the-dark-ages-dlc-got-made-in-three-or-four-months"
 author = "Diego Argüello"
 text = ""
-lastupdated = "2026-09-01T19:33:12.872347570Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.426669972Z"
+seen = false
 +++
 

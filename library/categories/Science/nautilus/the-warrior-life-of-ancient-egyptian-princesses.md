@@ -6,7 +6,7 @@ url = "https://nautil.us/the-warrior-life-of-ancient-egyptian-princesses-1282763
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-18T14:48:27.509732252Z"
-seen = false
+seen = true
 +++
 
 These weren’t your traditional Disney princesses

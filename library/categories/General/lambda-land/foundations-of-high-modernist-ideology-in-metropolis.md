@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.291077842Z"
-seen = false
+seen = true
 +++
 
 *The following is from a essay from a class on German literature and film.*

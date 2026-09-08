@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/04/www-13"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.675035461Z"
-seen = false
+seen = true
 +++
 
 [The thirteenth episode of Wonders of Web Weaving is out](https://web-weaving.jamesg.blog/13):

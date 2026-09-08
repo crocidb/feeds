@@ -6,7 +6,7 @@ url = "https://nautil.us/ai-made-me-look-foolish-then-i-learned-1283376/"
 author = "Paul M. Sutter"
 text = ""
 lastupdated = "2026-08-06T21:59:29.831852918Z"
-seen = false
+seen = true
 +++
 
 Ancient alchemy has a lot to teach us about chatbots

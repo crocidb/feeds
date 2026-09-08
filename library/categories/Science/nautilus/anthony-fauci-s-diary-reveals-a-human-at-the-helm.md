@@ -6,7 +6,7 @@ url = "https://nautil.us/anthony-faucis-diary-reveals-a-human-at-the-helm-128314
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-28T23:43:00.843726641Z"
-seen = false
+seen = true
 +++
 
 Recently published notes from the former COVID czar paint a picture of a scientist grappling with a dynamic situation

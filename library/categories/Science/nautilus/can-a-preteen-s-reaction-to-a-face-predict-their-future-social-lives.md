@@ -6,7 +6,7 @@ url = "https://nautil.us/can-a-preteens-reaction-to-a-face-predict-their-future-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-16T14:37:07.145854041Z"
-seen = false
+seen = true
 +++
 
 The developing brains of boys and girls light up differently when shown a face

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.328787685Z"
-seen = false
+seen = true
 +++
 
 I gave a presentation at the Utah Elixir Meetup this February. Here’s the recording of my presentation:

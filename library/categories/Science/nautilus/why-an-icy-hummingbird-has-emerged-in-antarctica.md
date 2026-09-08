@@ -6,7 +6,7 @@ url = "https://nautil.us/why-an-icy-hummingbird-has-emerged-in-antarctica-128304
 author = "David Nield"
 text = ""
 lastupdated = "2026-07-28T12:42:37.300098768Z"
-seen = false
+seen = true
 +++
 
 Experts can now get a better look under the surface of vast glaciers

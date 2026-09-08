@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/banda-mineira-varanda-anuncia-o-album-as-vezes-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-08-24T15:49:14.806460001Z"
-seen = false
+seen = true
 +++
 
 A banda mineira **Varanda** lança no dia 28 de agosto de 2026 o seu segundo álbum de estúdio, intitulado *Às Vezes Um Sonho Pode Ser Um Planeta Inteiro ou Uma Canção ou Uma Cama com Travesseiro de Pluma de Ganso ou Um Apagão ou a Grande Luz no Meio Desse Grande Túnel no Qual Estamos Inegável Infalível Incansavelmente Passageiros*.

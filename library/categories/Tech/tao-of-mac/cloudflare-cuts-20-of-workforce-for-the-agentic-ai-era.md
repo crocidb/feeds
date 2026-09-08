@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/05/08/0800?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-08T13:34:35.274442178Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/05/08/0800/640,480/0pEP1Q1NTczF7kGjQTHfarOvobA=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

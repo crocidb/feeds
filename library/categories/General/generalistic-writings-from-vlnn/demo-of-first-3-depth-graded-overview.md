@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=demo-of-first-3-depth-graded-overview"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.838395524Z"
-seen = false
+seen = true
 +++
 
 ### 1st iteration ###

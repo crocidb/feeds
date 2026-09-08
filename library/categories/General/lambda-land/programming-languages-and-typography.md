@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.318097767Z"
-seen = false
+seen = true
 +++
 
 An analogy occurred to me this evening as I was thinking about programming language design:

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.274536553Z"
-seen = false
+seen = true
 +++
 
 Yes, it’s time to redo my blog again.

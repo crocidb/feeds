@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/nginga-queen-e-a-arte-de-transformar-ancestrali
 author = "Túlio Vasconcelos"
 text = ""
 lastupdated = "2026-09-01T19:33:13.215507052Z"
-seen = false
+seen = true
 +++
 
 **N’Ginga Queen** nasceu de uma encruzilhada. Entre a universidade e o terreiro, os afoxés e a cultura popular, o Recife e o Alto Sertão de Alagoas, a experiência de ser um homem gay e negro e o desejo de traduzir essas vivências em imagem, performance e presença, **Gustavo Gomes** gestou uma persona drag que carrega na própria estética uma afirmação política. “N’Ginga é essa encruzilhada que conecta pessoas”, define.

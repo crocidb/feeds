@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/05/museums-2"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.673772932Z"
-seen = false
+seen = true
 +++
 
 Earlier this week I was thinking about inspiration – what inspires me to write? Nature, friends, what I see in the world as I walk around – all these are the basis of many of my blog posts. Museums, too, inspire me, both to think and to create. When I am in a museum, I can get lost in an artwork, ebbing between the beauty of a piece and then, afterwards, studying the work – what can I see, what do I see.

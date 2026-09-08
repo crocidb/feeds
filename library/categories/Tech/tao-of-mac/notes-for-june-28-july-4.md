@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/07/04/1230?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-06T19:14:07.681709082Z"
-seen = false
+seen = true
 +++
 
 The [weather certainly doesn’t help](/space/notes/2026/07/02/2200), but I’ve still managed to squeeze in a few interesting hacks this week in between work, [flashbacks](/space/blog/2024/06/08/1200) about the [recent reorg](/space/links/2026/07/02/1459) (too soon to call it, but like everyone else, I’m waiting for the other shoe to drop), and a new personal project of watching every Bond movie in chronological order (which is a surprisingly good way to spend a few evenings, even if it’s a bit uneven in quality).

@@ -6,7 +6,7 @@ url = "https://entropicthoughts.com/sicp-3-3-digital-circuit-simulator-in-haskel
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-07-28T12:42:17.545149217Z"
-seen = true
+seen = false
 +++
 
 I have a copy of SICP, or as it is also known, *The Wizard Book*. This book is widely praised, but I can’t take the time to work my way through all of it. Instead, I’m going to occasionally jump into the parts of it that look interesting.

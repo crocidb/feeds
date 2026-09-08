@@ -6,7 +6,7 @@ url = "https://nautil.us/an-abandoned-spacex-rocket-is-about-to-crash-into-the-m
 author = "Gregory Radisic"
 text = ""
 lastupdated = "2026-07-28T15:39:04.794059245Z"
-seen = false
+seen = true
 +++
 
 As the moon starts getting crowded, questions of safety and responsibility are becoming hard to ignore

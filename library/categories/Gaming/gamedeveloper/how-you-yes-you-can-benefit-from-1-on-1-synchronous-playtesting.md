@@ -5,7 +5,7 @@ date = "2026-08-27T16:48:40Z"
 url = "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-on-1-synchronous-playtesting"
 author = "Danielle Riendeau"
 text = ""
-lastupdated = "2026-09-01T19:33:12.890621076Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.442178069Z"
+seen = false
 +++
 

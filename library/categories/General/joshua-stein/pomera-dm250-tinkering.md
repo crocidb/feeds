@@ -6,7 +6,7 @@ url = "https://jcs.org/2025/03/14/dm250#2026-03-23"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.635073639Z"
-seen = false
+seen = true
 +++
 
 The [KING JIM Pomera DM250](https://www.kingjim.co.jp/pomera/dm250/) "digital typewriter" is a small Linux-powered ARM computer that boots up into a custom word processor application. I've been tinkering with it to try to get OpenBSD booted on it. I'd normally wait until the end and write up a proper article explaining everything, but this process is taking a lot longer than I expected so I figured I'd document it all as I go.

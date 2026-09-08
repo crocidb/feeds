@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/06/23/destroy-the-village/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-06-29T12:19:40.512218137Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/23Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/23/destroy-the-village/)

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/a-boba-uma-jornada-faz-curta-temporada-no-recif
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-01T19:33:13.222396891Z"
-seen = false
+seen = true
 +++
 
 O espetáculo *A Boba: Uma Jornada* faz curta temporada entre os dias 28 e 30 de agosto, no Teatro Hermilo Borba, no Bairro do Recife. Com atuação e dramaturgia de **Luíza Fontes**, a peça mostra a palhaça Gardênia em busca do autoconhecimento. Para isso, ela sai do seu lugar de origem em busca de algo que lhe falta e, nesse caminho de muitas linhas tortas, se depara com as mais diversas situações.

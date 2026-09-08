@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=eremitic-life"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.878133860Z"
-seen = false
+seen = true
 +++
 
 Eremitic life ({ Erˊe-mit′ic, Erˊe-mit′ic-al} Of or pertaining to an eremite; hermitical; living in solitude) in Catholicism has different layers:

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/07/20/2213?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-21T09:22:24.782656225Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/07/20/2213/640,480/PgCkHE76u78frt3SfUnuFub7bWY=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://www.macstories.net/reviews/open-minis-is-the-ios-agent-i-wish-siri-ai-could-be/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

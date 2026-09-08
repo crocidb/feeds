@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/07/30/0703?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.197425190Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/07/30/0703/large.jpg?v=7373cb3b187d" alt="quicklook" width="320" height="240">](https://www.tomsguide.com/phones/samsung-phones/samsung-galaxy-z-fold-8-review-wide-for-the-win?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

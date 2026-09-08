@@ -6,10 +6,10 @@ url = "https://jamesg.blog/2026/08/21/html-element-letter-counts"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.965627488Z"
-seen = false
+seen = true
 +++
 
- table { width: 20rem; border-collapse: collapse; } tr td:nth-child(2) { background-color: light-dark(orange, royalblue); display: block; } th { text-align: left; }
+table { width: 20rem; border-collapse: collapse; } tr td:nth-child(2) { background-color: light-dark(orange, royalblue); display: block; } th { text-align: left; }
 
 *How many HTML elements are exactly five letters long?* This question came to mind in the context of a discussion I had yesterday about what an indie web version of Wordle would look like. We all started to name elements. `table`, `tbody`, `input`, among others, all have five letters.
 

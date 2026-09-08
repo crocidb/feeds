@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/zero-copy-deserialization-in-j
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.269770317Z"
-seen = false
+seen = true
 +++
 

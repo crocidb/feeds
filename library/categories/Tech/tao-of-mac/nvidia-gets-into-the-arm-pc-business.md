@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/06/02/0627?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-02T09:38:18.946751461Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/06/02/0627/640,480/rpHU3DHpgjzUmm_6ZTP82aBuG3A=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://arstechnica.com/gadgets/2026/06/nvidia-gets-into-the-arm-pc-business-with-new-high-end-rtx-spark-processor/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

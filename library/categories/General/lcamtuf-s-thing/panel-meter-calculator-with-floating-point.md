@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/panel-meter-calculator-with-floating"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-07-16T14:36:48.800520974Z"
-seen = false
+seen = true
 +++
 
 Unusual clocks are a common idea for electronics DIY projects. The difficulty is never the timekeeping part; it’s making the clock look presentable. For my own take on the theme, you can check out the article I posted in May:

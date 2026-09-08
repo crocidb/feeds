@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/remote-worker-now/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.982032114Z"
-seen = false
+seen = true
 +++
 

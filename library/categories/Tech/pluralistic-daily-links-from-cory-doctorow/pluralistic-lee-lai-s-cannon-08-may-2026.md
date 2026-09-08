@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/05/08/gung-gung/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-05-08T13:34:34.957875887Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/08May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/08/gung-gung/)

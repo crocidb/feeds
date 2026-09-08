@@ -6,7 +6,7 @@ url = "https://nautil.us/the-humble-amoeba-is-smarter-than-you-think-1283100/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-07-28T20:39:57.290680682Z"
-seen = false
+seen = true
 +++
 
 A conversation with Nicholas Money, mycologist and author of *A is for Amoeba*

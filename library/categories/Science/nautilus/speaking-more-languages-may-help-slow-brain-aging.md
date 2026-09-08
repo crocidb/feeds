@@ -6,7 +6,7 @@ url = "https://nautil.us/speaking-more-languages-may-help-slow-brain-aging-12824
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-06T19:14:01.544550971Z"
-seen = false
+seen = true
 +++
 
 A new study suggests multilingual people have younger brains

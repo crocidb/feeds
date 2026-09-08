@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/06/05/1113?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-06T15:22:27.758122146Z"
-seen = false
+seen = true
 +++
 
 [Michael Tsai’s annual roundup](https://mjtsai.com/blog/2026/06/03/wwdc-2026-wish-lists/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) of WWDC wish lists went up this week, and the thing that struck me most wasn’t any single request–it was the mood. There seem to be fewer wish lists than last year, several people openly admitted they couldn’t be bothered to write one, and the ones that did are pretty much bereft of any “aspirational” wishes.

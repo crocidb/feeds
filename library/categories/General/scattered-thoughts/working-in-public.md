@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/notes/working-in-public/"
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.240548091Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/05/16/1130?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.774690448Z"
-seen = false
+seen = true
 +++
 
 I’m done waiting for Apple to fix things. And one of the [things I think should exist](https://rcarmo.github.io?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) is a decent way to run Linux binaries on my iPad.

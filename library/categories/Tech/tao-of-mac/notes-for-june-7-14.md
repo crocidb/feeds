@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/06/14/1800?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-16T20:08:31.052339892Z"
-seen = false
+seen = true
 +++
 
 Another week, another set of bank holidays that I tried to leverage strategically to do interesting things with my time, and… I ended up throwing out my back and having to sit very still for hours at a time, which made the whole thing feel like a waste of paid vacation with extra ibuprofen.

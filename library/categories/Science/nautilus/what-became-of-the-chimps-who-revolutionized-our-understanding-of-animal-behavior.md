@@ -6,7 +6,7 @@ url = "https://nautil.us/what-became-of-the-chimps-who-revolutionized-our-unders
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-18T14:48:27.515534026Z"
-seen = false
+seen = true
 +++
 
 It’s a harrowing tale of deadly winters in Berlin captivity

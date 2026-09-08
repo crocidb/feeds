@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/06/17/1200?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-17T14:21:51.578544711Z"
-seen = false
+seen = true
 +++
 
 This is a very quick follow-up to [my Mac emulation hacks](/space/blog/2026/06/14/1400) from a couple of weeks ago, and worth noting for the fun value and a little bit of [AI](/space/ai).

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/20/music"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-21T09:19:44.786846697Z"
-seen = false
+seen = true
 +++
 
 the direction of music; the music of direction.

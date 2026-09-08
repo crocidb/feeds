@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/04/evening"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.679204369Z"
-seen = false
+seen = true
 +++
 
 What if the musical memories of songs last played months ago were not held in the muscles, but in the heart – the passion coming through with every E that follows C? The occasional B, played at just the right moment, adds depth. I love the moment of getting into a song: when the notes flow and you’re enjoying the music – the moments when nothing seems to matter but the note you hear, and what note you are going to play next. I like to try playing new notes to see if they work; maybe they don’t, but I can move on. (Should I be thinking about this in other contexts too?)

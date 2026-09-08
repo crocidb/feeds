@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=vlnn-dev"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.894366711Z"
-seen = false
+seen = true
 +++
 
 Related

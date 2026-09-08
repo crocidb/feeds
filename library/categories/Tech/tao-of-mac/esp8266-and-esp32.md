@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/hw/esp8266?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.788760910Z"
-seen = false
+seen = true
 +++
 
 These little modules have taken hobby electronics by storm, so of course I grabbed a few of them and have been hacking away quietly on both the `ESP8266` and the `ESP32`.

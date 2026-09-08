@@ -6,7 +6,7 @@ url = "https://nautil.us/radar-map-shows-wildfires-in-canada-blanketing-the-us-w
 author = "David Nield"
 text = ""
 lastupdated = "2026-07-18T14:48:27.497776556Z"
-seen = false
+seen = true
 +++
 
 More than 800 wildfires are currently active

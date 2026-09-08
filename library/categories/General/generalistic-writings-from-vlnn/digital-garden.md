@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=digital-garden"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.875321482Z"
-seen = false
+seen = true
 +++
 
 Somehow Digital Garden term means today "shared interlinked personal notes online", even though it all started with 1998 [essay "Hypertext Gardens"](https://www.eastgate.com/garden/Enter.html) by Mark Bernstein, and it was pretty much meta on how to write hypertext sequentially with community in mind.

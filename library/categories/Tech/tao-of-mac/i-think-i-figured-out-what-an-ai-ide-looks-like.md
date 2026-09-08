@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/05/12/0720?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.791505589Z"
-seen = false
+seen = true
 +++
 
 I’ve been mulling the UX arc I’ve been going through over the past couple of years, and I think it was mostly the same for everybody:

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/06/depths"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.668362886Z"
-seen = false
+seen = true
 +++
 
 be my invisible mirror  

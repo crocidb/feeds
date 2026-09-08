@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/13/repeat-that-repeat"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-16T14:36:48.223469624Z"
-seen = false
+seen = true
 +++
 
 [*Ruben*](https://kedara.eu/) *and I are doing a collaborative writing challenge where we both write our thoughts on the poem “Repeat that, repeat” by Gerard Manley Hopkins. We’re not trying to do an academic formal analysis, rather share our own thoughts.* [*You can read Ruben's post on his website*](https://kedara.eu/repeat-that-repeat/)*.*

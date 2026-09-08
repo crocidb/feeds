@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/25/the-royal-mile"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-28T12:42:18.683458613Z"
-seen = false
+seen = true
 +++
 
 I wrote the following while standing on the Royal Mile in Edinburgh, listening to music and watching the world.

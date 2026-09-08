@@ -6,10 +6,10 @@ url = "https://vlnn.dev/2022-10-08-%D0%BF%D1%80%D0%B8%D0%B2%D1%96%D1%82,-%D1%87%
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-07-22T09:21:11.525253248Z"
-seen = false
+seen = true
 +++
 
- This is to declare that the stuff has been moved from [vlnn.github.io](https://vlnn.github.io) to [vlnn.dev](https://vlnn.dev/).
+This is to declare that the stuff has been moved from [vlnn.github.io](https://vlnn.github.io) to [vlnn.dev](https://vlnn.dev/).
 
 WHO:
 ----------

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/26/how-i-organise-my-bookshelf"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-09-01T19:33:13.066941504Z"
-seen = false
+seen = true
 +++
 
 Eula wrote a response (“[Collecting reference books for creativity](https://blog.loreleice.net/reference-books-creativity/)”) to my post on [inspiration from physical artefacts](https://jamesg.blog/2026/08/16/inspiration-from-physical-artefacts) and [organising them](https://jamesg.blog/2026/08/23/organising-physical-artefacts). Ironically, I didn’t appreciate the continuity between these posts until now. I digress. In her blog post, Eula wrote about how she organises her bookshelf, which made me think about how I organise mine, too.

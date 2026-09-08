@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/28/the-holiday"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-09-01T19:33:13.059491557Z"
-seen = false
+seen = true
 +++
 
 **Emily**: Alice, Dave, remember not to book any meetings on the 21st. It’s a bank holiday.  

@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1083754/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-21T09:19:52.327609093Z"
-seen = false
+seen = true
 +++
 
 Michael Catanzaro, who has been managing GNOME security issue tracking since November 2020, has written a [blog post](https://blogs.gnome.org/mcatanzaro/2026/07/20/some-changes-to-gnome-security-tracking/) that details some changes in how he will be managing GNOME vulnerability reports from now on due to an increase in AI-generated security reports. He will be switching from a 90-day deadline for disclosures to 30 days for issues reported on August 1, or later. "

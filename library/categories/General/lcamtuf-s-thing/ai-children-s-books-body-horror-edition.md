@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-06-29T12:19:25.170930511Z"
-seen = false
+seen = true
 +++
 
 Last week, I posted a visual demonstration of the *sameness* of AI-generated content. This makes the output easy to spot even if all the individual pieces are perfect facsimiles of what a human could create:

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/where-did-earth-get-its-oceans-maybe-it-ma
 author = "Robin George Andrews"
 text = ""
 lastupdated = "2026-06-16T20:08:25.473644205Z"
-seen = false
+seen = true
 +++
 
 At this moment, a spacecraft is headed from Earth to Europa, an ice-veiled moon of Jupiter thought to contain an ocean similar in some ways to one of our own. NASA engraved a metal plate affixed to the spacecraft with a poem, commissioned from Ada Limón during her time as poet laureate of the United States. It reads, in part: And it is not darkness that unites us, not the cold distance of…

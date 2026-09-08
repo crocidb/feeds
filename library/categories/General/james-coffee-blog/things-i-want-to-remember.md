@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/24/from-today"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.952384717Z"
-seen = false
+seen = true
 +++
 
 I wrote this a few days ago, inspired by [Things I Want to Remember](https://agracefull-life.com/2026/07/13/things-i-want-to-remember-its-been-awhile/) by A Graceful Life. I planned to add more to the list but I didn't end up finishing it. With that said, I do want to publish what I have, as a little snippet of four things that caught my eye on one evening last week.

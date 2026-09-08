@@ -6,7 +6,7 @@ url = "https://nautil.us/how-fruit-flies-tell-what-time-of-year-it-is-without-a-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-21T09:20:05.207338016Z"
-seen = false
+seen = true
 +++
 
 How do they know to take a break during the winter?

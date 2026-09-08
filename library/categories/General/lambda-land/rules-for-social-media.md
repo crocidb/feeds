@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.282908053Z"
-seen = false
+seen = true
 +++
 
 I’m not on many social media platforms these days. I like it like that. I mostly follow some academics and people who post interesting stuff. I post only occasionally, usually to show off my recent hiking exploits. I’ve come up with some rules for myself (all subject to change) about what I post.

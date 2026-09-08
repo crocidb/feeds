@@ -6,7 +6,7 @@ url = "https://nautil.us/life-originated-twice-on-earth-1283481/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-06T22:26:03.365754106Z"
-seen = false
+seen = true
 +++
 
 New research traces the origins of our metabolism back in time

@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24871"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-06-29T12:19:25.737393092Z"
-seen = true
+seen = false
 +++
 
 I’m not back at work full-time, but I am starting back and paging the [OpenZFS Mastery](https://www.tiltedwindmillpress.com/product/openzfs-sponsor/) manuscript back into my skull’s RAM. Here’s a tidbit.

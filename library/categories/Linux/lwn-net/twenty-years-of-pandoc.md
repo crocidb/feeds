@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1086976/"
 author = "jzb"
 text = ""
 lastupdated = "2026-08-06T09:52:34.755897415Z"
-seen = false
+seen = true
 +++
 
 John MacFarlane has published a [lengthy retrospective](https://pandoc.org/twenty-years-of-pandoc.html) to commemorate twenty years of the [Pandoc](https://pandoc.org/) document converter.

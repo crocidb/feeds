@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/weekend-trivia-your-process-memory"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-06-01T21:30:16.789209015Z"
-seen = false
+seen = true
 +++
 
 Some folks say that the design philosophy of Unix is that “everything is a file”. If you’re familiar with Unix-like platforms, you probably know that they don’t quite live up to the hype. It’s true that these systems allow convenient access to hardware through file-like objects in directories such as `/sys` or `/dev`. At the same time, there’s plenty of OS functionality that isn’t exposed via files; for example, you can’t connect to a remote webserver without using a dedicated system call.

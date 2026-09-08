@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/06/14/1400?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-16T20:08:31.055656603Z"
-seen = false
+seen = true
 +++
 
 This is the (very) abridged story of how I got [After Dark](https://en.wikipedia.org/wiki/After_Dark_(software)?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) running on my own flavour of the [Cydintosh](/space/links/2026/04/15/0718)–specifically, Flying Toasters on an ESP32-S3 board, zooming along at 65 FPS, which is both completely pointless and one of the more satisfying things I’ve done this month.

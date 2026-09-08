@@ -6,7 +6,7 @@ url = "https://nautil.us/how-tunas-evolved-to-become-an-apex-predator-of-the-sea
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-23T22:53:02.407878497Z"
-seen = false
+seen = true
 +++
 
 Contrary to popular belief, it had little to do with the dinosaur-killing asteroid

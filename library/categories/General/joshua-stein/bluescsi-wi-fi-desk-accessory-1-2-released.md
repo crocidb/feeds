@@ -6,7 +6,7 @@ url = "https://jcs.org/2024/09/23/wifi_da12"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.650153949Z"
-seen = false
+seen = true
 +++
 
 [BlueSCSI Wi-Fi Desk Accessory](/bluescsi) 1.2 has been released:

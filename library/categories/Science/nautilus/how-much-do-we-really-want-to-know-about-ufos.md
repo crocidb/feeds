@@ -6,7 +6,7 @@ url = "https://nautil.us/how-much-do-we-really-want-to-know-about-ufos-1283450/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-08-06T21:59:29.829089760Z"
-seen = false
+seen = true
 +++
 
 What disaster psychology research, a few Cold War UFO files, and a Spielberg movie say about how we might handle first contact

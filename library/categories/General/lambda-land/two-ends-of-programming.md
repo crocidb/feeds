@@ -10,8 +10,8 @@ author = """
             
           """
 text = ""
-lastupdated = "2026-09-01T19:33:15.009023766Z"
-seen = false
+lastupdated = "2026-09-03T13:15:08.188327114Z"
+seen = true
 +++
 
 Some years ago I worked with a software developer from Germany. I was an intern at the time. More than once, after I asked this engineer for a review of a pull-request, he’d tell me, “Hauptsache es funktioniert” (translated: *as long as it works*). I have heard this sentiment repeated more times than I can count by developers I’ve met in person as well as by people online: *the point of the code is to solve a problem.* You might see this mentality articulated as “maintainable code is good because it lets us ship more features faster” or [the grug-brained developer](https://grugbrain.dev/). This sentiment certainly isn’t wrong: if you can focus on making sure that your code reliably solves a problem for its users and that it improves their lives—great!

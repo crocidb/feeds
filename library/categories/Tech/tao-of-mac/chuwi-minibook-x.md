@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/chuwi/minibook_x?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-01T21:30:51.378813122Z"
-seen = false
+seen = true
 +++
 
 >

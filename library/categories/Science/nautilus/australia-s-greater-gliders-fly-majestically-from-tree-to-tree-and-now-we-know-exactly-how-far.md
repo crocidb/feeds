@@ -6,7 +6,7 @@ url = "https://nautil.us/australias-greater-gliders-fly-majestically-from-tree-t
 author = "David Nield"
 text = ""
 lastupdated = "2026-07-23T22:53:02.401690480Z"
-seen = false
+seen = true
 +++
 
 It’s not as far as we thought, though

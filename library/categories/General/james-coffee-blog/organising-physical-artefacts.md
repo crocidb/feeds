@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/23/organising-physical-artefacts"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.956790974Z"
-seen = false
+seen = true
 +++
 
 I love admiring spaces and thinking about how they work but, when it comes to the physical spaces I use most or every day – my bedroom, my desk, my bookshelves – I haven’t spent as much time thinking about decoration. When an environment functions, I don’t often think about how I can make it beautiful. Indeed, I have never been particularly adept at decorating.

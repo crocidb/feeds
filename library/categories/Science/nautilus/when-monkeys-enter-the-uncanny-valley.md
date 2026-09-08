@@ -6,7 +6,7 @@ url = "https://nautil.us/when-monkeys-enter-the-uncanny-valley-1282747/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-18T14:48:27.533996303Z"
-seen = false
+seen = true
 +++
 
 3-D avatars of macaques fool their flesh-and-blood counterparts—up to point

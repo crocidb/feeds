@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/05/brainstorming-a-loginless-web-reader"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-06T19:13:25.335842200Z"
-seen = false
+seen = true
 +++
 
 At IndieWebCamp Nürnberg, [Tilman worked on a “feedroll”](https://tilman.me/feedroll/), a collection of feeds aggregated on a single page that demonstrates the capability of following different websites with a web reader. This, and a discussion with friends, got me thinking about what a “loginless” web reader experience would look like for Artemis, the web reader I maintain.

@@ -6,7 +6,7 @@ url = "https://nautil.us/psychedelics-might-not-have-evolved-to-get-humans-high-
 author = "Kristen French"
 text = ""
 lastupdated = "2026-07-28T12:42:37.305631485Z"
-seen = false
+seen = true
 +++
 
 Hallucination may have more to do with our shared brain chemistry with snails, insects, and sea urchins

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/after-80-years-mathematicians-give-famed-e
 author = "Leila Sloman"
 text = ""
 lastupdated = "2026-06-29T12:19:38.187549506Z"
-seen = false
+seen = true
 +++
 
 In 1947, Paul Erdős, the itinerant Hungarian mathematician, introduced what would become one of math’s most powerful tools. He wanted to prove that a certain kind of object existed — in this case, a network made of interconnected nodes. But strangely, his proof didn’t specify how to build it. Instead, he showed that if you consider all networks and select one at random, the chances that you’ll…

@@ -5,7 +5,7 @@ date = "2026-08-17T22:00:00Z"
 url = "https://entropicthoughts.com/snakes-and-ladders"
 author = "a@xkqr.org (kqr)"
 text = ""
-lastupdated = "2026-08-24T15:49:13.765637753Z"
+lastupdated = "2026-09-03T13:15:06.002202878Z"
 seen = true
 +++
 

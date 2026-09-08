@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/05/forest"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-06T19:13:25.333136764Z"
-seen = false
+seen = true
 +++
 
 You look up from your bed of grass flowers, opening your eyes to see the layers of branches grown by the trees in the grove that surrounds you. The blue sky peeks through the gaps between the leaves. The sunlight that shines through and onto the leaves and branches leaves you with the feeling that, right now, today is both a new day and an aging day. Is it morning or evening?

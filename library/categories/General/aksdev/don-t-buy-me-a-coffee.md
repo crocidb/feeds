@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/don-t-buy-me-a-coffee/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-06-16T20:07:21.352547378Z"
-seen = false
+seen = true
 +++
 
 I prefer ice tea or chocolate milk.

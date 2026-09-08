@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/imagin_raw?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-28T12:42:40.900380768Z"
-seen = false
+seen = true
 +++
 
 [Imagin-Raw](https://github.com/cristibaluta/Imagin-Raw?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) is a lightweight but powerful alternative to Adobe Bridge for the Mac, aimed at photographers who want to browse RAW files without dragging a lot of extra machinery along with them.

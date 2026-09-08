@@ -6,7 +6,7 @@ url = "https://nautil.us/watch-orcas-play-with-read-obliterate-their-food-128293
 author = "David Nield"
 text = ""
 lastupdated = "2026-07-23T22:53:02.388082558Z"
-seen = false
+seen = true
 +++
 
 But why?

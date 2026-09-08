@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1086953/"
 author = "corbet"
 text = ""
 lastupdated = "2026-08-06T09:52:34.757165985Z"
-seen = false
+seen = true
 +++
 
 For those of us with a long memory: John Goerzen has [announced](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase) the release of C-Kermit 11, the first release of this file-transfer utility in 15 years.

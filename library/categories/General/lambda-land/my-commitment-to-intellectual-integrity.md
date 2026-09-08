@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.246067400Z"
-seen = false
+seen = true
 +++
 
 I got a strange email the other day. Here it is, with parts redacted:

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/27/reading-as-participation-in-the-indie-web"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-09-01T19:33:13.062475586Z"
-seen = false
+seen = true
 +++
 
 In the past, I have used the shorthand “if you have a website, you’re in the indie web community.” I have used this because I don’t think there are, or should be, any other qualifying factors (i.e. using particular tools, having a certain site layout). While I think this shorthand is useful in ensuring people don’t feel like they have to do things a certain way to participate in the indie web, it misses one constituency that I don’t think are talked about enough: readers.

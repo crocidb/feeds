@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/24/links-from-this-month"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.950945688Z"
-seen = false
+seen = true
 +++
 
 I have been saving a lot of links to things I have read and appreciated this month. And since it is Blaugust and many of my friends and other writers whose works I enjoy are blogging, I have been reading more blog posts too. I thought I would share an excerpt of what I have read and seen on the web this month here, both for future reference and in case you would like to explore some links.

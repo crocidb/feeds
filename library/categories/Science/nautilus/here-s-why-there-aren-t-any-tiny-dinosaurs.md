@@ -6,7 +6,7 @@ url = "https://nautil.us/heres-why-there-arent-any-tiny-dinosaurs-1283402/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-06T09:52:38.249050031Z"
-seen = false
+seen = true
 +++
 
 There are plenty of teensy animals—just not dinosaurs

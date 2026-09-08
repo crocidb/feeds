@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/06/21/1149?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.707500294Z"
-seen = false
+seen = true
 +++
 
 My back is still giving me trouble, but a week’s worth of moving about carefully and a little exercise “fixed” it (as in, I can stand again for extended periods of time). And I’ve pinned down the most likely cause–I have been spending far too much time sitting at my desk.

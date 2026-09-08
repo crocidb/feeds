@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/rapidraw?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-18T14:48:32.033619015Z"
-seen = false
+seen = true
 +++
 
 [RapidRAW](https://github.com/CyberTimon/RapidRAW?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) is a GPU-accelerated RAW editor that the author describes as a non-destructive alternative to [Lightroom](/space/apps/lightroom), with packages under 20MB for [macOS](/space/com/apple/macos), [Linux](/space/os/linux), Windows and [Android](/space/com/google/android).

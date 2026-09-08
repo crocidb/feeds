@@ -6,7 +6,7 @@ url = "https://nautil.us/the-challenges-of-writing-in-space-1282731/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-16T14:37:07.134574704Z"
-seen = false
+seen = true
 +++
 
 With the recent auction of arguably the most famous pen ever used off-Earth, we take a moment to reflect on the evolution of such cosmic utensils

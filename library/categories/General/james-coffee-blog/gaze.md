@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/22/gaze"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.962421226Z"
-seen = false
+seen = true
 +++
 
 websites: collaborative poems  

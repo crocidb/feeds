@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/10/morning-sunrise"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-10T12:13:28.468247965Z"
-seen = false
+seen = true
 +++
 
 *The horizon is painted with a cool, warm glow. The sun has not yet risen; the hills are its blanket. The sky is a clear blue.*

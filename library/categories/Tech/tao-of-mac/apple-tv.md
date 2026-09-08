@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/apple/tv?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-22T08:27:25.740369237Z"
-seen = false
+seen = true
 +++
 
 Apple’s **Apple TV** is the company’s media-centric set-top box, originally shipped in 2007 as a streaming appliance and now evolved into a hub for tvOS apps, AirPlay, and HomeKit-aware home entertainment.

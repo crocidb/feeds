@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.219898996Z"
-seen = false
+seen = true
 +++
 
 Today I learned about using zero-knowledge proofs in the context of passwords. These are my rough-and-ready notes from reading. Apparently OpenSSL has an implementation of the SRP algorithm.

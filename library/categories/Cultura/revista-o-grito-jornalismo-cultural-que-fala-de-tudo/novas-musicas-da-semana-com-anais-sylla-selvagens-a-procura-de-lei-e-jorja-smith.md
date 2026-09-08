@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novas-musicas-da-semana-com-anais-sylla-selvage
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-08-24T15:49:14.810145668Z"
-seen = false
+seen = true
 +++
 
 Novos Sons no ar! Hora de atualizar a playlist com as novidades. Entre os grandes destaques, a banda baiana **Maglore** reaparece com o lirismo guitarreiro de seu novo disco. Tem ainda novo trabalho de Tasha & Tracie, que antecipa o próximo trabalho, além de Tagua Tagua, Julia Holter e Jorja Smith.

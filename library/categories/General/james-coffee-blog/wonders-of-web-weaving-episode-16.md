@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/25/www-16"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-09-01T19:33:13.070078404Z"
-seen = false
+seen = true
 +++
 
 [The sixteenth episode of Wonders of Web Weaving is out](https://web-weaving.jamesg.blog/16):

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/camarones-orquestra-guitarristica-lanca-sambura
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-01T19:33:13.219186500Z"
-seen = false
+seen = true
 +++
 
 A banda potiguar [Camarones Orquestra Guitarrística](https://www.revistaogrito.com/assunto/camarones-orquestra-guitarristica) lançou nas plataformas digitais o seu novo álbum de estúdio, intitulado *Samburá*. O trabalho é o nono disco da carreira do grupo e o primeiro gravado com sua atual formação em quinteto. Para acompanhar o lançamento, o conjunto inicia uma turnê nacional com apresentações confirmadas em oito estados brasileiros, percorrendo casas de shows e festivais da cena independente.

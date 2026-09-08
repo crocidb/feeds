@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/log/0002/"
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.239223110Z"
-seen = false
+seen = true
 +++
 

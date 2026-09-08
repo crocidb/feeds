@@ -6,7 +6,7 @@ url = "https://nautil.us/does-watching-tv-really-rot-your-brain-1282948/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-23T22:53:02.373360140Z"
-seen = false
+seen = true
 +++
 
 Generations of parents have a new piece of scientific evidence to combat couchpotatoism

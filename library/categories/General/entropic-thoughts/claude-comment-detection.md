@@ -5,7 +5,7 @@ date = "2026-08-31T22:00:00Z"
 url = "https://entropicthoughts.com/ai-comment-classifier"
 author = "a@xkqr.org (kqr)"
 text = ""
-lastupdated = "2026-09-01T19:33:12.230727903Z"
+lastupdated = "2026-09-03T13:15:05.999325801Z"
 seen = true
 +++
 

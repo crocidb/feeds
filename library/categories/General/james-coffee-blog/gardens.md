@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/10/gardens"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-16T14:36:48.237138575Z"
-seen = false
+seen = true
 +++
 
 A pink symmetry on the peaceful pond catches my eye. “It’s a lotus!” I have made lotuses with paper before, but cannot remember the last time I saw one (have I noticed one before in the way I did today?). The vivid colours are striking: pink petals define the shape of the flower, with a yellow centre. “I can see why Monet painted lotuses and lily pads,” I said. Their beauty caught my eye at first sight. Around, there is a lotus emerging from green leaves. I wonder when it will bloom.

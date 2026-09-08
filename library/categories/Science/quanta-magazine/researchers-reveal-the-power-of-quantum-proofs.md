@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/researchers-reveal-the-power-of-quantum-pr
 author = "Ben Brubaker"
 text = ""
 lastupdated = "2026-07-06T19:14:01.786497707Z"
-seen = false
+seen = true
 +++
 
 More than 30 years ago, researchers discovered that hypothetical computers based on the laws of quantum physics would be able to rapidly solve difficult math problems. Ever since then, they’ve sought to pinpoint cases where quantum computers are more powerful than their ordinary “classical” cousins. For nearly as long, a small band of computer scientists has pursued a related question that gets…

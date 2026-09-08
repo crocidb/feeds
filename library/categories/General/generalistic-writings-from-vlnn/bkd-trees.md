@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=bkd-trees"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.834130176Z"
-seen = false
+seen = true
 +++
 
 **B**lock **K-D** tree — a disk-friendly variant of the [k-d tree](k-d-tree.md): classic [k-d tree](k-d-tree.md) has one point per leaf — terrible for disk, \~100 bytes are stored in \~4KB disk block. The BKD variant packs points into large leaf *blocks*(512–1024 points in [Lucene](lucene.md))

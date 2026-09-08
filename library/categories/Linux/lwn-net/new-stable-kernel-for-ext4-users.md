@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1085026/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-28T12:42:27.223109729Z"
-seen = false
+seen = true
 +++
 
 Greg Kroah-Hartman has released the [6.12.98](https://lwn.net/Articles/1085025/) stable Linux kernel with a single fix for a file descriptor leak in ext4. Users of the ext4 filesystem should upgrade.

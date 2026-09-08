@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.208916853Z"
-seen = false
+seen = true
 +++
 
 In [my last post](/posts/2024-09-27_threaded_interpreter/) I described how I made a very fast BF interpreter. Well, there’s a lot more speed to be had with an optimizing compiler. This post is a write-up of my assignment for a compilers class, so the post a little rougher than normal.

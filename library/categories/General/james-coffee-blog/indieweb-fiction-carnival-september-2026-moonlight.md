@@ -5,8 +5,8 @@ date = "2026-09-01T00:00:00Z"
 url = "https://jamesg.blog/2026/09/01/iwfc-moonlight"
 author = "with words, wonder"
 text = ""
-lastupdated = "2026-09-01T19:33:13.042407156Z"
-seen = false
+lastupdated = "2026-09-03T13:15:07.843652750Z"
+seen = true
 +++
 
 When you close your eyes and think of moonlight, what do you see? An author typing a story on an antique typewriter while burning the midnight oil? A musician who is perpetually unaware that there is moonlight outside because they are playing in an underground club? A person too tired to sleep, but who finds beauty in the moonlight?

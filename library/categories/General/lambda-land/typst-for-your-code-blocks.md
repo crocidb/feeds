@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.178444047Z"
-seen = false
+seen = true
 +++
 
 I started using [Typst](https://typst.app) about a month ago to write my dissertation proposal. I had seen Typst before and decided to keep an eye on it as it matured. While it still is very much in development, it is mature enough that I was able to rewrite my dissertation proposal from an org-mode → LaTeX pipeline to pure Typst in about an hour with *no* major hiccups. In fact, most things got *simpler* as a consequence of using Typst.

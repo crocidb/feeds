@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/07/19/1500?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-21T09:22:24.784339225Z"
-seen = false
+seen = true
 +++
 
 Finally, a relatively quiet and very productive week at work, by the simple dint of many people going to an annual event in the US and thus being unavailable to annoyhelp me.

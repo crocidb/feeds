@@ -6,10 +6,10 @@ url = "https://vlnn.dev/2023-01-24-macos-problem-with-hex-input.html"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-07-22T09:21:11.502965702Z"
-seen = false
+seen = true
 +++
 
- If you’re typing using non-english symbols like ς or ґ you might have problems with entering those into modern computers – there are different encoding systems, as well as different keyboard layouts, and it’s not that unusual to have problems with one that you can live with. Then you build yourself QMK or ZMK keyboard. They are programmable – you can make them type anything. ANYTHING! Right? RIGHT?
+If you’re typing using non-english symbols like ς or ґ you might have problems with entering those into modern computers – there are different encoding systems, as well as different keyboard layouts, and it’s not that unusual to have problems with one that you can live with. Then you build yourself QMK or ZMK keyboard. They are programmable – you can make them type anything. ANYTHING! Right? RIGHT?
 
  No, that’s not true. You can’t go fully independent of OS language layouts, that are converting scancodes into the keycodes and then into the characters themselves. You press [Q] in the UA mode, it gets to the OS as [Q], layout mapping makes it [Й], and you see it like that in the text you’re typing. Among others, this should resolve problems with shortcuts like [CTRL+S] that may become unusable in cyrillic layout (as there’s no such thing as [S] in Ukrainian, so you just can’t save!) or get to some very different place on the keyboard if you use COLEMAK or something even weirder ([ASDF] in QWERTY maps to [ARDT] in Colemak).
 

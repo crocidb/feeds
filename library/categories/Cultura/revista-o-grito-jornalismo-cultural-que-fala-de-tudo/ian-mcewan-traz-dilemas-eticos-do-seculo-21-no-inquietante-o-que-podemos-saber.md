@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/ian-mcewan-traz-dilemas-eticos-do-seculo-21-no-
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-08-24T15:49:14.811727199Z"
-seen = false
+seen = true
 +++
 
 *Foto: Urszula Soltys/Divulgação.*

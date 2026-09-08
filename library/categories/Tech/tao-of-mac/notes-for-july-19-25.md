@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/07/25/1530?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-28T12:42:40.889614575Z"
-seen = false
+seen = true
 +++
 
 I have been mildly unsuccessful at doing stuff in my free time this week due to personal and family concerns that somewhat limited [my ability to sit in my office](/space/blog/2026/07/23/1030), so it was only sometime around Thursday evening that I realized [John Dvorak passed away](https://www.noagendashow.net/listen/1888/transcript?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link). It was weird to read about that since I (well, along with a small coterie of local geeks) had dinner with him when he visited Lisbon in late 2009, and at the time I was preoccupied with [loads of other things](/space/blog/2009/11/24/0800) besides the start of the arc that would eventually make me leave Vodafone, so I don’t even have photos (but they’re out there).

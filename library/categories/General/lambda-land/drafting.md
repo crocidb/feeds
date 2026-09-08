@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.342938365Z"
-seen = false
+seen = true
 +++
 
 I once asked my dad over email how to improve my the potency of my words and thoughts. His reply came back as one word:

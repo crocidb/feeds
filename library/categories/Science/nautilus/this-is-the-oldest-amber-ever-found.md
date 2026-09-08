@@ -6,7 +6,7 @@ url = "https://nautil.us/this-is-the-oldest-amber-ever-found-1282716/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-16T14:37:07.138331076Z"
-seen = false
+seen = true
 +++
 
 It dripped from a tree in China about 385 million years ago

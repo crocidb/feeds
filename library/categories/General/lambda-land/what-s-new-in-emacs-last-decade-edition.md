@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.204561281Z"
-seen = false
+seen = true
 +++
 
 Emacs has come a long way in the past decade. This is meant as a guide to anyone who’s been using stock or near-stock Emacs for some years and wants a quick update on the new shiny stuff that comes bundled with Emacs.

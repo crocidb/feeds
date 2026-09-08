@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/05/28/1356?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-28T23:18:24.501973816Z"
-seen = false
+seen = true
 +++
 
 Allergy season is finally fading (at least for me), but today was the first time I had to turn on the AC in the office, and it was great to realize that [despite the recent Wi-Fi changes](/space/blog/2026/05/26/1730) and almost four years of potential HomeKit foibles, my [ESP32 hack](/space/blog/2022/07/16/1800) is still working perfectly.

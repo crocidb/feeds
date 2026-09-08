@@ -5,8 +5,8 @@ date = "2026-08-27T17:00:00Z"
 url = "https://www.bsdnow.tv/678"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
-lastupdated = "2026-09-01T19:33:17.476897929Z"
-seen = false
+lastupdated = "2026-09-03T13:15:10.904088272Z"
+seen = true
 +++
 
 Switches in your ceiling, AI affecting interest in things, Commodore Phone and more...

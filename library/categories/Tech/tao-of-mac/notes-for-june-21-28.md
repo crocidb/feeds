@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/06/28/1200?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.635452848Z"
-seen = false
+seen = true
 +++
 
 The weather is… infuriatingly tropical, but tolerable (we’re used to the heat this time of year, but the dampness is relatively new), and shifting all my morning meetings to my standing desk has markedly improved (but not fully healed) my back, so it was a relatively OK week.

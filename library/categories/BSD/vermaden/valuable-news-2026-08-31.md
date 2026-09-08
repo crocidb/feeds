@@ -5,8 +5,8 @@ date = "2026-08-31T16:07:44Z"
 url = "https://vermaden.wordpress.com/2026/08/31/valuable-news-2026-08-31/"
 author = "vermaden"
 text = ""
-lastupdated = "2026-09-01T19:33:12.475238221Z"
-seen = false
+lastupdated = "2026-09-03T13:15:06.072998063Z"
+seen = true
 +++
 
 The *Valuable News* weekly series is dedicated to provide summary about news, articles and other interesting stuff mostly but not always related to the UNIX/BSD/Linux systems. Whenever I stumble upon something worth mentioning on the Internet I just put it here.

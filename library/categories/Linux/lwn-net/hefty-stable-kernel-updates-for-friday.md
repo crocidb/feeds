@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1084921/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-28T12:42:27.226255888Z"
-seen = false
+seen = true
 +++
 
 Greg Kroah-Hartman has announced the release of the [7.1.5](https://lwn.net/Articles/1084922/), [6.18.40](https://lwn.net/Articles/1084923/), [6.12.97](https://lwn.net/Articles/1084924/), [6.6.145](https://lwn.net/Articles/1084925/), [6.1.178](https://lwn.net/Articles/1084926/), [5.15.212](https://lwn.net/Articles/1084927/), and [5.10.261](https://lwn.net/Articles/1084928/) stable Linux kernels.

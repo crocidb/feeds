@@ -6,7 +6,7 @@ url = "https://nautil.us/the-bird-singing-contests-that-are-fueling-a-conservati
 author = "Sandy Ong"
 text = ""
 lastupdated = "2026-07-21T09:20:05.196198655Z"
-seen = false
+seen = true
 +++
 
 Millions of Southeast Asian songbirds are trapped and trafficked every year

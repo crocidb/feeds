@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/06/03/mission-space/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-06-06T15:22:26.362968873Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/04Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/04/mission-space/)

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/16/website-superpowers"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-18T14:48:02.283833026Z"
-seen = false
+seen = true
 +++
 
 At [Homebrew Website Club this week](https://indieweb.org/events/2026-07-15-hwc-europe), [Thomas](https://vanderwal.net) mentioned the term “tag healing” during a discussion about tags. The definition I caught was that tag healing is related to reviewing and, if necessary, consolidating, tags used for blog posts or documents. Someone ([Tabitha](https://tabitha.computer)?) said that “tag healing” sounded like a superpower, which inspired me to ask: if you could have a website-related super power, what would it be?

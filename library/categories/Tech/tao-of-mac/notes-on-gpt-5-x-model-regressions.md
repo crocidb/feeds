@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/05/07/0600?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-08T13:34:35.278329545Z"
-seen = false
+seen = true
 +++
 
 I’ve been getting annoyed at constant code regressions in [`piclaw`](https://github.com/rcarmo/piclaw?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) for the past few weeks. Something was off–even after bumping the test suite to the point where it catches most mechanical errors, `gpt-5.5` kept making unrelated edits to code that should have been left alone, and I was getting *really* annoyed at babysitting it.

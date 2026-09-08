@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/05/06/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-05-08T13:34:29.685991234Z"
-seen = false
+seen = true
 +++
 
 Readers will be familiar with [Mask-Step-Index (MSI) hash tables](/blog/2022/08/08/), a technique for building fast, open-addressed hash tables in [a dozen lines of code](/blog/2025/01/19/#flat-hash-map). If multiple threads or processes access an MSI table with at least one still inserting elements, care must be taken to avoid data races. This article will show how to add atomic operations to MSI tables in order to support different concurrency constraints.

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/shayan-oveis-gharan-wins-2026-imu-abacus-m
 author = "Ben Brubaker"
 text = ""
 lastupdated = "2026-07-23T22:53:02.605437563Z"
-seen = false
+seen = true
 +++
 
 In theoretical computer science, the key to cracking tough problems is finding the right tools. Most researchers gravitate toward tools that match the problems they hope to solve, and some devote entire careers to mastering a few familiar techniques. But Shayan Oveis Gharan, a computer scientist at the University of Washington in Seattle, has never been content with the familiar.

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/03/midnight"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.681940497Z"
-seen = false
+seen = true
 +++
 
 *The voice of the romantic midnight harkens; its calm tones echo through the day with the help of words. Is midnight romantic?*

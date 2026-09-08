@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.241166721Z"
-seen = false
+seen = true
 +++
 
 Macros are tricky beasts. Most languages—if they have macros at all—usually include a huge “here there be dragons” warning to warn curious would-be macro programmers of the dangers that lurk ahead.

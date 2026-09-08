@@ -5,7 +5,7 @@ date = "2026-08-20T15:39:24Z"
 url = "https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-footprint-after-closing-250-million-investment-round"
 author = "Chris Kerr"
 text = ""
-lastupdated = "2026-08-24T15:49:14.179888321Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.470180588Z"
+seen = false
 +++
 

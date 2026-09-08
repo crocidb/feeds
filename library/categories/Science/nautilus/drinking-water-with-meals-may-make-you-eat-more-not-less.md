@@ -6,7 +6,7 @@ url = "https://nautil.us/drinking-water-with-meals-may-make-you-eat-more-not-les
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-18T14:48:27.503803499Z"
-seen = false
+seen = true
 +++
 
 This common dieting tip might be a myth

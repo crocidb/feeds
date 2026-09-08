@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/06/05/defining-humanity/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-06-06T15:22:26.358110774Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/05Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/05/defining-humanity/)

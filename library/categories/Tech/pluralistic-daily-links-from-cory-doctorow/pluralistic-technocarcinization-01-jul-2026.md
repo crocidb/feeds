@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/07/01/ontogeny/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-07-03T12:11:17.733569721Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/01Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/01/ontogeny/)

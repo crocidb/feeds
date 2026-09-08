@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/08/03/0810?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.181897890Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/08/03/0810/large.jpg?v=d26bf4558abf" alt="quicklook" width="320" height="240">](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

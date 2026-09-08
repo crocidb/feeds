@@ -6,7 +6,7 @@ url = "https://nautil.us/your-dementia-risk-is-higher-if-your-spouse-has-it-but-
 author = "Joyce Siette"
 text = ""
 lastupdated = "2026-07-23T22:53:02.395104388Z"
-seen = false
+seen = true
 +++
 
 A new study looked at almost one million married couples and found dementia clustered among couples. Shared lifestyle doesn’t explain everything.

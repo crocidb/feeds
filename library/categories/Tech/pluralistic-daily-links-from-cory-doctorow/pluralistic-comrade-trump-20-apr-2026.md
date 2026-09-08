@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/04/20/praxis/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-04-22T14:43:27.913443963Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/20Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/20/praxis/)

@@ -6,7 +6,7 @@ url = "https://jcs.org/2025/02/26/imacg4k#2026-02-17"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.639515956Z"
-seen = false
+seen = true
 +++
 
 A year ago I tried using an M1 iMac for work duty but its 21" screen took up too much room on my desk. After seeing [Sean's video on Action Retro](https://www.youtube.com/watch?v=hJKcwH7tMW4) about putting an M4 Mac Mini inside an [iMac G4](https://en.wikipedia.org/wiki/IMac_G4), I thought I'd give it a try.

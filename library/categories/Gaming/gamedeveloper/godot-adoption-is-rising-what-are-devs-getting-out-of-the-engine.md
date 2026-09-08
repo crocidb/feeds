@@ -5,7 +5,7 @@ date = "2026-08-18T14:00:00Z"
 url = "https://www.gamedeveloper.com/programming/godot-adoption-is-rising-what-are-devs-enjoying-about-the-engine-"
 author = "Bryant Francis"
 text = ""
-lastupdated = "2026-08-24T15:49:14.191970017Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.479952960Z"
+seen = false
 +++
 

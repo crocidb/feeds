@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1083076/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-16T14:36:54.832633899Z"
-seen = false
+seen = true
 +++
 
 The SUSE Security Team Blog has a [post](https://security.opensuse.org/2026/07/15/selinux-seunshare.html) with an analysis of [seunshare](https://man7.org/linux/man-pages/man8/seunshare.8.html), which is used by SELinux to confine untrusted programs. During a review of [version 3.10](https://github.com/SELinuxProject/selinux/releases/tag/3.10) of the program, the team identified two local Denial-of-Service (DoS) vectors.

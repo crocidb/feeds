@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/11/websites-as-anthologies-of-self"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-16T14:36:48.228821049Z"
-seen = false
+seen = true
 +++
 
 At this month’s [Homebrew Website Club Writing Edition](https://events.indieweb.org/2026/07/homebrew-website-club-writing-edition-m2NVbVuF8wqT) (notes to come; will be shared likely on July 12th), the topic of audience came up. Who is the audience for our website? Do we have multiple audiences? Do we think of audience at all?

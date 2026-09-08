@@ -6,7 +6,7 @@ url = "https://nautil.us/some-people-are-better-at-eavesdropping-than-others-128
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-18T14:48:27.527676920Z"
-seen = false
+seen = true
 +++
 
 New study shows what happens in our brains as we track multiple conversations

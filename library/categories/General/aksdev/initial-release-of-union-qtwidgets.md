@@ -5,8 +5,8 @@ date = "2026-08-28T18:34:45Z"
 url = "https://akselmo.dev/posts/union-qtwidgets/"
 author = "Akseli"
 text = ""
-lastupdated = "2026-09-01T19:33:12.595878730Z"
-seen = false
+lastupdated = "2026-09-03T13:15:06.159635977Z"
+seen = true
 +++
 
 It has begun.

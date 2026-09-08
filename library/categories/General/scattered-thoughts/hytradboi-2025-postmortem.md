@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/"
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.086554426Z"
-seen = false
+seen = true
 +++
 

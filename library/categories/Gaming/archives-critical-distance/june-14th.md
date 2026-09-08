@@ -6,7 +6,7 @@ url = "https://critical-distance.com/2026/06/15/june-14th-4/"
 author = "Chris Lawrence"
 text = ""
 lastupdated = "2026-06-16T20:07:17.581421424Z"
-seen = false
+seen = true
 +++
 
 Welcome back readers.

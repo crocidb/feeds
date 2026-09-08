@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falli
 author = "Konstantin Kakaes"
 text = ""
 lastupdated = "2026-08-06T09:52:36.902988397Z"
-seen = false
+seen = true
 +++
 
 On May 20, 2026, OpenAI made an announcement that shook the mathematical world. An internal AI model — one not available to the public — had come up with a counterexample to the “unit distance” problem, a conjecture made in 1946 by Paul Erdős, the prolific, itinerant Hungarian mathematician. Erdős posed thousands of questions, but this one was special: It was both simple to explain and…

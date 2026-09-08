@@ -6,7 +6,7 @@ url = "https://nautil.us/the-nautilus-guide-to-the-best-books-on-the-science-of-
 author = "Kevin Berger"
 text = ""
 lastupdated = "2026-07-16T14:37:07.149622284Z"
-seen = false
+seen = true
 +++
 
 Inside the brain and aesthetic experience

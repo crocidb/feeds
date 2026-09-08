@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.334539774Z"
-seen = false
+seen = true
 +++
 
 Life is messy. We devote a lot of time and effort into managing that chaos. I thought of a little “theory”, if you will, that helps me.

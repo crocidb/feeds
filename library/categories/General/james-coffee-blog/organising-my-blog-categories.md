@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/19/organising-my-blog-categories"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.974571253Z"
-seen = false
+seen = true
 +++
 
 My [blog categories](https://jamesg.blog/categories) page has, until today, been designed with a functional mindset: the purpose of the page was to list all of the categories I use on my website. But, this week, I started thinking about how I could improve the page, to make it more of a hub to explore different parts of my site, and to elevate the different kinds of writing I do most.

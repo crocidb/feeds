@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/07/07/2052?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-09T12:05:36.415683593Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/07/07/2052/640,480/tzc1LKZPbF40suzj8YMNAeA8pRo=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

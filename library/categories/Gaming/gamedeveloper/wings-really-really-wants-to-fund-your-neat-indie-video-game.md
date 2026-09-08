@@ -5,7 +5,7 @@ date = "2026-08-18T08:00:49Z"
 url = "https://www.gamedeveloper.com/business/wings-really-really-wants-to-fund-your-neat-indie-video-game"
 author = "Chris Kerr"
 text = ""
-lastupdated = "2026-08-24T15:49:14.196154561Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.483637157Z"
+seen = false
 +++
 

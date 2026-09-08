@@ -6,7 +6,7 @@ url = "https://nautil.us/plants-and-their-ants-when-flora-and-fauna-team-up-1282
 author = "Tim Vernimmen"
 text = ""
 lastupdated = "2026-07-23T22:53:02.419923711Z"
-seen = false
+seen = true
 +++
 
 Mutualistic partnerships between species abound across nature—but it’s a tricky dance to make sure both parties keep pulling their weight

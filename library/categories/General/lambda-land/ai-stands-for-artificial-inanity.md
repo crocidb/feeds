@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.189147566Z"
-seen = false
+seen = true
 +++
 
 There’s something icky about LLM-generated text when you think it’s written by a human. I think I finally put my finger on one reason why I feel this way.

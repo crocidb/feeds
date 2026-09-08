@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.296568598Z"
-seen = false
+seen = true
 +++
 
 My wife and I got a chance to go to a place that lets you paint pottery and then have it fired. The pottery is all pre-made; you just get to paint it.

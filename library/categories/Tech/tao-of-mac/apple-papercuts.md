@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/05/18/1320?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.749843470Z"
-seen = false
+seen = true
 +++
 
 I know this blog has strayed a fair distance from its Mac-centric origins, but I’ve been keeping a mental list of all the things that are broken, missing or inexplicably neglected in [Apple](/space/com/apple)’s software, and it’s gotten long enough that writing it down feels like a public service<sup id="fnref:1"><a class="footnote-ref" rel="anchor" href="/space/blog/2026/05/18/1320#fn:1" style="color: #0000cc;">1</a></sup>.

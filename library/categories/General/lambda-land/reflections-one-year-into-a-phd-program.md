@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.247540228Z"
-seen = false
+seen = true
 +++
 
 I started my PhD program about a year ago. In my first year I have:

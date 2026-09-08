@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/04/27/1610?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-29T14:23:27.719691390Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/04/27/1610/640,480/lwEVW3vmyEef1V7CdUP75Ka_xaY=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://www.macstories.net/reviews/remodex-codex-remote-mobile-app-ios/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

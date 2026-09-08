@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/how-terry-tao-became-an-evangelist-for-ai-
 author = "Kevin Hartnett"
 text = ""
 lastupdated = "2026-06-10T21:35:57.197414685Z"
-seen = false
+seen = true
 +++
 
 The following has been adapted from The Proof in the Code: How a Truth Machine Is Transforming Math and AI by Kevin Hartnett. Terry Tao has never been afraid of unconventional ideas. In November 2014, he was on a panel of five distinguished mathematicians, all inaugural recipients of the Breakthrough Prize in Mathematics, which came with a $3 million award. The laureates’ conversation ranged…

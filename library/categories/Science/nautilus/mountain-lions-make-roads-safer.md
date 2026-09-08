@@ -6,7 +6,7 @@ url = "https://nautil.us/mountain-lions-make-roads-safer-1283388/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-08-06T09:52:38.244065874Z"
-seen = false
+seen = true
 +++
 
 The hidden safety benefits of these kings of the mountains

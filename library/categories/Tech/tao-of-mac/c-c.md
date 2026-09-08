@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/dev/c?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-16T20:08:31.067063616Z"
-seen = false
+seen = true
 +++
 
 [

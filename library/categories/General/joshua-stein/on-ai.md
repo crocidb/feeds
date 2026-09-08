@@ -6,7 +6,7 @@ url = "https://jcs.org/2026/07/23/ai"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.620968009Z"
-seen = false
+seen = true
 +++
 
 In 2019, I started watching [Andreas Kling's programming videos](https://www.youtube.com/@awesomekling/videos), many of which were live-coding sessions writing his new operating system [SerenityOS](https://serenityos.org/). He was always pretty fast at writing code, especially since his IDE, Qt Creator, had knowledge of all his C++ code and could [auto-complete](https://youtu.be/lz26q55Xt7E?t=301) classes, variable names, and function signatures. Back then it seemed like he had much of the code written in his head and was limited just by his typing speed.

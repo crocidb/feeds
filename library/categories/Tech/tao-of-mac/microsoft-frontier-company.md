@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/07/02/1459?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-03T12:11:18.799662498Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/07/02/1459/640,480/VkhH-XOTRghbRPmhStcRmZB2RTk=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

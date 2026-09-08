@@ -5,8 +5,8 @@ date = "2026-08-30T00:00:00Z"
 url = "https://jamesg.blog/2026/08/30/boat-bridge"
 author = "with words, wonder"
 text = ""
-lastupdated = "2026-09-01T19:33:13.053787754Z"
-seen = false
+lastupdated = "2026-09-03T13:15:07.852686802Z"
+seen = true
 +++
 
 [*Thamara*](https://thamara.co.uk/) *and I are doing an art exchange where we each sent the other person an art-related object to analyse. Thamara sent me a copy of “Beneath the Great Wave: Hokusai & Hiroshige”, a book from the art exhibition of the same name being held at the Whitworth in Manchester, from which I chose a single painting to write about. I sent Thamara my first greeting card in a set I recently purchased. The card has a painting on the front: Henri Edmond-Cross‘ The Pink Cloud.* [*You can read Thamara's post on his website*](https://thamara.co.uk/notebook/2026/08/the-pink-cloud)*.*

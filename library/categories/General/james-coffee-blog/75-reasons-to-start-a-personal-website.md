@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/09/75-reasons-to-start-a-personal-website"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-09T12:05:16.769104532Z"
-seen = false
+seen = true
 +++
 
 I love having a personal website. Here, I share reflections, stories, thoughts, ideas, and more. Because I have a website, I always have the idea in the back of my mind that there is a place for my writing. I can write a story and share it with friends, and even the world. What I write might not be perfect, but it is mine. This is my home for my creative works.

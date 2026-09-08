@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/3d/printing?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.740399635Z"
-seen = false
+seen = true
 +++
 
 I bought a [Prusa](http://reprap.org/wiki/Prusa?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) kit on [October 2014](/space/blog/2014/10/05/2130), and have been merrily twiddling its various bits [over the years](https://www.flickr.com/photos/ruicarmo/albums/72157648901246939?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) with considerable delight, since it’s a nice, slow(ish) hobby.

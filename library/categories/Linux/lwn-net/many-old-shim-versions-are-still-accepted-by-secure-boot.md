@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1082940/"
 author = "corbet"
 text = ""
 lastupdated = "2026-07-16T14:36:54.836875928Z"
-seen = false
+seen = true
 +++
 
 The CMU CERT Coordination Center has put out [an advisory](https://kb.cert.org/vuls/id/616257) that many exploitable versions of the shim binary, used to boot Linux on systems with UEFI secure boot enabled, were never added to the revocation list.

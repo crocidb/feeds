@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=gatekeeping-at-lobste-rs"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.899957039Z"
-seen = false
+seen = true
 +++
 
 For several years [https://lobste.rs/](https://lobste.rs/) were my favourite source of professional truth: it's a link aggregator with some attitude, quite transparent in how they operate, and just good overall! There were several dramas, but not something that you don't expect from site that is built on user-provided content.

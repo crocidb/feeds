@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.227428966Z"
-seen = false
+seen = true
 +++
 
 I got a paper published at [ECOOP](https://2024.ecoop.org/) this year! This is my first big paper published at a big conference. As such, I wanted to write down some things that I learned so that in the future I can remember a bit better what was hard for me. That way, should I one day advise PhD students working on *their* first papers, I can help them through the learning curve better.

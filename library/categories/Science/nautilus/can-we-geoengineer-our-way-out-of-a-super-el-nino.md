@@ -6,7 +6,7 @@ url = "https://nautil.us/can-we-geoengineer-our-way-out-of-a-super-el-nino-12825
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-09T12:05:32.456434018Z"
-seen = false
+seen = true
 +++
 
 A natural experiment in sun-scorched Australia points the way

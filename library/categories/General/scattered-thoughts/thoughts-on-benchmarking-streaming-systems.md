@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/thoughts-on-benchmarking-strea
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.200451741Z"
-seen = false
+seen = true
 +++
 

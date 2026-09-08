@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/06/07/1930?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-08T12:50:10.474209450Z"
-seen = false
+seen = true
 +++
 
 I decided to take a couple of days off and generally tune out, thanks to a few strategically placed bank holidays – which meant my usual mix of relaxing and dealing with a few chores.

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.275969950Z"
-seen = false
+seen = true
 +++
 
 It’s hard to overstate how important email is in our modern world. Even as hip new platforms like Slack &co. gain traction in the workplace, so much communication takes place in a crusty old medium that’s outlived every purported “email killer”. Where does it get its staying power from?

@@ -6,7 +6,7 @@ url = "https://nautil.us/record-of-human-migration-hiding-in-the-dna-of-a-musky-
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-22T09:22:42.068445372Z"
-seen = false
+seen = true
 +++
 
 The Asian house shrew stowed away on routes of human commerce for millennia

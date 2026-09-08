@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/09/music-at-sunset"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-16T14:36:48.242653522Z"
-seen = false
+seen = true
 +++
 
 The horizon is bathed in orange and a faint pink hue as the hills in the middle distance turn blue with the haze of the summer’s evening. Light white clouds are scattered across the sky. Looking at the clouds, I see art; looking around at the hills and fields I see art, too. I think of the colour Turner used in his paintings. How many times did he look to the sky to find what colour to use? How do I find the words to describe what I see and create an impression in your eye?

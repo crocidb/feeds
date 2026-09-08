@@ -5,7 +5,7 @@ date = "2026-08-25T14:06:03Z"
 url = "https://www.gamedeveloper.com/business/w4-games-raises-18m-to-expand-its-international-team"
 author = "Diego Argüello"
 text = ""
-lastupdated = "2026-09-01T19:33:12.913732855Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.461518844Z"
+seen = false
 +++
 

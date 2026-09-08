@@ -5,7 +5,7 @@ date = "2026-08-26T15:50:50Z"
 url = "https://www.gamedeveloper.com/business/ubisoft-debuts-player-council-platform-to-expand-early-game-development-feedback"
 author = "Bryant Francis"
 text = ""
-lastupdated = "2026-09-01T19:33:12.906373580Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.455468030Z"
+seen = false
 +++
 

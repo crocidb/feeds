@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/22/saturday-morning"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.959647361Z"
-seen = false
+seen = true
 +++
 
 *Before I leave this morning, I have to pack some things to read.* I picked up a zine and a book on colour and set out to a coffee shop to ease my way into the weekend. I purchased the zine and the book following my reflection on [reference works](https://jamesg.blog/2026/08/17/miniatures-reference-works-and-writing) earlier this week, which had me thinking that I wanted to vary the kinds of books on my shelf.

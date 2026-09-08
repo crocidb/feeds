@@ -6,7 +6,7 @@ url = "https://nautil.us/how-animals-communicate-across-species-1282452/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-06T19:14:01.547190326Z"
-seen = false
+seen = true
 +++
 
 From honeyguides to cleaner fish, cross-species cooperation abounds

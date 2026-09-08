@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.236228822Z"
-seen = false
+seen = true
 +++
 
 I am building a little text editor in Haskell.<sup class="footnote-reference" id="fr-fn:1-1"><a href="#fn-fn:1">1</a></sup> Why would I do such a thing? Because I’m in a class and this fulfills the requirement, and building a text editor is the kind of thing that I’ve always wanted to take a crack at.

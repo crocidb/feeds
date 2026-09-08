@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/05/author-reader-interaction-on-the-indie-web
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-06T19:13:25.338584687Z"
-seen = false
+seen = true
 +++
 
 Every so often I hear or read about the significance of readers as part of the indie web. Indeed, the indie web is about much more than making personal websites: it is a space where there are many personal websites to explore. You don’t need a personal website to explore the indie web. And while having a personal website is a way to participate in the indie web, reading is participating, albeit, but in a different way. There are also middle points: for example, being a reader and starting a discussion (i.e. by emailing a site author, leaving a note in a guestbook.

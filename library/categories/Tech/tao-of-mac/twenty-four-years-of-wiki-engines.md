@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/08/02/1130?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.187500726Z"
-seen = false
+seen = true
 +++
 
 Yesterday morning I switched this site to its fourth major engine, a little over twenty years after sketching out the core idea behind it. The new generator is called [`sashimi`](/space/notices/2026/08/01/1130#new-site-generator), is written in [Go](/space/dev/golang#go-lang), and runs almost entirely inside GitHub Actions–which is mildly amusing because the first [Sashimi](/space/blog/2006/06/15/1700#building-the-anti-wiki), in 2006, was also meant to batch-render this same filesystem tree using dependency tracking.

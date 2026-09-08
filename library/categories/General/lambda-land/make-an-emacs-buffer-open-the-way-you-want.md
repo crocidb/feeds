@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.266426115Z"
-seen = false
+seen = true
 +++
 
 Are you tired of having a particular buffer pop open in the wrong direction? Do you wish, for example, that the [Racket REPL](https://www.racket-mode.com/#Edit-buffers-and-REPL-buffers) buffer showed up on the right in a vertical split, rather than below in a horizontal one? Look no further. I give you, `display-buffer-alist`:

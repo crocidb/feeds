@@ -6,7 +6,7 @@ url = "https://nautil.us/what-makes-humans-stupid-1282459/"
 author = "David C. Krakauer"
 text = ""
 lastupdated = "2026-07-09T12:05:32.473099712Z"
-seen = false
+seen = true
 +++
 
 It takes intelligence to get things spectacularly wrong. An essay on our undoing.

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/07/18/1920?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-21T09:22:24.791714594Z"
-seen = false
+seen = true
 +++
 
 Hot on the heels of my ESP32 display detour–which went from [Cydintosh](/space/links/2026/04/15/0718) to [Flying Toasters on an ESP32-S3](/space/blog/2026/06/14/1400) and then, inevitably, [R-Type](/space/blog/2026/06/17/1200)–I ended up with an M5Stack [Tab5](https://docs.m5stack.com/en/core/Tab5?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) on my desk as a very indirect consequence of chasing e-paper displays.

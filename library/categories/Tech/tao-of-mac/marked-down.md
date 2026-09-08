@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/07/21/1840?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-22T09:22:44.966911037Z"
-seen = false
+seen = true
 +++
 
 As a sort of prelude to the article below, I should point out that I do have [an AI policy](/space/site/ai_policy) that boils down to “I use AI to revise, not to write”.

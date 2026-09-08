@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=meat-loaf-had-a-role-in-fight-club"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.867299607Z"
-seen = false
+seen = true
 +++
 
 I was very surprised when knew that one of the key roles in Fight Club movie was played by Meat Loaf: he played "Man with titties" Robert "Bob" Paulson.

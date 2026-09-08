@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/leaving-lobste-rs-rant/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-07-16T14:36:46.151962167Z"
-seen = false
+seen = true
 +++
 
 For context, I have gotten a lot of emails either asking why I deactivated my account or just sending me well wishes after the deactivation. This post is more for them than anyone else. If you don't care about random techbro website drama, feel free to skip.

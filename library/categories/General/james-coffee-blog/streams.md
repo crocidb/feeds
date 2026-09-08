@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/26/streams"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-28T12:42:18.676410448Z"
-seen = false
+seen = true
 +++
 
 *I wrote this post on Thursday, July 23rd, and reviewed and slightly refined it today. I have left the post as a stream of consciousness – a snippet of my mind as it was on the morning I walked around and saw the world.*

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.338660914Z"
-seen = false
+seen = true
 +++
 
 Today in my proofs class (MATH 290 at BYU) we talked about the concept [induction](https://en.wikipedia.org/wiki/Mathematical_induction). I like this, because it sounds a lot like recursion.

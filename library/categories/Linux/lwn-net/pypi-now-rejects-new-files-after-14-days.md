@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1084218/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-23T22:52:44.023320084Z"
-seen = false
+seen = true
 +++
 
 Python Software Foundation security developer-in-residence Seth Larson has [announced](https://blog.pypi.org/posts/2026-07-22-releases-now-reject-new-files-after-14-days/) that the [Python Package Index](https://pypi.org/) (PyPI) will now reject new files that are uploaded to releases older than 14 days. The restriction is to prevent the poisoning of old releases if publishing tokens or workflows of PyPI projects are compromised.

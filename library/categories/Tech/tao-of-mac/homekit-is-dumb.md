@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/07/17/1601?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-18T14:48:32.019734702Z"
-seen = false
+seen = true
 +++
 
 I’m going to get on my soapbox again and call out [Apple](/space/com/apple) once more on the *extremely* limited [HomeKit](/space/com/apple/homekit) automation experience–and how they can fix 80% of the gripes I have with it by just cloning a small subset of the [Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) user experience.

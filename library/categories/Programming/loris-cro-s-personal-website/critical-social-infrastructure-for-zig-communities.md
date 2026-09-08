@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/critical-social-infrastructure/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.948569087Z"
-seen = false
+seen = true
 +++
 

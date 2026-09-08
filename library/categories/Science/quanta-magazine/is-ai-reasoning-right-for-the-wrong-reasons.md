@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reason
 author = "John Pavlus"
 text = ""
 lastupdated = "2026-08-06T09:52:36.904283546Z"
-seen = false
+seen = true
 +++
 
 I’ll just say it: What the hell is going on with AI “reasoning”? Sorry for the air quotes. That punctuational side-eye was more common in 2024, when the specially trained cousins of LLMs now known as “large reasoning models,” or LRMs, were still new. Nowadays it may seem downright churlish, though, given that a “general-purpose reasoning model” from OpenAI solved a famous open mathematical…

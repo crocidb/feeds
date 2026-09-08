@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/19/the-tower-of-babel-painting"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.972929102Z"
-seen = false
+seen = true
 +++
 
 *Thomas and I are doing a collaborative writing challenge where we each choose a painting for the other to write about. Thomas chose The Tower of Babel by Pieter Bruegel the Elder for me to write about. You can read about the painting I chose for Thomas,* [*Meindert Hobbema’s Wooden Landscape*](https://www.vanderwal.net/random/entrysel.php?blog=2180)*, on his website.*

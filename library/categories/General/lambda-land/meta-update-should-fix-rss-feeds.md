@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.253402318Z"
-seen = false
+seen = true
 +++
 
 I recently made an update to how I build my blog. I like writing my posts with Org-mode because it provides a richer markup language than Markdown. Plus, more Emacs = more good. [Hugo](https://gohugo.io/) has support for Org files, but there was a problem with the RSS feed generation: all of my posts written in Org got truncated at some point. I don’t know if the fault lies with Hugo itself or with some problem in the theme I use—whatever it was, I don’t have the time right now to debug that and submit a good bug report or a fix. Instead, I’m using the [ox-hugo](https://ox-hugo.scripter.co/) org-mode exporter, so I still can write my posts with Org, but then let Emacs export them to Markdown for Hugo to process.

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/protocols/rdp?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.641374629Z"
-seen = false
+seen = true
 +++
 
 <img src="https://taoofmac.com/media/protocols/rdp/ucop_gjfG-lg2bDi5kFC01ZObUM=/rdc.jpg" style="max-width: 100%;height: auto;float: right;padding-left: 1em" width="125" height="121">

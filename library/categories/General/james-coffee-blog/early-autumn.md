@@ -5,8 +5,8 @@ date = "2026-08-30T00:00:00Z"
 url = "https://jamesg.blog/2026/08/30/early-autumn"
 author = "with words, wonder"
 text = ""
-lastupdated = "2026-09-01T19:33:13.052191033Z"
-seen = false
+lastupdated = "2026-09-03T13:15:07.851111274Z"
+seen = true
 +++
 
 I look out to the trees around and I see a sea of green. The air was warm today; summer is still here. With that said, there are ever more signs that indicate the beginning of the forthcoming season. Every so often, I notice a tree whose leaves are yellowing. This morning, I saw a tree on which the leaves on one branch had started to turn a vibrant red. The hills were being kissed by a light mist. The occasional leaf falls. In the park today, I walked among rain-soaked leaves that fell with the day’s breeze.

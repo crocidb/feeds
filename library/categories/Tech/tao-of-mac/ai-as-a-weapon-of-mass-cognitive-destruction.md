@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/07/08/2130?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-09T12:05:36.413030473Z"
-seen = false
+seen = true
 +++
 
 I use AI every day; it’s unavoidable [when you create agentic tooling](https://rcarmo.github.io/projects/piclaw/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link). But something has been grating on me for months, and it isn’t about development: non-technical people are using it to generate far too much slop. Not code slop, but *business* slop.

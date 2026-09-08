@@ -6,7 +6,7 @@ url = "https://nautil.us/the-loving-embrace-of-the-milky-way-1282550/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-09T12:05:32.479861323Z"
-seen = false
+seen = true
 +++
 
 Researchers have discovered that our galaxy’s outermost spiral arms are wide open and farther away than we thought

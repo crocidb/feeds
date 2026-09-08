@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/11/reflection"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-16T14:36:48.231595028Z"
-seen = false
+seen = true
 +++
 
 Outside one of my childhood bedrooms there was a tree, a single tree. I see the tree vividly in my mind, and remember tracking it as the seasons changed – watching out for the first blossom, followed by the maturity of the leaves, then again by their browning as summer became autumn and autumn became winter. I saw the seasons while I lived them.

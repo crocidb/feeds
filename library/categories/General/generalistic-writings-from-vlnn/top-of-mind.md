@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=top-of-mind"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.870601235Z"
-seen = false
+seen = true
 +++
 
 I stole the idea for this one from [this Andy Matuschak's note](https://notes.andymatuschak.org/zPKTSiU725W9WQCqoVPBcxm). What main things that I'm interested in right now? This is to be updated frequently.

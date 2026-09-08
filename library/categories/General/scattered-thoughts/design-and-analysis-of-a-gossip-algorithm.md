@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/design-and-analysis-of-a-gossi
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.295932723Z"
-seen = false
+seen = true
 +++
 

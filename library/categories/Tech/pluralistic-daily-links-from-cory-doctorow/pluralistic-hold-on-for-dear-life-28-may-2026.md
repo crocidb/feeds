@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/05/28/we-live-in-a-society/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-05-28T23:18:23.335451157Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/28May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/28/we-live-in-a-society/)

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/05/24/1445?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-26T11:29:23.129821233Z"
-seen = false
+seen = true
 +++
 
 My sinuses are still giving me grief, but this week was much more successful at pretending to be enjoyable, at least. For starters, we watched [Project Hail Mary](https://www.imdb.com/title/t12042730?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link), and it was every bit as good as I would expect it to be, which is very rare in movies these days.

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.273235877Z"
-seen = false
+seen = true
 +++
 
 [Wikipedia](https://en.wikipedia.org/wiki/Unix_philosophy) cites a few different sources on what “Unix Philosophy” is. Peter Salus summarizes it as:

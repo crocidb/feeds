@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/08/01/1044?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.193117943Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/08/01/1044/large.jpg?v=5881d2b6fff3" alt="quicklook" width="320" height="240">](https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

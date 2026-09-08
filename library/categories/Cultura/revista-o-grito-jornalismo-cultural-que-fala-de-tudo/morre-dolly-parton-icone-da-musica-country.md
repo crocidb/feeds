@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/morre-dolly-parton-icone-da-musica-country/"
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-01T19:33:13.226975050Z"
-seen = false
+seen = true
 +++
 
 Dolly Parton, responsável por músicas como “Jolene”, “9 to 5” e “I Will Always Love You”, morreu nesta terça-feira (25). O falecimento foi anunciado no Instagram pelo seu chefe de segurança e sobrinho, Bryan Seaver. A cantora vinha enfrentando problemas de saúde desde a morte de seu marido em 2025, mas a causa da morte não foi apontada.

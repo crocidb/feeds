@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/nosso-segredo-vence-festival-de-gramado-veja-li
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-08-24T15:49:14.804701868Z"
-seen = false
+seen = true
 +++
 
 O [Festival de Cinema de Gramado](https://revistaogrito.com/?s=festival+de+cinema+de+gramado) encerrou sua 54ª edição na noite deste sábado (22), com a entrega do Kikito de Ouro de Melhor Filme para *[Nosso Segredo](https://revistaogrito.com/primeiro-longa-de-grace-passo-ganha-trailer-e-cartaz-antes-da-estreia-no-festival-de-gramado/)*, dirigido por **Grace Passô**. A cerimônia da Mostra de Longas-Metragens Brasileiros aconteceu no Palácio dos Festivais, no coração da Serra Gaúcha, e reuniu nomes de peso do cinema nacional em uma noite marcada pela celebração da produção audiovisual negra e pela diversidade das narrativas brasileiras.

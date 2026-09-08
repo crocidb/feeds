@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.335892721Z"
-seen = false
+seen = true
 +++
 
 I finished the semester! This is how I feel:

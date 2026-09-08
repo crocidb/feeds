@@ -5,7 +5,7 @@ date = "2026-08-21T14:45:37Z"
 url = "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken"
 author = "Game Developer Podcast"
 text = ""
-lastupdated = "2026-08-24T15:49:14.177219337Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.467615450Z"
+seen = false
 +++
 

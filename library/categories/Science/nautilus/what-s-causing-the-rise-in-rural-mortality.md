@@ -6,7 +6,7 @@ url = "https://nautil.us/whats-causing-the-rise-in-rural-mortality-1282704/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-16T14:37:07.142159260Z"
-seen = false
+seen = true
 +++
 
 The problem isn’t entirely health-related

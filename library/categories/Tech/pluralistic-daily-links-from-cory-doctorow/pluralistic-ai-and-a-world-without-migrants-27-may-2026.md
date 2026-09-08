@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/05/27/unnecessariat/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-05-27T23:23:31.197275941Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/27May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/27/unnecessariat/)

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.249356970Z"
-seen = false
+seen = true
 +++
 
 Here’s a nifty Emacs workflow for doing a project-wide search-and-replace on steroids. While I do use refactor tools that come with language servers,<sup class="footnote-reference" id="fr-fn:1-1"><a href="#fn-fn:1">1</a></sup> sometimes those aren’t enough. Consider the case where you not only need to change the name of a function, but also e.g. need to swap the order of two of its arguments. Or you’ve broken one function out into two that need to be chained together. Whatever—there are plenty of ways where the IDE won’t be able to do everything that you need. Enter: Emacs.

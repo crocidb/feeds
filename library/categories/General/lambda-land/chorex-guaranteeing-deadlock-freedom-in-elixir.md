@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.229368729Z"
-seen = false
+seen = true
 +++
 
 [Chorex](https://github.com/utahplt/chorex) is a brand-new Elixir library for *choreographic programming* [[3](#citeproc_bib_item_3)]: Chorex provides a macro-based DSL that lets you describe how processes communicate to perform a computation. This top-down description of interacting processes is called a *choreography*. From this choreography, Chorex creates modules for each process that handle all the message-passing in the system. The interactions performed by the generated code will never deadlock *by construction* because the choreographic DSL ensures that no processes will be waiting on each other at the same time.

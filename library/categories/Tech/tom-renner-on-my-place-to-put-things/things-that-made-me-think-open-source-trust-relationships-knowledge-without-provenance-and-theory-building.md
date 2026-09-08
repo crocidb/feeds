@@ -6,7 +6,7 @@ url = "https://tomrenner.com/posts/ttmmt-4/"
 author = "contact@tomrenner.com (Tom Renner)"
 text = ""
 lastupdated = "2026-06-16T20:08:33.418587884Z"
-seen = false
+seen = true
 +++
 
 >

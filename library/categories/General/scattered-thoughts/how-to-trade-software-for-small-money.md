@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/how-to-trade-software-for-smal
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.114851303Z"
-seen = false
+seen = true
 +++
 

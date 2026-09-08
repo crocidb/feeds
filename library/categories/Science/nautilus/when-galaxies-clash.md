@@ -6,7 +6,7 @@ url = "https://nautil.us/when-galaxies-clash-1282574/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-09T12:05:32.459910929Z"
-seen = false
+seen = true
 +++
 
 Is a new image of star systems colliding a vision of our Milky Way’s future?

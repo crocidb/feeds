@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/martin-picards-mitochondrial-theory-of-min
 author = "Rachel Nuwer"
 text = ""
 lastupdated = "2026-07-18T14:48:27.707248318Z"
-seen = false
+seen = true
 +++
 
 It was 9 a.m. on a Thursday, and Martin Picard was watching his blood flow from an IV in his arm through a hole in the wall. He was sitting on a twin bed in a claustrophobic chamber less than a shoulder’s width from a stainless steel sink and porcelain toilet. Every hour over 24 hours, including while he slept, a nurse channeled blood from his arm to a research team next door; at each time point…

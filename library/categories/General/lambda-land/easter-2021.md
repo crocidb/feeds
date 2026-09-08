@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.303112686Z"
-seen = false
+seen = true
 +++
 
 I love Easter. In my mind it is just as important as Christmas. Indeed, if Christ had not died for our sins and been resurrected, then there would be no reason to celebrate His birth.

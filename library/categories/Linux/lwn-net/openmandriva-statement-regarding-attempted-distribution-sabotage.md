@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1081884/"
 author = "jake"
 text = ""
 lastupdated = "2026-07-09T12:05:22.725901044Z"
-seen = false
+seen = true
 +++
 
 Over on the [OpenMandriva forum](https://forum.openmandriva.org/), the Linux distribution has [reported sabotage of its repositories](https://forum.openmandriva.org/t/statement-regarding-attempted-distribution-sabotage/8997) by a disgruntled contributor with administrative credentials. According to "AngryPenguin", an abusive incident in a distribution Matrix chat led to a user being kicked out of the chat; that "

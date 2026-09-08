@@ -6,7 +6,7 @@ url = "https://nautil.us/these-ancient-sea-worms-have-biometal-jaws-1283391/"
 author = "David Nield"
 text = ""
 lastupdated = "2026-08-06T09:52:38.251496419Z"
-seen = false
+seen = true
 +++
 
 Not as scary as a great white shark, but the science is fascinating

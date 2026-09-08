@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=a2b_converter"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.873691164Z"
-seen = false
+seen = true
 +++
 
 [a2b tool](https://github.com/vlnn/andy2brain) is a (private at the moment) tool to convert several [Digital Gardens](digital-garden.md) into [TheBrain](https://thebrain.com) \**brz* archives and back.

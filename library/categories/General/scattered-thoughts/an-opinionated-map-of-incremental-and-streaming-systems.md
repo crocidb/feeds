@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/an-opinionated-map-of-incremen
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.230264358Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://nautil.us/small-cheap-and-full-of-teeth-baby-tyrannosaurs-were-pl
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-18T14:48:27.539911364Z"
-seen = false
+seen = true
 +++
 
 Cat-sized tyrannosaur hatchlings had lots and lots of siblings

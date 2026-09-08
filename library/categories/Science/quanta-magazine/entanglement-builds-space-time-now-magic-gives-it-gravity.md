@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-g
 author = "Charlie Wood"
 text = ""
 lastupdated = "2026-06-06T15:22:21.526927776Z"
-seen = false
+seen = true
 +++
 
 In 1973, John Archibald Wheeler described the relationship between space and matter in two sentences: “Space acts on matter, telling it how to move. In turn, matter reacts back on space, telling it how to curve.” Wheeler’s words serve as a pithy encapsulation of general relativity, Albert Einstein’s theory of gravity. Wheeler’s sentences also lay out a challenge that theorists face today: When…

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/07/25/1700?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-28T12:42:40.884109949Z"
-seen = false
+seen = true
 +++
 
 It’s been a little over a year since I [reviewed the MiniBook X](/space/reviews/2025/05/15/2230), and it remains one of the very few modern machines to preserve the netbook form factor–so, given the attention the original review garnered, I thought folk might be interested in how it has fared.

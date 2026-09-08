@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/projects/sashimi?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.185824548Z"
-seen = false
+seen = true
 +++
 
 [Sashimi](https://en.wikipedia.org/wiki/Sashimi?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com), besides being raw, sliced fresh fish, was also the name of a spin-off from my [Yaki](/space/projects/yaki) project–an “anti-Wiki” of sorts focused on generating [HTML](/space/markup/html) content from the same flat-file content storage.

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.322362648Z"
-seen = false
+seen = true
 +++
 
 Computers are funny things. At the lowest level they’re just a pile of ones and zeros that we assign meaning to. It’s something you can easily take for granted, but there’s a disconnect with how we talk about how things operate at the hardware level and then again at the software level.

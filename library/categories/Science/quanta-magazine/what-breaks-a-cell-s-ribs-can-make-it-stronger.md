@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/what-breaks-a-cells-ribs-can-make-it-stron
 author = "Jake Buehler"
 text = ""
 lastupdated = "2026-07-01T13:54:40.848688185Z"
-seen = false
+seen = true
 +++
 
 The cells of animals, plants, and fungi start their lives by being torn apart. Cells are born by division, and just before a parent cell becomes two daughters, it doubles its nuclear DNA and carefully condenses it into X-shaped chromosomes. The nucleus disassembles, letting these crucial genetic instructions float free in the cell’s soupy interior. Then the cell performs an astounding…

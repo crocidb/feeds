@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/27/midnight-scrapbooking"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-09-01T19:33:13.065375533Z"
-seen = false
+seen = true
 +++
 
 *A warm glow from the still-on kitchen light passed through the hallway, illuminating the floral book, opened, on my lap. The night’s task: to start making the book my own.*

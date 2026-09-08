@@ -6,7 +6,7 @@ url = "https://jcs.org/2026/04/09/openbsd-dm250#2026-04-15"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.626685556Z"
-seen = false
+seen = true
 +++
 
 These are my notes and pre-built images for getting OpenBSD-current installed on the Pomera DM250, DM250X, DM250XY, and DM250US.

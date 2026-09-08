@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/key-chemistry-question-answered-no-quantum
 author = "Kevin Hartnett"
 text = ""
 lastupdated = "2026-06-01T21:30:46.985100400Z"
-seen = false
+seen = true
 +++
 
 What Garnet Chan cares most about is basic science. He entered chemistry decades ago to understand some of the most consequential biochemical processes on Earth. But since then, he’s become a central figure in a different arena: the debate over whether quantum computers will have a decisive advantage over ordinary “classical” ones. Over the past decade, many quantum computing researchers have…

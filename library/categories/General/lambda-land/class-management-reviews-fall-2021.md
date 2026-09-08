@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.289587824Z"
-seen = false
+seen = true
 +++
 
 A collection of what worked well and what didn’t in classes that I took this semester. This is partially for me to record what things reduced friction for me as a student so that one day, should I become a professor, I’ll be able to run the lowest-friction class ever!

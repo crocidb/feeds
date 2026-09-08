@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1087326/"
 author = "corbet"
 text = ""
 lastupdated = "2026-08-06T09:52:34.746714970Z"
-seen = false
+seen = true
 +++
 
 Jynn Nelson [describes the Rust language team's new LLM policy](https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/) on the Inside Rust blog.

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/cli/restic?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.783059184Z"
-seen = false
+seen = true
 +++
 
 >

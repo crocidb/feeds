@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=binary-search-tree"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.832577807Z"
-seen = false
+seen = true
 +++
 
 Known as BST. Linear time complexity depends on height of the tree.

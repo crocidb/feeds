@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1083123/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-23T22:52:44.017385085Z"
-seen = false
+seen = true
 +++
 
 Inside this week's LWN.net Weekly Edition:

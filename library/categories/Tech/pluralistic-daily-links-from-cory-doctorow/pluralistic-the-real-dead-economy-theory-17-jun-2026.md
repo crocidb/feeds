@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-06-29T12:19:40.536706833Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/17Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/17/its-the-stupid-economy-stupid/)

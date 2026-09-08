@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/03/25/fact-intensive/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-03-25T10:19:24.012546720Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/25Mar2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/03/25/fact-intensive/)

@@ -6,7 +6,7 @@ url = "https://nautil.us/what-do-people-think-about-1283364/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-08-06T09:52:38.253942388Z"
-seen = false
+seen = true
 +++
 
 Sex barely made the list. Coffee and cats fared better.

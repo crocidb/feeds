@@ -6,7 +6,7 @@ url = "https://nautil.us/new-orange-lipped-monkey-discovered-in-africa-1282707/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-16T14:37:07.140224333Z"
-seen = false
+seen = true
 +++
 
 It’s one of only a handful of new monkey species identified on the continent in the last 75 years

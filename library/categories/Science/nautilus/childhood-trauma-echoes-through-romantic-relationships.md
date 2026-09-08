@@ -6,7 +6,7 @@ url = "https://nautil.us/childhood-trauma-echoes-through-romantic-relationships-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-09T12:05:32.476448083Z"
-seen = false
+seen = true
 +++
 
 Abuse, neglect, and loss can reverberate in a partner’s behavior

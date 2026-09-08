@@ -6,7 +6,7 @@ url = "https://nautil.us/how-an-inbred-snake-invader-took-over-an-island-paradis
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-28T12:42:37.307556412Z"
-seen = false
+seen = true
 +++
 
 Hidden genetic diversity may have given it an advantage

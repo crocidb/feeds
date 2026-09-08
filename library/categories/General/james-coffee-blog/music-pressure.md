@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/21/music-pressure"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.963824974Z"
-seen = false
+seen = true
 +++
 
 The sun is shining through the big and small clouds in the sky. The sun shines with such power that the areas that most catch my eye are the periphery of the darkest clouds, illuminated by the yellows of evening. The light coming through the window ebbs between faint and full, casting a shadow of four keys on my typewriter that rests on the coffee table.

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.340050821Z"
-seen = false
+seen = true
 +++
 
 Life Hacks: Text Notifications

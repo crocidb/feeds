@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.257040642Z"
-seen = false
+seen = true
 +++
 
 I recently managed to get access to my Outlook email from Emacs. This took some doing as my university had disabled app passwords. I [consider Outlook to be harmful](/posts/2022-08-28_keep_email_federated), but inasmuch as companies and schools continue to enforce OAUTH-only authentication with email systems, it is good to find workarounds.

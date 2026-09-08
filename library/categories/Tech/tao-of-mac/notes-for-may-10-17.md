@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/05/17/2120?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.762180624Z"
-seen = false
+seen = true
 +++
 
 The weather has gone a tad cloudy again, which provided me some relief from my allergies–but not enough for proper overnight rest, so yet again I arrived at Friday afternoon totally exhausted.

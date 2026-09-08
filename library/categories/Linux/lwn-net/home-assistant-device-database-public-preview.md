@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1084861/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-28T12:42:27.236186940Z"
-seen = false
+seen = true
 +++
 
 The [Open Home Foundation](https://www.openhomefoundation.org/), which governs the [Home Assistant](https://www.home-assistant.io/) home-automation project, has [announced](https://www.openhomefoundation.org/blog/building-the-device-database-together/) the "public preview" of its [Device Database](https://device-database-preview.openhomefoundation.org/):

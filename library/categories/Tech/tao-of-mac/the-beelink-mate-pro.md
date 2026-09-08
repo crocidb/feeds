@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/08/01/2130?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.190627075Z"
-seen = false
+seen = true
 +++
 
 Even though I already have probably too many desks (my main work desk, a [standing desk](/space/blog/2020/07/19/1630) that has probably been improvised for far too long, and an occasional tactical take-over of our dining table), I spend around a third of my working hours on a laptop of some kind.

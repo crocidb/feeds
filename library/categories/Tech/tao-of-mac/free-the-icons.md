@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/06/30/0725?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-01T13:54:43.713050662Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/06/30/0725/640,480/pxFuZOhD0K3Nk-M39S4IQT8dcAI=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

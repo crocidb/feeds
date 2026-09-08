@@ -1,15 +1,17 @@
 +++
 title = "Deleted my fedi account"
-description = "Aaaand it's gone.I deleted my fedi account because I got tired of how aggressive it all was, and I had so many followers I felt like every move I did, everything I said, was scrutinized by some people. Few of these said people tried to influence my way of thinking, trying to make"
+description = "Aaaand it's gone.Edit: Well the jig is up, you may have seen my new one, like I mentioned in this post below I would make that. This new account will be very strictly friends only, though some of my KDE stuff I tag publicly. That's all. Original text below.I deleted my fedi accou"
 date = "2026-08-23T18:03:00Z"
 url = "https://akselmo.dev/posts/deleted-my-fedi-account/"
 author = "Akseli"
 text = ""
-lastupdated = "2026-08-24T15:49:14.342323929Z"
-seen = false
+lastupdated = "2026-09-03T13:15:06.161073986Z"
+seen = true
 +++
 
 Aaaand it's gone.
+
+Edit: Well the jig is up, you may have seen my new one, like I mentioned in this post below I would make that. This new account will be very strictly friends only, though some of my KDE stuff I tag publicly. That's all. Original text below.
 
 I deleted my fedi account because I got tired of how aggressive it all was, and I had so many followers I felt like every move I did, everything I said, was scrutinized by some people. Few of these said people tried to influence my way of thinking, trying to make me agree with them about everything. And if I didn't, that would cause me to be outcasted as the evil one. It was very hard to be myself under the constant scrutiny of 1400 followers. "Ignore the haters" yeah sure but that's not how shit works.
 

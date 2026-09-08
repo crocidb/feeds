@@ -5,7 +5,7 @@ date = "2026-08-26T17:58:25Z"
 url = "https://www.gamedeveloper.com/business/xbox-officially-announces-disc-to-digital-program"
 author = "Nicole Carpenter"
 text = ""
-lastupdated = "2026-09-01T19:33:12.901954133Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.451857112Z"
+seen = false
 +++
 

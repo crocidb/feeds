@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/06/15/vernacular/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-06-16T20:08:29.448304322Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/15Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/15/vernacular/)

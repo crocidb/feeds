@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/ai/image?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.735578807Z"
-seen = false
+seen = true
 +++
 
 This page is a collection of notes and links related to [AI](/space/ai) image generation technologies, including Stable Diffusion, DALL-E, Midjourney, and other generative image models like Z-Image that have become prominent in the modern [AI](/space/ai) space.

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/tailscale?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.744478244Z"
-seen = false
+seen = true
 +++
 
 [Tailscale](https://tailscale.com?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) is a centrally-managed overlay network `VPN` service that provides seamless connectivity across your devices no matter where they reside, with a few interesting features:

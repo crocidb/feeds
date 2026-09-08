@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.267838952Z"
-seen = false
+seen = true
 +++
 
 This year I discovered the profound joy of giving toys to a little girl. Our daughter is beginning to babble and walk, and nothing has brought me more happiness than playing with her and watching her grow in her capabilities. She’s still young enough that she has no clue as to what is going on, but she did like getting some new toys wrapped in paper and bows! Christmas is so much better giving presents to your kids than it is getting presents as a kid.

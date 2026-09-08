@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/filme-pernambucano-entra-na-disputa-para-repres
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-01T19:33:13.225479041Z"
-seen = false
+seen = true
 +++
 
 Nesta segunda-feira (24), a Academia Brasileira de Cinema anunciou a lista dos 15 longas-metragens que compõem a competição para representar o Brasil na categoria de Melhor Filme Internacional do Oscar 2027. Entre os selecionados está *[Dolores](https://revistaogrito.com/dolores-sonhar-como-escoamento-para-as-desilusoes-da-realidade-cobertura-mostra-sp-2025/)*, dirigido por **Maria Clara Escobar** e pelo pernambucano **Marcelo Gomes**. Em setembro, a Academia reduzirá os candidatos a seis antes de, no dia 16 de setembro, divulgar a obra final a representar o país na categoria. A cerimônia do 99º Oscar está prevista para 14 de março de 2027.

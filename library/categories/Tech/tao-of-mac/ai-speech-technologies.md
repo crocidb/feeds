@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/ai/speech?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-25T13:20:54.627072218Z"
-seen = false
+seen = true
 +++
 
 This page is a collection of notes and links related to [AI](/space/ai) speech technologies, including Text-to-Speech (TTS), Speech-to-Text (STT), voice synthesis, voice cloning, and other related frippery in the modern [AI](/space/ai) space.

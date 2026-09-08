@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=bruner-s-spiral-curriculum"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.835660926Z"
-seen = false
+seen = true
 +++
 
 The teaching approach in which each subject or skill area is revisited at intervals, at a more sophisticated level each time. First, there is basic knowledge of a subject, then more sophistication is added, reinforcing principles that were first discussed.

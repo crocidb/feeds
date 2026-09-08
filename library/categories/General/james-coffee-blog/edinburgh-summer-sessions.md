@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/26/edinburgh-summer-sessions"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-09-01T19:33:13.068647575Z"
-seen = false
+seen = true
 +++
 
 You feel like you have joined a community in a festival line. Everyone is together, waiting for music — we all came here with a common purpose, a purpose that we can see, a purpose that we can feel. We came here because we are human. Many people are dressed up, in all colours — blues and pinks and browns and purples. Time feels amorphous — isn’t is always? — where minutes pass like seconds and seconds pass like minutes. We are all surrounded by conversation, in the tone only made possible with anticipation in the air.

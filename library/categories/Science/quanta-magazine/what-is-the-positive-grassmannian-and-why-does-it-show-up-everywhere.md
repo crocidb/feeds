@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/what-is-the-positive-grassmannian-and-why-
 author = "Janna Levin and Steven Strogatz"
 text = ""
 lastupdated = "2026-06-29T12:19:38.190887497Z"
-seen = false
+seen = true
 +++
 
 What links certain mathematical models of traffic flow, shallow-water waves, and quantum particle scattering? The surprising answer lies in a corner of the algebraic combinatorics world that goes by the name of positive Grassmannian. In simple terms, the positive Grassmannian is a shape that classifies other shapes. Remarkably, pieces of the positive Grassmannian can be reassembled in forms that…

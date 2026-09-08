@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/24/art-technology-change"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.955351745Z"
-seen = false
+seen = true
 +++
 
 When I started to study art history, I had a feeling that I may no longer spend as much time reading about and experimenting with technology. This has turned out to be true in many senses: I have spent countless hours reading textbooks and literary texts, and writing essays. I forgot how much I enjoyed writing essays.

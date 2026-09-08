@@ -6,7 +6,7 @@ url = "https://nautil.us/a-new-toad-species-emerges-from-the-la-brea-tar-pits-12
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-08-06T09:52:38.250271560Z"
-seen = false
+seen = true
 +++
 
 A paleontological leap thanks to the unusual fossilization in crude oil

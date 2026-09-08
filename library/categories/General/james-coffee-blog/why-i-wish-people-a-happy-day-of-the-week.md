@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/20/happy-day-of-the-week"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.969873723Z"
-seen = false
+seen = true
 +++
 
 *Zachary and I are trading blog post titles. Zachary has written a blog post in response to the suggested title “*[*What everyone should know about Australia*](https://zacharykai.net/notes/australia)*”. I have written my post in response to the title “Why I wish people a happy day of the week”.*

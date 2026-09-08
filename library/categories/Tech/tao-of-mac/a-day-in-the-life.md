@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/07/23/1030?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-23T22:53:07.726284533Z"
-seen = false
+seen = true
 +++
 
 It’s been a while since I wrote one of these, so I thought it would be interesting to record how miserable fascinating things have been of late – and what better time to do so and get my mind off stuff while I recover from another bout of back pain?

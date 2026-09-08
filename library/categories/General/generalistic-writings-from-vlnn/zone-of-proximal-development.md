@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=zone-of-proximal-development"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.868832527Z"
-seen = false
+seen = true
 +++
 
 The zone of proximal development is an area of learning that occurs when a person is assisted by a teacher or peer with a higher skill set

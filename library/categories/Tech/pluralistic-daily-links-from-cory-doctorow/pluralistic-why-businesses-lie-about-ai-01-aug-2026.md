@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/08/01/dare-snot/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-08-06T09:52:36.995152064Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/01Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/01/dare-snot/)

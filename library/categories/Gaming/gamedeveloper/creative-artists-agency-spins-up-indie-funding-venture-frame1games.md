@@ -5,7 +5,7 @@ date = "2026-08-24T20:43:51Z"
 url = "https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-indie-funding-venture-frame1games"
 author = "Bryant Francis"
 text = ""
-lastupdated = "2026-09-01T19:33:12.915087812Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.462738734Z"
+seen = false
 +++
 

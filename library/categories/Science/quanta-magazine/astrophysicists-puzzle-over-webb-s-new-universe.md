@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-univ
 author = "Jay Bennett"
 text = ""
 lastupdated = "2026-07-03T12:11:15.172342953Z"
-seen = false
+seen = true
 +++
 
 When Charlotte Mason ponders cosmic mysteries, she likes to doodle. “I am quite a visual person,” she said. “I usually draw a lot of pictures trying to understand what’s going on.” Mason, an astrophysicist at the Cosmic Dawn Center in Copenhagen, has lately been filling pages with sketches of “little red dots,” perplexing objects discovered by the hundreds in images from the James Webb Space…

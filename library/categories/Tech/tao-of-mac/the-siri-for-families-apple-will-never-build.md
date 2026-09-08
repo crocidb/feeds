@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/05/14/1220?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.784550223Z"
-seen = false
+seen = true
 +++
 
 The [Ternus announcement](/space/links/2026/04/21/0730) got me thinking about the one thing I keep wishing [Apple](/space/com/apple) would build and almost certainly never will: a family-scoped AI assistant that actually works across all our devices.

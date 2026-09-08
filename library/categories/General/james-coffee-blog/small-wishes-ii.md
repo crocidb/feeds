@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/04/small-wishes-ii"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-06T19:13:25.345379837Z"
-seen = false
+seen = true
 +++
 
 > [June 21st, 2026](https://jamesg.blog/2026/06/21/small-wishes) — After my coffee, a thought came to mind: I hope that one day I can see the countryside from a double-decker bus. It’s a small wish. It may never happen but I hold onto the thought any way.

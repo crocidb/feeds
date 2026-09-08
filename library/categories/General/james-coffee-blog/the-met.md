@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/03/the-met"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.680620219Z"
-seen = false
+seen = true
 +++
 
 I close my eyes and see the Great Hall. *This is where they host the Met Gala!* I can’t help but think about that when I stand and watch as tourists congregate, ask for information, and walk around to get to the exhibits they want to see. There are at least three ways you can enter the main galleries: by walking forward, past the information desk, towards the decorative arts, sculpture, and more (or, if you take the stairs, to see European Art, photography; or by going left and right, each taking you to a different era of art.

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/is-life-just-different-20260708/"
 author = "Philip Ball"
 text = ""
 lastupdated = "2026-07-09T12:05:32.584095346Z"
-seen = false
+seen = true
 +++
 
 In 1993, a team led by the planetary scientist Carl Sagan tentatively concluded that there is life on Earth. Not much of a deduction, you might think — except that the researchers confined their evidence to observations made by the Galileo spacecraft, which had flown past our planet three years earlier on a looping journey to Jupiter. So great is the transformative power of life that its presence…

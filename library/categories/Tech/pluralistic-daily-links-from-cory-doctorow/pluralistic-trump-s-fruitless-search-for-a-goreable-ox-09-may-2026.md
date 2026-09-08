@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/05/09/cossie-livvie-crissie/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-05-20T09:23:14.424649306Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/09May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/09/cossie-livvie-crissie/)

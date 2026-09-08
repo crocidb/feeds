@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.254789965Z"
-seen = false
+seen = true
 +++
 
 I believe computer science plays as integral of a part to a well-rounded liberal arts education as does mathematics and linguistics. Why? A liberal arts education is designed to help you think in new and better ways. Computer science teaches novel ways of thinking, reasoning, and approaching problems that are hard to get anywhere else.

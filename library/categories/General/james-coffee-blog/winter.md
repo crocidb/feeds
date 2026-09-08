@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/11/winter"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-16T14:36:48.226031760Z"
-seen = false
+seen = true
 +++
 
 Speaking of trains, I tell a story of Winter to my friend, of the train that stopped in the village station on an evening so cold my fellow passengers and I could see our breaths. The local pub offered refuge to all those who wanted to sit in the warmth. I wanted to feel a bit more of the cold – to see my breath; to feel all the parts of me. Anxiety warms the cold, too.

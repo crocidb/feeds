@@ -6,7 +6,7 @@ url = "https://nautil.us/heres-how-long-it-will-take-plant-life-to-die-off-compl
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-07T12:18:54.134646337Z"
-seen = false
+seen = true
 +++
 
 We’ve got some time

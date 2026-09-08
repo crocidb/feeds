@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/cursed-circuits-6-reverse-avalanche"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-07-09T12:05:17.095458863Z"
-seen = false
+seen = true
 +++
 
 Last year, I published an article titled *“It’s hard to build an oscillator”*:

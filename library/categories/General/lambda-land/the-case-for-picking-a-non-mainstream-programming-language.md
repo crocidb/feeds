@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.259747405Z"
-seen = false
+seen = true
 +++
 
 How many JavaScript developers are there? A lot. What are your odds that a given candidate is a good programmer? Not great.

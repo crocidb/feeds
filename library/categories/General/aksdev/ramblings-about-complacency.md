@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/ramblings-about-complacency/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-07-28T12:42:16.809162217Z"
-seen = false
+seen = true
 +++
 
 I'm fueled by my spite to write this incoherent rambling of a madman.

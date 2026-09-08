@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/06/i-thought-it-was-a-tire"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T21:59:24.791484950Z"
-seen = false
+seen = true
 +++
 
 *This post was written by* [*Zachary Kai*](https://zacharykai.net) *as part of Blaugust 2026.* [*Read the post I wrote about art history for Zachary's site*](https://zacharykai.net/notes/artmemories)*.*

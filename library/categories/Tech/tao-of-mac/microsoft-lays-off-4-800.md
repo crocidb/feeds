@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/07/06/1430?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-07T12:18:58.144418112Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/07/06/1430/640,480/k5lAJzfEcGlOMk-3DC--fsCPIl4=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

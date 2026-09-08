@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/07/10/1330?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-16T14:37:13.566778839Z"
-seen = false
+seen = true
 +++
 
 Remember when the internet was young, there was a finite (but quite large) set of personal sites, personal contact actually *mattered* and you had trouble keeping track of who blogged where, who you corresponded with and what their social handles were?

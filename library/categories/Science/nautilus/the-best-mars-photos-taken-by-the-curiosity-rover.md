@@ -6,7 +6,7 @@ url = "https://nautil.us/the-best-mars-photos-taken-by-the-curiosity-rover-12834
 author = "David Nield"
 text = ""
 lastupdated = "2026-08-06T21:59:29.833614332Z"
-seen = false
+seen = true
 +++
 
 We owe a lot to this 1,982-pound buggy

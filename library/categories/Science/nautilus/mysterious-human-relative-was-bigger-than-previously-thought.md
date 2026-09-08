@@ -6,7 +6,7 @@ url = "https://nautil.us/mysterious-human-relative-was-bigger-than-previously-th
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-28T12:42:37.294460632Z"
-seen = false
+seen = true
 +++
 
 *Paranthropus boisei* footprints offer clues to their size and social dynamics

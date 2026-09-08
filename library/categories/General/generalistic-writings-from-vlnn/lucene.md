@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=lucene"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.865758008Z"
-seen = false
+seen = true
 +++
 
 [Lucene](lucene.md) is a Java library for full-text search, which is used by Elasticsearch, Apache Solr, Opensearch.

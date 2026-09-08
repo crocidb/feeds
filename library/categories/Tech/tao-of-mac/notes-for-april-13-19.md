@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/04/19/1400?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-04-20T13:16:30.838030753Z"
-seen = false
+seen = true
 +++
 
 This was a pretty decent week despite my allergies having kicked in to a point where I have constant headaches, but at least I had quite a bit of fun with my projects.

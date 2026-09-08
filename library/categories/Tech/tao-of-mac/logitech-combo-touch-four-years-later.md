@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/05/23/2130?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-26T11:29:23.131391854Z"
-seen = false
+seen = true
 +++
 
 I think it’s time for an update on my iPad Pro M1 and, most importantly, the [Logitech Combo Touch](https://www.logitech.com/en-us/products/ipad-keyboards/combo-touch-ipad.html?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) I got for it. Think of it as a long term review of sorts.

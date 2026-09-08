@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/exposicao-luz-da-lingua-celebra-os-20-anos-do-m
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-08-24T15:49:14.802738433Z"
-seen = false
+seen = true
 +++
 
 O **Museu da Língua Portuguesa** abriu para o público a exposição temporária *Luz da Língua*, em cartaz de 22 de agosto a 8 de novembro de 2026, na capital paulista. A mostra comemora duas décadas de fundação da instituição cultural localizada na Estação da Luz, no centro de São Paulo (SP), revisitando a história do espaço dedicado ao patrimônio imaterial do idioma por meio de documentos originais, fotografias, instalações audiovisuais e atividades educativas.

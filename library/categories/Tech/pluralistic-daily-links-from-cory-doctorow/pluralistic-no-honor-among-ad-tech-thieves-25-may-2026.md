@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/05/25/lying-spies/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-05-26T11:29:21.829266452Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/25May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/25/lying-spies/)

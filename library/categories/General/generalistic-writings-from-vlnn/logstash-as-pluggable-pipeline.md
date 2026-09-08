@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=logstash-as-pluggable-pipeline"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.862470930Z"
-seen = false
+seen = true
 +++
 
 Every Logstash pipeline has three stages, and each stage is a slot filled by plugins: the stage contract is fixed, the implementations are swappable. Inputs receive events (a `file` plugin, a `beats` plugin, `kafka`, `http`). Filters transform them — `grok` to parse, `mutate` to rename, `date`, `drop`. Outputs ship them onward, usually via the `elasticsearch` plugin.

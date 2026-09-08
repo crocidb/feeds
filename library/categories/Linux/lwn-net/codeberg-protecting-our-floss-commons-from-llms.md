@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1084404/"
 author = "corbet"
 text = ""
 lastupdated = "2026-07-23T22:52:44.011516952Z"
-seen = false
+seen = true
 +++
 
 The Codeberg forge has adopted a pair of new policies, promising not to use hosted projects to train LLMs and, more controversially, banning the hosting of LLM-generated software. The site's blog [describes and justifies](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) these policies.

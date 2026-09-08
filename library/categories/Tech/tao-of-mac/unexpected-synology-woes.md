@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/05/15/1330?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.778536826Z"
-seen = false
+seen = true
 +++
 
 Last weekend my [DS1019+](/space/blog/2020/04/04/2310) decided, for some unfathomable reason, to stop working after I took it out of the closet, dusted it and put it back, and I have feelings about it.

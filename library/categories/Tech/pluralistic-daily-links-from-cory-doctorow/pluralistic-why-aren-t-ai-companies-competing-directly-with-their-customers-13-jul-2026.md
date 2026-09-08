@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/07/13/go-meta-meta/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-07-16T14:37:12.490840140Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/13Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/13/go-meta-meta/)

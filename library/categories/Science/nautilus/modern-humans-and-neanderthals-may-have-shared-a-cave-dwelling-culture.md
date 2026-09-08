@@ -6,7 +6,7 @@ url = "https://nautil.us/modern-humans-and-neanderthals-may-have-shared-a-cave-d
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-09T12:05:32.486708035Z"
-seen = false
+seen = true
 +++
 
 A cave in southern Türkiye is spilling its ancient secrets

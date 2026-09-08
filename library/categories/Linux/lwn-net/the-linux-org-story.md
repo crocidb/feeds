@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1082901/"
 author = "corbet"
 text = ""
 lastupdated = "2026-07-16T14:36:54.838235637Z"
-seen = false
+seen = true
 +++
 
 Rob Kennedy has [posted the story](https://www.linux.org/threads/the-linux-org-story.68810/) of the birth of [Linux.org](https://linux.org/) — one of the earliest Linux-related web sites — and its more recent rebirth.

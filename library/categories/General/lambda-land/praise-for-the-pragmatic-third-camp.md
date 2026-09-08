@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.261130511Z"
-seen = false
+seen = true
 +++
 
 Some years ago I came across [a blog post](https://josephg.com/blog/3-tribes/) that described programmers as being in one of three camps. It’s a fun, short post, so I encourage you to go read that real quick, but the gist of it is that programmers generally fall into one of three categories according to what they primarily value:

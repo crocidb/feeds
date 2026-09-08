@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=elaborative-sequencing"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.845440310Z"
-seen = false
+seen = true
 +++
 
 "...work on one topic, writing increasingly sophisticated arguments as the semester progresses"

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.230921978Z"
-seen = false
+seen = true
 +++
 
 If you ask anyone what the best Emacs packages are, you’ll almost definitely hear [Magit](https://magit.vc/) (the only Git porcelain worth using) and [Org Mode](https://orgmode.org/) (a way to organize anything and everything in plain text) listed as #1 and #2. And they’re right! I use those packages extensively every day.

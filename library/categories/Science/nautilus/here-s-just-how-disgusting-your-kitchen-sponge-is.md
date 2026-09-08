@@ -6,7 +6,7 @@ url = "https://nautil.us/heres-just-how-disgusting-your-kitchen-sponge-is-128254
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-09T12:05:32.483381564Z"
-seen = false
+seen = true
 +++
 
 There may be illness lurking just to the right of the faucet

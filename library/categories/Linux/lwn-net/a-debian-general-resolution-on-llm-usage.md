@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1085314/"
 author = "corbet"
 text = ""
 lastupdated = "2026-07-28T12:42:27.208484700Z"
-seen = false
+seen = true
 +++
 
 The Debian project is [considering a general resolution](https://www.debian.org/vote/2026/vote_002) on the use of large language models in the creation of the distribution. There are three alternatives to consider: a total ban on LLM usage, rejecting LLMs "

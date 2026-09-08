@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1087388/"
 author = "corbet"
 text = ""
 lastupdated = "2026-08-06T09:52:34.742365362Z"
-seen = false
+seen = true
 +++
 
 Konstantin Ryabitsev has announced the release of version 0.16.0 of the [b4](https://b4.docs.kernel.org/en/latest/) software-development tool. The biggest change is the addition of bug-tracking support:

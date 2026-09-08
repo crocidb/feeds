@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/airport_utility?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.169921046Z"
-seen = false
+seen = true
 +++
 
 Apple is [removing AirPort Utility](/space/links/2026/06/24/0725) from iOS 27 and macOS Golden Gate, eight years after discontinuing the hardware it manages. That is an unusually long run, but it still leaves working [AirPort Express](/space/com/apple/airport/express), [AirPort Extreme](/space/com/apple/airport/extreme) and [Time Capsule](/space/com/apple/time_capsule) devices without Apple’s configuration software.

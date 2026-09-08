@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/24/first-moments"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.953770105Z"
-seen = false
+seen = true
 +++
 
 When I got out of bed this morning, I felt a chill from the autumn air that had been flowing through the room since yesterday evening. The air was cooled by midnight and would soon be warmed by the burgeoning sun rising over the hills. The seasons are changing. I can feel it.

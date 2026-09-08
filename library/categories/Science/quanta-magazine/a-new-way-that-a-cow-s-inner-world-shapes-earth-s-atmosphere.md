@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/a-new-way-that-a-cows-inner-world-shapes-e
 author = "Marlowe Starling"
 text = ""
 lastupdated = "2026-07-28T12:42:37.374220414Z"
-seen = false
+seen = true
 +++
 
 Within every cow is a thriving ecosystem. Churning deep in its intestines, a massive fermentation chamber known as the rumen hosts a robust microbiome that can consume up to 100 pounds of feed daily. Inside this gut pouch, tens of millions of bacteria scavenge for scraps of fiber, starch, and other nutrients, and break down cellulose and proteins. They get a hand from microbial fungi…

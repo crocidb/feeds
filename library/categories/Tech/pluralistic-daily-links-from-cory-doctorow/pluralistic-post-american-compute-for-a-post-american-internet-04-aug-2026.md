@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/08/04/technology-freedom-cooperative/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-08-06T09:52:36.983076871Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/04Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/04/technology-freedom-cooperative/)

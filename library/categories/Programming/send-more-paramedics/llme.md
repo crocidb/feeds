@@ -6,7 +6,7 @@ url = "https://blog.fogus.me/meta/LLMe/"
 author = "fogus"
 text = ""
 lastupdated = "2026-03-18T22:16:02.352165648Z"
-seen = false
+seen = true
 +++
 
 Whereby I talk about why LLMs have not yet helped me terribly much in my work...

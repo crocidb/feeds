@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=how-this-site-works"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.908334724Z"
-seen = false
+seen = true
 +++
 
 This site is a pile of plain text files pretending to be an app. Notes live as raw `.org` **and** `.md` files; your browser fetches the file and renders it with [uniorg](https://github.com/rasendubi/uniorg) or remark. The only thing computed ahead of time is `index.json` — titles and the link graph, because backlinks are a global property no single file can know about itself.

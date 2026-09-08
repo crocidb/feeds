@@ -6,7 +6,7 @@ url = "https://nautil.us/why-longevity-research-should-focus-on-women-1283406/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-06T21:59:29.830463099Z"
-seen = false
+seen = true
 +++
 
 Long live the queens

@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/11/joys"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-16T14:36:48.234391377Z"
-seen = false
+seen = true
 +++
 
 Here are a few moments that have brought me joy and have written down while wandering through the world.

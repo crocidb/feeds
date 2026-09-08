@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/18/the-poet-le-poete-by-picasso"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.977423530Z"
-seen = false
+seen = true
 +++
 
 When I was looking for a painting to share with someone to do an art writing exchange – where we each write about a painting we choose for each other – there was one painting that stood out to me that I wanted to analyse: Picasso’s [The Poet (Le Poète)](https://www.guggenheim.org/artwork/3429). The painting, in Cubist style, was cryptic at first but, after reading the description, studying the painting, and talking through the work with a friend (thanks [Naty](https://burgeonlab.com/)!), I became ever more curious and wanted to write my thoughts.

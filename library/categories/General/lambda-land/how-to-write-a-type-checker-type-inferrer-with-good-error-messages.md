@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.279956508Z"
-seen = false
+seen = true
 +++
 
 This is an experimental type checker/inferer for a simple lambda calculus. All the source for this may be found on my [Codeberg repository](https://codeberg.org/ashton314/type-error-research).

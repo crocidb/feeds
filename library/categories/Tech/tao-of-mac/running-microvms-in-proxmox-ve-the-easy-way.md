@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/06/18/1845?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.714573426Z"
-seen = false
+seen = true
 +++
 
 I’ve been running a mixed [Proxmox](/space/os/linux/distributions/proxmox) cluster for years – four nodes of wildly different capability, from an Atom x5-Z8350 with 2 GB of RAM (a [`z83ii`](/space/blog/2017/12/03/2130), currently offline after years of faithful service as a baseline torture device) up to an i7-12700 with 128 GB ([`borg`](/space/blog/2023/02/18/1845), my main homelab server).

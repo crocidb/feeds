@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/05/how-do-i-know-the-system-is-working"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-06T19:13:25.330577370Z"
-seen = false
+seen = true
 +++
 
 A few weeks ago, I received a bug report for Artemis that indicated a user’s reader was not being updated as expected. This error was caused by a feed that caused the polling code to error out and stop. My code assumed a value was present and, if it wasn’t, the program would stop running.

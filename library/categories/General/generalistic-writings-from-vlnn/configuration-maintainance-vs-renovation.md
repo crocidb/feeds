@@ -6,10 +6,10 @@ url = "https://vlnn.dev/2022-10-11-maintainance-of-configurations-before-it-come
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-07-22T09:21:11.521849427Z"
-seen = false
+seen = true
 +++
 
- It’s astonishing how much time it takes to support things that are already working. E.g. every upgrade of [Doom Emacs](https://github.com/doomemacs/doomemacs/) (which I **love** to use but hate to tinker with) is about several things at once:
+It’s astonishing how much time it takes to support things that are already working. E.g. every upgrade of [Doom Emacs](https://github.com/doomemacs/doomemacs/) (which I **love** to use but hate to tinker with) is about several things at once:
 
 1. Upgrade itself e.g. `doom upgrade` and fixing stuff if something goes wrong. It usually does need a bit of research to find out how to fix it. Would be nice to have `doom rollback` working, but it’s impossible as of now.
 2. Manually check if upgrade broke something: I use several different “stacks” in my setup, e.g. a bit of org, clojure, common lisp, C# from time to time, dictionaries, org agenda. This is one of most time consuming and unpredictible part of the upgrade; it’s not automated and I’m not sure if it’s ever will be; you never sure everything is tested; you have to try it against your real work.

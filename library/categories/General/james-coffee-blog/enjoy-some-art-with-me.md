@@ -5,8 +5,8 @@ date = "2026-08-31T00:00:00Z"
 url = "https://jamesg.blog/2026/08/31/enjoy-some-art-with-me"
 author = "with words, wonder"
 text = ""
-lastupdated = "2026-09-01T19:33:13.044769307Z"
-seen = false
+lastupdated = "2026-09-03T13:15:07.845259508Z"
+seen = true
 +++
 
 Throughout August I have written a few blog posts about paintings ([example](https://jamesg.blog/2026/08/18/the-hay-wain-by-john-constable)). When I have written these posts, I have [looked closely](https://www.tate.org.uk/art/guide-slow-looking) at a digital or pained photograph of a painting and written my impressions, sometimes with contextual background that I have researched.

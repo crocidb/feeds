@@ -6,7 +6,7 @@ url = "https://nautil.us/omniscient-tree-networks-immortal-amoebas-and-hope-1283
 author = "Liz Greene"
 text = ""
 lastupdated = "2026-07-28T20:39:57.289181722Z"
-seen = false
+seen = true
 +++
 
 9 books we’re excited to read this August

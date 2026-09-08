@@ -5,7 +5,7 @@ date = "2026-08-19T13:43:14Z"
 url = "https://www.gamedeveloper.com/business/report-playstation-reworks-horizon-live-service-game-after-negative-feedback"
 author = "Diego Argüello"
 text = ""
-lastupdated = "2026-08-24T15:49:14.185839458Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.475082464Z"
+seen = false
 +++
 

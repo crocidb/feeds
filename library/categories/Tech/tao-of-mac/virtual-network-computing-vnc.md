@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/protocols/vnc?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-01T21:30:51.383242310Z"
-seen = false
+seen = true
 +++
 
 Probably the most useful Open Source tool of all (ok, maybe [SSH](/space/cli/ssh) is more useful), [VNC](/space/protocols/vnc) was originally created by the AT&T Research facility in Cambridge and is a remote display protocol that, despite being rather inefficient (something modern forks try to improve upon, but certainly still less than [RDP](/space/protocols/rdp), has the advantage of being very simple and require only very light clients (the [Windows](/space/com/microsoft/windows) binary is contained within just 230KB, and [Java](/space/dev/java) implementations can be downloaded on-the-fly from any browser).

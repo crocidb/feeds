@@ -5,7 +5,7 @@ date = "2026-08-24T12:12:00Z"
 url = "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
-lastupdated = "2026-08-24T15:49:16.024689159Z"
+lastupdated = "2026-09-03T13:15:07.767510029Z"
 seen = false
 +++
 
@@ -161,7 +161,7 @@ With the data provided by [*TeleGeography*’s *Submarine Cable Map*](https://ww
 
 **Note:** These figures are derived from the public *Submarine Cable Map* data, counting both, systems already in service, and those still planned or under construction (603 of the former, 91 of the latter, at the time of writing). The `owners` field is free-form text, so a few owners turn up under more than one spelling, and I had to do a little manual untangling of company names.
 
-What jumps out, at least to me, is the name sitting right at the top. For most of the history of this infrastructure the owners were telephone companies, the \_BT\_s and \_AT&T\_s and \_NTT\_s of the world, laying cables to carry one another’s calls and, later, traffic. *Google* now has a stake in more submarine cables than any traditional carrier on the planet, with *Meta* not far behind, and *Microsoft* and *Amazon* both slowly accumulating their own share. The companies that fill those cables with traffic have, over the past decade or so, decided that they would rather own the pipes than rent them.
+What jumps out, at least to me, is the name sitting right at the top. For most of the history of this infrastructure the owners were telephone companies, the *BTs* and *AT&Ts* and *NTTs* of the world, laying cables to carry one another’s calls and, later, traffic. *Google* now has a stake in more submarine cables than any traditional carrier on the planet, with *Meta* not far behind, and *Microsoft* and *Amazon* both slowly accumulating their own share. The companies that fill those cables with traffic have, over the past decade or so, decided that they would rather own the pipes than rent them.
 
 The other thing the numbers tell you is just how long the tail is. Of those 473 owners, some 260 appear on exactly one cable, and more than 340 of them, north of seventy percent, on no more than two. These are the world’s national telecoms, each one buying a slice of the handful of consortium cables that happen to land on its particular stretch of coast, which is also why so many of the big international systems list a dozen or more co-owners apiece. The internet, seen from this angle, is less of a single network and more of a mix of local operators, all chipping in for a share of the same few very expensive ropes across the ocean.
 

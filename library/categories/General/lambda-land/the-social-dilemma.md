@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.309769996Z"
-seen = false
+seen = true
 +++
 
 I just finished watching [The Social Dilemma](https://www.thesocialdilemma.com/), and here’s my hot take: *The Social Dilemma* is an emotive, accessible introduction to problems that, without exaggeration, pose an existential threat to life as we know it. If you can, watch it.

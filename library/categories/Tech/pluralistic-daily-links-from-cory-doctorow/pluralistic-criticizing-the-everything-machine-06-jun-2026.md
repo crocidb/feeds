@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/06/06/applied-counterescatology/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-06-06T20:40:24.022118402Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/06Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/06/applied-counterescatology/)

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/06/04/1222?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-06T15:22:27.762039460Z"
-seen = false
+seen = true
 +++
 
 Since today is a bank holiday for me, I decided to consolidate a few more of my notes into a post. What follows is a set of guiding “principles” that I’ve found useful over the past year or so and that I’ve codified into various bits of scaffolding I reuse across my projects.

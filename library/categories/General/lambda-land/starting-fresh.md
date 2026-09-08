@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.323700614Z"
-seen = false
+seen = true
 +++
 
 I’ve been building a [compiler](https://github.com/ashton314/lambda-x86) for a small lambda calculus that compiles to x86. It’s pretty broken, and I decided to start from scratch. I checked out a new branch in Git, and then **deleted** the entirety of my compiler before I had a chance to do anything else.

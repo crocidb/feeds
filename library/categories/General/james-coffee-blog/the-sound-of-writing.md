@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/07/the-sound-of-writing"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-10T12:13:28.472790051Z"
-seen = false
+seen = true
 +++
 
 Writing is a sample of the sonorous inner monologue of life: a handful of the words that seem to mean something; that carry with them weight: greeting, friendship, questions, realisations, hopes, dreams, anxieties; sounds that carry life, and how we use language to coalesce all that we take in, transforming our ideas into something others can read in their own voices.

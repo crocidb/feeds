@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/07/07/going-global/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-07-09T12:05:35.468424917Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/07Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/07/going-global/)

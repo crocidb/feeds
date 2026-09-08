@@ -6,10 +6,10 @@ url = "https://vlnn.dev/2022-10-12-daylight-lamp:-first-day.html"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-07-22T09:21:11.513814615Z"
-seen = false
+seen = true
 +++
 
- I’ve bought a daylight lamp and not sure about it.
+I’ve bought a daylight lamp and not sure about it.
 
  The idea beside this product is that if human being has less daylight than usual due to bad weather or wrong lifestyle, they may use artificial light source with the spectrum of emission that is similar to natural sunlight. Moreover, it may be constructed in such a way, that no harmful UV radiation is created. And, of course, but companies decided that it’s time to make a big buck selling cheap lamps. Let’s see how it goes.
 

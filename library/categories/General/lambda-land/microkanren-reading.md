@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.284235939Z"
-seen = false
+seen = true
 +++
 
 μKanren (“micro-Kanren”) is a tiny, embeddable logic programming language. It’s easy to understand and implement in almost any language. It’s a great case study of an embedded language: unlike other common “embedded” languages like SQL or regex, which normally are represented as just plain-old strings, μKanren takes more advantage of the host language’s features.

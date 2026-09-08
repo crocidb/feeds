@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=smalltalk-best-practices-patterns"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.887234445Z"
-seen = false
+seen = true
 +++
 
 ![](../static/brain/smalltalk-best-practices-patterns/86e0d31e-f92b-4c9c-bbf9-22367ae879a0.png)

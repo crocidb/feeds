@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/20/re-my-perfect-laptop"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.968457774Z"
-seen = false
+seen = true
 +++
 
 The Macbook Air in [Carlos](https://carlosacollazo.com/re-my-perfect-laptop/)‘ response to Michael’s post “[My perfect laptop](https://michaelharley.net/posts/2026/08/17/my-perfect-laptop/)” caught my eye as soon as I saw it. The Macbook (which I will refer to as a “Mac” going forward) in the blog post looks similar to my first Mac. I originally wanted a Mac because I had been following [CS193p](https://jamesg.blog/2023/04/15/cs193p) on YouTube and I wanted to build something along with the course. When I got a Mac I didn’t end up following the course, but my love for programming – specifically for the web – continued to bloom.

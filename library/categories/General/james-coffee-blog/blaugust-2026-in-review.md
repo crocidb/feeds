@@ -5,8 +5,8 @@ date = "2026-08-31T00:00:00Z"
 url = "https://jamesg.blog/2026/08/31/blaugust-2026-in-review"
 author = "with words, wonder"
 text = ""
-lastupdated = "2026-09-01T19:33:13.048963081Z"
-seen = false
+lastupdated = "2026-09-03T13:15:07.848467836Z"
+seen = true
 +++
 
 I am sitting with a cup of tea by my side as I have been on many mornings this month. This morning, my tea cup, instead of being precariously balanced on the arm of the chair, rests between the right arm of the chair and my right leg, keeping me warm. I love being cosy.

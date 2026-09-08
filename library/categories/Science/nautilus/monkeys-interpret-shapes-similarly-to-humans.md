@@ -6,7 +6,7 @@ url = "https://nautil.us/monkeys-interpret-shapes-similarly-to-humans-1282814/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-21T09:20:05.201461717Z"
-seen = false
+seen = true
 +++
 
 The continuum of geometric intuition from people to other primates

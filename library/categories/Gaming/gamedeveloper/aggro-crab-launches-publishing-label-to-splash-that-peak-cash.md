@@ -5,7 +5,7 @@ date = "2026-09-01T17:02:48Z"
 url = "https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-label-to-splash-that-peak-cash"
 author = "Chris Kerr"
 text = ""
-lastupdated = "2026-09-01T19:33:12.873705378Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.427939170Z"
+seen = false
 +++
 

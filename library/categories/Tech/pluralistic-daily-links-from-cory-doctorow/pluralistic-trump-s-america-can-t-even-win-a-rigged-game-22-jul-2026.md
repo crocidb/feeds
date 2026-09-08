@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/07/22/table-flipper/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-07-22T09:22:44.143439684Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/22Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/22/table-flipper/)

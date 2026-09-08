@@ -5,8 +5,8 @@ date = "2026-08-31T00:00:00Z"
 url = "https://jamesg.blog/2026/08/31/chinese-idioms-guest-post"
 author = "with words, wonder"
 text = ""
-lastupdated = "2026-09-01T19:33:13.046873674Z"
-seen = false
+lastupdated = "2026-09-03T13:15:07.846824267Z"
+seen = true
 +++
 
 *One of the options for the Blaugust Community Award is to write a guest post for another blogger. Zachary and I wrote guest posts for each other's sites earlier in the month. Today I have the pleasure of* [*Naty*](https://burgeonlab.com) *publishing a guest post here. The topic is Chinese idioms. Herebelow is Naty's post. – James*

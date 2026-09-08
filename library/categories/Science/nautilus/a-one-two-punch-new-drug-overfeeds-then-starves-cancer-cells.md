@@ -6,7 +6,7 @@ url = "https://nautil.us/a-one-two-punch-new-drug-overfeeds-then-starves-cancer-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-06T21:59:29.825590452Z"
-seen = false
+seen = true
 +++
 
 The two-step process could help fight other diseases as well

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.216471934Z"
-seen = false
+seen = true
 +++
 
 We’re going to be writing a [BF](https://en.wikipedia.org/wiki/Brainfuck) compiler for a class I’m in. Last night I threw together a little interpreter for the program in about an hour; it doesn’t do input—that should be easy to add—but it’s enough to handle [some benchmarks](https://github.com/cwfitzgerald/brainfuck-benchmark) for the language, albeit slowly. You can see my repository [on Codeberg](https://codeberg.org/ashton314/brainfreeze) for the source code.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/teresa-cristina-assina-a-letra-do-seu-brasil-em
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-08-24T15:49:14.808694980Z"
-seen = false
+seen = true
 +++
 
 ##### **Foto: Nana Moraes/Divulgação** #####

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-avocados-that-may-save-us-from-a-guacamole-apocalyp
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-23T22:53:02.414147610Z"
-seen = false
+seen = true
 +++
 
 Tracing the roots of diversity in the coveted fruit in Central America

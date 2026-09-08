@@ -6,7 +6,7 @@ url = "https://nautil.us/where-was-your-backyard-145-million-years-ago-1283084/"
 author = "David Nield"
 text = ""
 lastupdated = "2026-07-28T12:42:37.292562294Z"
-seen = false
+seen = true
 +++
 
 Your patch of turf might have traveled farther than you think

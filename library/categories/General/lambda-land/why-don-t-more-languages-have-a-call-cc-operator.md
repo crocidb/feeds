@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.242507057Z"
-seen = false
+seen = true
 +++
 
 Something I’ve wondered about for a little while: why don’t more languages have a [`call/cc`](https://en.wikipedia.org/wiki/Call-with-current-continuation) operator? Having [first-class continuations](/posts/2022-11-17_continutations/) in your programming language gives your programmers a powerful construct. So why do only a handful of languages have it?

@@ -6,7 +6,7 @@ url = "https://nautil.us/what-satellite-photos-of-penguin-poop-tell-us-about-ear
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-21T09:20:05.204382762Z"
-seen = false
+seen = true
 +++
 
 Climate change is painting with an Adélie penguin palette on Antarctic ice floes

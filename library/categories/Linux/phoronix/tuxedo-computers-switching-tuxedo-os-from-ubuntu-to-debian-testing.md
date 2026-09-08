@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/TUXEDO-Computers-Goes-Debian"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-07T12:31:21.076477060Z"
-seen = false
+seen = true
 +++
 
 Bavarian Linux PC vendor TUXEDO Computers announced they are switching from Ubuntu to Debian as the base for their TUXEDO OS platform...

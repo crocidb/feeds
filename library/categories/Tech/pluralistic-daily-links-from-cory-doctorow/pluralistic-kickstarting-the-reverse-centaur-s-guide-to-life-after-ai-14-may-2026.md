@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/05/14/who-it-does-it-for/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-05-20T09:23:14.404045437Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/14May2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/05/14/who-it-does-it-for/)

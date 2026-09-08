@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/08/06/sin-is-when/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-08-06T21:59:30.551159559Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/06Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/06/sin-is-when/)

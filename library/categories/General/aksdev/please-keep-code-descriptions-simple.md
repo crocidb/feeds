@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/please-keep-code-descriptions-simple/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-06-29T12:19:23.298808596Z"
-seen = false
+seen = true
 +++
 
 Just something I experience more and more these days.

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/07/21/1430?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-22T09:22:44.970301468Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/07/21/1430/640,480/tNSpVyZbVzOJ6RofJFD2EQf7k3U=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://ishmael.textualize.io/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

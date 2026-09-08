@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/27/moods-places-translations"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-09-01T19:33:13.063973095Z"
-seen = false
+seen = true
 +++
 
 I was listening to Lorde’s *Melodrama*, an album I haven’t listened to for some time. Her music continues to echo through my week. It is hard to believe that I got to see her perform live a few days ago; the electricity of the performance still sticks with me: the moments we all sung with all the passion we had.

@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.238743252Z"
-seen = false
+seen = true
 +++
 
 Somewhere in my adolescence I got stuck with the notion that functional languages were slow while languages like C were fast. Now, a good C programmer can eke more performance out of their code than probably anyone else, but the cost you pay to keep your code correct goes exponential as you get closer and closer to the machine.

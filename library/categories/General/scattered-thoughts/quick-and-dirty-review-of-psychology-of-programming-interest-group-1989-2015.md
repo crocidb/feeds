@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/qnd-review-of-ppig-1989-2015/"
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.279800539Z"
-seen = false
+seen = true
 +++
 

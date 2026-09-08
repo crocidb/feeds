@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/yayoi-kusama-artista-japonesa-morre-aos-97-anos
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-01T19:33:13.216972301Z"
-seen = false
+seen = true
 +++
 
 Yayoi Kusama, artista plástica japonesa famosa por suas obras psicodélicas e cheias de bolinhas, morreu no dia 14 de agosto, segundo nota postada nesta quinta-feira (27) pelo Museu Yayoi Kusama e pela Fundação Yayoi Kusama, aos 97 anos. Kusama vivia em uma instituição psiquiátrica, onde se internou voluntariamente em 1977, e faleceu em um hospital de Tóquio.

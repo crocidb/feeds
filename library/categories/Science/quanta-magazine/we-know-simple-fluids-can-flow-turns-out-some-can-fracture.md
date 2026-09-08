@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-s
 author = "Rohini Subrahmanyam"
 text = ""
 lastupdated = "2026-07-16T14:37:07.368121812Z"
-seen = false
+seen = true
 +++
 
 Thamires Lima, a research professor in chemical engineering at Drexel University, studies the properties of thick, viscous liquids — think honey or molasses, though in a lab you’re more likely to find polypropylene or crude oil. Using a method called extensional rheology, Lima stretches liquids between metal plates to find the force that makes them flow. A few years ago, she was conducting a…

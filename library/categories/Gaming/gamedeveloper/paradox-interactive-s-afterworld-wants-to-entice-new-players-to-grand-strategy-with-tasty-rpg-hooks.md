@@ -5,7 +5,7 @@ date = "2026-09-01T13:00:00Z"
 url = "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks"
 author = "Alessandro Fillari"
 text = ""
-lastupdated = "2026-09-01T19:33:12.876451223Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.430595688Z"
+seen = false
 +++
 

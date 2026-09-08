@@ -6,7 +6,7 @@ url = "https://nautil.us/frequent-cannabis-use-linked-to-higher-morning-stress-h
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-28T12:42:37.296362771Z"
-seen = false
+seen = true
 +++
 
 Your destressers could actually be stressing you out

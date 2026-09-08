@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/04/15/artificial-lifeforms/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-04-15T10:43:17.039806866Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/15Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/15/artificial-lifeforms/)

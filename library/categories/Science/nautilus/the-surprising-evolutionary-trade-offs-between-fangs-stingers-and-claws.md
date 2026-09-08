@@ -6,7 +6,7 @@ url = "https://nautil.us/the-surprising-evolutionary-trade-offs-between-fangs-st
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-09T12:05:32.469764101Z"
-seen = false
+seen = true
 +++
 
 The science behind nature’s different puncture tools

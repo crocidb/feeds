@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.288285848Z"
-seen = false
+seen = true
 +++
 
 It’s my first Christmas being a dad. The end of the school semester was unusually stressful; I didn’t have much time or energy to anticipate Christmas. But I’ve felt a marked lack of eagerness for *getting* presents. That feeling wanes each year—something I’m grateful for—but this year I only felt an eagerness for a time of peace and celebration with my family. Peaceful it has been.

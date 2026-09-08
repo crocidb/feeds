@@ -6,7 +6,7 @@ url = "https://nautil.us/a-dead-coral-reef-found-thriving-off-the-coast-of-afric
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-22T09:22:42.079089105Z"
-seen = false
+seen = true
 +++
 
 Scientists in the 1960s thought the ecosystem was lifeless

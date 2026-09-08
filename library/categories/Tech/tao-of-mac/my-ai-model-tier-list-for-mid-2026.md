@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/07/11/1500?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-16T14:37:13.563529243Z"
-seen = false
+seen = true
 +++
 
 Since the US has decided, in a bout of Cold War nostalgia, to bring back the years when encryption counted as a munition (if you’re reading this in the far future when we have cheap RAM, both Fable and GPT 5.6 were, for a bit, subject to the whims of red tape), I spent a little time taking stock of what was left to us here in Europe and whether any of it actually works.

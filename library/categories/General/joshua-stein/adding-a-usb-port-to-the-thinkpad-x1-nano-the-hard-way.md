@@ -6,7 +6,7 @@ url = "https://jcs.org/2024/05/29/x1usb"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.655795014Z"
-seen = false
+seen = true
 +++
 
 I wanted to add an internal USB port to my [ThinkPad X1 Nano](/2021/01/27/x1nano) which should have been a fairly easy thing to do, but it wasn't.

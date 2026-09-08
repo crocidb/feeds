@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-05-20T09:23:04.060811088Z"
-seen = true
+seen = false
 +++
 
 **Disclaimer:** This is an opinion piece and it is the result of years of watching the same pattern play out in different industries, and sort of running out of patience. If you are one of the people doing honest, careful work in a field that no longer rewards it, this post is for you. However, if you are one of the people I am about to describe, then you probably already know who you are and you might want to keep on reading nevertheless. The [tl;dr](#summary) is at the bottom.

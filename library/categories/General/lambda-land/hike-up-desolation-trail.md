@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.250783657Z"
-seen = false
+seen = true
 +++
 
 I hiked up Desolation Trail with [Scott Wiersdorf](https://solitum.net/). It had rained a little bit the night before, so the trail was neither dusty nor muddy—perfect for hiking.

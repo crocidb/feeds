@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/02/august"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.685856125Z"
-seen = false
+seen = true
 +++
 
 The sun shines through the silvery sky. I look up and around to see where blue might peek through the blanket that covers the sky. There is one space where I can see shades of blue through the silver. I think about how the sky invites me to look up, and then around: to be curious. What can I see today? I do this in all seasons and skies. On the warmest summer days, my eyes focus on the contrast between the green hills and the blue skies. On the coolest, clearest winter days, where the beauty of the clear sky warms the heart despite the cold, I search to see if I can spot a cloud. What can I see today?

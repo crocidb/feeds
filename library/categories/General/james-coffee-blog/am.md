@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/03/am"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.683189667Z"
-seen = false
+seen = true
 +++
 
 The shortest words —  

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/06/25/0717?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.663453035Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/06/25/0717/640,480/xBowFTAgQjm4C8RF1atGDZV9ms4=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://jrainimo.com/build/2026/05/t9/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

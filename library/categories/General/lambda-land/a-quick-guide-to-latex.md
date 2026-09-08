@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.202380675Z"
-seen = false
+seen = true
 +++
 
 LaTeX is a powerful typesetting system hamstrung by a few decades-old decisions and some… *ahem…* questionable design decisions. Nevertheless, its ability to typeset technical documents remains unmatched, and it enjoys wide support across STEM fields. Learning LaTeX is a worthy use of your time, if you intend to pursue a career in science.

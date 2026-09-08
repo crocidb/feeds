@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=hnsw-graphs"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.851152916Z"
-seen = false
+seen = true
 +++
 
 Hierarchical Navigable Small World graph is a data structure for nearest-neighbor search:

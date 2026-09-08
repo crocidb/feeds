@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=antiprogress-of-the-dropbox"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.920966256Z"
-seen = false
+seen = true
 +++
 
 Not that long time ago (or was it long time? 10 years ago or so?) [Dropbox](https://www.dropbox.com) was the new kind of the services -- very simple, very cheap, very direct kind of service. You want to share the photo or your hipster `todo.txt`, you put it in a special folder and that's it: it will be delivered automatically to everybody whom you informed the link, or to every PC where Dropbox is running under your creds. That's it! Super easy, super cool!

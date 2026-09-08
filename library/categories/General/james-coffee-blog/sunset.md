@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/14/sunset"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-16T14:36:48.217502911Z"
-seen = false
+seen = true
 +++
 
 The valley, almost invisible. The most intense degree of aerial perspective whitens the distance below the sun. Looking through the trees I see haze. The hills fade into the ether. The occasional contour of a tree in the distance is visible. *I have never seen a sunset like the one I have seen this evening.*

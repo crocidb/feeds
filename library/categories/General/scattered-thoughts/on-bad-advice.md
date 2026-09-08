@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/on-bad-advice/"
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.193060400Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/search-trees-and-core-dot-logi
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.290848491Z"
-seen = false
+seen = true
 +++
 

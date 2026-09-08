@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/26/bookshelves"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-28T12:42:18.679918005Z"
-seen = false
+seen = true
 +++
 
 I woke early — it has been warm lately. It is strange how you can find a burst of energy at 5am, but today it came, for I decided to organise my bookshelves, sorting what books I am ready to donate to the local charity shop.

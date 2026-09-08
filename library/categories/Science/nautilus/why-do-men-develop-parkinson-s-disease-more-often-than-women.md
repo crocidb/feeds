@@ -6,7 +6,7 @@ url = "https://nautil.us/why-do-men-develop-parkinsons-disease-more-often-than-w
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-09T12:05:32.463212099Z"
-seen = false
+seen = true
 +++
 
 Differing gene expression patterns could be to blame

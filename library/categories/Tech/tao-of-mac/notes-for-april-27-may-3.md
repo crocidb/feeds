@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/05/03/2200?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-05T08:25:09.929714407Z"
-seen = false
+seen = true
 +++
 
 This was an absurdly productive week, at least on a personal level. I’m not sure whether to be pleased or worried about the number of projects that moved forward simultaneously, but here we are.

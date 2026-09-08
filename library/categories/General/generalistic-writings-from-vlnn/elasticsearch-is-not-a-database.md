@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=elasticsearch-is-not-a-database"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.846788769Z"
-seen = false
+seen = true
 +++
 
 Elasticsearch is not a database, but a distributed search engine, pretty much host of [inverted indexes](inverted-index.md) for text and keywords lookups.

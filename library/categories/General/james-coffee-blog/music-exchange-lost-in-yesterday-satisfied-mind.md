@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/28/lost-in-yesterday-satisfied-mind"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-09-01T19:33:13.061073738Z"
-seen = false
+seen = true
 +++
 
 *V.H. and I are doing a music exchange where we shared three songs with each other and we each chose one to write about. I chose “Lost in Yesterday” by Tame Impala. Due to a curious technical issue – ahem, Apple Music, please design your permalinks more clearly, and make it clear what song they point to when you open the Apple Music interface – “Lost in Yesterday” was not actually an option: V.H. had intended “Breathe Deeper” from the same album to be one of the choices. With that said, we decided to stick with “Lost in Yesterday” as my contribution. This page shows both of our contributions.* [*You can also read this page (with a different preface) on V.H.’s website*](https://vhbelvadi.com/track-exchange-01)*.*

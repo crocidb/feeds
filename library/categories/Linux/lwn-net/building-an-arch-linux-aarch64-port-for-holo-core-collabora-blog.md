@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1083392/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-18T14:48:09.899982237Z"
-seen = false
+seen = true
 +++
 
 Collabora has published a [blog post](https://www.collabora.com/news-and-blog/news-and-events/building-an-arch-linux-aarch64-port-for-holo-core.html) about its work with Valve on Holo Core, which is a port of Arch Linux to aarch64 to be used as the the operating system on Valve's 64-bit Arm Steam Frame gaming system. Collabora has released the [sources](https://gitlab.steamos.cloud/holo/holo-core-aarch64-preview), [binary packages](https://steamdeck-packages.steamos.cloud/holo-core-aarch64-preview/mash-20251118.3/), and a container image for aarch64 devices. The post describes some of the challenges in porting Arch Linux to a new architecture, and what remains to be done:

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notices/2026/08/01/1130?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.191886824Z"
-seen = false
+seen = true
 +++
 
 After a month of testing, I’ve cut over the site engine to my new [Go](/space/dev/golang)-based generator, which lives almost entirely inside GitHub Actions and uses a rather convoluted process to minimize the number of moving parts and dependencies.

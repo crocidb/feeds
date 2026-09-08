@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/07/02/2200?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-03T12:11:18.796932722Z"
-seen = false
+seen = true
 +++
 
 Even as my colleagues around Europe complain of a heat wave, things have been pretty much normal here–35<sup>o</sup>C outside, 27-ish inside, made tolerable only by the fact that I have minimized the number of active devices in my office (where the hottest things are probably my monitors and the ageing [Surface Pro 3](/space/links/2014/09/09/0706) that I use at my standing desk).

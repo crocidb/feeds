@@ -5,8 +5,8 @@ date = "2026-08-10T22:00:00Z"
 url = "https://entropicthoughts.com/fft"
 author = "a@xkqr.org (kqr)"
 text = ""
-lastupdated = "2026-08-24T15:49:13.768428319Z"
-seen = false
+lastupdated = "2026-09-03T13:15:06.003581417Z"
+seen = true
 +++
 
 I have never done any time–frequency transformations. I understand the general idea, but I have never worked with the details. Today I had a reason to use it, but that means learning the basics first.

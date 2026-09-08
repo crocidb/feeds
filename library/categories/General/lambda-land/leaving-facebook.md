@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.341591309Z"
-seen = false
+seen = true
 +++
 
 *Deutsche Übersetzung folgt.*

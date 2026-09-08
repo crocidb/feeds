@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/cursed-circuits-capacitance-multiplier"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-07-06T19:13:26.175623169Z"
-seen = false
+seen = true
 +++
 
 Electronic circuit theory is a [frequent theme](https://lcamtuf.substack.com/p/electronics-curriculum) on this blog. As a part of this *sorta-*curriculum, I published a number of articles about operational amplifiers. I keep coming back to this topic for two reasons. First, I think these components are usually explained poorly, making them a major stumbling block for folks trying to learn the craft. Second, op-amps have gotten really good, inexpensive, and small, so I think they should be used more.

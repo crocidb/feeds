@@ -6,7 +6,7 @@ url = "https://nautil.us/why-are-we-using-machines-to-study-our-inner-lives-1282
 author = "Julie Sedivy"
 text = ""
 lastupdated = "2026-07-22T09:22:42.064996771Z"
-seen = false
+seen = true
 +++
 
 Increasingly scientists are testing chatbots rather than humans in experiments

@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=programming-style"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.904243066Z"
-seen = false
+seen = true
 +++
 
 Reading ["K: Remarks on Style"](https://nsl.com/papers/style.pdf) I've found great quote on great book I've never liked:

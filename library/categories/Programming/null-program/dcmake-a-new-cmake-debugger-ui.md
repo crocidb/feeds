@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/04/07/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-04-10T10:24:02.585956263Z"
-seen = false
+seen = true
 +++
 
 CMake has a [`--debugger` mode](https://cmake.org/cmake/help/latest/manual/cmake.1.html#cmdoption-cmake-debugger) since [3.27](https://cmake.org/cmake/help/latest/release/3.27.html#debugger) (July 2023), allowing software to manipulate it interactively through the [Debugger Adaptor Protocol](https://microsoft.github.io/debug-adapter-protocol/) (DAP), an HTTP-like protocol passing JSON messages. Debugger front-ends can start, stop, step, breakpoint, query variables, etc. a live CMake. When I came across this mode, I immediately conceived a project putting it to use. Thanks to [recent leaps in software engineering productivity](/blog/2026/03/29/), I had a working prototype in 30 minutes, and by the end of that same day, a complete, multi-platform, native, GUI application. I named it **[dcmake](https://github.com/skeeto/dcmake)** (“debugger for CMake”). I’ve tested it on macOS, Windows, and Linux. Despite only being couple days old, it’s one of the coolest things I’ve ever built. Prior to 2026, I estimate it would have taken me a month to get the tool to this point.

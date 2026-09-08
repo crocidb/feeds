@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/sindricad?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.183161648Z"
-seen = false
+seen = true
 +++
 
 <img src="/space/apps/sindricad/large.jpg?v=c3b228e850e3" alt="SindriCAD displaying a multi-material parametric model" width="1280" height="720">SindriCAD displaying a multi-material parametric model

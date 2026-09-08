@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/causal-ordering/"
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.293307773Z"
-seen = false
+seen = true
 +++
 

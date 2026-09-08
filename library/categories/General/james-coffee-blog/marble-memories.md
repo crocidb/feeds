@@ -5,8 +5,8 @@ date = "2026-09-01T00:00:00Z"
 url = "https://jamesg.blog/2026/09/01/marble-memories"
 author = "with words, wonder"
 text = ""
-lastupdated = "2026-09-01T19:33:13.040447411Z"
-seen = false
+lastupdated = "2026-09-03T13:15:07.842352381Z"
+seen = true
 +++
 
 *This is my contribution to the* [*September 2026 IndieWeb Fiction Carnival*](https://jamesg.blog/2026/09/01/iwfc-moonlight) *on the theme of "Moonlight".*
@@ -17,7 +17,7 @@ When others would be talking about the upcoming fair and the paper shop being cl
 
 John’s walks were peaceful, the loudest sound being the rustling of trees on a windy evening, or the sound of the occasional sheep “baa”ing from a nearby farm. But one night, as clear a night as any John could remember, there was a sound. *Clink*. It was unlike any other sound he had heard at night – a noise like something you would hear in a workshop. John scanned all around, seeing nothing that might make a sound. But, there was something out of the ordinary: a white block in a nearby field that seemed to glisten with the moonlight appeared. It wasn’t there yesterday. *What is that?*
 
-John meandered toward the white block. He always walks slow at midnight, for there are stars to see. Stargazing teaches you to slow down, to stay in one place and admire every little detail. But this time John’s gaze was not up above but ahead, trying to decipher what the block is that he sees as he draws ever closer. He keeps walking, his shoes slightly wet from the mildew that forms in late autumn. *Is that… marble?* “That must be what the shining is!” John said aloud, to nobody other than himself, the blades of grass and the quiet owl perched on the only tree in the field.
+John meandered toward the white block. He always walks slow at midnight, for there are stars to see. Stargazing teaches you to slow down, to stay in one place and admire every little detail. But this time John’s gaze was not up above but ahead, trying to decipher what the block is that he sees as he draws ever closer. He keeps walking, his shoes slightly wet from the dew that forms in late autumn. *Is that… marble?* “That must be what the shining is!” John said aloud, to nobody other than himself, the blades of grass and the quiet owl perched on the only tree in the field.
 
 In no time, John was standing up close to the tall, rectangular, marble cuboid. It was about the size of him. The soft glow of the cold moon reflected off the block and onto John. He felt a chill. *What is this doing here?* Surely Lake or Andrea or Bill or any of the other people in town would have mentioned if they knew something like this was going to be put in Dennis’ old field. John must have been the first to discover it. Studying every edge, there was no sign of who may have left the block – no signature, no notice, no letter.
 

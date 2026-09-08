@@ -6,7 +6,7 @@ url = "https://vlnn.dev/2022-10-12-art-of-lisp-questions.html"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-07-22T09:21:11.517815255Z"
-seen = false
+seen = true
 +++
 
 What’s that

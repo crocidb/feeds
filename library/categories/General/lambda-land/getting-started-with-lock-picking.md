@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.186525204Z"
-seen = false
+seen = true
 +++
 
 There are few sounds as satisfying to me as a lock popping open, especially when it’s a well-machined lock that makes a nice, crisp “chink!” sound as the shackle releases.

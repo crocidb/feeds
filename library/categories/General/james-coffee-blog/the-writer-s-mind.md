@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/30/the-writers-mind"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.691041682Z"
-seen = false
+seen = true
 +++
 
 making notes and reviewing quotes,  

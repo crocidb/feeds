@@ -6,10 +6,10 @@ url = "https://vlnn.dev/2024-05-16-programming-in-wartime.html"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-07-22T09:21:11.499409971Z"
-seen = false
+seen = true
 +++
 
- I’m Ukrainian, and Ukraine is fighting for its very existence right now. I’m a civilian (i.e. not conscripted yet) living in Kyiv. It’s relatively quiet here now, except maybe one or two raid attacks alerts per day.
+I’m Ukrainian, and Ukraine is fighting for its very existence right now. I’m a civilian (i.e. not conscripted yet) living in Kyiv. It’s relatively quiet here now, except maybe one or two raid attacks alerts per day.
 
  This post is a mix of insights of how it is to work full day in wartime – in no particular order or structure. Of course this is very limited point of view, as I’m describing my own experience and my own surroundings. Being in Kharkiv, for instance, I would experienced quite a different conditions (Kharkiv is under constant shellings and bombing for a good year now).
 

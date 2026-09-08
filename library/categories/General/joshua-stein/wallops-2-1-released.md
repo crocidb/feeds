@@ -6,7 +6,7 @@ url = "https://jcs.org/2024/09/23/wallops21"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.648629969Z"
-seen = false
+seen = true
 +++
 
 Another update to [Wallops](/wallops) building on the [2.0 release](/2024/09/12/wallops2) is available:

@@ -5,7 +5,7 @@ date = "2026-08-18T09:28:08Z"
 url = "https://www.gamedeveloper.com/business/arco-breaks-even-after-topping-100-000-sales"
 author = "Chris Kerr"
 text = ""
-lastupdated = "2026-08-24T15:49:14.194813944Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.482391369Z"
+seen = false
 +++
 

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/06/22/0708?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.704784674Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/06/22/0708/640,480/LEM9XkwE20YlVUzoSzIRjPX7SZw=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://www.lispm.net/apps/uhf-x11/?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

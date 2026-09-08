@@ -6,7 +6,7 @@ url = "https://jcs.org/2024/09/12/wallops2"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.651678917Z"
-seen = false
+seen = true
 +++
 
 Another large update to my [Wallops IRC client](/wallops) is available:

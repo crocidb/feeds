@@ -6,10 +6,10 @@ url = "https://vlnn.dev/2022-09-19-sql-as-the-data-analysis'-volap%C3%BCk.html"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-07-22T09:21:11.528216588Z"
-seen = false
+seen = true
 +++
 
- Lately I’ve started to work with [Apache Druid](https://druid.apache.org/) that is “real-time database to power modern analytics applications”. This is great piece of software, being in it’s late version 0.23.0, providing blazing-fast queries to your data. Surely enough, you always pay for the speed: sometimes with old good money (e.g. buy more resources from the powerhouses), sometimes with time needed to prepare the data for being queries (e.g. indexing), sometimes with absence of generality (e.g. make your highly intricate specific DB and go struggle when business needs something unsupported), sometimes just with your brainpower needed to understand and implement new stuff. At the moment, I think Druid is being paid mainly with two latter currencies.
+Lately I’ve started to work with [Apache Druid](https://druid.apache.org/) that is “real-time database to power modern analytics applications”. This is great piece of software, being in it’s late version 0.23.0, providing blazing-fast queries to your data. Surely enough, you always pay for the speed: sometimes with old good money (e.g. buy more resources from the powerhouses), sometimes with time needed to prepare the data for being queries (e.g. indexing), sometimes with absence of generality (e.g. make your highly intricate specific DB and go struggle when business needs something unsupported), sometimes just with your brainpower needed to understand and implement new stuff. At the moment, I think Druid is being paid mainly with two latter currencies.
 
  So, having a bit of experience in Data warehouse project (5 years ago? eternity!), I was really interested how exactly the speed is being gained. If you’re interested, please take a look at [this FAQ page](https://druid.apache.org/faq) (spoiler: inverted indexes and intricate metadata model). This post is not about it. This post is about SQL that is currently being used as defacto standard for thinking about data – even when “real” data is not stored in RDBMS.
 

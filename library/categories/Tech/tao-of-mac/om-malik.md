@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/06/26/1152?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.648679141Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="https://taoofmac.com/thumb/links/2026/06/26/1152/640,480/1dmrQ9-A_wk_waFKG1PuYjJD2gY=/large.jpg" width="320" height="240" style="max-width: 100% !important;height: auto !important;">](https://runtimewire.com/article/om-malik-taught-silicon-valley-to-read-itself?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link)

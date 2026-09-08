@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/06/searching"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T21:59:24.788247535Z"
-seen = false
+seen = true
 +++
 
 Lost poem:  

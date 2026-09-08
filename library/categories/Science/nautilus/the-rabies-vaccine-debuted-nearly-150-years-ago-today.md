@@ -6,7 +6,7 @@ url = "https://nautil.us/the-rabies-vaccine-debuted-nearly-150-years-ago-today-1
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-07T12:18:54.138438199Z"
-seen = false
+seen = true
 +++
 
 Pioneering microbiologist Luis Pasteur helped save the life of a dog-bitten boy

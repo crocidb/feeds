@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/08/02/1320?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.184569288Z"
-seen = false
+seen = true
 +++
 
 Well, this was a productive week… *end*. The week as a whole was not particularly inspiring or meaningful (I won an award of sorts at work, and to be honest I… just wanted to get to Friday), but I finally teed up and actually *did* a bunch of things I’ve been meaning to, and it feels great.

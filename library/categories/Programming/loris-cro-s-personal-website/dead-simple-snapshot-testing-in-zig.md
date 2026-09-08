@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/dead-simple-snapshot-testing/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-04-30T08:13:00.924517116Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/minimizing-impact-of-negative-thingsin-my-life/
 author = "Akseli"
 text = ""
 lastupdated = "2026-06-01T21:30:13.879299170Z"
-seen = false
+seen = true
 +++
 
 I am tired of many things. Some of them have bothered me for years. Some are rather recent. Here's how I have dealt with all that.

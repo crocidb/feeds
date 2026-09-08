@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=sql-as-data-analysis-volapuk2"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.912247122Z"
-seen = false
+seen = true
 +++
 
 4 years ago I wrote a [small note on SQL](https://vlnn.dev/sql-as-data-analysis-volapuk.org), and oh boy things have changed (alas, russia's war in Ukraine hasn't changed that much!):

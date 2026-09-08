@@ -6,7 +6,7 @@ url = "https://jcs.org/2025/02/24/kindle"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.645632602Z"
-seen = false
+seen = true
 +++
 
 Last year I upgraded my Kindle Paperwhite to a Kindle Scribe to be able to write notes and draw diagrams while programming to help visualize things.

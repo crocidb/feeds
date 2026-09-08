@@ -6,7 +6,7 @@ url = "https://nautil.us/hunting-for-a-new-hallucinogen-in-the-lilliputian-psych
 author = "Kristen French"
 text = ""
 lastupdated = "2026-07-09T12:05:32.466477870Z"
-seen = false
+seen = true
 +++
 
 The chemical substance behind these visions isn’t like any other known to science

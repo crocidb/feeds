@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/05/26/1730?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-27T23:23:32.324024177Z"
-seen = false
+seen = true
 +++
 
 A few months after writing up the [Cudy AX3000](/space/reviews/2025/09/14/1630) units and moving the house over to [OpenWRT](/space/os/linux/distributions/openwrt), I ended up revisiting the one bit I had deliberately waved away as “good enough”: roaming.

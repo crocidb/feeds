@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.200370561Z"
-seen = false
+seen = true
 +++
 
 When I was in my early 20s, I vowed that I would keep my kids from watching any amount of television.

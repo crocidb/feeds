@@ -6,7 +6,7 @@ url = "https://nautil.us/people-with-this-neanderthal-hormone-receptor-have-more
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-06T09:52:38.247809591Z"
-seen = false
+seen = true
 +++
 
 Are you regular swole? Or neanderthal swole?

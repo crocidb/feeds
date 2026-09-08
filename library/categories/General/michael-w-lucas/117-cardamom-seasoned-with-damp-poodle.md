@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24861"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-06-29T12:19:25.745583325Z"
-seen = true
+seen = false
 +++
 
 Yes, there’s been a gap. I would have announced it, but I didn’t know and then every week I thought I might start again. But I didn’t. My apologies.

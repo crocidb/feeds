@@ -6,7 +6,7 @@ url = "https://nautil.us/jimothy-the-raccoon-survived-against-the-odds-a-testame
 author = "Kelly Lambert"
 text = ""
 lastupdated = "2026-07-28T12:42:37.303826096Z"
-seen = false
+seen = true
 +++
 
 Surviving in the wild is no small feat for animals, especially ones like Jimothy, with rare conditions and yet he persevered to viral celebration, thanks to an adaptable brain and a caring mother

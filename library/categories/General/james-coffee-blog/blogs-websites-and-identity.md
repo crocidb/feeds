@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/27/blogs-websites-and-identity"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-28T12:42:18.674694009Z"
-seen = false
+seen = true
 +++
 
 In *Camera*, one of the songs on her latest album, CharliXCX sings:

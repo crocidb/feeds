@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/negative-resistance"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-07-28T12:42:20.771081701Z"
-seen = false
+seen = true
 +++
 
 *Hello! The blog you’re trying to reach is currently unavailable. I am Skippy, your friendly blog assistant. How can I help you today?*

@@ -6,7 +6,7 @@ url = "https://critical-distance.com/2026/07/20/blogs-of-the-round-table-friends
 author = "Kaile Hultner"
 text = ""
 lastupdated = "2026-07-21T09:19:39.985102104Z"
-seen = false
+seen = true
 +++
 
 Happy Monday, Readers (and Writers)! We’re practicing some necromancy today by bringing back a beloved and long-running feature to Critical Distance: the **Blogs of the Round Table**! Originally started by [storyteller and game designer Corvus Elrod](https://web.archive.org/web/20090302103023/http://corvus.zakelro.com/round-table/) in the 2000s before our founder Ben Abraham [ported it over here](https://critical-distance.com/2012/01/11/announcing-the-blogs-of-the-round-table/), Blogs of the Round Table was a monthly community writing event that presented writers of all calibers with a theme to blog about, a broad time limit, and few restrictions on what they could write about. Since our successful [Patreon](https://www.patreon.com/c/critdistance) drive earlier this year, Blogs of the Round Table has been one of the features we’ve been kicking around in discussions of what to bring back. All that was missing was a theme.

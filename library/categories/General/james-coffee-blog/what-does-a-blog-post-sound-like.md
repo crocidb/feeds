@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/05/what-does-a-blog-post-sound-like"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-06T19:13:25.321496909Z"
-seen = false
+seen = true
 +++
 
 As I write, I hear the keys on my keyboard pressing down – the sounds are fast, rhythmic, comforting. I hear the whirr of a hard drive in the background, and the occasional car walk past. Every so often, bird song comes into the foreground; I hear the calls of birds in the distance now. I hear my breath as I breathe in and out. I take a deep breath. I keep writing.

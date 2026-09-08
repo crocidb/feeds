@@ -6,7 +6,7 @@ url = "https://nautil.us/koalas-are-getting-a-vaccine-to-help-with-their-std-pro
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-07-28T12:42:37.301997697Z"
-seen = false
+seen = true
 +++
 
 It’s a key step in saving them from extinction

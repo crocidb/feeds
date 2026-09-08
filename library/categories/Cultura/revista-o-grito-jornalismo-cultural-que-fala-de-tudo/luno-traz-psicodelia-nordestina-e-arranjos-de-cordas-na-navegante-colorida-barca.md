@@ -5,8 +5,8 @@ date = "2026-08-30T15:30:40Z"
 url = "https://revistaogrito.com/luno-traz-psicodelia-nordestina-e-arranjos-de-cordas-na-navegante-colorida-barca/"
 author = "Revista O Grito!"
 text = ""
-lastupdated = "2026-09-01T19:33:13.213431835Z"
-seen = false
+lastupdated = "2026-09-03T13:15:06.522916197Z"
+seen = true
 +++
 
 O desejo de deixar para trás aquilo que já não cabe e seguir em busca de algo melhor conduz a navegante e espirituosa “Colorida Barca”, single que o músico e compositor sergipano **Luno Torres** lança nesta sexta-feira, 28 de agosto, sob o nome LUNO, com orquestrações, psicodelia e raízes nordestinas. Segundo o artista, a faixa representa a face mais luminosa de *Mantracaru*, seu segundo álbum solo (que será lançado em setembro), como uma travessia entre a psicodelia brasileira, o imaginário nordestino e uma escrita cada vez mais próxima da natureza e da ancestralidade.

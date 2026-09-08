@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.344287612Z"
-seen = false
+seen = true
 +++
 
 My girlfriend works for BYU SA—it’s the division of BYU that’s responsible for planning and running events. As part of her job, she has to review song lyrics and make sure that the song is okay to play at BYU functions.

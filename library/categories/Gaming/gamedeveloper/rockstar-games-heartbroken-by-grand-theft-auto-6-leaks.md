@@ -5,7 +5,7 @@ date = "2026-08-26T18:30:00Z"
 url = "https://www.gamedeveloper.com/business/rockstar-games-heartbroken-by-grand-theft-auto-6-leaks"
 author = "Nicole Carpenter"
 text = ""
-lastupdated = "2026-09-01T19:33:12.899028585Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.449437614Z"
+seen = false
 +++
 

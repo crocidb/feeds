@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/travel/south-korea/seoul-2026/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-05-20T09:23:04.065114826Z"
-seen = true
+seen = false
 +++
 
 [![0001-01-01 00:00:00 +0000 UTC](/travel/south-korea/seoul-2026/images/DSCF0071_hu_8146c71079e3d227.webp) ](/travel/south-korea/seoul-2026/images/DSCF0071.jpg)

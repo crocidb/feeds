@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.172485855Z"
-seen = false
+seen = true
 +++
 
 I got asked a good question today: what is the difference between [Tree-sitter](https://en.wikipedia.org/wiki/Tree-sitter_(parser_generator)) and a [language server](https://en.wikipedia.org/wiki/Language_Server_Protocol)? I don’t understand how either of these tools work in depth, so I’m just going to explain from an *observable*, *pragmatic* point of view.

@@ -6,7 +6,7 @@ url = "https://critical-distance.com/2026/05/04/remembering-paste-games-2010-202
 author = "Kaile Hultner"
 text = ""
 lastupdated = "2026-05-26T11:28:58.821197432Z"
-seen = false
+seen = true
 +++
 
 Welcome back, readers.

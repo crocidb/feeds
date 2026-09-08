@@ -6,7 +6,7 @@ url = "https://nautil.us/what-a-picture-of-a-dog-has-to-do-with-reason-and-logic
 author = "Kristen French"
 text = ""
 lastupdated = "2026-07-16T14:37:07.132712238Z"
-seen = false
+seen = true
 +++
 
 People who can’t see images in their minds challenge an old philosophical standby

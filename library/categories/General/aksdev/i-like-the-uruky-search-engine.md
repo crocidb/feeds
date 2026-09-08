@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/i-like-the-uruky-search-engine/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-06-16T20:07:21.349560531Z"
-seen = false
+seen = true
 +++
 
 Silly name but works wonders.

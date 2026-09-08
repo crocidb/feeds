@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.218586820Z"
-seen = false
+seen = true
 +++
 
 I started using the Zsh a few years ago and I’ve liked its completion features. I tried out Oh-my-zsh for a while and I liked the stock Robby Russel prompt. It gave me all the information I cared about: the status of the last command, current directory, and the state of the current Git repository.

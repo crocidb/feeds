@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=logstash"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.864065049Z"
-seen = false
+seen = true
 +++
 
 I see a [Logstash as pluggable pipeline](logstash-as-pluggable-pipeline.md), not mere logs ingestion module.

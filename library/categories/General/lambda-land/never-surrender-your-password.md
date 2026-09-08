@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.270528894Z"
-seen = false
+seen = true
 +++
 
 In [a study](https://arxiv.org/pdf/2211.05824.pdf) that [Ars Technica reported on](https://arstechnica.com/information-technology/2022/11/half-of-computer-repairs-result-in-snooping-of-sensitive-data-study-finds/), researchers found that an alarming number of computer repair technicians snooped through clients’ devices—and female clients were *way* more likely to have their data accessed. Yikes!

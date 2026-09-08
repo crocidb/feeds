@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/04/16/pascals-wager/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-04-16T13:31:43.817965277Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/16Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/16/pascals-wager/)

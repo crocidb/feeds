@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/complexity-budgets/"
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.283468410Z"
-seen = false
+seen = true
 +++
 

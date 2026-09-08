@@ -6,7 +6,7 @@ url = "https://jcs.org/2024/02/20/carl"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.657308273Z"
-seen = false
+seen = true
 +++
 
 I've been working on Carl, my IMAP e-mail client, for the past few months.

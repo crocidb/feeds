@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1086936/"
 author = "corbet"
 text = ""
 lastupdated = "2026-08-06T09:52:34.759745633Z"
-seen = false
+seen = true
 +++
 
 The JFrog blog [examines some reported vulnerabilities in SQLite](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/), some of which made their way into high-profile vulnerability databases, that turned out to be entirely fabricated by LLMs.

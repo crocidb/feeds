@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/all-logic-no-bite"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-06-29T12:19:25.161404239Z"
-seen = false
+seen = true
 +++
 
 Today, I’d like to talk about logic — and before I do, I should probably explain why. But before we get to that, a definition may be in order: in a nutshell, logic is a system for drawing conclusions from premises (“facts”).

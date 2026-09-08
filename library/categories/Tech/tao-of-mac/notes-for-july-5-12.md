@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/07/12/1230?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-16T14:37:13.559534828Z"
-seen = false
+seen = true
 +++
 
 This was a weird week, during which I went back to studiously disconnecting from work as soon as possible because, well, [a lot of stuff is going on](/space/site/disclaimer). My back has also been acting up again (perhaps because of the added stress), and even though the weather has been marginally cooler, meetings still make it impossible to leave the house during the cooler morning hours. To be honest, [all of it](/space/blog/2026/07/08/2130) has been affecting my motivation and well-being.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/no-ar-coquetel-molotov-reune-diferentes-geracoe
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-09-01T19:33:13.223921891Z"
-seen = false
+seen = true
 +++
 
 Do ballroom ao funk, do rock experimental à música pop brasileira, o **[No Ar Coquetel Molotov](https://revistaogrito.com/assunto/coquetel-molotov)** ocupa o Campus da UFPE, no Recife, no dia 28 de novembro, com mais de 25 atrações distribuídas em três palcos que funcionam simultaneamente: **Coquetel Molotov, Kamikaze** e **Concha**. Com média de oito a dez shows por palco, a programação acontece das 16h às 5h e já tem confirmados **Fernanda Abreu,** **[Cidadão Instigado](https://revistaogrito.com/cidadao-instigado-quebra-hiato-de-10-anos-com-o-album-mais-experimental-e-eletronico/),** **NandaTsunami,** **Bia Soull**, **Katy da Voz & As Abusadas** e **MikeQ** convida **Ballroom PE** para um encontro entre o artista norte-americano e integrantes da cena ballroom pernambucana, colocando a cultura no centro da programação.

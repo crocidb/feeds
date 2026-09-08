@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/18/the-hay-wain-by-john-constable"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.978945630Z"
-seen = false
+seen = true
 +++
 
 *V.H. and I are doing a painting exchange challenge where we each choose a painting for the other person to write about. We gave each other three options. From the options given to me, I chose The Hay Wain by John Constable.* [*V.H. wrote about Corot’s “Entrance to the Wood”*](https://vhbelvadi.com/entrance-to-the-wood)*.*

@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-07-16T14:37:12.500269381Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/10Jul2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/07/10/posthuman-as-in-no-humans/)

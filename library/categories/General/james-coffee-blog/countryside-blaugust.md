@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/01/countryside-blaugust"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.687167624Z"
-seen = false
+seen = true
 +++
 
 With the window open and the breeze flowing through, I hear the calls and songs of birds. A calling pigeon in particular stands out. I love the calls of pigeons in the evening. The sound reminds me of childhood, looking out the window, onto Nature. A flock of birds fly by as the occasional person strolls down the street. While the sun set a little while ago, day is still here.

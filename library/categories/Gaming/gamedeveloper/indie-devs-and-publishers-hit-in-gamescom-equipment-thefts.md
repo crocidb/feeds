@@ -5,7 +5,7 @@ date = "2026-08-31T14:58:21Z"
 url = "https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-gamescom-equipment-thefts"
 author = "Bryant Francis"
 text = ""
-lastupdated = "2026-09-01T19:33:12.882772975Z"
-seen = true
+lastupdated = "2026-09-03T13:15:06.435723124Z"
+seen = false
 +++
 

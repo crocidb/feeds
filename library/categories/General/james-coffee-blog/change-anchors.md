@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/20/change-anchors"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.971345862Z"
-seen = false
+seen = true
 +++
 
 I look out the window. Every time I look I notice change: the ambering of leaves that are still green in my memory, the movement of clouds as they go from one end of the sky to the other, the movement of leaves as they sway to-and-fro with the light morning breeze; some mornings I see birds in the trees; yesterday I had the pleasure of seeing a small bird take flight, soaring to another tree.

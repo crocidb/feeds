@@ -6,7 +6,7 @@ url = "https://nautil.us/this-image-from-the-dark-energy-camera-is-a-bit-van-gog
 author = "David Nield"
 text = ""
 lastupdated = "2026-08-06T09:52:38.246554712Z"
-seen = false
+seen = true
 +++
 
 Astronomy meets 19th-century art

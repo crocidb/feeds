@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=about-these-notes"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.906253445Z"
-seen = false
+seen = true
 +++
 
 Hi! I'm Volodymyr Anokhin ([@vlnn](https://github.com/vlnn)). These are my working notes, all in interlinked disarray. Click any internal link (the "ochre" ones) and it opens as a new pane to the right; the trail you follow lives in the URL, so you can share it. Curious about the machinery? See [How this site works](https://vlnn.dev/how-this-site-works.md).

@@ -5,7 +5,7 @@ date = "2026-08-22T01:19:10Z"
 url = "https://pluralistic.net/2026/08/21/world-historic-forces/"
 author = "Cory Doctorow"
 text = ""
-lastupdated = "2026-08-24T15:49:20.047008801Z"
+lastupdated = "2026-09-03T13:15:13.438637950Z"
 seen = false
 +++
 
@@ -31,7 +31,7 @@ Today's links
 Born on technology's third base ([permalink](https://pluralistic.net/2026/08/21/world-historic-forces/#multicore))
 ==========
 
-Any frank assessment of your own achievements starts with an equally frank assessment of the world-historic forces that attended those achievements. For example, I often tell young people who want to get into tech, "Well, if you don't have the foresight and work ethic to be born in 1971, I can't really help you."
+Any frank assessment of your own achievements starts with an equally frank assessment of the world-historic forces that attended those achievements. For example, I often tell young people who want to get into tech, "Well, if you don't have the foresight and work ethic to have been born in 1971, I can't really help you."
 
 When it comes to tech, being born in 1971 – to a computer scientist father, no less – conferred a tremendous advantage for my career chances. My dad – a refugee – came to Canada at a time when post-war public services meant that he could become the first person in his family to go to university, all the way to a doctorate.
 
@@ -65,11 +65,11 @@ The early gains from this approach were very exciting: they dangled the promise 
 
 Researchers and investors came to expect an AI that was "untouched by human hands," that taught itself how the world worked. This was the self-licking ice-cream cone of machine learning, the world of "theory-free inference" that had fueled the Big Data industry. With theory-free inference, you don't have to figure out how the world works in order to act upon it: you can just gather up all the data about how things happen in the world, use statistical methods to find the correlations, and then intervene to change the outcomes. You don't have to know why a molecule improves a medical condition – it's enough to discover that fact, produce that molecule, and administer it to people with that condition.
 
-Lots of stuff in the world works this way. Our understanding of the causal relationships that make up reality has massive holes in it that we fill with mere correlation. Correlations are easier to discover than causes, and while correlation is (famously) not causation, causes and effects *are* correlated, and if you can evince the effect you're seeking without understanding precisely what happened to make that effect appear, well, at least you got the effect you were seeking.
+Lots of stuff in the world works this way. Our understanding of the causal relationships that make up reality has massive holes in it that we fill with mere correlation. Correlations are easier to discover than causes, and while correlation is (famously) not causation, causes and effects *are* correlated, and if you can evoke the effect you're seeking without understanding precisely what happened to make that effect appear, well, at least you got the effect you were seeking.
 
 Theory-free inference is a very pragmatic way to approach the world: "I don't need it good, I need it *Thursday*." Scientists burn to know why a molecule stopped you from dying, but you are likely satisfied to not be dead. What's more, our ability to observe correlations will always race ahead of our understanding of causality, so the power of theory-free inferences pushes out the frontier of things we can act on, beyond the realm of the understood.
 
-Which is all to say: it's reasonable to be excited about a breakthrough in theory-free inference. But just like a boomer who thinks that buying a house to live in makes them a shrewd real-estate speculator, someone who achieves great things through theory-free inference runs the risk of missing the limitations to those techniques.
+Which is all to say: it's reasonable to be excited about a breakthrough in theory-free inference. But just like a boomer who thinks that buying a house to live in makes them a shrewd real-estate speculator, someone who achieves great things through theory-free inference runs the risk of missing the limitations of those techniques.
 
 And they *are* limited. Theory-free inference is good at predicting what your spouse will type into their phone based on all the things they've ever typed into their phone. You are *also* good at guessing what your spouse will say based on the things they've said before. The difference is that when your spouse says something entirely unexpected and unprecedented to you (say, "I want a divorce"), the fact that you have a theory about *why* your spouse said all the things they said up to that moment can help you understand why they've said this new thing. But a machine learning model that relies on theory-free statistical modeling to predict your spouse's next words will be entirely at sea. Theory-free inference works well, but it fails badly.
 
@@ -85,7 +85,7 @@ From a research perspective, it is interesting to learn about the potential and 
 
 The AI sector was born of world-historical forces that favored massively parallel computing, forces that had also conjured up an internet with trillions of documents that could be fed into those massively parallel computers to conduct theory-free inference. Like every success, AI was born on third base.
 
-As rent-burdened millennials who abandoned avocado toast and fancy coffee and *still* can't afford a downpayment will tell you, the fact that being born in 1945 made it easy to trip and land on a couple million dollars' worth of real estate wealthy by the time you reached retirement age tells us nothing about how to solve the housing crisis of 2026.
+As rent-burdened millennials who abandoned avocado toast and fancy coffee and *still* can't afford a downpayment will tell you, the fact that being born in 1945 made it easy to trip and land on a couple million dollars' worth of real estate by the time you reached retirement age tells us nothing about how to solve the housing crisis of 2026.
 
 By the same token, continuing to give trillions to AI companies because they experienced early success with theory-free inference at scale tells us nothing about how to solve the *vast* range of problems that theory-free inference at scale sucks at. Doubling down on AI to overcome its increasingly obvious limitations is like doubling down on building post-war suburbs to fix today's housing market.
 

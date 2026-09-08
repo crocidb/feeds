@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.191637465Z"
-seen = false
+seen = true
 +++
 
 I just released version 1.5.0 of [Emacs Bedrock](https://codeberg.org/ashton314/emacs-bedrock)—a super minimal starter kit for Emacs. This is a minor change: I’ve fixed a few bugs and added a package or two to some of the optional config files under `extras/`.

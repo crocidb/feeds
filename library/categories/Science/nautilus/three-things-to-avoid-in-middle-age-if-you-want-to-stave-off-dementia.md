@@ -6,7 +6,7 @@ url = "https://nautil.us/three-things-to-avoid-in-middle-age-if-you-want-to-stav
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-06T09:52:38.242831484Z"
-seen = false
+seen = true
 +++
 
 It may be easier said than done

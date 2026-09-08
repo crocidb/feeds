@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/08/06/1700?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-06T09:52:38.167329408Z"
-seen = false
+seen = true
 +++
 
 Since I got [a new printer last week](/space/notes/2026/07/12/1230#notes-for-july-5-12) and I’ve been documenting my endeavours in this realm in a rather haphazard way, I thought it would be useful to do a sort of catch-up/snapshot of where things are (and have been) for a while now.

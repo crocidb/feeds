@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=transcendental-incompatibility-with-non-dimension
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.892448252Z"
-seen = false
+seen = true
 +++
 
 Transcendental functions like `ln`, `exp`, `sin` only make mathematical sense for dimensionless arguments. You can see this from the `Taylor series` — `ln(V)` would require summing terms proportional to `V`, `V²`, `V³`..., which have incompatible units. So an expression like `ln(V)` where `V` is in `m³` is, strictly speaking, meaningless.

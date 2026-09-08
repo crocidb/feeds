@@ -1,15 +1,15 @@
 +++
 title = "Java’s String.indexOf can be slow (quadratic)"
-description = '<img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/08/lYgqA-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async"In Java, you find'
+description = '<img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/08/lYgqA-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"In'
 date = "2026-08-22T14:56:16Z"
 url = "https://lemire.me/blog/2026/08/22/javas-string-indexof-can-be-slow-quadratic/"
 author = "Daniel Lemire"
 text = ""
-lastupdated = "2026-08-24T15:49:19.834114783Z"
+lastupdated = "2026-09-03T13:15:10.339025018Z"
 seen = false
 +++
 
-<img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/08/lYgqA-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async">
+<img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/08/lYgqA-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy">
 
 In Java, you find the location of a substring using `indexOf`.
 
@@ -74,7 +74,7 @@ Can you do better against such adversarial inputs? The textbook solution is the 
 |1024|   273   | 0.32  |
 |4096|  1076   | 0.31  |
 
-[<img fetchpriority="high" decoding="async" src="http://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic-1024x675.png" alt="" width="660" height="435" class="alignnone size-large wp-image-22780" srcset="https://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic-1024x675.png 1024w, https://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic-300x198.png 300w, https://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic-768x506.png 768w, https://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic.png 1393w" sizes="(max-width: 660px) 100vw, 660px">](http://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic.png)
+[<img loading="lazy" decoding="async" src="http://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic-1024x675.png" alt="" width="660" height="435" class="alignnone size-large wp-image-22780" srcset="https://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic-1024x675.png 1024w, https://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic-300x198.png 300w, https://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic-768x506.png 768w, https://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic.png 1393w" sizes="auto, (max-width: 660px) 100vw, 660px">](http://lemire.me/blog/wp-content/uploads/2026/08/indexof-quadratic.png)
 
 Two-Way stays at about 0.3 ns/character no matter how long the needle is. At *m* = 4096 it is about 3500 times faster than `indexOf` on the first-character adversary.
 

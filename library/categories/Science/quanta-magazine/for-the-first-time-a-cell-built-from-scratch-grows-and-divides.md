@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scrat
 author = "Yasemin Saplakoglu"
 text = ""
 lastupdated = "2026-07-03T12:11:15.173690011Z"
-seen = false
+seen = true
 +++
 
 For the very first time, biologists packed nonliving components into a cell-like membrane, piece by piece, and witnessed the bag of molecules start to behave like life. The lab-made synthetic cell grew, replicated its DNA, and divided, demonstrating the basic functions of a cell cycle. It’s “an impressive step,” said Jack Szostak, who studies the origins of life at the University of Chicago and…

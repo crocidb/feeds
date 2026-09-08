@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/06/09/deliver-us/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-06-10T21:36:00.524569453Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/09Jun2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/06/09/deliver-us/)

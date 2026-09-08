@@ -5,8 +5,8 @@ date = "2026-08-29T00:00:00Z"
 url = "https://jamesg.blog/2026/08/29/flow"
 author = "with words, wonder"
 text = ""
-lastupdated = "2026-09-01T19:33:13.055185972Z"
-seen = false
+lastupdated = "2026-09-03T13:15:07.854095892Z"
+seen = true
 +++
 
 *Natural light bathed the Royal Mile on the warm, summer’s morning. The Fringe is close to being finished, but there are still a few days of shows left. I was standing amid a city wakening up: where, hours later, there would be music and singing and crowds.*

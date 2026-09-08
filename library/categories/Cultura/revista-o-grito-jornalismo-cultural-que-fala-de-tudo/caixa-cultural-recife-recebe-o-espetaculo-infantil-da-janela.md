@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/caixa-cultural-recife-recebe-o-espetaculo-infan
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-08-24T15:49:14.801014381Z"
-seen = false
+seen = true
 +++
 
 A Caixa Cultural Recife apresenta, de 4 a 13 de setembro (de sexta a domingo), o [espetáculo](https://revistaogrito.com/show-as-amazonias-reune-aila-djuena-tikuna-e-patricia-bastos-na-caixa-cultural-recife/) infantil *Da Janela*, uma experiência teatral que integra a acessibilidade à própria dramaturgia. A montagem convida crianças e adultos a descobrir novas formas de comunicação por meio da convivência entre personagens que utilizam recursos como Libras e descrição poética das cenas, transformando inclusão, brincadeira e imaginação em elementos centrais da narrativa.

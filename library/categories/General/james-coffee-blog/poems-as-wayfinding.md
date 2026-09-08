@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/10/poems-as-wayfinding"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-10T12:13:28.466960545Z"
-seen = false
+seen = true
 +++
 
 When I look at a painting, or read a poem, or a story, I feel like I am entering a new world, one created by the artist, the writer, to evoke a particular feeling, to highlight something meaningful, to document a moment, and for many other reasons too.

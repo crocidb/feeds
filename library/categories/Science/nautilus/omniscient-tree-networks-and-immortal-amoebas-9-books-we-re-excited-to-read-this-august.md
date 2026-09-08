@@ -6,7 +6,7 @@ url = "https://nautil.us/omniscient-tree-networks-immortal-amoebas-and-hope-1283
 author = "Liz Greene"
 text = ""
 lastupdated = "2026-07-28T23:43:00.849254579Z"
-seen = false
+seen = true
 +++
 
 The *Nautilus* monthly reading list

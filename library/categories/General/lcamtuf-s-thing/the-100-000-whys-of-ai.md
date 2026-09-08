@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/the-100000-whys-of-ai"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-06-29T12:19:25.175211772Z"
-seen = false
+seen = true
 +++
 
 One of the most painful arguments I keep having with fellow techies is the question of whether you can distinguish between human-written and AI-generated text.

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-this-emerging-tick-borne-virus-escapes-your-immune-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-18T14:48:27.545822841Z"
-seen = false
+seen = true
 +++
 
 It hijacks a common process present in all cells

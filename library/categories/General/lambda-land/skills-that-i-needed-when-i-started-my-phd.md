@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.224196497Z"
-seen = false
+seen = true
 +++
 
 I’m starting my third year as a PhD student. I thought it would be good to look back on some of the things that have helped me to this point. I study programming languages, but I imagine these things will help anyone in computer science—and some might have application to other STEM fields as well.

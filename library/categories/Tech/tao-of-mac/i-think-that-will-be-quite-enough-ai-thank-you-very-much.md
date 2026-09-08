@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/06/24/1300?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.690986351Z"
-seen = false
+seen = true
 +++
 
 It’s been (inexactly) [46 days since my last rant](/space/blog/2026/05/09/2130), and the place wouldn’t feel the same if I wasn’t (mildly) furiously hammering my current train of thought into `vim`, bare-brained, like the semi-civilized ape-like creature that we all are when bereft of our [AI](/space/ai) crutches.

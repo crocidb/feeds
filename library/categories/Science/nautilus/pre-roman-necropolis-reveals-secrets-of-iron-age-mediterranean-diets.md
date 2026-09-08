@@ -6,7 +6,7 @@ url = "https://nautil.us/pre-roman-necropolis-reveals-secrets-of-iron-age-medite
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-28T23:43:00.846481716Z"
-seen = false
+seen = true
 +++
 
 Spoiler alert: The men ate more meat

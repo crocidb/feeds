@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/07/auld-faithful"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-10T12:13:28.474075060Z"
-seen = false
+seen = true
 +++
 
 *A few weeks ago, the phrase "old faithful" came to me. I thought "that would be a good name for a ship!" This evening, I decided to do something with the name. I had an idea for a direction, but the story went in a completely different direction than I thought. I ended up writing a story in a version of Scots (that at least makes sense to me).*

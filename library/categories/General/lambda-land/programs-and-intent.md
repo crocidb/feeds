@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.292618590Z"
-seen = false
+seen = true
 +++
 
 What does this program do? At the most reduced level, one could say that a program’s behavior is defined by the effect it has on the hardware running it. That’s not very useful however; when we’re programming, we often have to deal with legacy code and tease out the original intent of the code.

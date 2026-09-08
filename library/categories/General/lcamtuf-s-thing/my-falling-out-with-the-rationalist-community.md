@@ -6,7 +6,7 @@ url = "https://lcamtuf.substack.com/p/my-falling-out-with-the-rationalist"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-07-21T09:19:45.328916666Z"
-seen = false
+seen = true
 +++
 
 This is an article I resisted writing for a long time. I didn’t pull the trigger in the mid-2010s, in the glory days of the SF Bay Area rationalist movement. I resisted the urge after the arrest of the rationalist-aligned financier, Sam Bankman-Fried. And I bit my tongue real hard in the wake of the early 2025 scandal involving the Zizians, an alleged sex / murder cult that originated from the same community.

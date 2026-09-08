@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/contrast-coding-is-an-implemen
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.274773458Z"
-seen = false
+seen = true
 +++
 

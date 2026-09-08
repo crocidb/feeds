@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-03-10"
 author = ""
 text = ""
 lastupdated = "2026-03-18T22:16:04.094313740Z"
-seen = false
+seen = true
 +++
 
 [Type resolution redesign, with language changes to taste](#2026-03-10)

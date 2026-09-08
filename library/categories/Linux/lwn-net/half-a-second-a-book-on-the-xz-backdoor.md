@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1083466/"
 author = "corbet"
 text = ""
 lastupdated = "2026-07-21T09:19:52.338569523Z"
-seen = false
+seen = true
 +++
 
 Adrian Mastronardi has released a book called [*Half a Second*](https://www.half-second.com/); it is a detailed look into the [XZ backdoor attempt](https://lwn.net/Articles/967866/) of 2024. The book is freely available under a (non-free) noncommercial, no-derivatives CC license.

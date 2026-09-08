@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/infoviz?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.701858844Z"
-seen = false
+seen = true
 +++
 
 This is a spottily-updated list of miscellaneous resources I’ve come across dealing with data visualization in several forms.

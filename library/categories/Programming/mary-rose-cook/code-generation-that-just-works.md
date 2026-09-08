@@ -6,7 +6,7 @@ url = "https://maryrosecook.com/blog/post/code-generation-that-just-works"
 author = ""
 text = ""
 lastupdated = "2026-03-29T12:38:08.897210003Z"
-seen = false
+seen = true
 +++
 
 About nine months ago, my son said he wanted to make a video game. He said it was called Exploding Kitties. We made it together on my computer. He described the gameplay and drew the graphics. I vibed the code. The game basically worked. But we had to build it in small pieces. And, periodically, I had to spend time in the guts of the code, getting it back on the rails. Unifying two ways of doing the same thing. Fixing gnarlier bugs. Disentangling the game code from the engine.

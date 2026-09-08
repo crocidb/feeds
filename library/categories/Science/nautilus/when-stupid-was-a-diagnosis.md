@@ -6,7 +6,7 @@ url = "https://nautil.us/when-stupid-was-a-diagnosis-1282984/"
 author = "Alice Fleerackers"
 text = ""
 lastupdated = "2026-07-28T12:42:37.309375351Z"
-seen = false
+seen = true
 +++
 
 A dark history that is in danger of returning as support for people with disabilities withers

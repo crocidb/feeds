@@ -6,7 +6,7 @@ url = "https://nautil.us/rec-league-sports-may-be-better-at-building-strong-bone
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-06T09:52:38.252719288Z"
-seen = false
+seen = true
 +++
 
 Higher intensity physical activities like handball and soccer boost biomarkers for bone formation

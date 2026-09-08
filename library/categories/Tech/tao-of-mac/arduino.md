@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/hw/arduino?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.790134200Z"
-seen = false
+seen = true
 +++
 
 Easily the most well-known family of microcontrollers these days, which effectively kickstarted an entire wave of DIY electronics and Maker activities.

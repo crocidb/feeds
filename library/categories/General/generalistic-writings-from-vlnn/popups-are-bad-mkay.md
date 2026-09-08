@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=popups-are-bad-mkay"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-08-06T09:52:33.898116220Z"
-seen = false
+seen = true
 +++
 
 Popups on websites are one of the most invasive and focus-eating things (to me)

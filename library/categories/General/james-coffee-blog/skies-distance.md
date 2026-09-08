@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/02/skies-distance"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.684508316Z"
-seen = false
+seen = true
 +++
 
 My words flow from the blank, full, blue sky that rests above – a sky in which the more I look, the more texture I see; there are ripples and layers and colours; the periphery of individual clouds emerge. *The more I look, the more I see.*

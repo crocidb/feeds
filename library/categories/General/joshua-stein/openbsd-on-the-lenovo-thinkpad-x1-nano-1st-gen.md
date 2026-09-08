@@ -6,7 +6,7 @@ url = "https://jcs.org/2021/01/27/x1nano#2024-06-25"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-07-28T12:43:13.653808225Z"
-seen = false
+seen = true
 +++
 
 Lenovo has finally made a smaller version of its [X1 Carbon](/2019/08/14/x1c7), something I've been looking forward to for years.

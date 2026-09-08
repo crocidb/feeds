@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/31/lattes"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-08-06T09:52:34.689759802Z"
-seen = false
+seen = true
 +++
 
 I watched the movie "Valentines Day" (2010) for the first time today, which stars, among others, Taylor Swift. [The energy in this scene](https://youtu.be/FBTIoyJ7aQ4?t=66) (especially the enthusiastic and excited way in which the words are said, while Taylor carries a huge bear) <sup class="footnote-reference" id="f-1"><a href="https://jamesg.blog/longform-feed#1">1</a></sup> fills me with joy:

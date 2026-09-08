@@ -6,7 +6,7 @@ url = "https://nautil.us/how-eating-healthier-could-reshape-agriculture-1282754/
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-07-18T14:48:27.521732166Z"
-seen = false
+seen = true
 +++
 
 A Western diet is bad for us and bad for the planet

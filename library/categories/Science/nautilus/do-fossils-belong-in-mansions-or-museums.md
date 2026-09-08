@@ -6,7 +6,7 @@ url = "https://nautil.us/do-fossils-belong-in-mansions-or-museums-1282699/"
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-07-16T14:37:07.144002286Z"
-seen = false
+seen = true
 +++
 
 The record sale of a T. rex skeleton begs the question

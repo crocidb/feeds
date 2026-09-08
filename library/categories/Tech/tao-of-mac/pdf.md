@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/adobe/pdf?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-29T12:19:41.711583396Z"
-seen = false
+seen = true
 +++
 
 The Portable Document Format developed by [Adobe](http://en.wikipedia.org/wiki/Adobe_Systems?utm_source=taoofmac.com&utm_medium=web&utm_campaign=unsolicited_traffic&utm_content=external_link) - essentially Encapsulated [PostScript](/space/dev/postscript) with a few indexing,crypto and security features thrown in.

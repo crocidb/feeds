@@ -6,7 +6,7 @@ url = "https://nautil.us/your-big-brain-wouldnt-be-possible-without-sugar-128345
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-06T21:59:29.826978961Z"
-seen = false
+seen = true
 +++
 
 Pass the glucose

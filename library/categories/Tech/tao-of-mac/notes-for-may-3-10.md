@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/05/10/1433?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-05-20T09:23:14.792913458Z"
-seen = false
+seen = true
 +++
 
 This was a weird week, both because I keep waking up at 5AM with my sinuses clogged, and because I feel like I’m losing momentum. Feeling almost permanently cotton-headed, sleepy due to sheer exhaustion or because of antihistamines certainly has something to do with it, but [I am not exactly enthusiastic this weekend](/space/blog/2026/05/09/2130).

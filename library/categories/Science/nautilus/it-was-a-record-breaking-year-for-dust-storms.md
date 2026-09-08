@@ -6,7 +6,7 @@ url = "https://nautil.us/it-was-a-record-breaking-year-for-dust-storms-1282852/"
 author = "David Nield"
 text = ""
 lastupdated = "2026-07-22T09:22:42.075572094Z"
-seen = false
+seen = true
 +++
 
 The worst since the Dust Bowl in some places

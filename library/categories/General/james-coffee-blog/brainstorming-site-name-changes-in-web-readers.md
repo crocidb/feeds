@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/08/20/site-name-changes-web-readers"
 author = "with words, wonder"
 text = ""
 lastupdated = "2026-08-24T15:49:16.967017106Z"
-seen = false
+seen = true
 +++
 
 Recently, one of the websites I follow (not this one!) changed their name. [Artemis](https://artemis.jamesg.blog/), the web reader I maintain, was still using the old name for the feed. This makes sense in the case of Artemis because users can choose their own names for an author; if the author name were synced with what was published in the feed, a user’s preferences would be overwritten.

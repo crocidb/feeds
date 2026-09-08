@@ -5,8 +5,8 @@ date = "2026-08-21T15:49:00Z"
 url = "https://akselmo.dev/posts/kde-linux-experiences/"
 author = "Akseli"
 text = ""
-lastupdated = "2026-08-24T15:49:14.344854161Z"
-seen = false
+lastupdated = "2026-09-03T13:15:06.163035085Z"
+seen = true
 +++
 
 I daily drove [KDE Linux](https://linux.kde.org/) for almost a year and I liked it, but I'm also switching back to [Fedora KDE](https://fedoraproject.org/kde/). Here's my ramblings about it all.

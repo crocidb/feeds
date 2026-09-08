@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1084920/"
 author = "jzb"
 text = ""
 lastupdated = "2026-07-28T12:42:27.232091083Z"
-seen = false
+seen = true
 +++
 
 Fedora contributor Simon de Vlieger has published a [blog post](https://supakeen.com/weblog/the-fedora-45-sausage-factory/) with a walkthrough of how the project turns source code and packages into the final release that users install on their systems.

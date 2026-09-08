@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/games/quake_iii_arena?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-07-21T09:22:24.786159517Z"
-seen = false
+seen = true
 +++
 
 The third incarnation of [Quake](/space/games/quake), which redefined (again) the way people looked at (and played) online games and which makes Unreal Tournament look like a high school physics simulation with stop-motion animation.

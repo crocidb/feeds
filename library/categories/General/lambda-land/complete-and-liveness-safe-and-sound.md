@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.286954602Z"
-seen = false
+seen = true
 +++
 
 I have a hard time keeping these terms straight:

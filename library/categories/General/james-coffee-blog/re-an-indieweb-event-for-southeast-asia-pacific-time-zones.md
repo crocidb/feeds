@@ -6,7 +6,7 @@ url = "https://jamesg.blog/2026/07/16/indieweb-asia-pacific"
 author = "James' Coffee Blog"
 text = ""
 lastupdated = "2026-07-18T14:48:02.288331533Z"
-seen = false
+seen = true
 +++
 
 [Naty is hosting a new Homebrew Website Club](https://burgeonlab.com/rsvps/2026/0715-1415/) event on Wednesday, August 5, 2026, at 5:30pm to 7:00pm Hong Kong Time (UTC+8). If there is interest, the event may turn become regular!

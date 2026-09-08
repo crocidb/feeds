@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/04/25/machiavellian/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-04-25T13:20:53.231424971Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/25Apr2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/04/25/machiavellian/)

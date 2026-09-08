@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/06/11/1830?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-06-16T20:08:31.063745374Z"
-seen = false
+seen = true
 +++
 
 This is a fascinating box–so much so that after almost three weeks playing with it, I amassed so much material that I nearly decided to split my review into two parts, but in the end I decided to condense it a bit and post a longer piece than usual, even if that means almost half of it is a fairly wide-ranging exploration of how to get AI workloads on it.

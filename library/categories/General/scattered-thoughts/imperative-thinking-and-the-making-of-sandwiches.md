@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/imperative-thinking-and-the-ma
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.287189061Z"
-seen = false
+seen = true
 +++
 

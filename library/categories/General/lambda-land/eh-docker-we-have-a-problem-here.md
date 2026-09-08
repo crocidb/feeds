@@ -11,7 +11,7 @@ author = """
           """
 text = ""
 lastupdated = "2026-07-21T09:22:07.345725789Z"
-seen = false
+seen = true
 +++
 
 *Quick note for those who don’t know about Docker:* [Docker](https://www.docker.com/what-docker) is a program that lets me take packaged-up programs (called *images* or *containers*) and run them without having to worry much about dependencies.

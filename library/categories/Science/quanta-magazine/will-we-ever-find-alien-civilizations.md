@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/will-we-ever-find-alien-civilizations-2026
 author = "Janna Levin and Steven Strogatz"
 text = ""
 lastupdated = "2026-07-16T14:37:07.370269292Z"
-seen = false
+seen = true
 +++
 
 Does intelligent life exist elsewhere in the universe? The question has captivated us for centuries, but despite decades of searching it remains frustratingly unanswered. Every so often a curious signal appears — fossilized structures in a meteorite, say, or an unusual gas in an exoplanet’s atmosphere — and for a moment it seems possible that we are not alone before the excitement gives way to a…

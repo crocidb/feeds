@@ -6,6 +6,6 @@ url = "https://www.scattered-thoughts.net/writing/why-start-a-new-database-confe
 author = "Jamie Brandon"
 text = ""
 lastupdated = "2026-07-22T09:22:13.176821476Z"
-seen = false
+seen = true
 +++
 

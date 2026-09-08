@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1083543/"
 author = "corbet"
 text = ""
 lastupdated = "2026-07-21T09:19:52.335792440Z"
-seen = false
+seen = true
 +++
 
 The [7.2-rc4](https://lwn.net/Articles/1083542/) kernel prepatch is out for testing. Linus said: "

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/ii-noturno-amplia-seu-olhar-para-o-longa-metrag
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-09-01T19:33:13.220938012Z"
-seen = false
+seen = true
 +++
 
 O II [Noturno](https://revistaogrito.com/1o-noturno-festival-internacional-de-curtas-do-recife-estreia-com-programacao-de-filmes-ineditos-e-classicos/) – Festival Internacional de Cinema do Recife ocupa o [Cinema São Luiz](https://revistaogrito.com/assunto/sao-luiz/) e o Cinema da Fundação Joaquim Nabuco – Derby a partir desta quinta-feira (27), com uma programação que segue até o domingo (30), trazendo diferentes panoramas da produção cinematográfica local, nacional e global, transitando entre o contemporâneo e o clássico em suas diversas estéticas e modos de produção. Serão exibidos 60 filmes, entre curtas e longas, passando por mostras competitivas, panoramas nacionais e internacionais, além de sessões especiais em homenagem a importantes personagens do cinema brasileiro e pernambucano, contando também com seminários, oficinas e shows.
