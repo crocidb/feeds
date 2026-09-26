@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/steam-achievements-for-unreleased-and-unann
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.513901285Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/steam-logo-2028307190.jpg?width=690&quality=85&format=jpg&auto=webp)

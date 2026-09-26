@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/exposicao-cozinha-sertaneja-comer-para-resistir
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-21T09:42:43.115945025Z"
-seen = false
+seen = true
 +++
 
 Quem ainda não visitou a exposição “Cozinha Sertaneja – Comer para Resistir” ganhou mais tempo para conhecer a mostra. Em cartaz de terça a domingo, das 9h às 17h, no Centro Cultural Mercado [Eufrásio Barbosa](https://revistaogrito.com/?s=Eufrásio+Barbosa), em Olinda, a exposição foi estendida e permanecerá aberta ao público até o dia 27 de setembro de 2026. A entrada é gratuita.

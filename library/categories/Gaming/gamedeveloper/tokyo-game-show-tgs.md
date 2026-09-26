@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/events/tokyo-game-show-tgs-"
 author = "gamedeveloper"
 text = ""
 lastupdated = "2026-09-21T09:42:41.932579255Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/square-enix-denies-going-private-after-repo
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-21T09:44:40.552417448Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Final-Fantasy-Rebirth-7.png?width=690&quality=85&format=jpg&auto=webp)

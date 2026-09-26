@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/pulling-focus-must-aaa-pander-to-the-distra
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-09-21T09:44:40.447692183Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/marvels-wolverine-deathstrikefight-screenshot-02-en-15sept26.webp?width=690&quality=85&format=jpg&auto=webp)

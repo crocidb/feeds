@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/saudi-arabias-pif-reportedly-considering-to
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.492848574Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ea-savvy-games-group.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/680"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-09-21T09:42:45.119292467Z"
-seen = false
+seen = true
 +++
 
 BSD Part Deux, Code that built the internet, and an interview about WebZFS

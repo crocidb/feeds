@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-debuts-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.521940701Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/assassins-creed-black-flag-resynced.jpeg?width=690&quality=85&format=jpg&auto=webp)

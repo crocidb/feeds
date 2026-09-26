@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/tim-schafer-no-one-puts-double-fine-out-of-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.529565748Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/double-fine-productions-keeper.jpg?width=690&quality=85&format=jpg&auto=webp)

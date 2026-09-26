@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/european-game-developers-are-more-concerned
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.517893663Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/person-using-computer.jpg?width=690&quality=85&format=jpg&auto=webp)

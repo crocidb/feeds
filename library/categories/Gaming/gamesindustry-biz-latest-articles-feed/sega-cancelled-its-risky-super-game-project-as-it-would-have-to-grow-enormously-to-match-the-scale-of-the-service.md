@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sega-cancelled-its-risky-super-game-project
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.528299618Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Sonic-Frontiers_FHeICqM.png?width=690&quality=85&format=jpg&auto=webp)

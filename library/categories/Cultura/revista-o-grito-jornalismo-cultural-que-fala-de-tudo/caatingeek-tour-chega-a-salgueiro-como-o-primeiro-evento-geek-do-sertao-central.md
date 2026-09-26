@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/caatingeek-tour-chega-a-salgueiro-como-o-primei
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-08T12:47:14.700862299Z"
-seen = false
+seen = true
 +++
 
 Salgueiro, localizada no Sertão de Pernambuco, recebe no dia 20 de dezembro de 2026 a primeira edição do Caatingeek Tour. A atividade, que ocorre a partir das 12h na Escola de Referência em Ensino Médio Professor Urbano Gomes de Sá, com entrada gratuita, é o primeiro evento dedicado à cultura geek no Sertão Central.

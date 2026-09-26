@@ -6,7 +6,7 @@ url = "https://vermaden.wordpress.com/2026/08/28/lenovo-xclarity-administrator-i
 author = "vermaden"
 text = ""
 lastupdated = "2026-09-01T19:33:12.477181286Z"
-seen = false
+seen = true
 +++
 
 This is another entry that is sponsored by [**fme AG**](https://fme.de/) company. If You have multiple **Lenovo ThinkServer** systems to manage You may do that by hand with entering UEFI/BIOS setup and doing needed things by hand … or You can setup a [**Lenovo XClarity Administrator**](https://support.lenovo.com/us/en/solutions/ht116184) VM.

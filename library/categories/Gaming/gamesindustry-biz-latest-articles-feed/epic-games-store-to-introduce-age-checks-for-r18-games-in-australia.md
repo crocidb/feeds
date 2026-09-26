@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/epic-games-store-to-introduce-age-checks-fo
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-21T09:44:40.505211988Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/epic-games-app-jp.jpg?width=690&quality=85&format=jpg&auto=webp)

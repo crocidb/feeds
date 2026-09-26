@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/aks-plays-eve-part-13-back-at-it-again/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-09-21T09:42:41.533967420Z"
-seen = false
+seen = true
 +++
 
 Space pewpew continues!

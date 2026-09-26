@@ -1,0 +1,39 @@
++++
+title = "Festival No Ar Coquetel Molotov anuncia Karol Conká, Azymuth e Cidadão Instigado"
+description = "O festival No Ar Coquetel Molotov revelou nesta quarta (23/09), a programação completa de sua 23ª edição, agendada para o dia 28 de novembro de 2026 no Campus da UFPE, no Recife. O evento terá mais de 12 horas de música distribuídas em três palcos — CQTL MLTV, Concha Acústica e P"
+date = "2026-09-23T14:24:19Z"
+url = "https://revistaogrito.com/festival-no-ar-coquetel-molotov-anuncia-karol-conka-azymuth-e-cidadao-instigado/"
+author = "Alexandre Figueirôa"
+text = ""
+lastupdated = "2026-09-23T18:24:55.044712524Z"
+seen = true
++++
+
+O festival [No Ar Coquetel Molotov](https://revistaogrito.com/assunto/coquetel-molotov) revelou nesta quarta (23/09), a programação completa de sua 23ª edição, agendada para o dia 28 de novembro de 2026 no Campus da UFPE, no Recife. O evento terá mais de 12 horas de música distribuídas em três palcos — CQTL MLTV, Concha Acústica e Palco KMKAZE —, somando mais de 25 atrações que conectam diferentes gerações da música brasileira e nomes da cena internacional. A identidade visual deste ciclo é assinada pelo artista plástico e médico pernambucano **Aislan Pankararu**.
+
+O line-up reúne veteranos e expoentes da música nacional, como Azymuth, **Fernanda Abreu**, **[Cidadão Instigado](https://revistaogrito.com/cidadao-instigado-retorna-com-trabalho-inedito-apos-11-anos/), Boogarins** e **[Karol Conká](https://revistaogrito.com/assunto/karol-conka/)** — que apresenta o show *Batuk Freak* —, ao lado de destaques contemporâneos como **Major RD**, **O Kannalha**, **Bia Soull**, **NandaTsunami** e o centenário Clube Carnavalesco Misto Vassourinhas de Olinda.
+
+A escalação internacional traz ao Brasil estreias da cantora estadunidense **D’Leesa**, da artista holandesa **Naaz** e do DJ norte-americano **MikeQ**, que se apresenta acompanhado do coletivo Ballroom PE no Palco KMKAZE, espaço dedicado às sonoridades eletrônicas e de pista com curadoria de **Libra Lima**.
+
+* **[Acesse nossa seção de Música](http://revistaogrito.com/musica)**
+* **[Leia críticas de novos discos](http://revistaogrito.com/musica/critica-disco)**
+
+Sob direção de **Ana Garcia**, o projeto mantém políticas de acessibilidade com distribuição gratuita de ingressos por meio das Listas PCD e Trans, além de selo de sustentabilidade e neutralização de carbono. Garcia destacou durante a coletiva de imprensa realizada nesta quarta (23/9) a presença de 61% de artistas femininas na escalação. “Também vale ressaltar que Pernambuco está no centro da narrativa de nosso festival, com presença das cenas e destaque da cena ballroom”, disse.
+
+Jarmeson de Lima, produtor do evento, destacou novamente a presença dos três palcos do festival e a infraestrutura do evento. “Teremos mais uma vez a entrada gratuita para PCD e pessoas trans”, disse. Libra, a curadora do palco eletrônico Kamikaze, contou que segue apostando na música urbana experimental com a presença da Tropa do Jamal e do Reggae pelo Reggae, coletivo PE-BA, que chega ao evento este ano.
+
+Fernanda Abreu, um dos destaques da programação deste ano, também participou da coletiva e falou da alegria em participar do Coquetel Molotov. “Estou muito feliz de me apresentar no Coquetel, no Recife. Sou muito amiga de Otto, Lenine, Silvério Pessoa”, disse. “Também me sinto feliz dessa edição ter um destaque grande pra música eletrônica, que foi algo que sempre me acompanhou ao longo da carreira, além do samba, funk e hip hop. Por isso, me sinto muito à vontade”.
+
+Karol Conká, presente na coletiva, disse que está bem emocionada em retornar para sua terceira participação. “Vou apresentar o Batuk Freak, que é um show que os fãs pedem há muito tempo. O disco tem 13 anos, mas é um dos mais importantes na minha carreira”, explicou. UANA, um dos nomes de destaques no pop nacional recente, falou que que o festival a formou como artista, pois lá que viu muito dos artistas que a influenciaram na carreira. “O show vai ter o novo disco como base e estou muito feliz de apresentar no Coquetel”.
+
+Antecedendo o festival principal, a plataforma gratuita Coquetel Molotov Negócios ocorre entre os dias 25 e 27 de novembro, no Bairro do Recife, reunindo oficinas, *pitchings* e encontros do mercado fonográfico. Os ingressos para o festival estão à venda na plataforma Shotgun e no ponto físico Casa Moinho a partir de R$ 95.
+
+**Serviço** 23º Festival No Ar Coquetel Molotov   
+Quando: Sábado, 28 de novembro de 2026, a partir das 15h   
+Onde: Campus da UFPE (Avenida Prof. Moraes Rego, 1235, Cidade Universitária, Recife – PE) Quanto: A partir de R$ 95, à venda na plataforma Shotgun e na Casa Moinho (Rua do Futuro, 177, Graças, Recife – PE)   
+
+Coquetel Molotov Negócios: 25 a 27 de novembro de 2026, gratuito no Bairro do Recife
+
+<img decoding="async" width="768" height="1024" data-attachment-id="202126" data-permalink="https://revistaogrito.com/festival-no-ar-coquetel-molotov-anuncia-karol-conka-azymuth-e-cidadao-instigado/cartaz-no-ar-2026/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026.webp" data-orig-size="1080,1440" data-comments-opened="0" data-image-title="CARTAZ NO AR 2026" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-768x1024.webp" loading="lazy" src="https://controle.revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-768x1024.webp" alt="CARTAZ NO AR 2026" class="wp-image-202126" srcset="https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-768x1024.webp 768w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-225x300.webp 225w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-75x100.webp 75w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-832x1110.webp 832w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-321x428.webp 321w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-798x1064.webp 798w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026.webp 1080w" sizes="auto, (max-width: 768px) 100vw, 768px">\<img fetchpriority="high" decoding="async" width="768" height="1024" data-attachment-id="202126" data-permalink="https://revistaogrito.com/festival-no-ar-coquetel-molotov-anuncia-karol-conka-azymuth-e-cidadao-instigado/cartaz-no-ar-2026/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026.webp" data-orig-size="1080,1440" data-comments-opened="0" data-image-title="CARTAZ NO AR 2026" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-768x1024.webp" src="https://controle.revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-768x1024.webp" alt="CARTAZ NO AR 2026" class="wp-image-202126" srcset="https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-768x1024.webp 768w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-225x300.webp 225w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-75x100.webp 75w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-832x1110.webp 832w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-321x428.webp 321w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026-798x1064.webp 798w, https://revistaogrito.com/wp-content/uploads/2026/09/CARTAZ-NO-AR-2026.webp 1080w" sizes="(max-width: 768px) 100vw, 768px" /\>
+
+O post [Festival No Ar Coquetel Molotov anuncia Karol Conká, Azymuth e Cidadão Instigado](https://revistaogrito.com/festival-no-ar-coquetel-molotov-anuncia-karol-conka-azymuth-e-cidadao-instigado/) apareceu primeiro em [Revista O Grito! — Jornalismo cultural que fala de tudo](https://revistaogrito.com).

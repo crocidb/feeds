@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/aggro-crab-launches-publishing-lab
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.427939170Z"
-seen = false
+seen = true
 +++
 

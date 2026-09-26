@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/mark-cerny-and-geoff-keighley-laun
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-21T09:42:41.983921043Z"
-seen = false
+seen = true
 +++
 

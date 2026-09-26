@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/gravado-com-celular-e-drone-curta-guel-boy-retr
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-21T09:42:43.121486534Z"
-seen = false
+seen = true
 +++
 
 A cultura periférica contemporânea e o senso de comunidade são os principais recursos mobilizados por jovens negros do Recife para atravessar um cotidiano marcado pelo racismo estrutural em *Guél Boy*, curta-metragem dirigido por **Ayla Òbì**. Com elementos de realismo fantástico, o filme foi inteiramente gravado com celular e drone, construindo uma linguagem visual própria para acompanhar as experiências, afetos e conflitos de seus personagens.

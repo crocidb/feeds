@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-21T09:42:41.975967145Z"
-seen = false
+seen = true
 +++
 

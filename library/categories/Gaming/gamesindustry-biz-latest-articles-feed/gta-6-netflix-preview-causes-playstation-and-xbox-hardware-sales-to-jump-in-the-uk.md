@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-an
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.538423164Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta-lucia-jason.webp?width=690&quality=85&format=jpg&auto=webp)

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/creative-artists-agency-spins-up-i
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-03T13:15:06.462738734Z"
-seen = false
+seen = true
 +++
 

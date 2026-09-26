@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.501433530Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/physint_xhYY0Zk.jpg?width=690&quality=85&format=jpg&auto=webp)

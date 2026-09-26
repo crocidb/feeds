@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-fundin
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.455367371Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Nex-Playground-console-on-stand.png?width=690&quality=85&format=jpg&auto=webp)

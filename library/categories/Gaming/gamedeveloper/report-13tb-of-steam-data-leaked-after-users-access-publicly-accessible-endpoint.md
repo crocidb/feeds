@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/pc/report-13tb-of-steam-data-leaked-after-u
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-03T13:15:06.434377236Z"
-seen = false
+seen = true
 +++
 

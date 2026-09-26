@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/capitao-lima-curta-metragem-do-interior-de-pern
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-21T09:42:43.127666880Z"
-seen = false
+seen = true
 +++
 
 Para que momento você voltaria se pudesse reviver a sua melhor memória de liberdade? É essa pergunta que o roteirista e diretor pernambucano **Filipe Carvalho** tenta responder em *Capitão Lima*, seu segundo curta-metragem. Entre 24 e 27 de setembro, a produção integra a 29ª edição do Arpa International Film Festival, realizada em Los Angeles no emblemático TCL Chinese Theater, em Hollywood. Em outubro, ele segue para o Buffalo International Film Festival, em Nova York. 

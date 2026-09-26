@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/pitty-lanca-sobremesa-primeiro-single-de-seu-no
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-21T09:42:43.111359767Z"
-seen = false
+seen = true
 +++
 
 “Sobremesa”, primeiro single do novo álbum *PITTY*, já está disponível em todas as plataformas de streaming de música. Às 12h desta sexta-feira, 18 de setembro, **[Pitty](https://revistaogrito.com/assunto/pitty/)** apresenta também no YouTube o videoclipe da faixa, idealizado pela artista e dirigido por Jorge Daux. 

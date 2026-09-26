@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/rockstar-and-fired-gta-developer
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-21T09:42:41.974366617Z"
-seen = false
+seen = true
 +++
 

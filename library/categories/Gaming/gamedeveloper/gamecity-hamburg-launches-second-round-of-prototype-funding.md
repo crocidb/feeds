@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-r
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-08T09:44:03.813868819Z"
-seen = false
+seen = true
 +++
 

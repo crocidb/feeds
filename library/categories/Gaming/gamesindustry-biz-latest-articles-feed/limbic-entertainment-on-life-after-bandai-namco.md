@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/limbic-entertainment-on-life-after-bandai-n
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-21T09:44:40.571860919Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Corsair-Cove-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

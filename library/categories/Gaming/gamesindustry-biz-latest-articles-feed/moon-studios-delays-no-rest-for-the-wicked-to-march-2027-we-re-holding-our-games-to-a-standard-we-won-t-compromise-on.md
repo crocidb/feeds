@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.555159896Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/no-rest-for-the-wicked-moon-studios-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-form
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-21T09:42:41.958385524Z"
-seen = false
+seen = true
 +++
 

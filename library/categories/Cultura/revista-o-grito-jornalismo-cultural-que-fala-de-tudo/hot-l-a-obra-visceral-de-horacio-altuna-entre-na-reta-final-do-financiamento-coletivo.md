@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/hot-l-a-obra-visceral-de-horacio-altuna-entre-n
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-09-08T12:47:14.706108666Z"
-seen = false
+seen = true
 +++
 
 A Risco Editora entrou na reta final da campanha de financiamento coletivo no Catarse para o lançamento da história em quadrinhos ***Hot L.A***., uma das mais importantes obras de **Horacio Altuna**.

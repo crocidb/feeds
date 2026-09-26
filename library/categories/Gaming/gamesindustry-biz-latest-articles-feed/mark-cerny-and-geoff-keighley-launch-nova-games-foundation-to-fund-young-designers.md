@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/mark-cerny-and-geoff-keighley-launch-nova-g
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-21T09:44:40.506513168Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-09-09-at-16.48.54.png?width=690&quality=85&format=jpg&auto=webp)

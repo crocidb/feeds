@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-u
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-21T09:44:40.502714449Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/overwatch_clYfSXF.jpg?width=690&quality=85&format=jpg&auto=webp)

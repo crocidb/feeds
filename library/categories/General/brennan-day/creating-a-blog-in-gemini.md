@@ -6,7 +6,7 @@ url = "https://brennan.day/creating-a-blog-in-gemini/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.407889557Z"
-seen = false
+seen = true
 +++
 
 Welcome to my third post on Gemini and the alternative Internets and smallnets! This is going to be my most helpful and detailed article on the topic yet—and it's something I'm excited to get into.

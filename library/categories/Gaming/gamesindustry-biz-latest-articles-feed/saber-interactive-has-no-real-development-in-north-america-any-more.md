@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/saber-interactive-has-no-real-development-i
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-09-21T09:44:40.494117334Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/saber-interactive.webp?width=690&quality=85&format=jpg&auto=webp)

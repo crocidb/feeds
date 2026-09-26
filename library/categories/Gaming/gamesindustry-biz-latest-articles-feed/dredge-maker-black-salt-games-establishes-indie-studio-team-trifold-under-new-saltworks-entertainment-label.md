@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-t
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.451548882Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/nothing-lost.jpg?width=690&quality=85&format=jpg&auto=webp)

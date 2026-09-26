@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jo
 author = "James Batchelor"
 text = ""
 lastupdated = "2026-09-21T09:44:40.442915935Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/pexels-mart-production-7278789.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minor
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-21T09:42:41.966347150Z"
-seen = false
+seen = true
 +++
 

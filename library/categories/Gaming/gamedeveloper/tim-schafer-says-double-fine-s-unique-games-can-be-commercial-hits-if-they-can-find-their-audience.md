@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-trie
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-08T23:03:50.130670083Z"
-seen = false
+seen = true
 +++
 

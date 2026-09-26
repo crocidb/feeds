@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/the-majority-of-doom-the-dark-ages
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-03T13:15:06.426669972Z"
-seen = false
+seen = true
 +++
 

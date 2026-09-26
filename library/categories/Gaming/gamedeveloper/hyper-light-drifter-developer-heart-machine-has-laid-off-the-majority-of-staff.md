@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/hyper-light-drifter-developer-hear
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-21T09:42:41.938640292Z"
-seen = false
+seen = true
 +++
 

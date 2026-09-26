@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-03T13:15:06.468879379Z"
-seen = false
+seen = true
 +++
 

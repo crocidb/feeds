@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-r
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-21T09:44:40.474797352Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/HSAF3N1bIAAQilG.jpeg?width=690&quality=85&format=jpg&auto=webp)

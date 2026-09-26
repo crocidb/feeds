@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/star-wars-zero-company-studio-furl
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.431847168Z"
-seen = false
+seen = true
 +++
 

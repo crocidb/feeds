@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-de
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.470904253Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/crazy-taxi_OeAMfES.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/creative-uk-launches-barclays-spon
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-03T13:15:06.454232690Z"
-seen = false
+seen = true
 +++
 

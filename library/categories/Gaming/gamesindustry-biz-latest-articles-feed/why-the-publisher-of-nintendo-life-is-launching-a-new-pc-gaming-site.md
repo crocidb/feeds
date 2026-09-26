@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launc
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-09-21T09:44:40.468303795Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Steam-Hype-(Banner).png?width=690&quality=85&format=jpg&auto=webp)

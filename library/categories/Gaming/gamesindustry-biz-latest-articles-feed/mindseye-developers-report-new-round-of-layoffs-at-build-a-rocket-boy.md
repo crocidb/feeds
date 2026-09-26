@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-lay
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-21T09:44:40.461931057Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/mindseye.webp?width=690&quality=85&format=jpg&auto=webp)

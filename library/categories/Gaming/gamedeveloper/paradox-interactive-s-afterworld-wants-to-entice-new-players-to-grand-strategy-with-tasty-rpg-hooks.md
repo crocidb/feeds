@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wan
 author = "Alessandro Fillari"
 text = ""
 lastupdated = "2026-09-03T13:15:06.430595688Z"
-seen = false
+seen = true
 +++
 

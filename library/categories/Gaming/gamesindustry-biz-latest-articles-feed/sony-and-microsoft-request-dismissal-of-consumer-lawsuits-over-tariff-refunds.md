@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sony-and-microsoft-request-dismissal-of-con
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.544699891Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ps5___xbox.jpeg?width=690&quality=85&format=jpg&auto=webp)

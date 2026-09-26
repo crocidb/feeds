@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-08T23:03:50.129049042Z"
-seen = false
+seen = true
 +++
 

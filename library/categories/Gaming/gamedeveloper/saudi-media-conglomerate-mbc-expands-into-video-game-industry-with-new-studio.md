@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/saudi-owned-media-conglomerate-mbc
 author = "Chris Kerr, Bryant Francis"
 text = ""
 lastupdated = "2026-09-03T13:15:06.447061605Z"
-seen = false
+seen = true
 +++
 

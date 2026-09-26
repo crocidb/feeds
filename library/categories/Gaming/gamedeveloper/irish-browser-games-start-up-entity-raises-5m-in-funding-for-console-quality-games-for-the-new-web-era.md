@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/irish-browser-games-start-up-entit
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-09-03T13:15:06.459112576Z"
-seen = false
+seen = true
 +++
 

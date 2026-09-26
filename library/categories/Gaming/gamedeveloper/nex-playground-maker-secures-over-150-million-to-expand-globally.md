@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nex-playround-maker-secures-over-1
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-21T09:42:41.937105623Z"
-seen = false
+seen = true
 +++
 

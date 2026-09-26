@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-09-21T09:44:40.561601574Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/reset-button-NES-black-background.png?width=690&quality=85&format=jpg&auto=webp)

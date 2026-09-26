@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-use
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-21T09:42:41.982353213Z"
-seen = false
+seen = true
 +++
 

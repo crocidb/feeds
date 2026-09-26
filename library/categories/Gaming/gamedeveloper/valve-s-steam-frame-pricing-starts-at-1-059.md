@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-r
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-21T09:42:41.967914309Z"
-seen = false
+seen = true
 +++
 

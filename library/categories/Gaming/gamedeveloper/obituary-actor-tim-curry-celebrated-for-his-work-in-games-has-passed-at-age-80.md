@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/audio/obituary-actor-tim-curry-celebrated-f
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-03T13:15:06.448249685Z"
-seen = false
+seen = true
 +++
 

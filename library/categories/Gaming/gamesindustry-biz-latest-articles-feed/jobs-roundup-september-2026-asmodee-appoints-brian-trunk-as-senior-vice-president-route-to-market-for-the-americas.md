@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/jobs-roundup-september-2026-asmodee-appoint
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.564086653Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/brian-trunk.jpg?width=690&quality=85&format=jpg&auto=webp)

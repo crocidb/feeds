@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/how-you-yes-you-can-benefit-from-1-o
 author = "Danielle Riendeau"
 text = ""
 lastupdated = "2026-09-03T13:15:06.442178069Z"
-seen = false
+seen = true
 +++
 

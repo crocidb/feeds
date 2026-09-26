@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-ex
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-03T13:15:06.473896095Z"
-seen = false
+seen = true
 +++
 

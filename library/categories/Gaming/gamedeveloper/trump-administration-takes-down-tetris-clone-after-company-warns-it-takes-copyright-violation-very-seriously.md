@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/trump-administration-takes-down-te
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-21T09:42:41.987175081Z"
-seen = false
+seen = true
 +++
 

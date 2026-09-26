@@ -6,7 +6,7 @@ url = "https://vermaden.wordpress.com/2026/08/14/move-freebsd-between-zfs-disks/
 author = "vermaden"
 text = ""
 lastupdated = "2026-08-24T15:49:14.055141691Z"
-seen = false
+seen = true
 +++
 
 I made a funny mistake in one of my clients when installing FreeBSD 15.1-RELEASE on their server … I have chosen wrong disk for the installation. The server had 4 local disks – 2 of them were some really low end SATA SSD drives (**ada0** and **ada1**) and the server also had 2 fast NVMe disks (**nda0** and **nda1**). I used **Auto (ZFS)** option in the **bsdinstall(8)** installer and chosen (wrongly) the **ada1** disk.

@@ -6,7 +6,7 @@ url = "https://vermaden.wordpress.com/2026/08/09/freebsd-openshift-democratic-cs
 author = "vermaden"
 text = ""
 lastupdated = "2026-08-10T12:13:26.794655558Z"
-seen = false
+seen = true
 +++
 
 Today quite different topic, using ZFS/NFS on FreeBSD as backend storage for containers/pods running on OpenShift platform.

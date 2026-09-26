@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/its-not-sexy-but-its-one-of-the-most-succes
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-09-21T09:44:40.527045858Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/fool-king.png?width=690&quality=85&format=jpg&auto=webp)

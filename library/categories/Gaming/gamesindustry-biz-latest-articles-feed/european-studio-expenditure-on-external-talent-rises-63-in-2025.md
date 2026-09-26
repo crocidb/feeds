@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/european-studio-expenditure-on-external-tal
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.488970486Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/annie-spratt-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

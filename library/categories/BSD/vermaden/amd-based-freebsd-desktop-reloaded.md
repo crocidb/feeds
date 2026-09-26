@@ -6,7 +6,7 @@ url = "https://vermaden.wordpress.com/2026/09/06/amd-based-freebsd-desktop-reloa
 author = "vermaden"
 text = ""
 lastupdated = "2026-09-08T09:44:03.607131001Z"
-seen = false
+seen = true
 +++
 
 My previous [**AMD Based FreeBSD Desktop**](https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/) is still up and running – it will now be my kids computer … so I needed a new one … but not a bigger one ![🙂](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png) I spent way too much time finding new Mini-ITX case for the next one … and after all possibilities … I got **Silverstone** case again :] … because nothing else was this small and with all needed features. Also … I was thinking WHAT exactly should I buy – especially in the times with AI prices. For one of my older projects that failed (I hope to also publish about that some day) I had **AMD Ryzen 4750GE** CPU with 35W TDP but still 8C/16T CPU on AMD4 socket … so instead of killing all price/performance efficiency with DDR5 and AM5 setup … I went to decent AM4 option.

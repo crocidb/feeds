@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.557799325Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/merge-mansion_L1LTAEn.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-ga
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-08T09:44:03.806816782Z"
-seen = false
+seen = true
 +++
 

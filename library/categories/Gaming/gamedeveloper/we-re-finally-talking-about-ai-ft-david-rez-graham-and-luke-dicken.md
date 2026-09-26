@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-09-03T13:15:06.467615450Z"
-seen = false
+seen = true
 +++
 

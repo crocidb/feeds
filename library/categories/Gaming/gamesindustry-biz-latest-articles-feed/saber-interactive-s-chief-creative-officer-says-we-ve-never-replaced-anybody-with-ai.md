@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-s
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-09-21T09:44:40.498463822Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/rideshare-stimulator.png?width=690&quality=85&format=jpg&auto=webp)

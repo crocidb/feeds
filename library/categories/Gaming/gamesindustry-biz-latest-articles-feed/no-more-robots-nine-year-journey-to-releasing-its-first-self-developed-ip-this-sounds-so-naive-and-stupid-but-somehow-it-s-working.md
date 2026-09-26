@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/no-more-robots-nine-year-journey-to-releasi
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-21T09:44:40.495380252Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/No_More_Robots_logo-cropped.png?width=690&quality=85&format=jpg&auto=webp)

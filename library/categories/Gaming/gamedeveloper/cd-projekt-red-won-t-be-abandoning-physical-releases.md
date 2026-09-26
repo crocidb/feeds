@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.422909584Z"
-seen = false
+seen = true
 +++
 

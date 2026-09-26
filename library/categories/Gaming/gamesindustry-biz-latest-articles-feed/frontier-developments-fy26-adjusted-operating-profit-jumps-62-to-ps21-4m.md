@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/frontier-developments-fy26-adjusted-operati
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.510814846Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/planet-zoo-2.webp?width=690&quality=85&format=jpg&auto=webp)

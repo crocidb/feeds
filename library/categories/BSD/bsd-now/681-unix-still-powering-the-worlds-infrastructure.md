@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/681"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-09-21T09:42:45.117851697Z"
-seen = false
+seen = true
 +++
 
 Where Unix runs today, Webzfs updates, A remote filesystem for 2.11 BSD, Sylve, and more...

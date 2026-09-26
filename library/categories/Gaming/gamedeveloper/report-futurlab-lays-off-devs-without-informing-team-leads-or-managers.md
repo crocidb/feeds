@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-futurlab-makes-layoffs-with
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-08T23:03:50.132198293Z"
-seen = false
+seen = true
 +++
 

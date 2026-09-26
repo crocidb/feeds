@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/futurlab-cuts-staff-after-cancelling-non-po
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.520632142Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/futurlab-(1).webp?width=690&quality=85&format=jpg&auto=webp)

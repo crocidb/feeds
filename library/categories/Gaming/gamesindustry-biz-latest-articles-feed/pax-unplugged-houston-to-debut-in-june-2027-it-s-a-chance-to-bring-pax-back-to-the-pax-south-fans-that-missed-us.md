@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/pax-unplugged-houston-to-debut-in-june-2027
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.533315486Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/pax-unplugged.jpg?width=690&quality=85&format=jpg&auto=webp)

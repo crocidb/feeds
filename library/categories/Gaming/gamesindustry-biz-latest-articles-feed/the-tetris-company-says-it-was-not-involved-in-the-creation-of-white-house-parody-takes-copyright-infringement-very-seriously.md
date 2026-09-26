@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.519303402Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/build-the-wall2.webp?width=690&quality=85&format=jpg&auto=webp)

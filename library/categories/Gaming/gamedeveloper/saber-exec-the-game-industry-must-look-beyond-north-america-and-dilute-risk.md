@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/saber-exec-the-game-industry-must-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.444632677Z"
-seen = false
+seen = true
 +++
 

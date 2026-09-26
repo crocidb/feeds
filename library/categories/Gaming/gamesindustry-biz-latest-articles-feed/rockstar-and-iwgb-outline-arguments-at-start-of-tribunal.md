@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-star
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-21T09:44:40.478643030Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta-6-key-art_edited.jpg?width=690&quality=85&format=jpg&auto=webp)

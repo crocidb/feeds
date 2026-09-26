@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/keywords-studios-combines-existing-marketin
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.507777307Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/FA_red_1200x675.png?width=690&quality=85&format=jpg&auto=webp)

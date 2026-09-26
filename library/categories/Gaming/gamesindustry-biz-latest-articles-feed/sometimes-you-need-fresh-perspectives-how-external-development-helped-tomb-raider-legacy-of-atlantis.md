@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-e
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-21T09:44:40.553679338Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Tomb-Raider-Legacy-of-Atlantis-(5).png?width=690&quality=85&format=jpg&auto=webp)

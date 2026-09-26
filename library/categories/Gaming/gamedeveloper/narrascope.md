@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.comnarrascope.org"
 author = "gamedeveloper"
 text = ""
 lastupdated = "2026-09-21T09:42:41.929599676Z"
-seen = false
+seen = true
 +++
 

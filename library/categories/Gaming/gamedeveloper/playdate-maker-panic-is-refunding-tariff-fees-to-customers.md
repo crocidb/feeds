@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/playdate-maker-is-refunding-tariff
 author = "Nicole Carpenter, Diego Argüello"
 text = ""
 lastupdated = "2026-09-03T13:15:06.450654513Z"
-seen = false
+seen = true
 +++
 

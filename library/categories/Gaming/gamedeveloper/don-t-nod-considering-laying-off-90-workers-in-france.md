@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/don-t-nod-considering-laying-off-9
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-08T12:47:14.630757811Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-09-21T09:44:40.456625120Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/nex-playground-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

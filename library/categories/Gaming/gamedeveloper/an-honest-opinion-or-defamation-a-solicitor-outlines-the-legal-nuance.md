@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-21T09:42:41.972715847Z"
-seen = false
+seen = true
 +++
 

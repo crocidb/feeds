@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/spanish-union-calls-for-ongoing-st
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.440775840Z"
-seen = false
+seen = true
 +++
 

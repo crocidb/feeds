@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/rock-na-calcada-comemora-11-anos-de-resistencia
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-09-21T09:42:43.123596072Z"
-seen = false
+seen = true
 +++
 
 Há 11 anos, a Rua da Moeda se transforma em palco para quem faz a cena musical independente e autoral pulsar em Pernambuco. Dia 17 de outubro, a partir das 15h, o [Festival Rock na Calçada](https://revistaogrito.com/?s=festival+rock+na+calçada) celebra essa trajetória com mais uma edição gratuita, reunindo, no Bairro do Recife (Recife Antigo), nove artistas e bandas de rock e outros gêneros como frevo, trap e rap. A programação deste ano apresenta **Realidade Encoberta**, **Insania**, **Mondo Bizarro**, **Íris Negra**, **Zé Lamúria**, **A Troça**, **Olivier**, **Rico** **Dujanga** e **[Banda Mascates](https://revistaogrito.com/novos-sons-banda-mascates-leva-recife-no-nome-e-no-sangue/)**. 

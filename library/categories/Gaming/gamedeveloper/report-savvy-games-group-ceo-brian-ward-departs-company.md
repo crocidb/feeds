@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-savvy-games-group-ceo-brian
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-03T13:15:06.425445872Z"
-seen = false
+seen = true
 +++
 

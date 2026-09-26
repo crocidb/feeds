@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-bigg
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-09-21T09:44:40.457912169Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/CTRL_R_Deluxe_Key_Art_with_logo_KxtQICO.png?width=690&quality=85&format=jpg&auto=webp)

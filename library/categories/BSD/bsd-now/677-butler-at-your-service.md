@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/677"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-08-24T15:49:17.861094399Z"
-seen = false
+seen = true
 +++
 
 Home Assistant Setup, OpenBSD Updates, Wine 11.14, and more...

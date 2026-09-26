@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/cd-projekt-red-has-the-witcher-4
 author = "Nicole Carpenter, Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.443386829Z"
-seen = false
+seen = true
 +++
 

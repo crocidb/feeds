@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/rovio-closes-copenhagen-studio-following-sh
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.567942901Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/sonic-blitz.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entir
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-09-21T09:44:40.570590240Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta-6-key-art_edited.jpg?width=690&quality=85&format=jpg&auto=webp)

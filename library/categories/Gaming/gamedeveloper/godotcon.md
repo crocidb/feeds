@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.comconference.godotengine.org"
 author = "gamedeveloper"
 text = ""
 lastupdated = "2026-09-21T09:42:41.928049447Z"
-seen = false
+seen = true
 +++
 

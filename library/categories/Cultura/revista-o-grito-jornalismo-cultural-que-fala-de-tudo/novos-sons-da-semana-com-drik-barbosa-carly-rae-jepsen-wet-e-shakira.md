@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-drik-barbosa-carly-rae
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-21T09:42:43.109262278Z"
-seen = false
+seen = true
 +++
 
 Novos Sons no ar! Hora de atualizar a playlist com as novidades. Entre os destaques globais desta semana, **Shakira** se junta a **Maluma** em “AGUA”, enquanto **Troye Sivan** solta “Party”, faixa que aposta na pista de dança sem abrir mão do peso emocional. A semana ainda traz o retorno de **Miley Cyrus** com “Let’s Get Married”, **Carly Rae Jepsen** com “Versailles”, o veterano **Beck** em dose dupla e o primeiro gostinho do álbum de **[Travis Scott](https://revistaogrito.com/rosalia-e-travis-scott-dancam-com-criancas-no-clipe-de-tkn/)** para o jogo GTA VI.

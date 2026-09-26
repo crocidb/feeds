@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-compa
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-08T23:03:50.127460182Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.464498126Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/winds-of-arcana.jpg?width=690&quality=85&format=jpg&auto=webp)

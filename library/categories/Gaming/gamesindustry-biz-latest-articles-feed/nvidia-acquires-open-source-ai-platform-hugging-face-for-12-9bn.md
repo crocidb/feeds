@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hug
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.535887685Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/nvidia-hugging-face.png?width=690&quality=85&format=jpg&auto=webp)

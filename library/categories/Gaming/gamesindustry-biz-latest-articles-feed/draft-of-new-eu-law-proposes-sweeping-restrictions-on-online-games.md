@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restr
 author = "Dr Andreas Lober"
 text = ""
 lastupdated = "2026-09-21T09:44:40.454100641Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/alexandre-lallemand-Pcs3mOL14Sk-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

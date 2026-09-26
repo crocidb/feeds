@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gta-6-netflix-preview-drove-more-than-10000
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.496658742Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ULTIMATE_EDITION_GOODTIME_GEAR_01.jpg?width=690&quality=85&format=jpg&auto=webp)

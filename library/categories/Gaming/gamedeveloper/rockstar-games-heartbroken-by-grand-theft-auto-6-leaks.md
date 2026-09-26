@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/rockstar-games-heartbroken-by-gran
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-09-03T13:15:06.449437614Z"
-seen = false
+seen = true
 +++
 

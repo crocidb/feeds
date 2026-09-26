@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.459336838Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/hyper-light-drifter.jpg?width=690&quality=85&format=jpg&auto=webp)

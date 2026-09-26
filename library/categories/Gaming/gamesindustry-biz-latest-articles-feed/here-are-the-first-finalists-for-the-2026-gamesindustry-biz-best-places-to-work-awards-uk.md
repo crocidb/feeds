@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-g
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-09-21T09:44:40.463242387Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/best-places-2026.png?width=690&quality=85&format=jpg&auto=webp)

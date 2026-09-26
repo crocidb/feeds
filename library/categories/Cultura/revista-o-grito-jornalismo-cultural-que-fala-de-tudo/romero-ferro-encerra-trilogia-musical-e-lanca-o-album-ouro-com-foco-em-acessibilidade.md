@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/romero-ferro-encerra-trilogia-musical-e-lanca-o
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-08T12:47:14.703060178Z"
-seen = false
+seen = true
 +++
 
 O cantor e compositor pernambucano [Romero Ferro](https://revistaogrito.com/assunto/romero-ferro/) lançou nas plataformas digitais o seu terceiro álbum de estúdio, intitulado *OURO*. O projeto reúne 12 faixas inéditas e encerra a trilogia autoral iniciada com os discos *Arsênico* (2016) e *Ferro* (2019).

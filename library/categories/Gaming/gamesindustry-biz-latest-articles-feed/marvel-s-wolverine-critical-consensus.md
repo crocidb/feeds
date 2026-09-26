@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/marvels-wolverine-critical-consensus"
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.490218765Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/marvel-wolverine_7Nkbnr9.jpg?width=690&quality=85&format=jpg&auto=webp)

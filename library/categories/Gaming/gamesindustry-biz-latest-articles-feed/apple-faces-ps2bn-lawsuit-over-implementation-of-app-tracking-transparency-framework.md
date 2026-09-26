@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/apple-faces-2bn-lawsuit-over-implementation
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.542217922Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/apple_LvA5z9E.jpg?width=690&quality=85&format=jpg&auto=webp)

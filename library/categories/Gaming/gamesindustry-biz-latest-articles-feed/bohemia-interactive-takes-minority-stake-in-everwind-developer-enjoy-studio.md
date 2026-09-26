@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.467029075Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/everwind.jpg?width=690&quality=85&format=jpg&auto=webp)

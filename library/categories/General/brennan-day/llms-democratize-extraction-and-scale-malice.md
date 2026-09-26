@@ -6,7 +6,7 @@ url = "https://brennan.day/llms-democratize-extraction-and-scale-malice/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.405512599Z"
-seen = false
+seen = true
 +++
 
 In a post a few months ago, [Tante wrote that](https://tante.cc/2026/04/01/dissolving-the-social/) "'AI' exists to disenfranchise labor," and earlier today, Coyote posted a [short essay](https://osteophage.neocities.org/essays/responses/disowning-your-data) on what data ownership truly means for the IndieWeb when we're subject to genAI scrapers, extractors, and bad-faith actors.

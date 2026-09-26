@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-member
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.452822972Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/GDC_Header.webp?width=690&quality=85&format=jpg&auto=webp)

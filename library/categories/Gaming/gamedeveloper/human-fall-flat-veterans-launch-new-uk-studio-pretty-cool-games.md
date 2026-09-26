@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/human-fall-flat-veterans-launch-ne
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.476295483Z"
-seen = false
+seen = true
 +++
 

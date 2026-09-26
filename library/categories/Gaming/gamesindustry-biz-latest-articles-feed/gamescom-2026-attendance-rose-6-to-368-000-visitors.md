@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gamescom-2026-attendance-rose-6-to-368000-v
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.566601501Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gamescom-2026-booths-3.jpg?width=690&quality=85&format=jpg&auto=webp)

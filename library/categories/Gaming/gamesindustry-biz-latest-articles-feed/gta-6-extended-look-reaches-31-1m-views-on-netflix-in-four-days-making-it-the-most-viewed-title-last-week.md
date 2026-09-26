@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-n
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.559089235Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/lucia-jason-gta-6.jpg?width=690&quality=85&format=jpg&auto=webp)

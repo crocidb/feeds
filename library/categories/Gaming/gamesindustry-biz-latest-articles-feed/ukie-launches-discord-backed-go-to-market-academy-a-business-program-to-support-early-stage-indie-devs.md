@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/ukie-launches-discord-backed-go-to-market-a
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.565351872Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Discord-go-to-market-academy-1536x787-(1).png?width=690&quality=85&format=jpg&auto=webp)

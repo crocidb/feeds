@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/future-imperfect-five-predictions-for-the-n
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-09-21T09:44:40.537148815Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/benjamin-davies-JrZ1yE1PjQ0-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

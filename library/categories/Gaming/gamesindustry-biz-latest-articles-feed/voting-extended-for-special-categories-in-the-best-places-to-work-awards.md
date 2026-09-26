@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/voting-extended-for-special-categories-in-t
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-09-21T09:44:40.540966792Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/HR-Summit-1265.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruc
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-09-21T09:44:40.523244701Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Arm-Newsroom-Edge-AI-GPU-image.jpg?width=690&quality=85&format=jpg&auto=webp)

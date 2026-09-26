@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-wee
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.556526536Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/steam_ROoZJs3.jpg?width=690&quality=85&format=jpg&auto=webp)

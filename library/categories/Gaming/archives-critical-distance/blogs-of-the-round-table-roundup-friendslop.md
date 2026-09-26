@@ -6,7 +6,7 @@ url = "https://critical-distance.com/2026/09/06/blogs-of-the-round-table-roundup
 author = "Kaile Hultner"
 text = ""
 lastupdated = "2026-09-08T13:04:55.392582560Z"
-seen = false
+seen = true
 +++
 
 Welcome back, everyone!

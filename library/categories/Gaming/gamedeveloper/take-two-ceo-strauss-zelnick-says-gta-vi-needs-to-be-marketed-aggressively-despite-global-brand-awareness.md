@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/strauss-zelnick-says-gta-vi-needs
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-21T09:42:41.935607854Z"
-seen = false
+seen = true
 +++
 

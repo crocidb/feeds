@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sessions-on-managing-ai-impact-neurodiverge
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-09-21T09:44:40.445789345Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/2025_10_02_TRI_JPEG-8-bit-300ppi-(sRGB)-For-Web_00089.jpg?width=690&quality=85&format=jpg&auto=webp)

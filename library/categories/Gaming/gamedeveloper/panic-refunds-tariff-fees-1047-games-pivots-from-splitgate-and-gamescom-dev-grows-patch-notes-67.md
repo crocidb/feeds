@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/panic-refunds-tariff-fees-1047-gam
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-03T13:15:06.438269152Z"
-seen = false
+seen = true
 +++
 

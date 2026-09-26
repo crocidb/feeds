@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/why-the-world-needs-a-club-penguin-successo
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-09-21T09:44:40.515159474Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/imagine-island.jpg?width=690&quality=85&format=jpg&auto=webp)

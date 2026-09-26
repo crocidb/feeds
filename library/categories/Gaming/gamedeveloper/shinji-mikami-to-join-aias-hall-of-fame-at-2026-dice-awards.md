@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-21T09:42:41.956799124Z"
-seen = false
+seen = true
 +++
 

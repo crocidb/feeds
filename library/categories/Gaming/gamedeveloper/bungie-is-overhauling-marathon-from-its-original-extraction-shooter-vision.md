@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-fro
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-21T09:42:41.961484002Z"
-seen = false
+seen = true
 +++
 

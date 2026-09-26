@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-of
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-21T09:44:40.503982249Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/GdYm_fsXwAA7LGV.jpeg?width=690&quality=85&format=jpg&auto=webp)

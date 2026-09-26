@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-21T09:42:41.963063561Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/feito-pipa-de-allan-deberton-e-o-escolhido-bras
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-21T09:42:43.125614551Z"
-seen = false
+seen = true
 +++
 
 O filme cearense ***Feito Pipa***, de **Allan Deberton**, foi o escolhido para representar o Brasil na busca por uma vaga de melhor filme internacional. O anúncio foi feito nesta quarta (16/9) pela Academia Brasileira de Cinema.

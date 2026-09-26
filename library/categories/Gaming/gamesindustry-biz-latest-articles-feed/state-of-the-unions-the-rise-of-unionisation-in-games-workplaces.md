@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/state-of-the-unions-the-rise-of-unionisatio
 author = "James Batchelor"
 text = ""
 lastupdated = "2026-09-21T09:44:40.487647896Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Paris_Summit_2025_edited.png?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/goodwill-hunting-consoles-brand-value-and-l
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-09-21T09:44:40.486382897Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ps5-controller-.jpg?width=690&quality=85&format=jpg&auto=webp)

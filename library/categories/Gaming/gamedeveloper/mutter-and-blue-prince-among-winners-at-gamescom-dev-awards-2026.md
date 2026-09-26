@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/mutter-and-blue-prince-among-winne
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.463945022Z"
-seen = false
+seen = true
 +++
 

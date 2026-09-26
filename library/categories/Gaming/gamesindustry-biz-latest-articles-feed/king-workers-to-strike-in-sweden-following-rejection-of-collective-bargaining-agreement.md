@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/king-workers-to-strike-in-sweden-following-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.450288663Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/king_rkgWS64.jpg?width=690&quality=85&format=jpg&auto=webp)

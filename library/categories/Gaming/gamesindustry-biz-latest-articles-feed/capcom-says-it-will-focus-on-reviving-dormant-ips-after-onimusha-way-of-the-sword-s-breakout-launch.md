@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dorma
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-21T09:44:40.525774019Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/onimusha_u9yTPJB.jpg?width=690&quality=85&format=jpg&auto=webp)

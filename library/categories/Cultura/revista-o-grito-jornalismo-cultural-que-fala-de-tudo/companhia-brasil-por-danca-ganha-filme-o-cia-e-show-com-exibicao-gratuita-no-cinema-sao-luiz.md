@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/companhia-brasil-por-danca-ganha-filme-o-cia-e-
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-21T09:42:43.129948809Z"
-seen = false
+seen = true
 +++
 
 A Companhia Brasil por Dança ganha o filme *O Cia é Show*, um documentário assinado por mulheres pernambucanas. Com 40 minutos de duração (média-metragem), acompanha os bastidores e preparativos do trabalho da Companhia, revelando as alegrias, os desafios e a paixão que movem o maior frevo do mundo. Criada em 1988 por um grupo de passistas formado pelo **mestre Nascimento do Passo**, atualmente é coordenada pela mestra e passista pernambucana **Adriana Lima**, também fundadora e conhecida como Adriana do Frevo.

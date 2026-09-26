@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franc
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.448998183Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Grand-Theft-Auto-6-Jason-And-Lucia-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

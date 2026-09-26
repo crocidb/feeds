@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/makers-fund-expands-game-industry-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.470180588Z"
-seen = false
+seen = true
 +++
 

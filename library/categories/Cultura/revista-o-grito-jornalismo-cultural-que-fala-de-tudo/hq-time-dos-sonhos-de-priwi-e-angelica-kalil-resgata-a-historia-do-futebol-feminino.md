@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/hq-time-dos-sonhos-de-priwi-e-angelica-kalil-re
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-08T12:47:14.704615276Z"
-seen = false
+seen = true
 +++
 
 A editora [Bebel Books](https://www.google.com/search?q=https://www.revistaogrito.com/materias) lança a história em quadrinhos *Time dos Sonhos*, nova publicação assinada pela ilustradora **PriWi** e pela jornalista e pesquisadora **Angélica Kalil**. A obra infantojuvenil acompanha a jornada de sete adolescentes de 12 a 15 anos que tentam formar um time de futebol society no bairro e, durante o processo de escolha do nome da equipe, descobrem a trajetória das atletas que enfrentaram quase 40 anos de proibição legal da prática do esporte no Brasil.

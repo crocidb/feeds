@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/we-probably-need-a-few-more-expedition-33s-
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-21T09:44:40.509050227Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/valor-mortis-bearer.jpg?width=690&quality=85&format=jpg&auto=webp)

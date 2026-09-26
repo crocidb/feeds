@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/676"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-08-24T15:49:17.862636329Z"
-seen = false
+seen = true
 +++
 
 The Future of the FreeBSD Kernel LLDB Plugin, Stop Ruining "10 PRINT", BoxyBSD Returns to FreeBSD, The Apple Lisa inside an FPGA, and more...

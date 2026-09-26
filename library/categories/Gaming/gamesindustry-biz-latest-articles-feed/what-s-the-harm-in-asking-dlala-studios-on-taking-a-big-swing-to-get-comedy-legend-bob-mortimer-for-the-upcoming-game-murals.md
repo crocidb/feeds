@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-t
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-21T09:44:40.482424039Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/KeyArtJuly2026_3840x2160.png?width=690&quality=85&format=jpg&auto=webp)

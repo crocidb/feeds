@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.483680807Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/starcraft_iLSX29U.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://vermaden.wordpress.com/2026/08/15/custom-freebsd-ucarp-setup/"
 author = "vermaden"
 text = ""
 lastupdated = "2026-08-24T15:49:14.053382598Z"
-seen = false
+seen = true
 +++
 
 This entry is sponsored by [**fme AG**](https://fme.de/) company – and this article aspires to share about interesting HA setup on **node01a** and **node01b** VMs. Below drawing was created by **Tim Serong** and greatly visualizes the cluster logic in HA systems ![🙂](https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png)

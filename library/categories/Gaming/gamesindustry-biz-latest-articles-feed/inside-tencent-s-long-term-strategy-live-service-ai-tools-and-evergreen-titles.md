@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-ser
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-09-21T09:44:40.534621746Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Tencent-Games-booth-Gamescom-2026.jpeg?width=690&quality=85&format=jpg&auto=webp)

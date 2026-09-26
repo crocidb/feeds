@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.comfestival.gamesforchange.org"
 author = "gamedeveloper"
 text = ""
 lastupdated = "2026-09-21T09:42:41.943242331Z"
-seen = false
+seen = true
 +++
 

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-a
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-03T13:15:06.424168034Z"
-seen = false
+seen = true
 +++
 

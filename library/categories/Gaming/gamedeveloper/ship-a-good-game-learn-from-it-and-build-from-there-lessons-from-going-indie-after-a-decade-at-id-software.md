@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-21T09:42:41.977566885Z"
-seen = false
+seen = true
 +++
 

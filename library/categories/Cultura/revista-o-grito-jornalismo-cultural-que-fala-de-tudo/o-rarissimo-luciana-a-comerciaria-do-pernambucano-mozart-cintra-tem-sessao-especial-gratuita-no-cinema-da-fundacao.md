@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/o-rarissimo-luciana-a-comerciaria-do-pernambuca
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-09-21T09:42:43.119076665Z"
-seen = false
+seen = true
 +++
 
 **Prólogo (por Alexandre Figueirôa)**

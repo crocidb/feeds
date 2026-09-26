@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/xbox-officially-announces-disc-to-
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-09-03T13:15:06.451857112Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/ana-karina-sebastiao-estreia-carreira-solo-com-
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-21T09:42:43.113603966Z"
-seen = false
+seen = true
 +++
 
 **[Ana Karina Sebastião](https://revistaogrito.com/rec-beat-confirma-quartabe-banda-que-traz-nova-visao-para-musica-de-moacir-santos/)** estreia sua carreira solo com *NEGA NINJA*, álbum que reúne diferentes encontros construídos ao longo de sua trajetória na música. Entre samba, R&B, soul e referências da música negra brasileira e norte-americana, o trabalho combina baixo, voz e composição em um repertório que atravessa afetos, relações, inquietações e experiências vividas.

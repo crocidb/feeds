@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacor
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-08T09:44:03.810358641Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/why-switching-main-characters-for-your-game
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-09-21T09:44:40.469606324Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/CTRL_R_Key_Art_FINAL_4K.png?width=690&quality=85&format=jpg&auto=webp)

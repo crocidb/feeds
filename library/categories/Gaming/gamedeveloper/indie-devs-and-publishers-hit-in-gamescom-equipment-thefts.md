@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/indie-devs-and-publishers-hit-in-g
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-03T13:15:06.435723124Z"
-seen = false
+seen = true
 +++
 

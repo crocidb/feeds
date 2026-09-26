@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-among-us-3d-dev-schell-game
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-03T13:15:06.457912278Z"
-seen = false
+seen = true
 +++
 

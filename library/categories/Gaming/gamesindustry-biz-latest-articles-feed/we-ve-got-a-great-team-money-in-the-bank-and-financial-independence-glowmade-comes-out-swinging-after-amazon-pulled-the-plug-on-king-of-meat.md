@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-09-21T09:44:40.543465551Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/rogue-fortune-skull-glowing-eye.png?width=690&quality=85&format=jpg&auto=webp)

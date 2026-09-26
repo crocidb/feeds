@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-clos
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-21T09:44:40.484967037Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/moss_jZAg9Eg.jpg?width=690&quality=85&format=jpg&auto=webp)

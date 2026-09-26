@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/audio/gdc-side-quest-inside-austin-wintory-
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-09-03T13:15:06.436976763Z"
-seen = false
+seen = true
 +++
 

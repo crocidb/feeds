@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/wings-really-really-wants-to-fund-
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-03T13:15:06.483637157Z"
-seen = false
+seen = true
 +++
 
