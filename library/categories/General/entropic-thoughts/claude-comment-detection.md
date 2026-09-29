@@ -6,7 +6,7 @@ url = "https://entropicthoughts.com/ai-comment-classifier"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-09-03T13:15:05.999325801Z"
-seen = true
+seen = false
 +++
 
 Here’s a comment I read in the code I was working on.
