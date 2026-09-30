@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/682"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-09-27T09:50:59.152214979Z"
-seen = false
+seen = true
 +++
 
 Multiple new BSD Bases NASes have appeared, FreeBSD intern bringing ROCm to FreeBSD, OpenSSH 10.5, and more...

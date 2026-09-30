@@ -1,0 +1,44 @@
++++
+title = "Tripulação, 10.000 pés: o tempo suspenso, em “Espaço Aéreo”, de Claudia Cavalcanti"
+description = "Espaço AéreoClaudia CavalcantiFósforo, 96 páginas, R$ 69,90 Por incrível que pareça, o livro inaugura um gosto o tanto novo para mim: o romance. Já ensaiei tentar gostar, mas nada me agradava. Até que, certo dia fui apresentado pela jornalista e professora Adriana Dória ao título"
+date = "2026-09-29T15:05:57Z"
+url = "https://revistaogrito.com/tripulacao-10-000-pes-o-tempo-suspenso-emespaco-aereo-de-claudia-cavalcanti/"
+author = "Renan Carneiro"
+text = ""
+lastupdated = "2026-09-29T21:52:18.637226186Z"
+seen = false
++++
+
+**Espaço Aéreo  
+Claudia Cavalcanti**  
+*Fósforo, 96 páginas, R$ 69,90*
+
+Por incrível que pareça, o livro inaugura um gosto o tanto novo para mim: o romance. Já ensaiei tentar gostar, mas nada me agradava. Até que, certo dia fui apresentado pela jornalista e professora **Adriana Dória** ao título, de autoria de uma amiga dela há tempos, **Claudia Cavalcanti**. Bendito seja kronos, que me preparou esse momento, anos depois.
+
+*Espaço Aéreo* é uma história que se passa – não de forma a se espantar, por mais que possa, dentro de um avião. Tendo como origem o aeroporto de Cumbica, que todos conhecem como como Aeroporto de Guarulhos e destino Maceió, Suzana Molinos nos apresenta o mundo a partir de sua ótica, tendo como base alguns elementos: perda de Didier – seu marido, o jornalismo como profissão, suas experiências pós perda, imersas num luto que parece não ter fim e o voo pessoal.
+
+* **[Leia mais sobre livros na Revista O Grito!: ensaios, lançamentos e críticas](http://revistaogrito.com/livros)**
+
+Apesar da minha última afirmação parecer um tanto quanto mórbida, risadas são garantidas, como alguns alívios cômicos, mas cheios de conteúdo. A “chuva de paus” vai fazer você entender como algo pode ser tão sério e tão engraçado, ao mesmo tempo. A grande questão é: como tudo isso pode acontecer dentro de um voo que, em média, dura 2h30? É louco isso, mas é possível. Falando em voo, se você tiver algum medo de usar como meio de transporte a “caixa voadora”, pode ser que em alguns momentos você perca o fôlego. O medo dentro do medo. Apesar disso, você certamente conhecerá algumas técnicas que Suzana considera importantes para vencê-los.
+
+* **Leia mais: [“Boi Morto”, de Maria Carolina Morais, revela o trágico e o cômico do cotidiano em meio a uma tragédia iminente](https://revistaogrito.com/boi-morto-de-maria-carolina-morais-revela-o-tragico-e-o-comico-do-cotidiano-em-meio-a-uma-tragedia-iminente/)**
+
+A experiência de ser mulher é algo muito bem retratado pela autora. Não me atrevo a adentrar no assunto para não cometer algum equívoco, mas segundo as conhecedoras do assunto, retrata bem a fase de pré-menopausa e menopausa. A vida sexual de Suzana e a naturalidade posta sobre, traz um diálogo muito próximo para a atualidade. Algumas boas páginas tratam do tema.
+
+D. é um personagem a parte, que toca o fundo da minha alma, pois traz o tema da orientação sexual à tona. E o melhor: como um elemento natural e curioso – para o enredo se desenrolar. E, a partir disso, você entende a razão de ser. Aprisionamento – Liberdade – Voo – Pássaros… tudo se comunica.
+
+<img decoding="async" width="768" height="1024" data-attachment-id="202204" data-permalink="https://revistaogrito.com/tripulacao-10-000-pes-o-tempo-suspenso-emespaco-aereo-de-claudia-cavalcanti/capa-do-livro_espaco-aereo/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-scaled.jpeg" data-orig-size="1920,2560" data-comments-opened="0" data-image-title="Capa do livro_Espaço Aéreo" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-768x1024.jpeg" loading="lazy" src="https://controle.revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-768x1024.jpeg" alt="Capa do livro Espaco Aereo" class="wp-image-202204" srcset="https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-768x1024.jpeg 768w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-75x100.jpeg 75w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-225x300.jpeg 225w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-1152x1536.jpeg 1152w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-833x1110.jpeg 833w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-1536x2048.jpeg 1536w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-321x428.jpeg 321w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-798x1064.jpeg 798w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-1428x1904.jpeg 1428w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro_Espaco-Aereo-scaled.jpeg 1920w" sizes="auto, (max-width: 768px) 100vw, 768px">\<img fetchpriority="high" decoding="async" width="768" height="1024" data-attachment-id="202204" data-permalink="https://revistaogrito.com/tripulacao-10-000-pes-o-tempo-suspenso-emespaco-aereo-de-claudia-cavalcanti/capa-do-livro\_espaco-aereo/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-scaled.jpeg" data-orig-size="1920,2560" data-comments-opened="0" data-image-title="Capa do livro\_Espaço Aéreo" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-768x1024.jpeg" src="https://controle.revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-768x1024.jpeg" alt="Capa do livro Espaco Aereo" class="wp-image-202204" srcset="https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-768x1024.jpeg 768w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-75x100.jpeg 75w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-225x300.jpeg 225w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-1152x1536.jpeg 1152w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-833x1110.jpeg 833w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-1536x2048.jpeg 1536w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-321x428.jpeg 321w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-798x1064.jpeg 798w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-1428x1904.jpeg 1428w, https://revistaogrito.com/wp-content/uploads/2026/09/Capa-do-livro\_Espaco-Aereo-scaled.jpeg 1920w" sizes="(max-width: 768px) 100vw, 768px" /\>
+
+Ao longo da leitura, a impressão que dá é que você está literalmente no voo. Decolagem – Altitude de cruzeiro – Pouso, literalmente e subjetivamente. A história é marcada no espaço, porque o tempo parece não existir. Histórias, fotografias, leituras e estudos são revistos e tendem fazer você pensar que não entendeu muita coisa, mas são elementos importantes para compreender o todo.
+
+Ao passo que o avião pousa, Suzana levita sobre ela e as circunstâncias dela mesmo, como diria José Ortega y Gasset.
+
+**Leia mais críticas**
+
+* [Tripulação, 10.000 pés: o tempo suspenso, em “Espaço Aéreo”, de Claudia Cavalcanti](https://revistaogrito.com/tripulacao-10-000-pes-o-tempo-suspenso-emespaco-aereo-de-claudia-cavalcanti/)
+* [Ian McEwan traz dilemas éticos do século 21 no inquietante “O Que Podemos Saber”](https://revistaogrito.com/ian-mcewan-traz-dilemas-eticos-do-seculo-21-no-inquietante-o-que-podemos-saber/)
+* [“A Contagem dos Sonhos” marca o retorno de Chimamanda à ficção com um retrato multifacetado da experiência feminina africana](https://revistaogrito.com/a-contagem-dos-sonhos-marca-o-retorno-de-chimamanda-a-ficcao-com-um-retrato-multifacetado-da-experiencia-feminina-africana/)
+* [“Proclamem nas Montanhas”, de James Baldwin: a complexa relação entre raça, gênero e sexualidade](https://revistaogrito.com/proclamem-nas-montanhas-de-james-baldwin/)
+* [“A Moranga Sagrada”: J.C. Marçal desvenda a pós-modernidade em contos entrelaçados](https://revistaogrito.com/a-moranga-sagrada-j-c-marcal-desvenda-a-pos-modernidade-em-contos-entrelacados/)
+
+O post [Tripulação, 10.000 pés: o tempo suspenso, em “Espaço Aéreo”, de Claudia Cavalcanti](https://revistaogrito.com/tripulacao-10-000-pes-o-tempo-suspenso-emespaco-aereo-de-claudia-cavalcanti/) apareceu primeiro em [Revista O Grito! — Jornalismo cultural que fala de tudo](https://revistaogrito.com).
