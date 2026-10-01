@@ -6,7 +6,7 @@ url = "https://bastardica.mitpit.com/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-29T21:52:18.280140383Z"
-seen = false
+seen = true
 +++
 
 “A foundry for bastard web fonts.” The default is a version of Times New Roman but every 7th glyph is replaced with one from Arial, but you can dial up whatever bastardization you want.

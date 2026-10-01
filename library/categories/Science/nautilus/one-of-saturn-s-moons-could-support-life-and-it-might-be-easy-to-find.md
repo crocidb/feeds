@@ -6,7 +6,7 @@ url = "https://nautil.us/one-of-saturns-moons-could-support-life-and-it-might-be
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-29T21:52:23.995126301Z"
-seen = false
+seen = true
 +++
 
 Two new studies are giving planetary scientists hope

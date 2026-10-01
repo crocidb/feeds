@@ -6,7 +6,7 @@ url = "https://youtu.be/WrwY_jVaN-w"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.854849969Z"
-seen = false
+seen = true
 +++
 
 I genuinely enjoyed that Sara Eisen laughed a little when introducing me as having written a 5,000-word review of the iPhone 18 Pro.

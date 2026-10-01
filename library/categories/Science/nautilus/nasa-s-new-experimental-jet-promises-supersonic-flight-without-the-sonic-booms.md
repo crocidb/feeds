@@ -6,7 +6,7 @@ url = "https://nautil.us/nasas-new-experimental-jet-promises-supersonic-flight-w
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-08T23:03:52.945720677Z"
-seen = false
+seen = true
 +++
 
 Sneaking past the sound barrier

@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/parsers-zippers-interpreters-aoc7/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.565613339Z"
-seen = false
+seen = true
 +++
 
 In this post, we solve the Advent of Code 2022, [“No Space Left On Device”](https://adventofcode.com/2022/day/7) challenge in Haskell using parsers, zippers and interpreters.

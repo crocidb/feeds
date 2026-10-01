@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/implementing-co-1/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.599522182Z"
-seen = false
+seen = true
 +++
 
 Many major programming languages these days support some lightweight concurrency primitives. The most recent popular ones are [Goroutines](https://en.wikipedia.org/wiki/Go_(programming_language)#Concurrency:_goroutines_and_channels) in [Go](https://golang.org/), [Coroutines](https://kotlinlang.org/docs/coroutines-basics.html) in [Kotlin](https://kotlinlang.org/) and [Async](https://rust-lang.github.io/async-book/01_getting_started/02_why_async.html) in [Rust](https://www.rust-lang.org/). Let’s explore some of these concepts in detail by implementing a programming language with support for coroutines and Go-style channels.

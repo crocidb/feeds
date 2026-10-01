@@ -6,7 +6,7 @@ url = "https://nautil.us/your-smartwatch-may-not-be-as-smart-as-you-think-it-is-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-08T09:44:10.329676156Z"
-seen = false
+seen = true
 +++
 
 They’re great at telling time, though

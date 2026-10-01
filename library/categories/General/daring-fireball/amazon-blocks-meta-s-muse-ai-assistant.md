@@ -6,7 +6,7 @@ url = "https://www.geekwire.com/2026/amazon-blocks-metas-muse-ai-assistant-in-ne
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.710153667Z"
-seen = false
+seen = true
 +++
 
 Todd Bishop, reporting at GeekWire:

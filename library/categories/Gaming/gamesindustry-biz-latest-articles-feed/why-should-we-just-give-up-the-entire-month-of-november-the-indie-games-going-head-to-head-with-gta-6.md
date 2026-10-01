@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-29T21:52:17.579275622Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=690&quality=85&format=jpg&auto=webp)

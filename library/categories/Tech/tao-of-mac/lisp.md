@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/dev/lisp?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-23T18:25:00.354949666Z"
-seen = false
+seen = true
 +++
 
 This started out as a mere stub while I put together some more resources, and over the years became a quite large list of LISP implementations I have kept an eye on.

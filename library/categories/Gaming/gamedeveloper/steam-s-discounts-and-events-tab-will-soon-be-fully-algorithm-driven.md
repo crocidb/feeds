@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-so
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-09-29T21:52:18.341472443Z"
-seen = false
+seen = true
 +++
 

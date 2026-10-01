@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2024-links-12/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.495972842Z"
-seen = false
+seen = true
 +++
 
 A special *Haskell* edition of some interesting articles I recently read on the internet, starting with some Haskell-in-practice articles:

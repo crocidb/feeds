@@ -6,7 +6,7 @@ url = "https://www.mux.com/?utm_campaign=fireball&utm_source=DF"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-28T20:25:24.455704484Z"
-seen = false
+seen = true
 +++
 
 My thanks to Mux for sponsoring last week at DF. Video isn’t just something to stream; it’s structured data you build with.

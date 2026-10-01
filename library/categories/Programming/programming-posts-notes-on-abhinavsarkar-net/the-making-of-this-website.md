@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2026-making-this-website/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-08-24T15:49:20.747406474Z"
-seen = false
+seen = true
 +++
 
 Almost nine years ago, I decided to write my own website generator. Static-site generators (SSGs) were sort of new back then, and somewhat fascinating to me. After failing to start a website/blog for a decade, I realized that I’ll never be satisfied by a ready-made solution, and I need to make something of my own. I started with [Hakyll](https://jaspervdj.be/hakyll/), a small SSG framework written in Haskell. Over years, I expanded my website by adding new sections and features. The website code has grown from 500 lines to over 17000 lines now. This note recalls the story of the same.

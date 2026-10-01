@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/virtualization?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-27T09:51:03.512761770Z"
-seen = false
+seen = true
 +++
 
 Schizophrenia for machines, in a nutshell. Very trendy since 2006.

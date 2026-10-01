@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/are-we-thinking-correctly-about-ai-intelli
 author = "Steven Strogatz and Janna Levin"
 text = ""
 lastupdated = "2026-08-24T15:49:19.940667669Z"
-seen = false
+seen = true
 +++
 
 When an LLM answers a question, is it reasoning like humans, or just producing text that looks like reasoning? The distinction isn’t just philosophical, this determines what we can trust AI to do, how closely we need to supervise it, and ultimately what its real-world impact will turn out to be. Melanie Mitchell at the Santa Fe Institute argues that we lack adequate methods for measuring machine…

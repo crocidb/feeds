@@ -6,7 +6,7 @@ url = "https://nautil.us/peptides-are-spreading-on-social-media-heres-how-platfo
 author = "Samuel Cornell"
 text = ""
 lastupdated = "2026-09-23T18:24:59.573249094Z"
-seen = false
+seen = true
 +++
 
 For starters, they need to take the same approach they did to vaping

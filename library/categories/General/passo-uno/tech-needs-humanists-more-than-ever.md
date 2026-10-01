@@ -6,7 +6,7 @@ url = "https://passo.uno/tech-needs-humanists-more-than-ever/"
 author = "passo.uno"
 text = ""
 lastupdated = "2026-09-08T09:44:05.136820052Z"
-seen = false
+seen = true
 +++
 
 >

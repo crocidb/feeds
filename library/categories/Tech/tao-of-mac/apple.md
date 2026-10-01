@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/apple?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.686583699Z"
-seen = false
+seen = true
 +++
 
 <img src="/space/com/apple/image1.gif?v=32d2ca600e58" alt="Apple logo" width="150" height="150">Apple logo

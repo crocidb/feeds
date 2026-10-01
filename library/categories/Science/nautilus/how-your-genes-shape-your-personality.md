@@ -6,7 +6,7 @@ url = "https://nautil.us/how-your-genes-shape-your-personality-1284718/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-03T13:15:13.299534507Z"
-seen = false
+seen = true
 +++
 
 A new study probes genetic variants linked to the big five personality traits

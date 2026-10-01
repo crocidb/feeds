@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/huge-breakthrough-in-the-math-of-imbalance
 author = "Max G. Levy"
 text = ""
 lastupdated = "2026-08-24T15:49:19.939292121Z"
-seen = false
+seen = true
 +++
 
 One does not need a doctorate in mathematics to split 12 eager trivia buffs into two competitive teams. But consider that each person arrives with unique strengths and liabilities: One may be a geography obsessive with no ear for music, another could be a naturalist who doesn’t own a television, and another could be a cinephile who never reads. Balancing traits between two camps becomes a lot…

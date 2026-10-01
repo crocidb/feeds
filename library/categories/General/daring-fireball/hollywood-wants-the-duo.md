@@ -6,7 +6,7 @@ url = "https://pagesix.com/2026/09/16/hollywood/mysterious-apple-ceo-charms-holl
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.868751243Z"
-seen = false
+seen = true
 +++
 
 Page Six Hollywood:

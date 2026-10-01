@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/08/28/0614?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.053912216Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/08/28/0614/large.jpg?v=eabc01a036e5" alt="quicklook" width="320" height="240">](https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

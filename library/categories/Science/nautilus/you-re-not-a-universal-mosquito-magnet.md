@@ -6,7 +6,7 @@ url = "https://nautil.us/youre-not-a-universal-mosquito-magnet-1284049/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-24T15:49:20.512629163Z"
-seen = false
+seen = true
 +++
 
 But you might be particularly enticing to different species

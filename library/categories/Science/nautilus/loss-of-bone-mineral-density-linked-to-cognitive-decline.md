@@ -6,7 +6,7 @@ url = "https://nautil.us/loss-of-bone-mineral-density-linked-to-cognitive-declin
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-23T18:24:59.574577743Z"
-seen = false
+seen = true
 +++
 
 With an assist from AI

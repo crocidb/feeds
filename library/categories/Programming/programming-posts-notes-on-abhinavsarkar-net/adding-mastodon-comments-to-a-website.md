@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2023-mastodon-comments/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.530236069Z"
-seen = false
+seen = true
 +++
 
 Two of the core ideas of [IndieWeb](https://indieweb.org/) are [POSSE](https://indieweb.org/POSSE) and [Backfeed](https://indieweb.org/backfeed). The idea behind POSSE is that you publish your content on your own website first, and then syndicate it to other platforms. Backfeed means that you pull back the comments and likes from the other platforms to your own website. In this post, I describe how I implemented these ideas for this website with [Mastodon](https://joinmastodon.org/).

@@ -6,7 +6,7 @@ url = "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.365709116Z"
-seen = false
+seen = true
 +++
 
 Zac Bowden, Windows Central:

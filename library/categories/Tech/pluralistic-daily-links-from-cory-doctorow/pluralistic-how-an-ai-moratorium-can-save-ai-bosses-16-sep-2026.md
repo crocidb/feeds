@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/09/16/beggar-thy-neighbor/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-21T09:42:49.260835728Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/16Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/16/beggar-thy-neighbor/)

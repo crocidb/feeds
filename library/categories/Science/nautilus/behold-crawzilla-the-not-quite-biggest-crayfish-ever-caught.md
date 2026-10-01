@@ -6,7 +6,7 @@ url = "https://nautil.us/behold-crawzilla-the-not-quite-biggest-crayfish-ever-ca
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-27T09:51:03.560685138Z"
-seen = false
+seen = true
 +++
 
 And what it can teach us about body size

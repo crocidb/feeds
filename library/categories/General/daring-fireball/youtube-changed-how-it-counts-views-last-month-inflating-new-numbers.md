@@ -6,7 +6,7 @@ url = "https://support.google.com/youtube/thread/433409976/an-update-to-how-we-c
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.872594381Z"
-seen = false
+seen = true
 +++
 
 YouTube Help:

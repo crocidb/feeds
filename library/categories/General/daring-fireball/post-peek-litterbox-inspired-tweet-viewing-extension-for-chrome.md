@@ -6,7 +6,7 @@ url = "https://github.com/tsvb/post-peek"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.897031551Z"
-seen = false
+seen = true
 +++
 
 Tim VanBenschoten:

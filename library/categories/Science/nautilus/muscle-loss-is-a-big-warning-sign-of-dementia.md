@@ -6,7 +6,7 @@ url = "https://nautil.us/muscle-loss-is-a-big-warning-sign-of-dementia-1285125/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-21T09:42:47.717764146Z"
-seen = false
+seen = true
 +++
 
 But obesity has a more complicated relationship with the disease

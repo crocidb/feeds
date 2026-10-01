@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/hw/raspberry_pi?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-08T09:44:10.286404928Z"
-seen = false
+seen = true
 +++
 
 A relatively underwhelming ARM development board to begin with that was upgraded to a very reasonably performing quad-core CPU in February 2015 and got built-in Wi-Fi in February 2016, and which eventually gave its name to an entire family of devices, from the [Pi Pico](/space/hw/rp2040) to `aarch64` boards.

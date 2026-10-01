@@ -6,7 +6,7 @@ url = "https://nautil.us/gentle-exercise-may-be-more-effective-than-medications-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-27T09:51:03.562199393Z"
-seen = false
+seen = true
 +++
 
 Side effects may include an improved mood

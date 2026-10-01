@@ -6,7 +6,7 @@ url = "https://nautil.us/is-this-massive-new-study-on-the-benefits-of-whole-grai
 author = "Claire Maldarelli"
 text = ""
 lastupdated = "2026-09-21T09:42:47.719093195Z"
-seen = false
+seen = true
 +++
 
 When it comes to whole grains and health, a new analysis suggests the more the better

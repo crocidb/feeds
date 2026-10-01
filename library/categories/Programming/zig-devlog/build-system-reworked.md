@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-05-26"
 author = ""
 text = ""
 lastupdated = "2026-05-27T23:23:27.126061850Z"
-seen = false
+seen = true
 +++
 
 [Build System Reworked](#2026-05-26)

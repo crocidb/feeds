@@ -6,7 +6,7 @@ url = "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute?view_t
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.381576797Z"
-seen = false
+seen = true
 +++
 
 Victoria Song, in her Optimizer column/newsletter for The Verge:

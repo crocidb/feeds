@@ -6,7 +6,7 @@ url = "https://nautil.us/why-doctors-telling-patients-their-symptoms-are-normal-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-10T22:25:13.504818380Z"
-seen = false
+seen = true
 +++
 
 It can discourage patients from pursuing treatment

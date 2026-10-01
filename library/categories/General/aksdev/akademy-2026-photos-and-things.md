@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/2029-09-2026-akademy-2026/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-09-29T21:52:17.958273143Z"
-seen = false
+seen = true
 +++
 
 *Another Akademy attended, here's some photos!*

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-27T09:50:55.928464702Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/switch-console-jesper-brouwers-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

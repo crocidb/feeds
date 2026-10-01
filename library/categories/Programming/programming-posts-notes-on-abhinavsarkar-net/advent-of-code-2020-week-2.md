@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2020-aoc-wk2/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.622282936Z"
-seen = false
+seen = true
 +++
 
 I’m solving the [Advent of Code 2020](https://adventofcode.com/2020/) in the Haskell REPL (GHCi). You can copy the code and paste it in GHCi to play with it. Here are my solutions for week 2 (Dec 6–12).

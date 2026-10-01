@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedis
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-27T09:50:55.926985294Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/king-candy-crush.jpg?width=690&quality=85&format=jpg&auto=webp)

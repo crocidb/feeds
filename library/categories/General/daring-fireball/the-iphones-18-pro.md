@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/the_iphones_18_pro"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.875115650Z"
-seen = false
+seen = true
 +++
 
 Every year since 2007, Apple has debuted a new flagship iPhone. Other than the just plain “iPhone” original, they all have numbers of some sort in their name. If you make a list of them in order, it’s a bit of a marketing curiosity that the only one of the bunch whose number in its name corresponds to its generation number is the [iPhone 4](https://daringfireball.net/2010/06/4), which was in fact the fourth iPhone. (The “ten” in iPhone X marked 10 years, but it was the 11th flagship model.)

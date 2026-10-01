@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-DO-nixos-image/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.585591031Z"
-seen = false
+seen = true
 +++
 
 Recently, I decided to move my [Digital Ocean](https://www.digitalocean.com/) (DO) VPS to [NixOS](https://nixos.org/). The first step to do so is to create a custom NixOS image because NixOS is not an OS option available on DO. I use a MacBook so the process to create the image is a bit convoluted. So I going to record them in this note.

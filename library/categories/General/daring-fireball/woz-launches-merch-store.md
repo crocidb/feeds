@@ -6,7 +6,7 @@ url = "https://x.com/stevewoz/status/2100074363605397658"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.880422828Z"
-seen = false
+seen = true
 +++
 
 Steve Wozniak:

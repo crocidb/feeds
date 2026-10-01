@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-patching-nixpkgs/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.576570266Z"
-seen = false
+seen = true
 +++
 
 Today I woke up to a [broken](https://github.com/NixOS/nixpkgs/issues/198736) `cloudflare-dyndns` package on nixpkgs. Fortunately, some good fellow already has a [PR](https://github.com/NixOS/nixpkgs/pull/198739) to fix the issue. Unfortunately, the PR has not been merged yet and I’m too impatient.

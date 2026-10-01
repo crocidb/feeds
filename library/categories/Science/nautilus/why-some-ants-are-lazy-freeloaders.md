@@ -6,7 +6,7 @@ url = "https://nautil.us/why-some-ants-are-lazy-freeloaders-1284862/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-08T13:05:00.852549034Z"
-seen = false
+seen = true
 +++
 
 Not every ant is a good samaritan

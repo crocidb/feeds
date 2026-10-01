@@ -6,7 +6,7 @@ url = "https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explan
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.377460457Z"
-seen = false
+seen = true
 +++
 
 Jason Aten, in a good follow-up to his previous column at Inc. ([the one](https://daringfireball.net/linked/2026/09/22/aten-muse) where he described how Muse, running on his Mac, read his Messages database):

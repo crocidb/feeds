@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/site/privacy_policy?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-08T09:44:10.294683133Z"
-seen = false
+seen = true
 +++
 
 I do not identify or profile visitors. The site does use a few third-party services for advertising, security and operational telemetry–the latter solely to detect abuse, failures and rendering problems:

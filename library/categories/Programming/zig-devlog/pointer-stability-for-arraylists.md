@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-08-27"
 author = ""
 text = ""
 lastupdated = "2026-09-01T19:33:16.183462464Z"
-seen = false
+seen = true
 +++
 
 [Pointer Stability for ArrayLists](#2026-08-27)

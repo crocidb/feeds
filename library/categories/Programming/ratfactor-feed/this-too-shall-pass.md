@@ -6,7 +6,7 @@ url = "http://ratfactor.com/cards/this-too-shall-pass"
 author = "Dave Gauer"
 text = ""
 lastupdated = "2026-05-20T09:23:10.506291744Z"
-seen = false
+seen = true
 +++
 
 A little bit of philosophy to get through the tough spots...

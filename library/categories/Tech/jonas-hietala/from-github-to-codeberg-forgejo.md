@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/04/28/from_github_to_codebergforgejo/ind
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-04-29T14:23:25.416663141Z"
-seen = false
+seen = true
 +++
 
 >

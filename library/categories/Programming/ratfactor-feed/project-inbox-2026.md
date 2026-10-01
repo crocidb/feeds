@@ -6,7 +6,7 @@ url = "http://ratfactor.com/inbox2026"
 author = "Dave Gauer"
 text = ""
 lastupdated = "2026-05-20T09:23:10.508768552Z"
-seen = false
+seen = true
 +++
 
 It's starting! Those sweet, sweet email replies shall begin to make their way starting now...

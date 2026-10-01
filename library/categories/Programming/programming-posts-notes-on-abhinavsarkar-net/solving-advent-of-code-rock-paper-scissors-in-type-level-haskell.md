@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-type-level-rps/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.567815735Z"
-seen = false
+seen = true
 +++
 
 Let’s solve part 1 of today’s Advent of Code [challenge](https://adventofcode.com/2022/day/2) “Rock Paper Scissors” in type-level Haskell.

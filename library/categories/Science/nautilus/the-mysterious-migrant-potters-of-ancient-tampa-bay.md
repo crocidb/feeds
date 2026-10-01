@@ -6,7 +6,7 @@ url = "https://nautil.us/the-mysterious-migrant-potters-of-ancient-tampa-bay-128
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-23T18:24:59.570619615Z"
-seen = false
+seen = true
 +++
 
 Another archaeological cold case solved

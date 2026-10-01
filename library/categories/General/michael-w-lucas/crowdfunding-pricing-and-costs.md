@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24973"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-08T09:44:05.510140648Z"
-seen = false
+seen = true
 +++
 
 I’m preparing to launch the [Twisted Presents Kickstarter](https://www.kickstarter.com/projects/mwlucas/twisted-presents/) at last. The US economy has gone wrong lately, for obvious reasons. Costs for printing and shipping have increased. We’re not quite in a [capital strike](https://en.wikipedia.org/wiki/Capital_strike), but it’s dang near. I needed to revisit costs and prices for this book.

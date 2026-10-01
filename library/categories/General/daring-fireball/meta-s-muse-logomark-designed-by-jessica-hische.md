@@ -6,7 +6,7 @@ url = "https://thedieline.com/jessica-hische-metas-muse-and-the-ethical-landmine
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.706267229Z"
-seen = false
+seen = true
 +++
 
 Bill McCool, writing at Dieline:

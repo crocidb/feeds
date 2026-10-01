@@ -6,7 +6,7 @@ url = "https://nautil.us/your-organs-age-at-different-paces-and-theyre-coordinat
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-01T19:33:17.107245785Z"
-seen = false
+seen = true
 +++
 
 Your colon and prostate may have synchronized their watches

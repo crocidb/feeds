@@ -6,7 +6,7 @@ url = "https://nautil.us/famed-dancers-diary-offers-glimpse-into-psychosis-12853
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-29T21:52:23.999058568Z"
-seen = false
+seen = true
 +++
 
 It’s rare to have a record of someone’s descent into madness

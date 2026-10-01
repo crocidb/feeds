@@ -6,7 +6,7 @@ url = "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unl
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.379739900Z"
-seen = false
+seen = true
 +++
 
 Eli Tan, writing for The New York Times, “I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away” (gift link):

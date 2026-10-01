@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/ill_wait"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.373864364Z"
-seen = false
+seen = true
 +++
 
 It’s Friday, and Muse is [still](https://daringfireball.net/linked/2026/09/22/meta-muse-app-store) the #1 app in the iOS App Store — that’s a full week in the top spot. Who knows if it’s a flash in the pan or not. (Remember [Clubhouse](https://daringfireball.net/linked/2021/02/15/clubhouse-iphone-primacy)? [Sora](https://daringfireball.net/linked/2025/10/02/sora-launch)?) But at the moment it’s clearly a hit. It certainly helps that Meta itself is promoting Muse heavily on its own channels like Instagram and Facebook.

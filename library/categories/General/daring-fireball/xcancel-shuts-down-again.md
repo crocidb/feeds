@@ -6,7 +6,7 @@ url = "https://xcancel.com/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.893244462Z"
-seen = false
+seen = true
 +++
 
 XCancel:

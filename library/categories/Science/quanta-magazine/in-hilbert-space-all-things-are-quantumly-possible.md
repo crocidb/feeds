@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-
 author = "Charlie Wood"
 text = ""
 lastupdated = "2026-09-01T19:33:16.128353322Z"
-seen = false
+seen = true
 +++
 
 At the heart of quantum mechanics lie a few sacred rules for how to use the theory. First and foremost is, roughly, that thou shalt not think about ordinary objects presently whizzing through ordinary space. Rather, quantum mechanics predicts — in exquisite detail — all the possible ways that an object might turn out to be in the future. Exploring those possible futures requires tracking an…

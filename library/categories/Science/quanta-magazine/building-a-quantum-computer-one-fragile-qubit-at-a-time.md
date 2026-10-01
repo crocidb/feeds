@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/building-a-quantum-computer-one-fragile-qu
 author = "Ben Brubaker"
 text = ""
 lastupdated = "2026-08-24T15:49:19.942096947Z"
-seen = false
+seen = true
 +++
 
 Practically all modern computers, from the cheap microcontroller in your dishwasher to high-tech hardware crunching numbers for artificial intelligence systems, rely on versions of the same technology: slabs of silicon patterned with microscopic structures called transistors. Electronic circuits containing transistors can rapidly and reliably toggle between two states, usually labeled “0” and “1.”…

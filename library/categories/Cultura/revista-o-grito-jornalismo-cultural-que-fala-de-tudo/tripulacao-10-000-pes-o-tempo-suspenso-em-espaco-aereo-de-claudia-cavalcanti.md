@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/tripulacao-10-000-pes-o-tempo-suspenso-emespaco
 author = "Renan Carneiro"
 text = ""
 lastupdated = "2026-09-29T21:52:18.637226186Z"
-seen = false
+seen = true
 +++
 
 **Espaço Aéreo  

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-snail-shells-could-be-used-to-map-prehistoric-cyclo
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-29T21:52:23.996413480Z"
-seen = false
+seen = true
 +++
 
 There are weather patterns locked in those swirls

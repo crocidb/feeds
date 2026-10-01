@@ -6,7 +6,7 @@ url = "https://seths.blog/2014/01/measuring-nothing-with-great-accuracy/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.725605368Z"
-seen = false
+seen = true
 +++
 
 Seth Godin back in 2014:

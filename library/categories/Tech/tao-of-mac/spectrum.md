@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/sinclair/spectrum?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.671245956Z"
-seen = false
+seen = true
 +++
 
 The [Sinclair](/space/com/sinclair) ZX Spectrum was one of the first widely sold home computers (way back in the 80s – I actually started out with a [ZX81](/space/com/sinclair/zx81)).

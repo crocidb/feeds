@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24961"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-01T19:33:13.912210420Z"
-seen = false
+seen = true
 +++
 
 I finished the [OpenZFS Mastery](https://www.tiltedwindmillpress.com/product/openzfs-sponsor/) chapter on volumes earlier this week.

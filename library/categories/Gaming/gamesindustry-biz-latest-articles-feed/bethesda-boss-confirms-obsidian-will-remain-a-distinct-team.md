@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-27T09:50:55.936161508Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/fallout-new-vegas_itXIQwn.jpg?width=690&quality=85&format=jpg&auto=webp)

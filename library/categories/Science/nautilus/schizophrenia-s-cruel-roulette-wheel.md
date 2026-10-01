@@ -6,7 +6,7 @@ url = "https://nautil.us/schizophrenias-cruel-roulette-wheel-1284681/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-09-01T19:33:17.108615693Z"
-seen = false
+seen = true
 +++
 
 Genetics and stress can combine in ways we don’t yet fully understand

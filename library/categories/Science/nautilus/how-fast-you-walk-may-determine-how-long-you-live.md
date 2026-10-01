@@ -6,7 +6,7 @@ url = "https://nautil.us/how-fast-you-walk-may-determine-how-long-you-live-12848
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-08T23:03:52.944013715Z"
-seen = false
+seen = true
 +++
 
 You’re going to want to pick up the pace

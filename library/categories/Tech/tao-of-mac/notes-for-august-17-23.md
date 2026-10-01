@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/08/23/1519?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.638339966Z"
-seen = false
+seen = true
 +++
 
 Tomorrow I’m going back to work after a rather lopsided summer break (not feeling up to it physically or mentally), and the social network pendulum is swinging back into a bit of normalcy as I progressively tune nearly all of them out.

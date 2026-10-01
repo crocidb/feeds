@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2024-links-11/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.497485170Z"
-seen = false
+seen = true
 +++
 
 A special *Programming Languages: Theory, Design and Implementation* edition of some interesting articles I recently read on the internet:

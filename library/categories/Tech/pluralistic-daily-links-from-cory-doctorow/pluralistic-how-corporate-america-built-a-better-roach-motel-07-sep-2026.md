@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/09/06/hotels-california/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-08T09:44:09.777595130Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/07Sep20261.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/07/hotels-california/)

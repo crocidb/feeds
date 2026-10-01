@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/09/13/1700?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.689904668Z"
-seen = false
+seen = true
 +++
 
 Following up on my testing of the LattePanda [Mu](/space/reviews/2025/08/11/2100#the-lattepanda-mu) and [IOTA](/space/reviews/2025/11/09/1930#the-lattepanda-iota), this time I’m looking at the [Sigma](https://www.lattepanda.com/lattepanda-sigma?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com), which (as is becoming the norm with my recent pieces) I actually got before summer break.

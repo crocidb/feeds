@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/09/19/1659?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.669724947Z"
-seen = false
+seen = true
 +++
 
 As [my AI policy](/space/site/ai_policy#ai-usage-policy) points out, I do revise my posts with AI, but until now, I’ve resorted to post-draft LLM passes that take a bunch of `SKILL.md` files and either fix outright typos and misspellings or add editorial blockquotes to my drafts. The entire process feels needlessly *technical* in the sense that doing it inside [`vim`](/space/cli/vim#vim-and-neovim) or [VS Code](/space/apps/code#visual-studio-code) (typically as I bring stuff together for a final draft) detracts–or, rather, *distracts me*–from the writing experience too much, and sometimes automated replacements slip through.

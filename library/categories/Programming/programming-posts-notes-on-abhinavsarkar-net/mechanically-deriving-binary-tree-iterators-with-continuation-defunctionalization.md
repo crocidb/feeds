@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/continuation-defunctionalization/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.660568099Z"
-seen = false
+seen = true
 +++
 
 Binary tree is the simplest of tree data structures. It is a tree in which each node has at most two children. A tree traversal is a process of visiting each node in the tree, exactly once. There are [multiple ways of traversing](https://en.wikipedia.org/wiki/Tree_traversal#Depth-first_search) a [binary tree](https://en.wikipedia.org/wiki/binary_tree) in depth-first fashion with each traversal resulting in a different enumeration of the tree elements. These tree traversals are defined as simple recursive functions. But what if we want to write [Java-style iterators](https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/util/Iterator.html) for them? Is there a way to mechanically derive these iterators from the traversal functions? Let’s find out.

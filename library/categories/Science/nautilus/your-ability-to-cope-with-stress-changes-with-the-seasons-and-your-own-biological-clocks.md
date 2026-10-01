@@ -6,7 +6,7 @@ url = "https://nautil.us/your-ability-to-cope-with-stress-changes-with-the-seaso
 author = "Masha Remskar"
 text = ""
 lastupdated = "2026-09-01T19:33:17.109994861Z"
-seen = false
+seen = true
 +++
 
 Stress resilience is a dynamic balance rather than a fixed trait

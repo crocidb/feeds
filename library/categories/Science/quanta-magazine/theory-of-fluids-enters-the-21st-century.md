@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/theory-of-fluids-enters-the-21st-century-2
 author = "Charlie Wood"
 text = ""
 lastupdated = "2026-08-24T15:49:19.943474325Z"
-seen = false
+seen = true
 +++
 
 In the second half of the 20th century, a conceptual tsunami swept through physics. The discovery that our world emerges from a microscopic world of molecules, which emerges from an even more microscopic world of subatomic particles (which in turn emerges from even stranger stuff) triggered the rewriting of our theories of matter. But the revolution didn’t reach fluids.

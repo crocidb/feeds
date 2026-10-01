@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2019-linked-list/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.666634040Z"
-seen = false
+seen = true
 +++
 
 Reversing a [Linked List](https://en.wikipedia.org/wiki/Linked_list) in Java with old-fashioned pointers.

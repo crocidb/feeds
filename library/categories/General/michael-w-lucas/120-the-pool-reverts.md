@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24890"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-07-09T12:05:17.747975166Z"
-seen = false
+seen = true
 +++
 
 Here’s a chunk of [OpenZFS Mastery.](https://mwl.io/sponsor) I’ve caught up to where I stopped, and new words will be coming soon.

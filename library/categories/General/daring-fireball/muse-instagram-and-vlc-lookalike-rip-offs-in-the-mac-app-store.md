@@ -6,7 +6,7 @@ url = "https://lapcatsoftware.com/articles/2026/9/8.html"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-28T20:25:24.438265845Z"
-seen = false
+seen = true
 +++
 
 Jeff Johnson:

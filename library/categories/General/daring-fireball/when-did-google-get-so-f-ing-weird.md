@@ -6,7 +6,7 @@ url = "https://sancho.bearblog.dev/google-weird/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-29T21:52:18.281396743Z"
-seen = false
+seen = true
 +++
 
 Sancho Panza:

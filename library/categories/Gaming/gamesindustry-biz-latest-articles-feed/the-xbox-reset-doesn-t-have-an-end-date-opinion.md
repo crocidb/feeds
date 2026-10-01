@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opin
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-09-27T09:50:55.922121794Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/sebastian-dc-F4SxJ7ZtiRM-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

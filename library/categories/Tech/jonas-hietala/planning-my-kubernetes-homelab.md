@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/05/05/planning_my_kubernetes_homelab/ind
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-05-05T08:25:08.119828699Z"
-seen = false
+seen = true
 +++
 
 ![](/images/kube/iceberg.png) The Kubernetes iceberg.

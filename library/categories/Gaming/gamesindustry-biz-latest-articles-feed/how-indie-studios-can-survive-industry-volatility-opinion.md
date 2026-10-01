@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-vola
 author = "Denis Fedorov"
 text = ""
 lastupdated = "2026-09-29T21:52:17.577782143Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/replaced-fire.jpg?width=690&quality=85&format=jpg&auto=webp)

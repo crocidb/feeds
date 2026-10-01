@@ -6,7 +6,7 @@ url = "https://bsky.app/profile/atrupar.com/post/3mw4it5l5fd23"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.704987400Z"
-seen = false
+seen = true
 +++
 
 President Donald Trump, in a prepared speech before the United Nations General Assembly yesterday (one-minute video clip from Aaron Rupar, posted on Bluesky):

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-a-horse-flu-outbreak-spurred-an-early-animal-rights
 author = "Lee Alan Dugatkin"
 text = ""
 lastupdated = "2026-09-23T18:24:59.563899370Z"
-seen = false
+seen = true
 +++
 
 In 1872, New York’s devastating epizootic gave the ASPCA’s young founder a powerful moral argument for animal protection

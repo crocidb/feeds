@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-09-29T21:52:18.342676002Z"
-seen = false
+seen = true
 +++
 

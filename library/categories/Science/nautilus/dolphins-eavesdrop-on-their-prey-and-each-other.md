@@ -6,7 +6,7 @@ url = "https://nautil.us/dolphins-eavesdrop-on-their-prey-and-each-other-1284095
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-08-24T15:49:20.501436038Z"
-seen = false
+seen = true
 +++
 
 They strategically choose when to whistle or click

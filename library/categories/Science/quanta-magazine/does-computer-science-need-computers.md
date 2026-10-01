@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/does-computer-science-need-computers-20260
 author = "Ben Brubaker"
 text = ""
 lastupdated = "2026-09-01T19:33:16.125267323Z"
-seen = false
+seen = true
 +++
 
 The pioneering computer scientist Edsger Dijkstra, winner of the 1972 A.M. Turing Award and inventor of one of the most iconic algorithms in all of computing, was nothing if not opinionated. Certain programming languages drew his ire, for example: He once dubbed Fortran “the infantile disorder” and stated that “the use of COBOL cripples the mind; its teaching should, therefore, be regarded as a…

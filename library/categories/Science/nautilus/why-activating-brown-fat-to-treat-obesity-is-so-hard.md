@@ -6,7 +6,7 @@ url = "https://nautil.us/why-activating-brown-fat-to-treat-obesity-is-so-hard-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-23T18:24:59.569299256Z"
-seen = false
+seen = true
 +++
 
 And why the failures are just as important

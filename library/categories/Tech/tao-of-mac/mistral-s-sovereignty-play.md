@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/09/08/1214?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-08T13:05:02.657605329Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/09/08/1214/large.jpg?v=eb3b467a7b7e" alt="quicklook" width="320" height="213">](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

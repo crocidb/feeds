@@ -6,7 +6,7 @@ url = "https://nautil.us/the-elegance-of-a-stupid-question-1284839/"
 author = "Jason Socrates Bardi"
 text = ""
 lastupdated = "2026-09-08T23:03:52.949925151Z"
-seen = false
+seen = true
 +++
 
 Are computers in mathematics rewriting the definitions of stupid and smart?

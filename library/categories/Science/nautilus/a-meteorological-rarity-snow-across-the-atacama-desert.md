@@ -6,7 +6,7 @@ url = "https://nautil.us/a-meteorological-rarity-snow-across-the-atacama-desert-
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-01T19:33:17.111470040Z"
-seen = false
+seen = true
 +++
 
 Two snow dumps in just a few days

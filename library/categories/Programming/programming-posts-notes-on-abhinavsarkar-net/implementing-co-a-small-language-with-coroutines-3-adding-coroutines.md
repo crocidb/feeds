@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/implementing-co-3/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.548261108Z"
-seen = false
+seen = true
 +++
 
 In the [previous post](https://abhinavsarkar.net/posts/implementing-co-2/?mtm_campaign=feed), we wrote the interpreter for basic features of Co, the small language we are building in this series of posts. In this post, we explore and implement what makes Co really interesting: support for lightweight concurrency using Coroutines.

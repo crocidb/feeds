@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/stacks?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.050978028Z"
-seen = false
+seen = true
 +++
 
 ![](/space/apps/stacks/screenshot.webp?v=23dcca0e02ea)

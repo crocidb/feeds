@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/spitballing_predictions_for_apples_oct
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-28T20:25:24.444253921Z"
-seen = false
+seen = true
 +++
 
 On [the new episode of The Talk Show](https://daringfireball.net/thetalkshow/2026/09/25/ep-455) that dropped over the weekend, [Andru Edwards](https://www.youtube.com/@andru) and I talked first about the September event Apple held three weeks ago at Apple Park, and then moved on to speculate about what they might do in October. [The rumor mill says](https://www.macrumors.com/2026/09/28/12-new-things-from-apple-this-october/) Apple has a bunch of as-yet-unannounced products coming: a new iPad Mini (8th generation), new Apple TV hardware (4th generation — maybe they’ll give it a better name than “Apple TV 4K”?), new HomePod Mini (2nd generation), and an altogether new HomePod-type hub with a display. Also, [October](https://www.apple.com/newsroom/archive/2025/mac/) is the [usual](https://www.apple.com/newsroom/archive/2024/mac/) [month](https://www.apple.com/newsroom/archive/2023/mac/) for new Mac hardware, like maybe M6 iMacs and a new high-end MacBook lineup with OLED displays that (ugh) are also touchscreens.

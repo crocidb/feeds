@@ -6,7 +6,7 @@ url = "https://www.theatlantic.com/technology/2026/09/apple-folding-iphone/68856
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.863684216Z"
-seen = false
+seen = true
 +++
 
 Will Oremus, writing for The Atlantic last week, “Okay, Sure, a Folding iPhone” (gift link):

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/09/07/1254?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-08T09:44:10.281697870Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/09/07/1254/large.jpg?v=4a10fb5df3f4" alt="quicklook" width="320" height="213">](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

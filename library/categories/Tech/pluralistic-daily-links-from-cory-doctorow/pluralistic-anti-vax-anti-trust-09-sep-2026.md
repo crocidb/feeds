@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/09/09/when-it-dont-rain/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-21T09:42:49.280910810Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/09Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/09/when-it-dont-rain/)

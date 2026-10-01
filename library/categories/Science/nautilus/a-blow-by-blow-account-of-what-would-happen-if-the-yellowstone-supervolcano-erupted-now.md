@@ -6,7 +6,7 @@ url = "https://nautil.us/a-blow%e2%80%91by%e2%80%91blow-account-of-what-would-ha
 author = "Ilan Kelman"
 text = ""
 lastupdated = "2026-09-27T09:51:03.548275644Z"
-seen = false
+seen = true
 +++
 
 Would it be the end of humanity?

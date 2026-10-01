@@ -6,7 +6,7 @@ url = "https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfir
 author = "Daring Fireball Department of Commerce"
 text = ""
 lastupdated = "2026-09-21T09:42:41.889521423Z"
-seen = false
+seen = true
 +++
 
 SSO is table stakes for enterprise deals, but building it into your app yourself means writing SAML controllers, parsing XML assertions, and handling IdP-specific quirks for each provider.

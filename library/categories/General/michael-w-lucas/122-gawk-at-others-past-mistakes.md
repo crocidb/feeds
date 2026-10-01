@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24905"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-07-23T22:52:35.228199345Z"
-seen = false
+seen = true
 +++
 
 [OpenZFS Mastery](https://mwl.io/sponsor) is starting to pick up momentum. Don’t look at it too closely. You might scare it.

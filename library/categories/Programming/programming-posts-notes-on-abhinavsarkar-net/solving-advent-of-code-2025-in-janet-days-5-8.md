@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2025-aoc-2/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.449129300Z"
-seen = false
+seen = true
 +++
 
 I’m solving the [Advent of Code 2025](https://adventofcode.com/2025/) in [Janet](https://janet-lang.org/). After doing the last five years in Haskell, I wanted to learn a new language this year. I’ve been eyeing the “New Lisps”[<sup>1</sup>](#fn1) for a while now, and I decided to learn Janet.

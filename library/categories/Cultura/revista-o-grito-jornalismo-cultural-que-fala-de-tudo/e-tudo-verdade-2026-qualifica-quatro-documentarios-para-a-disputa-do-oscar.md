@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/e-tudo-verdade-2026-qualifica-quatro-documentar
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-28T20:25:27.195897124Z"
-seen = false
+seen = true
 +++
 
 A 31ª edição do [É Tudo Verdade](https://www.google.com/search?q=https://www.revistaogrito.com/e-tudo-verdade-2023-anuncia-os-vencedores-com-destaque-para-incompativel-com-a-vida/&utm_source=gemini) – Festival Internacional de Documentários classificou quatro produções para a disputa por vagas no Oscar 2027. Como evento qualificador oficial da Academia de Artes e Ciências Cinematográficas de Hollywood, o festival credenciou os longas-metragens *Sagrado*, da cineasta **Alice Riff**, e *Um Filme de Medo*, do brasileiro **Sergio Oksman**, para concorrerem a indicações na categoria de Melhor Longa Documental.

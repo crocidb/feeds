@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/type-level-haskell-aoc7/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.603895283Z"
-seen = false
+seen = true
 +++
 
 I have been trying to use type-level programming in Haskell to solve interesting problems since I read [Thinking with Types](https://thinkingwithtypes.com/) by [Sandy Maguire](https://sandymaguire.me/). Then I found myself solving the problems in [Advent of Code 2020](https://adventofcode.com/2020) and some of them seemed suitable to be solved with type-level programming. So I decided to give it a shot.

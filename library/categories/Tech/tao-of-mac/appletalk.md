@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/protocols/appletalk?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.707073160Z"
-seen = false
+seen = true
 +++
 
 AppleTalk is Apple’s networking protocol suite for classic Macs, used for file sharing, network printing and service discovery. It ran over several network types, including LocalTalk serial networks and Ethernet via EtherTalk.

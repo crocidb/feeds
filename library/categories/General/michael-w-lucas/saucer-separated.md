@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24895"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-07-16T14:36:49.814939175Z"
-seen = false
+seen = true
 +++
 
 It took a [few](https://mwl.io/archives/24839) [iterations](https://mwl.io/archives/24854), but I did it.

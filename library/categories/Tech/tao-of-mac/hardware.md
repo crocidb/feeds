@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/hw?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.058692968Z"
-seen = false
+seen = true
 +++
 
 This page is a placeholder for a category.

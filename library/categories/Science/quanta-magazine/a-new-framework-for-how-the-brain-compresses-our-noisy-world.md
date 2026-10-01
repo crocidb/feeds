@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/a-new-framework-for-how-the-brain-compress
 author = "Conor Feehly"
 text = ""
 lastupdated = "2026-08-24T15:49:19.937872152Z"
-seen = false
+seen = true
 +++
 
 Every moment of our lives, our bodies are awash in sensory signals. Photons hit our retinas. Waves of compressed air collide with our eardrums. Volatile molecules bind to receptors in our nostrils, and chemicals slather our taste buds. Pressure and heat activate nerve endings in our skin. We are able to navigate this torrent because the brain does an enormous amount of data compression.

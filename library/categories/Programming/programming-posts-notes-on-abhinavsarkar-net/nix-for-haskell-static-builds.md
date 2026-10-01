@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/nix-for-haskell-static-builds/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.430830728Z"
-seen = false
+seen = true
 +++
 
 In the [previous post](https://abhinavsarkar.net/posts/nix-for-haskell/?mtm_campaign=feed), we learned how to get started with managing and building a [Haskell](https://haskell.org) project with [Nix](https://nixos.org). In this post, we learn how to easily create statically-linked executables for Haskell projects with Nix.

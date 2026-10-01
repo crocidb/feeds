@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-3/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.630808915Z"
-seen = false
+seen = true
 +++
 
 In the [previous post](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell-2/?mtm_campaign=feed), we set out to rewrite the JSON parser we wrote in Haskell in an [earlier post](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/?mtm_campaign=feed), to add support for error reporting. The parser was written very naively: if it failed, it returned nothing. You couldn’t tell what the failure was or where it happened. That’s OK for a toy parser but error reporting is an absolute must requirement for all good parsers. In the previous post, we finished writing the basic framework for the same. In this post, we’ll finish adding simple but useful error reporting capability to our JSON parser.

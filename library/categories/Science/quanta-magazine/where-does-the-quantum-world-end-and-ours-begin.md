@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/where-does-the-quantum-world-end-and-ours-
 author = "Steven Strogatz and Janna Levin"
 text = ""
 lastupdated = "2026-09-21T09:42:46.839303051Z"
-seen = false
+seen = true
 +++
 
 Quantum mechanics may be one of the most precisely tested paradigms in science, but there’s still no universally accepted interpretation of what it tells us about reality. How do we get from the wave-like behavior of quantum systems to the solid, macroscopic world of objects and the universe at large? Jonathan Halliwell, a professor of theoretical physics at Imperial College London…

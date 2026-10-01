@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/fast-haskell-scripts-on-github-actions/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-08-10T12:13:32.935460151Z"
-seen = false
+seen = true
 +++
 
 Magix is a neat tool that lets us run [Haskell](https://haskell.org) programs as scripts[<sup>1</sup>](#fn1). We put a shebang on top mentioning Magix, list the Haskell packages we need, and `./script.hs` just works. This post is about running such a script fast(er) on [GitHub Actions](https://github.com/features/actions).

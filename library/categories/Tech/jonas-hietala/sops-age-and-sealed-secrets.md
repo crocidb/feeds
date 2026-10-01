@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/index.
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-06-01T21:30:49.132106620Z"
-seen = false
+seen = true
 +++
 
 When I’ve read other series about Kubernetes and reach the secrets section my eyes glaze over. I can’t help myself; I want to read about the fun stuff. Secrets are necessary to be sure, but it’s a little boring…

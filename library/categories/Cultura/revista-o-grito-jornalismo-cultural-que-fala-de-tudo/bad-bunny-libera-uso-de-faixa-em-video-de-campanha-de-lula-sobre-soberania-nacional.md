@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/bad-bunny-libera-uso-de-faixa-em-video-de-campa
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-27T09:50:58.766264326Z"
-seen = false
+seen = true
 +++
 
 O músico porto-riquenho **[Bad Bunny](https://revistaogrito.com/assunto/bad-bunny/)** autorizou o uso de “Lo Que Le Pasó a Hawaii”, faixa do sucesso *[Debí Tirar Más Fotos](https://revistaogrito.com/bad-bunny-louva-a-cultura-de-porto-rico-em-debi-tirar-mas-fotos/)* (2025), para a campanha à reeleição do presidente[ Luiz Inácio Lula da Silva](https://revistaogrito.com/assunto/lula/). A autorização foi confirmada pelo Mídia Ninja aos veículos de imprensa brasileiros nesta quarta (23/09).

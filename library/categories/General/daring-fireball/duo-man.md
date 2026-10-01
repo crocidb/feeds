@@ -6,7 +6,7 @@ url = "https://x.com/viditb/status/2104103592726765722"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-28T20:25:24.450117499Z"
-seen = false
+seen = true
 +++
 
 Vidit Bhargava (developer of [Lookup](https://blog.viditb.com/lookup-at-10/) and [Movie Buzz](https://apps.apple.com/us/app/movie-buzz-movie-tracker-app/id524388922)):

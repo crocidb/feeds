@@ -6,7 +6,7 @@ url = "https://nautil.us/what-do-you-know-about-the-deep-sea-barbie-pig-1285329/
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-28T20:25:40.218105304Z"
-seen = false
+seen = true
 +++
 
 What about the Ping Pong Sponge? The Casper the Ghost Octopus? The Gummy Squirrel?

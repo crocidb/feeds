@@ -6,7 +6,7 @@ url = "https://security.apple.com/blog/apple-reference-image/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.884374736Z"
-seen = false
+seen = true
 +++
 
 Apple Security Research has released a concise, cogent paper describing how Apple Reference Image works, and why they made it. A terrific read. Here’s just one fascinating bit regarding privacy:

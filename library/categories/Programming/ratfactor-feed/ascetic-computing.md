@@ -6,7 +6,7 @@ url = "http://ratfactor.com/ascetic-computing"
 author = "Dave Gauer"
 text = ""
 lastupdated = "2026-05-20T09:23:10.507527693Z"
-seen = false
+seen = true
 +++
 
 I hope this comes across as fun rather than preachy! At least it has some drawings...

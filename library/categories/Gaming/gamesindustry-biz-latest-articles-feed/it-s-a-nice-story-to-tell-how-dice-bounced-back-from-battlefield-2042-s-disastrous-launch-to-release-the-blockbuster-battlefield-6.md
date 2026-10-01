@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-b
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-28T20:25:22.817882687Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/GLA_LAU_Screenshot_11_Dagger1-3_3840x2160_NoLogo.png?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/implementing-co-2/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.591948234Z"
-seen = false
+seen = true
 +++
 
 In the [previous post](https://abhinavsarkar.net/posts/implementing-co-1/?mtm_campaign=feed), we wrote the parser for Co, the small language we are building in this series of posts. The previous post was all about the syntax of Co. In this post we dive into the semantics of Co, and write an interpreter for its basic features.

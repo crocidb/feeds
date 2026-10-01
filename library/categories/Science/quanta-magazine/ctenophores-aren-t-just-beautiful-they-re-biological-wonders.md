@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/ctenophores-arent-just-beautiful-theyre-bi
 author = "Marlowe Starling"
 text = ""
 lastupdated = "2026-09-21T09:42:46.840705931Z"
-seen = false
+seen = true
 +++
 
 Around 700 million years ago, a group of organisms resembling little more than glowing, gelatinous blobs split off from the rest of the animals, forming possibly the earliest branching animal lineage. Nearly 200 species of ctenophores, commonly known as comb jellies (but unrelated to jellyfish), live today in environments ranging from the cold depths of the sea to warm coastal surface waters.

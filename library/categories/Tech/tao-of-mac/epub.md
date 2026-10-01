@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/markup/epub?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-10T12:13:33.794002630Z"
-seen = false
+seen = true
 +++
 
 [EPUB](https://www.w3.org/TR/epub-33/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) is an open W3C format for distributing digital publications as a single file. It packages structured web content–primarily [XHTML](/space/markup/html), [CSS](/space/markup/css), [SVG](/space/markup/svg#scalable-vector-graphics), images and fonts–with metadata, navigation and a defined reading order.

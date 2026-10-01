@@ -6,7 +6,7 @@ url = "https://9to5mac.com/2026/09/09/apple-confirms-macos-27-golden-gate-launch
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.909805635Z"
-seen = false
+seen = true
 +++
 
 9to5 Mac has [the iOS 27 release notes](https://9to5mac.com/2026/09/09/ios-27-here-are-apples-full-release-notes/) too. I haven’t spent much time using Golden Gate, but I’ve been using iOS 27 full-time ever since WWDC. It’s in excellent shape for a .0 release.

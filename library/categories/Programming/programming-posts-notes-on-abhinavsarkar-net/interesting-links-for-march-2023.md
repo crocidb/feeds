@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2023-links-03/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.535851305Z"
-seen = false
+seen = true
 +++
 
 Here are some interesting things I read on the internet in March 2023.

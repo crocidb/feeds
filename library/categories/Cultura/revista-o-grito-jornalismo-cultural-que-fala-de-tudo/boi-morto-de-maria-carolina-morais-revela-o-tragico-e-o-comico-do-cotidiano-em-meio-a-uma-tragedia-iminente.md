@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/boi-morto-de-maria-carolina-morais-revela-o-tra
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-09-27T09:50:58.768117037Z"
-seen = false
+seen = true
 +++
 
 ##### **Foto: Juana Carvalho/Divulgação.** #####

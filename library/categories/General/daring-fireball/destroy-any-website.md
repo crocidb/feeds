@@ -6,7 +6,7 @@ url = "https://destroy.spritefusion.com/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-29T21:52:18.278914744Z"
-seen = false
+seen = true
 +++
 
 Desktop only, and you definitely want sound on.

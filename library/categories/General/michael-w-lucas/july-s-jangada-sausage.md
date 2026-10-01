@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24931"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-08-10T12:13:28.512001894Z"
-seen = false
+seen = true
 +++
 
 This post went to Patronizers in July and to the public in August. Not a Patronizer? [You could be](https://patronizemwl.com)!

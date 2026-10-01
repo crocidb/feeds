@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/jj-usage/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.442511653Z"
-seen = false
+seen = true
 +++
 
 About three months ago I started using [Jujutsu](https://jj-vcs.dev/) (JJ), a new *[Version Control System](https://en.wikipedia.org/wiki/Version_Control_System)*, for my personal projects. It took me a while to get used to it after more than a decade of using [Git](https://git-scm.com/), but now I’m quite comfortable with it. Working with Jujutsu requires a shift from the mental model of Git. However, it is not as daunting as it may seem on the first day.

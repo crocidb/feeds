@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/os/linux/docker?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-08T09:44:10.290309676Z"
-seen = false
+seen = true
 +++
 
 The new hotness in the Linux container space (because nobody remembers `LXC` anymore).

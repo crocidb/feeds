@@ -6,7 +6,7 @@ url = "https://nautil.us/new-test-for-broken-heart-syndrome-offers-insights-into
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-01T19:33:17.114246766Z"
-seen = false
+seen = true
 +++
 
 It could prevent unnecessary invasive procedures

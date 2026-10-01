@@ -6,7 +6,7 @@ url = "https://daringfireball.net/thetalkshow/2026/09/25/ep-455"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.367325500Z"
-seen = false
+seen = true
 +++
 
 Andru Edwards returns to the show to discuss Apple’s big September event and their new products: the iPhones 18 Pro and Duo, AirPods 5, and Apple Watch Series 12/Ultra 4.

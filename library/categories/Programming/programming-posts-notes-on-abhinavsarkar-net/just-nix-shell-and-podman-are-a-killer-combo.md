@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/just-nix-podman-combo/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.578732751Z"
-seen = false
+seen = true
 +++
 
 Let’s say, for some unclear reasons, you need to compile the “Hello World” C program using a variety of C compilers.

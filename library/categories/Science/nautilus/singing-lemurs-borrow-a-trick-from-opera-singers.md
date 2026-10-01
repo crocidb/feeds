@@ -6,7 +6,7 @@ url = "https://nautil.us/singing-lemurs-borrow-a-trick-from-opera-singers-128517
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-23T18:24:59.575880163Z"
-seen = false
+seen = true
 +++
 
 And their songs are just as haunting

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-27T09:50:55.932938781Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/hello-neighbour.png?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24936"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-08-10T22:25:11.118612485Z"
-seen = false
+seen = true
 +++
 
 I commission custom art for the IT Mastery books, but do the text layout myself. Most often, I use the Minion Pro for the body font and Myriad Pro for the display font. They’re staid, reliable, and unremarkable. On rare occasion, [the topic demands a particular font](https://mwl.io/static/books/httpd-and-relayd-mastery.html). That’s straightforward; I must distort the design until the font fits.

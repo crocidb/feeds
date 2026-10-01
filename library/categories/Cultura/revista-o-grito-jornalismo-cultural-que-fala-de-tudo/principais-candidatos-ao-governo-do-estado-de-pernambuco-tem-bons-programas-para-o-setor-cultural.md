@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/principais-candidatos-ao-governo-do-estado-de-p
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-09-29T21:52:18.638827555Z"
-seen = false
+seen = true
 +++
 
 Não se pode reclamar de falta de projetos para a cultura por parte dos principais candidatos ao Governo do Estado, sobretudo a atual governadora, candidata à reeleição, **Raquel Lyra**, o seu principal opositor, o ex-prefeito do Recife **João Campos** e **Ivan Moraes**, candidato do PSOL, terceiro colocado nas pesquisas, o qual apresenta um programa robusto para o setor cultural. Os demais candidatos fazem propostas amplas sem detalhamento, revelando, como sempre, a desatenção a uma área fundamental para um estado de tanta diversidade cultural como Pernambuco. Não olhar para ela é burrice.

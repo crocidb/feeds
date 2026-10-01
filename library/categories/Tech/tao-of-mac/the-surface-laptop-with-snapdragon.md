@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/09/20/1100?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.668373317Z"
-seen = false
+seen = true
 +++
 
 Still very much in line with the overall return to work mood of the past few weeks, I thought I’d post some notes about work gear. You see, I have been using a “Surface Laptop for Business 13in 1st Ed with Snapdragon” (I kid you not, that is what it is called) for a couple of months now.

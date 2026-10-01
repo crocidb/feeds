@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/08/18/enron-corpus/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-08-24T15:49:20.061167234Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/18Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/18/enron-corpus/)

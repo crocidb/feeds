@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festival-dosol-celebra-25-anos-com-shows-gratui
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-28T20:25:27.188905280Z"
-seen = false
+seen = true
 +++
 
 O [Festival DoSol](https://revistaogrito.com/assunto/festival-dosol/) chega à sua 23ª edição com uma programação descentralizada em comemoração aos 25 anos do Combo Cultural DoSol. Criado pelos produtores [**Anderson Foca** e **Ana Morena**](https://revistaogrito.com/assunto/camarones-orquestra-guitarristica/), o projeto realiza 18 dias de evento gratuito entre 5 de novembro e 12 de dezembro de 2026. A grade contempla 115 apresentações distribuídas por 18 espaços culturais em Natal (RN) e em dez municípios do interior potiguar, unindo nomes consagrados da cena nacional e expoentes da música independente.

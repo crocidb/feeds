@@ -6,7 +6,7 @@ url = "https://apps.apple.com/us/app/update-my-phone-apps-guide/id6753936837"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.397194526Z"
-seen = false
+seen = true
 +++
 
 “Update My Phone & Apps: Guide” is an iOS app from developer Tair Olzhasev. By default, the only thing it does for free is give you a “Check for Updates” button that launches the system Settings app. It doesn’t even take you to the General → Software Update screen. It just takes you to the root level of Settings.

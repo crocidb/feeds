@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/09/22/0709?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-23T18:25:00.350252399Z"
-seen = false
+seen = true
 +++
 
 In [Nilay Patel’s Decoder conversation with Mark Gurman](https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) about John Ternus and Apple’s next big thing, Gurman describes something camera-equipped AirPods might eventually do: look at an email on your computer screen and help add an event to your calendar. And that was when he lost me.

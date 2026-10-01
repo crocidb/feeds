@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/09/11/mazzucato-thought/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-21T09:42:49.278616631Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/11Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/11/mazzucato-thought/)

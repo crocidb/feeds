@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/09/05/2100?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-08T09:44:10.292012165Z"
-seen = false
+seen = true
 +++
 
 As many people have remarked, the moat between ideas and technical execution is narrower than ever, and that has a number of consequences–both when it comes to investment (in this case, personal, although [I am collecting war stories](/space/site/disclaimer)…) and focus. And I think I need to be more selective about what gets my evenings, since I am back at work and already spending too much of my free time building things on a computer.

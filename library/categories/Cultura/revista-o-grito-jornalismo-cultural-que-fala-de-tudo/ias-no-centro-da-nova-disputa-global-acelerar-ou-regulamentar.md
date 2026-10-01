@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/ias-no-centro-da-nova-disputa-global-acelerar-o
 author = "Agência Pública"
 text = ""
 lastupdated = "2026-09-28T20:25:27.226387601Z"
-seen = false
+seen = true
 +++
 
 Por **Andrea DiP, Sofia Amaral, Ricardo Terto, Stela Diogo, Natália Perez**

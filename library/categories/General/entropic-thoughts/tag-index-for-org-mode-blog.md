@@ -6,10 +6,10 @@ url = "https://entropicthoughts.com/tag-index-for-org-mode-blog"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-09-21T09:42:41.995605938Z"
-seen = false
+seen = true
 +++
 
- Since people keep asking how this blog is made, and I don’t want to share the awful, terrible code that it is taped together with, I’ve decided to start explaining parts of it piecewise. Generally, any time something breaks and I have to fix it, I write down what I did and what it connects to.
+Since people keep asking how this blog is made, and I don’t want to share the awful, terrible code that it is taped together with, I’ve decided to start explaining parts of it piecewise. Generally, any time something breaks and I have to fix it, I write down what I did and what it connects to.
 
  The most recent issue was the stack limit being blown by a helper function involved in generating the tag index. I had written it to be explicitly recursive, which worked fine with a small-ish number of published articles, but not anymore. The tag index creation follows a similar pattern to the RSS feed generation detailed in the previous article.
 

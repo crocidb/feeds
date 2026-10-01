@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/why-do-these-fossil-shells-flip-their-spir
 author = "Fanni Daniella Szakál"
 text = ""
 lastupdated = "2026-09-21T09:42:46.843475280Z"
-seen = false
+seen = true
 +++
 
 For thousands and sometimes millions of years, marine plankton all over the world built their spiral shells in one direction. Then, suddenly, the spirals switched direction at the same time, everywhere, only to switch back again later. These microorganisms are types of foraminifera, or forams. Found in all oceans, from the tropics to high latitudes, they’re among the most abundant eukaryotic…

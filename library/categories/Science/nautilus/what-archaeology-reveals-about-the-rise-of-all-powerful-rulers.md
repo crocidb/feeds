@@ -6,7 +6,7 @@ url = "https://nautil.us/what-archaeology-reveals-about-the-rise-of-all-powerful
 author = "Tim Vernimmen"
 text = ""
 lastupdated = "2026-09-08T09:44:10.322067880Z"
-seen = false
+seen = true
 +++
 
 Autocracy wasn’t inevitable in early civilizations—many were more egalitarian. But when riches were there to monopolize, strongmen and inequalities emerged

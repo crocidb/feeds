@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/09/01/0750?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.026898378Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/09/01/0750/large.jpg?v=93a5c5b41f69" alt="quicklook" width="320" height="240">](https://www.theverge.com/tech/986832/read-tim-cooks-final-message-as-ceo-to-apple-staff?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

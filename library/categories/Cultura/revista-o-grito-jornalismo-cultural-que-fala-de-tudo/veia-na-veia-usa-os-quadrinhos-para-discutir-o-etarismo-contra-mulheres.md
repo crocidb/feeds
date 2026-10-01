@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/veia-na-veia-usa-os-quadrinhos-para-discutir-o-
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-09-29T21:52:18.644929722Z"
-seen = false
+seen = true
 +++
 
 O etarismo é o tema da antologia em quadrinhos *Véia na Veia*, publicação independente que reúne nove autoras brasileiras para abordar com humor, crítica e sensibilidade o preconceito enfrentado por mulheres à medida que envelhecem. Em 36 páginas em preto e branco, histórias e tirinhas mostram como a sociedade enxerga mulheres acima dos 40 anos.

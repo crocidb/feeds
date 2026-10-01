@@ -6,7 +6,7 @@ url = "https://nautil.us/fire-in-the-brain-how-psychosis-may-arise-when-the-body
 author = "Georgia Michelman"
 text = ""
 lastupdated = "2026-09-28T20:25:40.210760920Z"
-seen = false
+seen = true
 +++
 
 Antibodies made by the immune system can sometimes target human brain cells, producing psychiatric symptoms. Researchers aim to better identify such rare cases as well as fine-tune treatments

@@ -6,7 +6,7 @@ url = "https://addons.mozilla.org/en-US/firefox/addon/dumpster-fire/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.892016052Z"
-seen = false
+seen = true
 +++
 
 Miles Abbott:

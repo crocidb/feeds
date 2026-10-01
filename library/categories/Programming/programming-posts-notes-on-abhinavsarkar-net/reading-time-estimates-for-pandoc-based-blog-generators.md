@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2025-pandoc-reading-time/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.479056457Z"
-seen = false
+seen = true
 +++
 
 If you, like me, are one of those who have written their own static-site generators based on Pandoc using Haskell, or use a framework made on top of it[<sup>1</sup>](#fn1), this post provides a little code snippet to compute the reading time estimate for your blog posts. You can stick this in your setup at the right place, and get pretty accurate estimates[<sup>2</sup>](#fn2).

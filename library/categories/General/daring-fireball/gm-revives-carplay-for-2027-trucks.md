@@ -6,7 +6,7 @@ url = "https://www.autoweek.com/news/a73761352/gm-revives-apple-carplay-for-2027
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.857424608Z"
-seen = false
+seen = true
 +++
 
 Natalie Neff, Autoweek:

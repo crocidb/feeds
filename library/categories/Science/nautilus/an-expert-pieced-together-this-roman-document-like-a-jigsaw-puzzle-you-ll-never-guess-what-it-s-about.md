@@ -6,7 +6,7 @@ url = "https://nautil.us/an-expert-pieced-together-this-roman-document-like-a-ji
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-01T19:33:17.119837218Z"
-seen = false
+seen = true
 +++
 
 Classics researchers think it was part of a reference booklet traveling officials carried with them

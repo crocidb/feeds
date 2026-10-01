@@ -6,7 +6,7 @@ url = "https://www.cl.cam.ac.uk/~mgk25/iso-paper.html"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.364146703Z"
-seen = false
+seen = true
 +++
 
 Markus Kuhn:

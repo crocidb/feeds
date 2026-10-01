@@ -6,7 +6,7 @@ url = "https://nautil.us/new-heart-attack-definitions-could-lead-to-better-care-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-03T13:15:13.303441195Z"
-seen = false
+seen = true
 +++
 
 Uncommon heart attack causes disproportionately affect them

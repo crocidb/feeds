@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2025-miniflux-similar-sorting/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.464986783Z"
-seen = false
+seen = true
 +++
 
 As mentioned by in [a previous note](https://abhinavsarkar.net/notes/2025-customizing-miniflux/?mtm_campaign=feed), I have customized [Miniflux](https://miniflux.app/), my preferred feed reader, to add custom sorting for the articles. Recently, I added another sorting option: sorting by similarity. I kept finding myself wanting to read articles grouped by their topics, instead of hopping from topic to topic while going through my feed. So I build it.

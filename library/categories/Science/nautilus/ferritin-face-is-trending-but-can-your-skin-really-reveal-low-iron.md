@@ -6,7 +6,7 @@ url = "https://nautil.us/ferritin-face-is-trending-but-can-your-skin-really-reve
 author = "Chloe Casey"
 text = ""
 lastupdated = "2026-09-21T09:42:47.711485358Z"
-seen = false
+seen = true
 +++
 
 There’s a kernel of truth to it, but it’s not the whole story

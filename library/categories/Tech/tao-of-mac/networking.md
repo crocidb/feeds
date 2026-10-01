@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/networking?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.705632891Z"
-seen = false
+seen = true
 +++
 
 [](/space/networking#resources)

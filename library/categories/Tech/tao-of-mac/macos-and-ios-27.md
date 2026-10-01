@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/09/15/0719?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.684836450Z"
-seen = false
+seen = true
 +++
 
 Nothing blew up. Yet.

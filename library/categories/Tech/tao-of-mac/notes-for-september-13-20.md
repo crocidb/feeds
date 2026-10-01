@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/09/20/1800?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.664986199Z"
-seen = false
+seen = true
 +++
 
 It’s a bit insane that we’re past mid-September and my living room is still sitting at 29<sup>o</sup>C at 7AM, but such is life in the late Holocene, I guess. Regardless, the shift towards Autumn is starting to show, and I’ve had a couple of days where I suddenly realized I was working “late” into the evening and the lights started coming on automatically (never a good sign unless you’re having fun).

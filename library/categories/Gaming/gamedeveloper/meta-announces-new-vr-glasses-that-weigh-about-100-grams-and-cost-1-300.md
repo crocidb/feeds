@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/meta-announces-new-vr-glasses-that
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-27T09:50:56.444693118Z"
-seen = false
+seen = true
 +++
 

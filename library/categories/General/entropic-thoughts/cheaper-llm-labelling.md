@@ -6,10 +6,10 @@ url = "https://entropicthoughts.com/cheaper-llm-labeling"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-09-23T18:24:54.387581484Z"
-seen = false
+seen = true
 +++
 
- I have a small project where I needed to label commits as either “maintenance” or “new development”. The obvious way to do it is with a cheap but relatively capable LLM, like GPT 5.6 Luna. I tested it on a small set of commits and manually verified its labelling, and it emitted the same label as I would have for the entire test set. That was good enough for me to roll out on a wider scale.
+I have a small project where I needed to label commits as either “maintenance” or “new development”. The obvious way to do it is with a cheap but relatively capable LLM, like GPT 5.6 Luna. I tested it on a small set of commits and manually verified its labelling, and it emitted the same label as I would have for the entire test set. That was good enough for me to roll out on a wider scale.
 
  If we have Simon Willison’s `llm` CLI tool installed (and you should – it’s great!), we can call it in a pipe from Perl, and read its response. My script had a loop that retried the request a few times, but without that bookkeeping, the code for this is simple enough.
 

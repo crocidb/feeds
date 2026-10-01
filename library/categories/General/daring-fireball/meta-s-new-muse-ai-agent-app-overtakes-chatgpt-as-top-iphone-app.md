@@ -6,7 +6,7 @@ url = "https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chat
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.711488797Z"
-seen = false
+seen = true
 +++
 
 Zac Hall, writing for 9to5 Mac on Friday:

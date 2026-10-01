@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.470756980Z"
-seen = false
+seen = true
 +++
 
 In this series of posts, we write a fast bytecode compiler and a virtual machine for arithmetic in Haskell. We explore the following topics:

@@ -6,7 +6,7 @@ url = "https://xcancel.com/cdclegal"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.907228786Z"
-seen = false
+seen = true
 +++
 
 XCancel:

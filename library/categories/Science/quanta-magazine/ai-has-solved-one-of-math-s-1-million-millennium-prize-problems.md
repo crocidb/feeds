@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-mille
 author = "Konstantin Kakaes"
 text = ""
 lastupdated = "2026-09-08T23:03:51.828822739Z"
-seen = false
+seen = true
 +++
 
 On the morning of Tuesday, September 8, mathematicians at OpenAI announced that a group of 10,000 autonomous AI agents under their direction, running on an advanced model not available to the public, had found a “singularity” in the Navier-Stokes equations in three dimensions — thus resolving one of the six remaining Millennium Prize Problems posed in 2000 by the Clay Mathematics Institute…

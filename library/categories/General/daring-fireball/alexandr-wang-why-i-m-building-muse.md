@@ -6,7 +6,7 @@ url = "https://x.com/alexandr_wang/status/2103551714536439951"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.361017243Z"
-seen = false
+seen = true
 +++
 
 Alexandr Wang, blogging on X:

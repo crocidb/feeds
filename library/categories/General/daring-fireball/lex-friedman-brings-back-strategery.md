@@ -6,7 +6,7 @@ url = "https://lexontech.org/strategery-is-back-and-im-the-developer"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.716743744Z"
-seen = false
+seen = true
 +++
 
 I first recommended Strategery [back in May 2009](https://daringfireball.net/linked/2009/05/04/strategery), including a link to [Friedman’s review at Macworld](https://www.macworld.com/article/196162/strategery.html). I described it thus:

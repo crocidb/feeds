@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-ghost-on-nixos/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.583964782Z"
-seen = false
+seen = true
 +++
 
 [Ghost](https://github.com/TryGhost/Ghost) is a popular open-source and self-hostable blogging platform. [NixOS](https://nixos.org/) is a linux distribution that is well suited for self-hosting because it can be configured entirely declaratively, and has thousands of [packages](https://search.nixos.org/packages) and hundreds of pre-configured [services](https://search.nixos.org/options?channel=22.05&from=0&size=50&sort=relevance&type=packages&query=services.) available. Unfortunately, Ghost is not one of them. So, when I wanted to host a Ghost blog on NixOS (with MySQL as the database backend), I had to write the packaging and service configuration by myself. I’m sharing the same in this note.

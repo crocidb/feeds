@@ -6,7 +6,7 @@ url = "https://nautil.us/this-viking-dress-survived-for-1300-years-protected-by-
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-01T19:33:17.117051092Z"
-seen = false
+seen = true
 +++
 
 Such delicate textiles typically decompose within a few years

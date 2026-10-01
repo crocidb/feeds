@@ -6,7 +6,7 @@ url = "https://www.macrumors.com/2026/09/20/siri-ai-settlement-website-now-live/
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.714206665Z"
-seen = false
+seen = true
 +++
 
 Joe Rossignol, MacRumors:

@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-vnstat-dashboard/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.574818916Z"
-seen = false
+seen = true
 +++
 
 I self-host a bunch of services on a VPS. To monitor the network usage of the VPS, I use [`vnstat`](https://humdi.net/vnstat/), a simple network monitoring tool.

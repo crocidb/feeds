@@ -6,7 +6,7 @@ url = "https://nautil.us/the-moon-has-a-new-once-in-a-century-crater-1285140/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-21T09:42:47.714034147Z"
-seen = false
+seen = true
 +++
 
 The lunar surface is more dynamic than you might think

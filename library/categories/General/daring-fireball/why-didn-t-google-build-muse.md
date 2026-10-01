@@ -6,7 +6,7 @@ url = "https://spyglass.org/why-didnt-google-build-muse/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.708867858Z"
-seen = false
+seen = true
 +++
 
 MG Siegler, writing at Spyglass:

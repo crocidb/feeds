@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24847"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-06-29T12:19:25.756248967Z"
-seen = false
+seen = true
 +++
 
 I built[<sup>2</sup>](https://mwl.io/archives/24847#easy-footnote-bottom-2-24847) [my own Patronage system on WordPress](https://www.tiltedwindmillpress.com/product-category/patronizer/). It’s still using commercial software, but it’s more independent than [my Patreon](https://www.patreon.com/mwlucas) and I have the source code in case of chicanery.

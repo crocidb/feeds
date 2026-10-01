@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/08/25/gammamax/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-01T19:33:18.971530573Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/25Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/25/gammamax/)

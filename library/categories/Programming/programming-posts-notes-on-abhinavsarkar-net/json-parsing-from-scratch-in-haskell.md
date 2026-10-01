@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.646306034Z"
-seen = false
+seen = true
 +++
 
 [JSON](https://en.wikipedia.org/wiki/JSON) is probably the most used standard file format for storing and transmitting data on the Internet in recent times. Though it was historically derived from [JavaScript](https://en.wikipedia.org/wiki/JavaScript), it is a programming language independent format and is now supported by almost all languages. JSON has a simple syntax specification with only four scalar data types and two composite data types. So, writing a parser for JSON is a great exercise for learning the basics of parsing. Let’s write one from scratch in Haskell.

@@ -6,7 +6,7 @@ url = "https://deadline.com/2026/09/jessica-chastain-the-savant-new-release-date
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.853429989Z"
-seen = false
+seen = true
 +++
 
 Nellie Andreeva, reporting for Deadline:

@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2020-covid-india-charts/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.638372142Z"
-seen = false
+seen = true
 +++
 
 [covid19india.org](https://www.covid19india.org) makes its data available via an API at [api.covid19india.org](https://api.covid19india.org/). One of the endpoints provides the district-wise daily data for all of India. Since I could not find any district-wise COVID-19 dashboard on internet, I decided to draw some charts on my own.

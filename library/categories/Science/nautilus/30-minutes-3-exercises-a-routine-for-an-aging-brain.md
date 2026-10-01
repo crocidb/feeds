@@ -6,7 +6,7 @@ url = "https://nautil.us/30-minutes-3-exercises-a-routine-for-an-aging-brain-128
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-10T22:25:13.508822163Z"
-seen = false
+seen = true
 +++
 
 And you thought you were done with the three Rs

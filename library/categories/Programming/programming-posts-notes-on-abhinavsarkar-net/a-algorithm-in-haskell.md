@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-astar/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.569869989Z"
-seen = false
+seen = true
 +++
 
 The start of the [Advent of Code](https://adventofcode.com/) today reminded me of the [A\* algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm), which I often find myself using for graph [pathfinding](https://en.wikipedia.org/wiki/Pathfinding) related problems.

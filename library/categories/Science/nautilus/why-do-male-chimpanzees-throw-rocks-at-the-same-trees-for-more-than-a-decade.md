@@ -6,7 +6,7 @@ url = "https://nautil.us/why-do-male-chimpanzees-throw-rocks-at-the-same-trees-f
 author = "Ammie Kalan"
 text = ""
 lastupdated = "2026-09-03T13:15:13.300895647Z"
-seen = false
+seen = true
 +++
 
 Accumulative stone throwing is a rare, potentially cultural, behavior that has been observed among four groups of wild chimpanzees in West Africa

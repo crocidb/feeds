@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/08/18/0716?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.707571450Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/08/18/0716/large.jpg?v=a188973b2b6d" alt="quicklook" width="320" height="240">](https://edward-la-barbera.itch.io/frasier-fantasy?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

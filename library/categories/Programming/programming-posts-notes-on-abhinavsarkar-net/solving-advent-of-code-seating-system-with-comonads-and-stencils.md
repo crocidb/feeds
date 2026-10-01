@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/solving-aoc20-seating-system/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.494346084Z"
-seen = false
+seen = true
 +++
 
 In this post, we solve the Advent of Code 2020 [“Seating System”](https://adventofcode.com/2020/day/11) challenge in Haskell using comonads and stencils.

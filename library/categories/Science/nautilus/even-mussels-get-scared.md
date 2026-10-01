@@ -6,7 +6,7 @@ url = "https://nautil.us/even-mussels-get-scared-1284061/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-24T15:49:20.509833037Z"
-seen = false
+seen = true
 +++
 
 And it could have dramatic consequences

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-adriana-calcanhotto-ma
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-27T09:50:58.759346695Z"
-seen = false
+seen = true
 +++
 
 Novos Sons no ar! Hora de atualizar a playlist com as novidades. Entre os destaques, **[Madonna](https://revistaogrito.com/madonna-mostra-que-ainda-tem-muito-a-dizer-no-poderoso-confessions-ii/)** e **[Charli XCX](https://revistaogrito.com/brat-charli-xcx-fenomeno-cultural-2024/)** lançaram “Danceteria Afterhours”, uma releitura de “Danceteria”, de *Confessions II*. A primeira parceria da dupla celebra as noites em clubes noturnos e antecede a apresentação de Madonna no MTV Video Music Awards. Ainda no mundo pop, **Taylor Swift** lançou a versão estendida do álbum *The Life of a Showgirl*, com 4 novas músicas e destaque para “Patient Zero”, que ganha videoclipe com participação de Colin Farrell e Dakota Johnson.

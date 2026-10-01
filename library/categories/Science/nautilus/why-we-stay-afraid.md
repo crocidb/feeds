@@ -6,7 +6,7 @@ url = "https://nautil.us/why-we-stay-afraid-1285292/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-09-27T09:51:03.556203155Z"
-seen = false
+seen = true
 +++
 
 A newly discovered brain region in mice solves a longstanding mystery about how fear lingers after threats fade

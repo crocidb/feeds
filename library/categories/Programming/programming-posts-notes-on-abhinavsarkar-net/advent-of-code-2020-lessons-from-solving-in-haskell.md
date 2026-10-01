@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2020-aoc-learnings/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.606271080Z"
-seen = false
+seen = true
 +++
 
 After many years of trying unsuccessfully, I finally completed all 25 days of the [Advent of Code 2020](https://adventofcode.com/2020/) in Haskell. Here is a summary of my learnings and solutions.

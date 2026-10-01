@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/espetaculo-joaquim-nabuco-do-cativeiro-a-consci
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-27T09:50:58.764504369Z"
-seen = false
+seen = true
 +++
 
 O **Coletivo Grão Comu**m estreia nesta terça-feira (29/9), às 19h, no Teatro Hermilo Borba Filho, no Bairro do Recife, o espetáculo *Joaquim Nabuco – Do Cativeiro à Consciência*. Com roteiro e direção de **Jr. Aguiar**, a montagem mistura drama histórico e metateatro para revisar a trajetória do abolicionista pernambucano, tensionando suas contradições e propondo reflexões sobre racismo estrutural, privilégio de classe e consciência social no Brasil contemporâneo.

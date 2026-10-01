@@ -6,7 +6,7 @@ url = "https://nautil.us/are-you-in-danger-of-becoming-a-robot-1284114/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-08-24T15:49:20.495845546Z"
-seen = false
+seen = true
 +++
 
 How interacting with social chatbots could reduce your “personhood”

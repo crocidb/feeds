@@ -6,7 +6,7 @@ url = "https://www.macrumors.com/2026/09/12/iphone-18-pro-max-us-model-differenc
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.876520230Z"
-seen = false
+seen = true
 +++
 
 Joe Rossignol at MacRumors over the weekend:

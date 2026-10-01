@@ -6,7 +6,7 @@ url = "https://nautil.us/theres-a-neurological-basis-for-pregnancy-brain-1285107
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-21T09:42:47.723178683Z"
-seen = false
+seen = true
 +++
 
 And it’s temporary

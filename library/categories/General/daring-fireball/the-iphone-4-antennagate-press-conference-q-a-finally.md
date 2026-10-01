@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/iphone_4_antennagate_q_and_a"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.394023696Z"
-seen = false
+seen = true
 +++
 
 The most extraordinary Apple event in the company’s modern history was the emergency press conference on Friday, 16 July 2010 to address “antennagate” — the out-of-control media narrative [that the iPhone 4 had a defective antenna design](https://daringfireball.net/2010/07/). The event was only scheduled one day in advance — I got invited around noon ET on July 15 and was on my way to the airport about an hour later. It remains one of the most interesting press events I’ve ever attended.

@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-08-24T15:49:20.075646861Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/12Aug2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/08/12/insurance-value-of-biodiversity/)

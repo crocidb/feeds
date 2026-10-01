@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/09/01/2130?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-03T13:15:13.164304732Z"
-seen = false
+seen = true
 +++
 
 I have a long and somewhat embarrassing history with [LISP](/space/dev/lisp) that goes back to the years when it was fading from academia and LISP machines were giving way to [Macs](/space/com/apple/mac#macintosh) and [DECstations](https://en.wikipedia.org/wiki/DECstation?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) (a transition that should be familiar to anyone who read the [UNIX-HATERS Handbook](https://en.wikipedia.org/wiki/The_UNIX-HATERS_Handbook?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)), so I got properly hooked on [Clojure](/space/dev/clojure#clojure-script) when it came out.

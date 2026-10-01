@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/08/30/1800?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.041519756Z"
-seen = false
+seen = true
 +++
 
 I’m now back to work and already embroiled in far too much, so I’m going through my infinite set of mental checklists and trying to relax by offloading some of the stuff I never got around to writing down. While I was on vacation, one of the things I did was tune out (as much as possible), which meant relying more on my e-ink devices.

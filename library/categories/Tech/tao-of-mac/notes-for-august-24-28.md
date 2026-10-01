@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/08/28/2130?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.048134432Z"
-seen = false
+seen = true
 +++
 
 I came back to work this week, started catching up on everything, and decided to go out for groceries without an umbrella (it is still August, right?) and got drenched.

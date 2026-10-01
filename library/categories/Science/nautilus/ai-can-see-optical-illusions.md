@@ -6,7 +6,7 @@ url = "https://nautil.us/ai-can-see-optical-illusions-1284064/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-24T15:49:20.504238915Z"
-seen = false
+seen = true
 +++
 
 And it might teach us about our own brains

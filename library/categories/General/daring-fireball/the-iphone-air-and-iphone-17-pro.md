@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/the_iphone_air_and_iphone_17_pro"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.911474605Z"
-seen = false
+seen = true
 +++
 
 Last year, an unplanned personal hiatus coincided with the time when I should have been reviewing the then-new iPhones 17 and iPhone Air. [In my brief note](https://daringfireball.net/2025/09/personal_note) explaining my absence, I wrote:

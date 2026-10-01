@@ -6,7 +6,7 @@ url = "https://mastodon.social/@_Davidsmith/117253170115740653"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.904666348Z"
-seen = false
+seen = true
 +++
 
 David Smith, developer of the widely-used [Widgetsmith](https://widgetsmith.app/), on Mastodon:

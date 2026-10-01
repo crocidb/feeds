@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2023-mastodon-context/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.539999113Z"
-seen = false
+seen = true
 +++
 
 Mastodon is a decentralized social media platform that’s become increasingly popular in recent years. Unlike centralized social media platforms like Twitter and Facebook, Mastodon is run on separate individual servers, each with its own rules and community.

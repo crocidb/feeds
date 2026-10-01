@@ -6,7 +6,7 @@ url = "https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.903352438Z"
-seen = false
+seen = true
 +++
 
 I have been busy with new-iPhone-week stuff, so I haven’t been able to follow either of these stories closely, but [Marcus summarizes them both well](https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence). First: the drama regarding OpenAI claiming a solution to the Navier–Stokes math problem. In short, OpenAI continues to prove itself to be a company full of cheaters. In this case, they seemingly were willing to tank the company’s reputation to first claim the solution to one of mathematics’ top unsolved problems. Apparently they [spent $23 million in compute](https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/) to win a $1 million prize, and [admit they used a model](https://x.com/markchen90/status/2097400166554993041) that might have trained on the work mathematicians Tristan Buckmaster and Levent Alpöge had been working on for months, who had been using a combination of tools from OpenAI and Anthropic (where Alpöge is employed). With no hyperbole, the message here seems to be “Don’t use Codex or ChatGPT unless you’re OK with OpenAI stealing your work if it’s of interest to them.”

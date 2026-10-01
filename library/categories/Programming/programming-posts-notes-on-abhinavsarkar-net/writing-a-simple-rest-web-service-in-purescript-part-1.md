@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/ps-simple-rest-service/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.694066497Z"
-seen = false
+seen = true
 +++
 
 At [Nilenso](https://nilenso.com), we’ve been working with a client who has chosen [PureScript](https://www.purescript.org) as their primary programming language. Since I couldn’t find any canonical documentation on writing a web service in PureScript, I thought I’d jot down the approach that we took.

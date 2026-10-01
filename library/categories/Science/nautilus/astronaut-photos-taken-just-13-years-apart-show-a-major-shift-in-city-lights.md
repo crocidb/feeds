@@ -6,7 +6,7 @@ url = "https://nautil.us/astronaut-photos-taken-just-13-years-apart-show-a-major
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-23T18:24:59.566601478Z"
-seen = false
+seen = true
 +++
 
 We’ve moved on from the golden glow

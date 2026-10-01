@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isn
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-28T20:25:22.832786862Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/wardogs-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

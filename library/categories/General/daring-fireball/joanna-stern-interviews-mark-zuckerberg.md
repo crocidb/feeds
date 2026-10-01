@@ -6,7 +6,7 @@ url = "https://thenewthings.com/p/exclusive-mark-zuckerberg-interview"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.383365578Z"
-seen = false
+seen = true
 +++
 
 Great interview from Stern, as usual, [seemingly conducted](https://daringfireball.net/misc/2026/09/stern-zuck-actual.jpeg) on [the old set](https://daringfireball.net/misc/2026/09/stern-zuck-threescompany.jpeg) of *Three’s Company*. She opened by asking if AI is going to wipe out humanity, and I think Zuck whiffed by not simply laughing and saying no. She also directly asked his thoughts on people calling Meta Glasses “pervert glasses”.

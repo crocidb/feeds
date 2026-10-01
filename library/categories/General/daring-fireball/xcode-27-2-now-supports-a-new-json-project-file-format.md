@@ -6,7 +6,7 @@ url = "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.712860496Z"
-seen = false
+seen = true
 +++
 
 Apple Developer:

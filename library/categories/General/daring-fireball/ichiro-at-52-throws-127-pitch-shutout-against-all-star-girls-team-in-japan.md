@@ -6,7 +6,7 @@ url = "https://www.seattletimes.com/sports/mariners/ichiro-at-52-throws-127-pitc
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.720527431Z"
-seen = false
+seen = true
 +++
 
 Sofia Schwarzwalder, reporting for The Seattle Times:

@@ -6,7 +6,7 @@ url = "https://www.pagetable.com/300"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.389832484Z"
-seen = false
+seen = true
 +++
 
 Michael Steil:

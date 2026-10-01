@@ -6,7 +6,7 @@ url = "https://truthsocial.com/@realDonaldTrump/posts/117293599348325006"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.867413733Z"
-seen = false
+seen = true
 +++
 
 Let’s check in on the president of the United States, having a normal one on his blog:

@@ -6,7 +6,7 @@ url = "https://nautil.us/why-is-this-octopus-hitching-a-ride-on-a-dolphin-128527
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-27T09:51:03.559169309Z"
-seen = false
+seen = true
 +++
 
 A quirky little climate change story

@@ -6,7 +6,7 @@ url = "https://atproto.com/off-protocol/2026-09-11-make-your-own-thing-john-grub
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.899491070Z"
-seen = false
+seen = true
 +++
 
 My old friend Jim Ray now runs developer relations at Bluesky, and part of that gig is hosting a podcast, Off Protocol (“a show about building a better Internet”). I was delighted to appear as his latest guest. I generally don’t like talking about my career, but I did enjoy talking about it with Jim. He has that effect on people.

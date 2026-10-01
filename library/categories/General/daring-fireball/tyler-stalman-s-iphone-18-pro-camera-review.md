@@ -6,7 +6,7 @@ url = "https://www.youtube.com/watch?v=m6cDErtCKAc"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.859916587Z"
-seen = false
+seen = true
 +++
 
 Splendid video. Love that Stalman shot photos side-by-side with a film SLR using Kodak Portra 400, for comparison to Apple’s new film-look Photographic Styles.

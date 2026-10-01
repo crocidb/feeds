@@ -6,7 +6,7 @@ url = "https://www.goldenhillsoftware.com/2026/09/unread-50/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.895795871Z"
-seen = false
+seen = true
 +++
 
 John Brayton:

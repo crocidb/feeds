@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24958"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-08-24T15:49:16.006386703Z"
-seen = false
+seen = true
 +++
 
 I’m trying to finish up the [OpenZFS Mastery](https://www.tiltedwindmillpress.com/product/openzfs-sponsor/) chapter on disk space use today. Well, my part of it. I’m planning to dump–delegate, *delegate*–the section on deduplication to Allan. When you have a co-author expert, use them.

@@ -6,7 +6,7 @@ url = "https://www.austinmann.com/trek/iphone-18-pro-camera-review-dunton"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.861178607Z"
-seen = false
+seen = true
 +++
 
 Austin Mann:

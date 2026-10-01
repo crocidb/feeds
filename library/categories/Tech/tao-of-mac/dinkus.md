@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/08/23/1121?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.642260917Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/08/23/1121/large.jpg?v=b2e4eaf5bca5" alt="quicklook" width="320" height="240">](https://dinkus.textualize.io/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

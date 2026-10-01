@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24971"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-08T09:44:05.511818216Z"
-seen = false
+seen = true
 +++
 
 The US Post Office has yet again raised shipping prices. I’ve ignored the last couple hikes, but everyone else from the grocery store to the landlord is raising their prices as well.

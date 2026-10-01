@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24986"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-23T18:24:55.814291303Z"
-seen = false
+seen = true
 +++
 
 [My Christmas collection Twisted Presents goes like on Kickstarter today!](https://www.kickstarter.com/projects/mwlucas/twisted-presents/) All backers get a free copy of *The Last Hour of Hogswatch* immediately upon backing (yes, before paying).

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-27T09:50:55.934645821Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/xbox-controller-sam-pak-unsplash-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

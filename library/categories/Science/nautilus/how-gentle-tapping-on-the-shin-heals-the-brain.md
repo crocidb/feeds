@@ -6,7 +6,7 @@ url = "https://nautil.us/how-gentle-tapping-on-the-shin-heals-the-brain-1285299/
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-27T09:51:03.554681605Z"
-seen = false
+seen = true
 +++
 
 The shin bone’s connected to the… brain?

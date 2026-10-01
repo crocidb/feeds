@@ -6,7 +6,7 @@ url = "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.877835359Z"
-seen = false
+seen = true
 +++
 
 A note flagged “Important” atop the Xcode 27.2 release notes:

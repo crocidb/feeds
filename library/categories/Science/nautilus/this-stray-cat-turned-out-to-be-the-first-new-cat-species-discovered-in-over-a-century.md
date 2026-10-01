@@ -6,7 +6,7 @@ url = "https://nautil.us/this-stray-cat-turned-out-to-be-the-first-new-cat-speci
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-21T09:42:47.716515846Z"
-seen = false
+seen = true
 +++
 
 It was living on a diet of rice, noodles, and eggs

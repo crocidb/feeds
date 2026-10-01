@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-27T09:50:55.929957638Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/fortnite_qUEC8D4.webp?width=690&quality=85&format=jpg&auto=webp)

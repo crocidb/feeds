@@ -6,7 +6,7 @@ url = "https://www.youtube.com/watch?v=SdKFDIAGF24"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.385143137Z"
-seen = false
+seen = true
 +++
 
 Meta’s annual keynote yesterday was a tight 55-minute live event held on their campus in Menlo Park. I watched the whole thing this morning, before recording tomorrow’s episode of [Dithering](https://dithering.fm/). (Which you should subscribe to.)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/trophy-games-makes-largest-acquisition-to-d
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-28T20:25:22.803263264Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-09-28-at-21.12.22.png?width=690&quality=85&format=jpg&auto=webp)

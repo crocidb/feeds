@@ -6,7 +6,7 @@ url = "https://nautil.us/the-extinct-tasmanian-tigers-bite-was-unlike-any-other-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-01T19:33:17.115648914Z"
-seen = false
+seen = true
 +++
 
 Which makes its extinction even more tragic

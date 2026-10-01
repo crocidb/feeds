@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/07/23/gitops_with_argocd/index.html"
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-07-23T22:53:04.995397952Z"
-seen = false
+seen = true
 +++
 
 <img width="1913" height="941" alt="" src="/images/kube/argocd_apps.png">

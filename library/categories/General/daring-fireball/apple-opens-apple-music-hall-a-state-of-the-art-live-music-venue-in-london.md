@@ -6,7 +6,7 @@ url = "https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-sta
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.386740024Z"
-seen = false
+seen = true
 +++
 
 Apple Newsroom:

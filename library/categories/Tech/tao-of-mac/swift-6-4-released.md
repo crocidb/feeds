@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/09/15/1843?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.683294770Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/09/15/1843/large.jpg?v=25db036f5d2f" alt="quicklook" width="320" height="213">](https://www.swift.org/blog/swift-6.4-released/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

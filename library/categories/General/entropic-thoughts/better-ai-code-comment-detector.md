@@ -6,10 +6,10 @@ url = "https://entropicthoughts.com/better-ai-comment-classifier"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-09-21T09:42:41.997347906Z"
-seen = false
+seen = true
 +++
 
- When I trained the previous AI comment classifier, I used partially personal private data to do it, and built it on a somewhat shaky foundation, so I couldn’t share the code or data. I rebuilt it on public data and a better foundation!
+When I trained the previous AI comment classifier, I used partially personal private data to do it, and built it on a somewhat shaky foundation, so I couldn’t share the code or data. I rebuilt it on public data and a better foundation!
 
  First off, you might want to try it out. Nothing you paste into that web page leaves your browser, so you can safely try it with whatever you like. I have invited some testers to try out an earlier version of it, and they had mainly positive feedback to give.
 

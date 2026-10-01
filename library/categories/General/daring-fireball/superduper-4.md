@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/superduper_4"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-08T23:03:50.023668038Z"
-seen = false
+seen = true
 +++
 
 I have mentioned and recommended [Shirt Pocket’s Mac backup app SuperDuper](https://www.shirt-pocket.com/superduper4.php) quite [a few times](https://daringfireball.net/search/super+duper) over the years, and for good reason: it performs very important functions very well. Version 4, which shipped just over a month ago, is an extraordinary update to an extraordinary app.

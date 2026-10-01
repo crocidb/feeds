@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/quinta-edicao-da-transforma-pride-reune-negocio
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-27T09:50:58.757606111Z"
-seen = false
+seen = true
 +++
 
 Moda, gastronomia, artesanato, design, cultura e upcycling estão entre as atrações da Transforma Pride 2026, que reúne mais de 120 expositores neste fim de semana, no Museu Cais do Sertão, no Recife Antigo. A programação inclui ainda feira de adoção de cães e gatos, atividades ligadas ao turismo LGBTQIA+ e apresentações musicais gratuitas.

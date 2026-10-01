@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-l
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-09-29T21:52:18.343886172Z"
-seen = false
+seen = true
 +++
 

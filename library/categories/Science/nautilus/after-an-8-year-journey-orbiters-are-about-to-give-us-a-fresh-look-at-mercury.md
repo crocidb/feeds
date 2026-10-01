@@ -6,7 +6,7 @@ url = "https://nautil.us/after-an-8-year-journey-orbiters-are-about-to-give-us-a
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-08T09:44:10.324617269Z"
-seen = false
+seen = true
 +++
 
 But the BepiColombo twin orbiters aren’t the first spacecraft to visit our system’s smallest planet. Here’s what we’ve seen already

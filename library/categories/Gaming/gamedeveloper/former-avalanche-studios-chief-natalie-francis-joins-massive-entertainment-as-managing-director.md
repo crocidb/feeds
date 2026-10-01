@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-nat
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-27T09:50:56.446215175Z"
-seen = false
+seen = true
 +++
 

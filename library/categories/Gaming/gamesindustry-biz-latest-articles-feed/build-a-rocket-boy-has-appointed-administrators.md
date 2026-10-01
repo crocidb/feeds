@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administra
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-27T09:50:55.925447051Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/mindseye-build-a-rocket-boy-(2).jpg?width=690&quality=85&format=jpg&auto=webp)

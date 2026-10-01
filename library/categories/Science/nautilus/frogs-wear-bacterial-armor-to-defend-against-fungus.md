@@ -6,7 +6,7 @@ url = "https://nautil.us/frogs-wear-bacterial-armor-to-defend-against-fungus-128
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-09-29T21:52:23.997762700Z"
-seen = false
+seen = true
 +++
 
 It gives them a leg up in survival

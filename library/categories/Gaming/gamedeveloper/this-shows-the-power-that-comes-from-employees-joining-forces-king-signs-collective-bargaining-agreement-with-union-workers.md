@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-f
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-27T09:50:56.443190131Z"
-seen = false
+seen = true
 +++
 

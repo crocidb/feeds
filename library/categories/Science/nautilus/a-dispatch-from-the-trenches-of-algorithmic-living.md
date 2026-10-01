@@ -6,7 +6,7 @@ url = "https://nautil.us/a-dispatch-from-the-trenches-of-algorithmic-living-1285
 author = "Nicole A. Prucha"
 text = ""
 lastupdated = "2026-09-28T20:25:40.196108578Z"
-seen = false
+seen = true
 +++
 
 *This excerpt is reprinted with permission from [NYU Press](https://nyupress.org/). It is adapted from* [Power in Listening: The Sounding Out! Reader](https://nyupress.org/9781479838042/power-in-listening/)*.*

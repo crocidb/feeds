@@ -6,7 +6,7 @@ url = "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-me
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.707570819Z"
-seen = false
+seen = true
 +++
 
 Jason Aten, writing for Inc:

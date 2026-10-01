@@ -6,7 +6,7 @@ url = "https://nautil.us/can-nature-benefit-you-if-youre-already-well-1284801/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-09-08T09:44:10.330937516Z"
-seen = false
+seen = true
 +++
 
 A conversation with a neuroscientist about how nature can fortify the strong and support resilience

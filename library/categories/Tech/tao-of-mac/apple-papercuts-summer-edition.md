@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/08/22/1147?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.645449788Z"
-seen = false
+seen = true
 +++
 
 This is a short follow-up to my [Apple Papercuts](/space/blog/2026/05/18/1320#apple-papercuts) piece, wherein I bunched together a few more annoyances that I’ve come across while using my [iPad Pro](/space/blog/2022/09/11/1850#the-m1-ipad-pro) extensively on vacation.

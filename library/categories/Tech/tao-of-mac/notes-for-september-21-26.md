@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/09/26/1147?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-27T09:51:03.503344507Z"
-seen = false
+seen = true
 +++
 
 Work was gruelling this week, with the rather unwelcome result that I didn’t exercise at all. I also fell asleep on the couch most afternoons/evenings just after closing shop–which ought to give you some idea of how much energy I had left for anything else.

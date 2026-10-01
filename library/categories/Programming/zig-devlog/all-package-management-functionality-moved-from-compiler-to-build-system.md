@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-06-30"
 author = ""
 text = ""
 lastupdated = "2026-07-01T13:54:39.656359537Z"
-seen = false
+seen = true
 +++
 
 [All Package Management Functionality Moved from Compiler to Build System](#2026-06-30)

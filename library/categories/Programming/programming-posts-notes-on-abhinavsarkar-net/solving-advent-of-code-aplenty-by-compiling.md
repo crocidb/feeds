@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/compiling-aoc23-aplenty/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.519888420Z"
-seen = false
+seen = true
 +++
 
 Every year I try to solve some problems from the [Advent of Code](https://adventofcode.com) (AoC) competition in a [not](https://abhinavsarkar.net/posts/type-level-haskell-aoc7/?mtm_campaign=feed) [straightforward](https://abhinavsarkar.net/notes/2022-type-level-rps?mtm_campaign=feed) [way](https://abhinavsarkar.net/posts/parsers-zippers-interpreters-aoc7/?mtm_campaign=feed). Let’s solve the part one of the day 19 problem [Aplenty](https://adventofcode.com/2023/day/19) by compiling the problem input to an executable file.

@@ -6,7 +6,7 @@ url = "https://colossus.com/article/mark-zuckerberg-profile/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-29T21:52:18.286463150Z"
-seen = false
+seen = true
 +++
 
 Jeremy Stern, in a massive and massively good profile of Mark Zuckerberg for Colossus:

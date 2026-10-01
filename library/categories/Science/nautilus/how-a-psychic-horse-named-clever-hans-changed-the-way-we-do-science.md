@@ -6,7 +6,7 @@ url = "https://nautil.us/how-a-psychic-horse-named-clever-hans-changed-the-way-w
 author = "Matyáš Moravec"
 text = ""
 lastupdated = "2026-09-01T19:33:17.118458730Z"
-seen = false
+seen = true
 +++
 
 His tutor Wilhelm von Osten was convinced that animals possessed an intelligence equal to humans

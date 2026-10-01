@@ -6,7 +6,7 @@ url = "http://ratfactor.com/cards/text-editor-as-ui"
 author = "Dave Gauer"
 text = ""
 lastupdated = "2026-05-05T08:25:04.622354304Z"
-seen = false
+seen = true
 +++
 
 Here's a fun technique I've been using a lot for the last couple years - calling upon a text editor and simple text files as a powerful and flexible "user interface" for command-line programs...

@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/09/28/cost-of-everything/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-28T20:25:35.168488129Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/28Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/28/cost-of-everything/)

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/08/16/1900?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.710604699Z"
-seen = false
+seen = true
 +++
 
 This was a different week, partly because we decided to watch the eclipse from a Spanish beachfront and partly because I actually read three books. There is an entire sub-thread around my back and neck aching worse than ever and my sleep patterns looking like a game of Splatoon that I will spare my readership, though.

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/09/06/1800?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-08T09:44:10.283597629Z"
-seen = false
+seen = true
 +++
 
 The desire to own an Apple Studio Display has probably been hanging over most Mac desktop users since time immemorial (well, since 1998 at least, but most people are more familiar with the “modern” 2022-era look) for two reasons:

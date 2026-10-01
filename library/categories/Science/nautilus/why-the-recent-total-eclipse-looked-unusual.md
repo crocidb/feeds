@@ -6,7 +6,7 @@ url = "https://nautil.us/why-the-recent-total-eclipse-looked-unusual-1284700/"
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-03T13:15:13.302174005Z"
-seen = false
+seen = true
 +++
 
 The corona in Spain was particularly golden

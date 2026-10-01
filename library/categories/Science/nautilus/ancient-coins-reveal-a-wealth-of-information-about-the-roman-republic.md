@@ -6,7 +6,7 @@ url = "https://nautil.us/ancient-coins-reveal-a-wealth-of-information-about-the-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-08T09:44:10.328418758Z"
-seen = false
+seen = true
 +++
 
 Change you can believe in

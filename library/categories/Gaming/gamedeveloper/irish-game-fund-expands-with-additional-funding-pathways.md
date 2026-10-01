@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-addit
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-27T09:50:56.447706485Z"
-seen = false
+seen = true
 +++
 

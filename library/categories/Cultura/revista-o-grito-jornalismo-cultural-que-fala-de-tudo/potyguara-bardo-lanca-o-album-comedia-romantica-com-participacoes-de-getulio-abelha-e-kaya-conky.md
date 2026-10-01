@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/potyguara-bardo-lanca-o-album-comedia-romantica
 author = "Rafael Curtis"
 text = ""
 lastupdated = "2026-09-28T20:25:27.219412326Z"
-seen = false
+seen = true
 +++
 
 A cantora e compositora potiguar **Potyguara Bardo** lançou seu segundo álbum de estúdio, intitulado *Comédia Romântica*. O trabalho dá continuidade ao projeto iniciado no EP *Romântica* (2025) e reúne 13 faixas (sete inéditas) que exploram desilusões amorosas e processos de recomeço sob uma estética que mescla humor, drama e gêneros populares do Nordeste, como brega, seresta, arrocha, piseiro e swingueira.

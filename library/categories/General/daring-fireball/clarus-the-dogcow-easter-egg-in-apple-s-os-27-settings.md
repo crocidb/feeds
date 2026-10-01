@@ -6,7 +6,7 @@ url = "https://9to5mac.com/2026/09/11/apple-hid-a-classic-mac-easter-egg-in-the-
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.905933496Z"
-seen = false
+seen = true
 +++
 
 Benjamin Mayo, 9to5Mac:

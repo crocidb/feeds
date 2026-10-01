@@ -6,7 +6,7 @@ url = "https://nautil.us/loneliness-and-social-isolation-can-rob-men-of-six-dise
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-23T18:24:59.567955977Z"
-seen = false
+seen = true
 +++
 
 Don’t neglect your emotional health, gentlemen

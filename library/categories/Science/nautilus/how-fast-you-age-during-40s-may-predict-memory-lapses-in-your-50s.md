@@ -6,7 +6,7 @@ url = "https://nautil.us/how-fast-you-age-during-40s-may-predict-memory-lapses-i
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-27T09:51:03.551616117Z"
-seen = false
+seen = true
 +++
 
 As if middle-aged people don’t have enough to worry about

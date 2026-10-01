@@ -6,7 +6,7 @@ url = "https://nautil.us/ice-age-spear-points-tell-a-fascinating-story-of-human-
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-29T21:52:23.991383562Z"
-seen = false
+seen = true
 +++
 
 What do we keep, and what do we throw away?

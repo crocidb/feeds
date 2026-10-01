@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.683169701Z"
-seen = false
+seen = true
 +++
 
 [Sudoku](https://en.wikipedia.org/wiki/Sudoku) is a number placement puzzle. It consists of a 9x9 grid which is to be filled with digits from 1 to 9. Some of the cells of the grid come pre-filled and the player has to fill the rest.

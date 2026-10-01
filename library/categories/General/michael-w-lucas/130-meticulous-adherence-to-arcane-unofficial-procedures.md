@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24993"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-27T09:51:00.647396668Z"
-seen = false
+seen = true
 +++
 
 OpenZFS Mastery uses FreeBSD and Proxmox as reference platforms. Here’s a bit about why.

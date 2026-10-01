@@ -6,7 +6,7 @@ url = "https://danluu.com/zitron/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.388254084Z"
-seen = false
+seen = true
 +++
 
 Dan Luu serves up some copiously documented claim chowder:

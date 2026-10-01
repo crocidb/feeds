@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/how-virus-like-jumping-genes-became-our-pa
 author = "Jake Buehler"
 text = ""
 lastupdated = "2026-09-23T18:24:57.171519429Z"
-seen = false
+seen = true
 +++
 
 You might imagine that the DNA in your cells has a simple history. Even though it’s been recombined in every generation through sex and gained the occasional mutation, on the whole the genome has been stable and has been passed down reliably from your ancestors. But that’s not the entire story. Nearly half of your genome is a wild drama: mobile, repetitive, disruptive, even viral.

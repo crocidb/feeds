@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/twt-notes-1/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.652104381Z"
-seen = false
+seen = true
 +++
 
 [Haskell](https://www.haskell.org)—with its powerful type system—has a great support for type-level programming and it has gotten much better in the recent times with the new releases of the [GHC](https://www.haskell.org/ghc/) compiler. But type-level programming remains a daunting topic even with seasoned haskellers. *[Thinking with Types: Type-level Programming in Haskell](https://thinkingwithtypes.com/)* by [Sandy Maguire](https://sandymaguire.me/) is a book which attempts to fix that. I’ve taken some notes to summarize my understanding of the same.

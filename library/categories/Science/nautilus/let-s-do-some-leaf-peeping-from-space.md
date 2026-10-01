@@ -6,7 +6,7 @@ url = "https://nautil.us/lets-do-some-leaf-peeping-from-space-1285302/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-27T09:51:03.553151792Z"
-seen = false
+seen = true
 +++
 
 Fall foliage from hundreds of miles up

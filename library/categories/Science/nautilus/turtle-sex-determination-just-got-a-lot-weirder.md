@@ -6,7 +6,7 @@ url = "https://nautil.us/turtle-sex-determination-just-got-a-lot-weirder-1283575
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-10T22:25:13.507483565Z"
-seen = false
+seen = true
 +++
 
 Tiny antenna-like cell appendages play an outsized role

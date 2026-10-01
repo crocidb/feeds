@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2026-microvm-nix/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.433834703Z"
-seen = false
+seen = true
 +++
 
 microvm.nix is a framework to run [NixOS](https://nixos.org) based micro [VMs](https://en.wikipedia.org/wiki/Virtual_machine) on various platforms. In particular, it can use [vfkit](https://github.com/crc-org/vfkit) to run micro VMs on macOS that use the [macOS virtualization framework](https://developer.apple.com/documentation/virtualization) to provide a more performant VM than [QEMU](https://www.qemu.org).

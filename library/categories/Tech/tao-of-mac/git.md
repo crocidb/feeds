@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/cli/git?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-27T09:51:03.505546313Z"
-seen = false
+seen = true
 +++
 
 The SCM du jour, which replaced [Mercurial](/space/cli/mercurial) for me, and with a number of followers largely due to the massive amount of projects managed with it (and [GitHub](https://github.com?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)’s rise in popularity).

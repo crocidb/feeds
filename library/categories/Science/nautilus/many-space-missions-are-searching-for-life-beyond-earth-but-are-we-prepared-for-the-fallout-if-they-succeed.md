@@ -6,7 +6,7 @@ url = "https://nautil.us/many-space-missions-are-searching-for-life-beyond-earth
 author = "Karryl Kim Sagun Trajano"
 text = ""
 lastupdated = "2026-09-08T09:44:10.325898158Z"
-seen = false
+seen = true
 +++
 
 Several space missions are searching for extraterrestrial life, which could come in the form of microbes

@@ -6,7 +6,7 @@ url = "https://support.apple.com/en-us/111812"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.362527579Z"
-seen = false
+seen = true
 +++
 
 I keep mentioning Apple’s 1992 groundbreaking PowerBook Duo series as a precedent of the iPhone Duo’s name. But of course in 2020, Apple released the MagSafe Duo Charger, a wonderful Lightning peripheral for charging an iPhone and Apple Watch at the same time. It even folded.

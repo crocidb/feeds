@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24991"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-23T18:24:55.812887353Z"
-seen = false
+seen = true
 +++
 
 The [Twisted Presents Kickstarter](https://www.kickstarter.com/projects/mwlucas/twisted-presents/) has funded, yay! But there’s something odd about asking folks to back a book they haven’t read any of. The obvious solution is to share a chunk of the book for people to try. So here’s my story “The Last Hour of Hogswatch.” [If you prefer epub, it’s also free on my bookstore](https://www.tiltedwindmillpress.com/product/the-last-hour-of-hogswatch/).

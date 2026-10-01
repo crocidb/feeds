@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2023-standalone-haddock/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.522815603Z"
-seen = false
+seen = true
 +++
 
 So here’s a thing I recently wanted to do. I am working on a personal Haskell project, and as the project grew big, I split it up into multiple packages. Something like `project-core`, `project-backend`, `project-frontend` and such. After writing some thousands of lines of code, I decided to put the project documentation online. Now, this is not the kind of project that I’d publish as a bunch of libraries on [Hackage](https://hackage.haskell.org/). Nevertheless, I wanted to publish the API docs and hyperlinked source code online as a self-contained website. Well, turns out, this is a really hard to do with Haskell projects.

@@ -6,7 +6,7 @@ url = "https://www.apple.com/airpods-5/specs/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.883081877Z"
-seen = false
+seen = true
 +++
 
 In [my long take yesterday](https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event) on Apple’s event last week, I wrote that when you pay $20 extra to get the $150 AirPods 5 With Wireless Charging Case, that the case is compatible for inductive charging with “MagSafe, Qi, or Apple Watch pucks”. But the compatibility section of Apple’s tech specs page for AirPods 5 doesn’t list MagSafe:

@@ -6,7 +6,7 @@ url = "https://nautil.us/how-menopause-symptoms-could-predict-alzheimers-risk-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-28T20:25:40.188539343Z"
-seen = false
+seen = true
 +++
 
 It may explain why women develop the disease more than men

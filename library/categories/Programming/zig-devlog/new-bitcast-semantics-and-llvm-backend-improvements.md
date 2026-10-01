@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-06-25"
 author = ""
 text = ""
 lastupdated = "2026-06-29T12:19:37.151645095Z"
-seen = false
+seen = true
 +++
 
 [New `@bitCast` Semantics and LLVM Backend Improvements](#2026-06-25)

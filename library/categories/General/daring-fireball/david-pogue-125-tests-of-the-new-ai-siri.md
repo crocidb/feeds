@@ -6,7 +6,7 @@ url = "https://pogueman.substack.com/p/125-tests-of-the-new-ai-siri"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.723074420Z"
-seen = false
+seen = true
 +++
 
 David Pogue:

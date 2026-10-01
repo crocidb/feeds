@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/previa-do-cena-peixinhos-reune-quatro-bandas-do
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-27T09:50:58.761086621Z"
-seen = false
+seen = true
 +++
 
 O festival **Cena Peixinhos** realiza neste sábado (26/9), a partir das 19h, sua prévia oficial no Darkside Studio, localizado no bairro da Boa Vista, no Recife. Em parceria com o coletivo Recife Hardcore, a noite reúne quatro bandas de referência do rock independente de Pernambuco: Btch Pls, Diablo Angel, Janete Saiu Para Beber e Plugins, além da discotecagem da **DJ Ju Orange** na abertura e nos intervalos das apresentações.

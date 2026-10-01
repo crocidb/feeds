@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-gotosocial-on-nixos/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.572369518Z"
-seen = false
+seen = true
 +++
 
 [GoToSocial](https://gotosocial.org/) is an [ActivityPub](https://activitypub.rocks/) server. It is a lightweight alternative to [Mastodon](https://joinmastodon.org/), and very suitable for self-hosting single user instances[<sup>1</sup>](#fn1). Though it does not have all of Mastodon’s features (it’s getting there), it is already quite useable.

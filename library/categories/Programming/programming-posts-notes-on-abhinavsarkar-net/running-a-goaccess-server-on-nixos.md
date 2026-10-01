@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2025-goaccess-server-on-nixos/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.482677528Z"
-seen = false
+seen = true
 +++
 
 [Goaccess](https://goaccess.io/) is an open source real-time web log analyzer. We can use it to parse a server access log file, such as of [Nginx](https://nginx.org/), and see the analysis report in a terminal in real-time. However, Goaccess also comes with an HTTP server built into it that can serve the same real-time report over HTTP ([demo](https://rt.goaccess.io/)).

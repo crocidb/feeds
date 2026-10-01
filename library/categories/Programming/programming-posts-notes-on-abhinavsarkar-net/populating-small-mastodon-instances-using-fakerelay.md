@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-fake-relay/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.561414271Z"
-seen = false
+seen = true
 +++
 
 If you are a user on a small [Mastodon](https://joinmastodon.org) instance like [me](https://fantastic.earth/@abnv), you may have noticed that there is not much interesting going on there. This is because the way Mastodon works is, only those post are delivered to your instance that are posted or reposted by the users that the users on your instance follow across the network. Since your instance will have only a few users, it will only receive a few posts.

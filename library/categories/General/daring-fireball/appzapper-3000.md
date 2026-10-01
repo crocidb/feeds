@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/appzapper_3000"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.703671840Z"
-seen = false
+seen = true
 +++
 
 Back in the mid-2000s there was a golden era of exuberantly designed Mac apps. Paul Kafasis coined it “[The Delicious Generation](https://weblog.rogueamoeba.com/2006/11/06/the-delicious-generation/)”, a perfect name. The *delicious* was both a reference to Wil Shipley and Mike Matas’s [Delicious Library](https://daringfireball.net/linked/2024/11/26/delicious-library-eol) — a personal media library management app that made something that *sounds* really boring *look* super fun — and a perfect description of the aesthetic. It clearly harks back to [Steve Jobs’s description of the Aqua user interface](<https://daringfireball.net/2025/06/some_brief_thoughts_and_observations_on_wwdc_2025#:~:text=you wanted to lick it>) in 2000: “One of the design goals was when you saw it, you wanted to lick it.”

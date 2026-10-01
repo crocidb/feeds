@@ -6,7 +6,7 @@ url = "https://nautil.us/the-most-complete-mastodon-tooth-ever-found-1285135/"
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-21T09:42:47.715261557Z"
-seen = false
+seen = true
 +++
 
 Peering 10,000 years into the past

@@ -6,7 +6,7 @@ url = "https://maxfrequency.net/2026/09/17/iphone-duo-mkbhd-popularity-or-curios
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.870040302Z"
-seen = false
+seen = true
 +++
 
 Max Roberts, after looking at the list of MKBHD’s all-time most popular videos, and noting that his Duo first-look is #3, and a Duo follow-up is already at #36:

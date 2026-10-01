@@ -6,7 +6,7 @@ url = "https://support.apple.com/en-us/127848"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.395604475Z"
-seen = false
+seen = true
 +++
 
 Apple Support:

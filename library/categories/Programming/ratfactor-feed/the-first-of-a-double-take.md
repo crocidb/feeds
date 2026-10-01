@@ -6,7 +6,7 @@ url = "http://ratfactor.com/cards/first-of-a-double"
 author = "Dave Gauer"
 text = ""
 lastupdated = "2026-05-05T08:25:04.624763983Z"
-seen = false
+seen = true
 +++
 
 A fun little creativity/art tip I've been wanting to write for a while...

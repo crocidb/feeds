@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-29T21:52:18.346275451Z"
-seen = false
+seen = true
 +++
 

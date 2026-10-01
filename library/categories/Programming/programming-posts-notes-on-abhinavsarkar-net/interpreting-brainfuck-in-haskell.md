@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/brainfuck-interpreter/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.489206114Z"
-seen = false
+seen = true
 +++
 
 Writing an interpreter for Brainfuck is almost a rite of passage for any programming language implementer, and it’s my turn now. In this post, we’ll write not one but four Brainfuck interpreters in Haskell. Let’s go!

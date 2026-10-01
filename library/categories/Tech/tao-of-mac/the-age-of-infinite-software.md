@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/08/20/1456?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.681883608Z"
-seen = false
+seen = true
 +++
 
 I am most definitely not the first person to mention this, but the past year has seen a Cambrian explosion of two things: AI deniers who base their judgement on very limited exposure (or effort to use it) and thousands of variations on software of all kinds, from the perennial to-do list to AI-infused toothpicks.

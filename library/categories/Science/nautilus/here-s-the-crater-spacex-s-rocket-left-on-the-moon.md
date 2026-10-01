@@ -6,7 +6,7 @@ url = "https://nautil.us/heres-the-crater-spacexs-rocket-left-on-the-moon-128358
 author = "David Nield"
 text = ""
 lastupdated = "2026-08-10T22:25:13.506156117Z"
-seen = false
+seen = true
 +++
 
 The crater could measure 100 feet in diameter

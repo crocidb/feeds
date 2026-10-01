@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/apple/macos?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.057298110Z"
-seen = false
+seen = true
 +++
 
 [](/space/com/apple/macos#overview)

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-m
 author = "Charlie Wood"
 text = ""
 lastupdated = "2026-09-27T09:51:01.605593818Z"
-seen = false
+seen = true
 +++
 
 In my first months as a physics journalist nearly a decade ago, I kept running into an inscrutable string of characters: AdS/CFT. Thoroughly intimidated, I decided to just ignore it. But I couldn’t keep my head in the sand for long. I soon learned that those characters are shorthand for a surprising connection between the seemingly inharmonious worlds of gravity and quantum mechanics.

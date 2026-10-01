@@ -6,7 +6,7 @@ url = "https://nautil.us/how-the-pro%e2%80%91nicotine-wellness-movement-rebrande
 author = "Hasmeena Kathuria"
 text = ""
 lastupdated = "2026-09-27T09:51:03.557708904Z"
-seen = false
+seen = true
 +++
 
 The movement is focused on the idea of “clean” nicotine use, such as pouches, which don’t contain tobacco

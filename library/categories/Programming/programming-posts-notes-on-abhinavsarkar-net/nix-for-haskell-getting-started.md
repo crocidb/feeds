@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/nix-for-haskell/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.507556067Z"
-seen = false
+seen = true
 +++
 
 So, you’ve heard of the new hotness that is [Nix](https://nixos.org), for creating reproducible and isolated development environments, and want to use it for your new Haskell project? But you are unclear about how to get started? Then this is the guide you are looking for.

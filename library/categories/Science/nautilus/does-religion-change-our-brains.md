@@ -6,7 +6,7 @@ url = "https://nautil.us/does-religion-change-our-brains-1285342/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-09-28T20:25:40.203416245Z"
-seen = false
+seen = true
 +++
 
 Devotional practices seem to shape our highest organ in distinct ways

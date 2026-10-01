@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/sony/reader?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.667409521Z"
-seen = false
+seen = true
 +++
 
 The Reader is [Sony’s](/space/com/sony) take on the [LIBRIe](/space/com/sony/librie) for the Western market, with a few twists.

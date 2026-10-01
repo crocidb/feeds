@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-strea
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-09-28T20:25:25.043923483Z"
-seen = false
+seen = true
 +++
 

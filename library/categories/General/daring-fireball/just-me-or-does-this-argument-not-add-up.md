@@ -6,7 +6,7 @@ url = "https://www.nytimes.com/2026/09/16/opinion/university-of-california-sat.h
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.862425286Z"
-seen = false
+seen = true
 +++
 
 Miriam Pawel, in an op-ed in The New York Times arguing that the University of California should not bring back the SAT requirement for admission:

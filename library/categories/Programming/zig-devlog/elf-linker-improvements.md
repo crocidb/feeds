@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-05-30"
 author = ""
 text = ""
 lastupdated = "2026-06-01T21:30:44.789085970Z"
-seen = false
+seen = true
 +++
 
 [ELF Linker Improvements](#2026-05-30)

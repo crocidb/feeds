@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-fir
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-27T09:50:55.919059197Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/airport-simulator-first-class.webp?width=690&quality=85&format=jpg&auto=webp)

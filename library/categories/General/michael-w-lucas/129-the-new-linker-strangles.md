@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24982"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-21T09:42:44.435946196Z"
-seen = false
+seen = true
 +++
 
 [OpenZFS Mastery](https://www.tiltedwindmillpress.com/product/openzfs-sponsor/) has reached chapter 9, on boot loaders.

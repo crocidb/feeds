@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/09/05/divorce-court/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-08T09:44:09.779996729Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/05Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/05/divorce-court/)

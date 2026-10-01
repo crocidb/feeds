@@ -6,7 +6,7 @@ url = "https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?u
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.898257710Z"
-seen = false
+seen = true
 +++
 
 Paul Ford, writing for The New York Times (gift link):

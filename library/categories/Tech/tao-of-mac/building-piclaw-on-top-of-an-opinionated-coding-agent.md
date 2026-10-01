@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/08/21/2218?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.663247468Z"
-seen = false
+seen = true
 +++
 
 I’ve spent the better part of six months building [`piclaw`](https://github.com/rcarmo/piclaw?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)–my personal AI assistant, workspace and, occasionally, agent swarm–on top of [Mario Zechner](https://mariozechner.at/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)’s [`pi`](/space/ai/agentic/pi) engine, and I think it’s time to write about not just my motivation but also how I feel about having invested that much time into the whole thing.

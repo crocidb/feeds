@@ -6,7 +6,7 @@ url = "https://nautil.us/this-dolphin-steals-from-fish-for-its-meals-1285147/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-09-21T09:42:47.712785038Z"
-seen = false
+seen = true
 +++
 
 Putting a dent in dolphins’ reputation as the “good guys of the sea”

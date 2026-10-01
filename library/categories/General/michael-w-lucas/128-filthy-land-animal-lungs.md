@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24975"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-21T09:42:44.440546114Z"
-seen = false
+seen = true
 +++
 
 There’s one story in [Twisted Presents](https://www.kickstarter.com/projects/mwlucas/twisted-presents/) I haven’t read here, so that’s what you get.

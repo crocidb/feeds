@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/sofia-borges-reapresenta-edgar-degas-no-institu
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-09-28T20:25:27.209967658Z"
-seen = false
+seen = true
 +++
 
 Pela primeira vez, um conjunto de obras originais de Edgar Degas (1834-1917) é apresentado ao público pernambucano em uma parceria inédita entre o Masp – Museu de Arte de São Paulo Assis Chateaubriand e o Instituto Ricardo Brennand. A partir de hoje, 25 de setembro, a Pinacoteca do Instituto recebe Degas/Borges, exposição que reúne obras do artista francês pertencentes ao acervo do Masp e propõe um novo encontro entre a produção de um dos grandes nomes da arte moderna e o olhar contemporâneo da fotógrafa e artista-curadora Sofia Borges.

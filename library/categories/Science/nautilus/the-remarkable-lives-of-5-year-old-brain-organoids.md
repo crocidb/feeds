@@ -6,7 +6,7 @@ url = "https://nautil.us/the-remarkable-lives-of-5-year-old-brain-organoids-1284
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-24T15:49:20.493096951Z"
-seen = false
+seen = true
 +++
 
 The mini-brains are full of surprises

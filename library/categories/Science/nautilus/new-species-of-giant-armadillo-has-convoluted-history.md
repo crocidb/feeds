@@ -6,7 +6,7 @@ url = "https://nautil.us/new-species-of-giant-armadillo-has-convoluted-history-1
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-03T13:15:13.295728420Z"
-seen = false
+seen = true
 +++
 
 Meet Glyptotherium deuterophractum

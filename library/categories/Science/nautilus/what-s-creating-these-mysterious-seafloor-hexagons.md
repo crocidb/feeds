@@ -6,7 +6,7 @@ url = "https://nautil.us/whats-creating-these-mysterious-seafloor-hexagons-12848
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-09-08T09:44:10.323358989Z"
-seen = false
+seen = true
 +++
 
 We now know who is responsible for them, but why they’re doing it is still up for debate

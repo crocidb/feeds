@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/implementing-co-4/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.528155705Z"
-seen = false
+seen = true
 +++
 
 In the [previous post](https://abhinavsarkar.net/posts/implementing-co-3/?mtm_campaign=feed), we added coroutines to Co, the small language we are implementing in this series of posts. In this post, we add channels to it to be able to communicate between coroutines.

@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2019-sorts-of-sorts/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.664778758Z"
-seen = false
+seen = true
 +++
 
 I wrote some of the popular sorting algorithms in Java for fun and practice:

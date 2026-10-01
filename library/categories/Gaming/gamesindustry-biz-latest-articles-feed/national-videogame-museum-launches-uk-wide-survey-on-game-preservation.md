@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-09-28T20:25:22.810598618Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-09-28-at-19.12.18.png?width=690&quality=85&format=jpg&auto=webp)

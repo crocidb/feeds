@@ -6,7 +6,7 @@ url = "https://nautil.us/heres-where-our-memories-go-as-we-age-1284123/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-24T15:49:20.490301885Z"
-seen = false
+seen = true
 +++
 
 It’s more nuanced than you think

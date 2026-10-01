@@ -6,7 +6,7 @@ url = "https://www.berkshirehathaway.com/news/sep1826.pdf"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.866152334Z"
-seen = false
+seen = true
 +++
 
 Warren Buffett, in a letter to Berkshire shareholders:

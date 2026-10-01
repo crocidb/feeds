@@ -6,7 +6,7 @@ url = "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.372212604Z"
-seen = false
+seen = true
 +++
 
 Brent Simmons:

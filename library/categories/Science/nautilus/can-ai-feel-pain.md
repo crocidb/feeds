@@ -6,7 +6,7 @@ url = "https://nautil.us/can-ai-feel-pain-1285197/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-09-23T18:24:59.571953795Z"
-seen = false
+seen = true
 +++
 
 Simulated pain can make some AI models override instructions and put their own welfare ahead of humans

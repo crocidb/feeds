@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/repling-with-haskeline/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.503911254Z"
-seen = false
+seen = true
 +++
 
 So you went ahead and created a new programming language, with an AST, a parser, and an interpreter. And now you hate how you have to write the programs in your new language in files to run them? You need a [REPL](https://en.wikipedia.org/wiki/REPL)! In this post, we’ll create a shiny REPL with lots of nice features using the Haskeline library to go along with your new PL that you implemented in Haskell.

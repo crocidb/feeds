@@ -6,7 +6,7 @@ url = "https://www.youtube.com/watch?v=ohqxP8EEumo"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.858678088Z"
-seen = false
+seen = true
 +++
 
 He takes the same “*this is pretty much exactly what Apple used to label an ‘S’ year*” angle I did, so, unsurprisingly, I think his review is spot-on. Brownlee emphasizes one point that I should have, but didn’t: according to Apple’s published specs, the regular iPhone 18 Pro gets longer battery life than the iPhone 17 Pro Max. That’s just a year-over-year spec that anyone can understand, for an attribute that everyone cares about.

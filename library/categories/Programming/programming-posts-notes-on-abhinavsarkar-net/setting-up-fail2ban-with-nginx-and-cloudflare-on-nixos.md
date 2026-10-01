@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-fail2ban-nginx-cloudflare-nixos/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.580624573Z"
-seen = false
+seen = true
 +++
 
 [Fail2Ban](https://www.fail2ban.org) is a service to scan the log files of various services on servers to find malicious IPs (by matching log lines to predefined regular expressions), and ban such IPs using various firewalls like [iptables](https://www.netfilter.org/projects/iptables/index.html). One of its use is to ban malicious IPs that issue bad requests on [NGINX](https://nginx.org/) servers.

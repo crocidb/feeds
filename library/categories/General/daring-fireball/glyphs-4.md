@@ -6,7 +6,7 @@ url = "https://glyphsapp.com/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.894525772Z"
-seen = false
+seen = true
 +++
 
 My thanks to Glyphs for sponsoring this last week at DF. Glyphs 4 is a truly native Mac app for creating fonts, lettering, icons, and pictograms. Glyphs lets you draw with flexible strokes and efficiently reuse shapes across huge sets of glyphs, and explore variable vector designs with complex higher-order interpolation. Glyphs lets you build and manage massive font family and icon sets with ease, and it exports all modern font formats, as well as SVG, PNG, and PDF.

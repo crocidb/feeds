@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/ps-simple-rest-service-2/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.688616594Z"
-seen = false
+seen = true
 +++
 
 To recap, in the [first](https://abhinavsarkar.net/posts/ps-simple-rest-service/?mtm_campaign=feed) part of this two-part tutorial, we built a simple JSON [REST](https://en.wikipedia.org/wiki/REST) web service in [PureScript](https://www.purescript.org) to create, update, get, list and delete users, backed by a Postgres database. In this part we’ll work on the rest of the features.

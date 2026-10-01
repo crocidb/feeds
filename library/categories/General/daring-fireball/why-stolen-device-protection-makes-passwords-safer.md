@@ -6,7 +6,7 @@ url = "https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-gle
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-29T21:52:18.285191820Z"
-seen = false
+seen = true
 +++
 
 Glenn Fleishman:

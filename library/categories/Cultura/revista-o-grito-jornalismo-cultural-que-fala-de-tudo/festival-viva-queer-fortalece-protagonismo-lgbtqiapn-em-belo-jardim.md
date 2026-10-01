@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festival-viva-queer-fortalece-protagonismo-lgbt
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-27T09:50:58.762838324Z"
-seen = false
+seen = true
 +++
 
 O Festival Viva Queer – 2ª edição acontece no dia 26 de setembro, no Espaço Cultural A Confraria, em Belo Jardim, reunindo música, cultura Ballroom, performances, DJs e uma feira de empreendedorismo criativo. A programação conecta artistas do Agreste e de outras regiões de Pernambuco, ampliando a circulação, o reconhecimento e o encontro com a produção cultural [LGBTQIAPN+](https://revistaogrito.com/espetaculo-espetinho-de-coracao-de-frango-celebra-a-superacao-lgbtqia-pelo-humor/).

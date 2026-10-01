@@ -6,10 +6,10 @@ url = "https://entropicthoughts.com/open-source-donation"
 author = "a@xkqr.org (kqr)"
 text = ""
 lastupdated = "2026-09-29T21:52:17.908360329Z"
-seen = false
+seen = true
 +++
 
- I have decided to start donating a small amount of my fun money to open source projects. After some research, the initial set of recipients are
+I have decided to start donating a small amount of my fun money to open source projects. After some research, the initial set of recipients are
 
 * Magit
 * Perl 5 Core Maintenance Fund

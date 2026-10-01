@@ -6,7 +6,7 @@ url = "https://nautil.us/when-dreaming-gets-your-heart-moving-1283546/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-08-10T22:25:13.510160671Z"
-seen = false
+seen = true
 +++
 
 Deep dreaming may be more in tune with the body than we thought

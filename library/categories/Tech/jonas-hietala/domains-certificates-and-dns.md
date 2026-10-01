@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/08/06/domains_certificates_and_dns/index
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-08-10T12:13:33.207959811Z"
-seen = false
+seen = true
 +++
 
 Accessing services via raw IP addresses isn’t that swell; I’m no Rain Man.

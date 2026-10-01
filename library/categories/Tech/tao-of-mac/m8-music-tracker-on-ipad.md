@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/09/15/2200?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-21T09:42:47.680392122Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/09/15/2200/large.jpg?v=0bada502a79b" alt="quicklook" width="320" height="213">](https://apps.apple.com/us/app/m8-music-tracker/id6806721202?l=en-US&utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

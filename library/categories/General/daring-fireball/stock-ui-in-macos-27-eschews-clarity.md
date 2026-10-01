@@ -6,7 +6,7 @@ url = "https://mastodon.design/@thibault/117320401426286497"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.370565634Z"
-seen = false
+seen = true
 +++
 
 “Thibault”, in post on Mastodon responding to [Brent Simmons’s “stock Mac UI” post](https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html) that I just [linked to](https://daringfireball.net/linked/2026/09/25/brent-simmons-stock-mac-ui):

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-de
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-27T09:50:55.931429513Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/mobygames-logo-white-background.png?width=690&quality=85&format=jpg&auto=webp)

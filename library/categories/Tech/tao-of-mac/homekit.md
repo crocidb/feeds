@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/apple/homekit?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.671377083Z"
-seen = false
+seen = true
 +++
 
 [HomeKit](/space/com/apple/homekit) is [Apple](/space/com/apple)’s home automation solution, which revolves around the Home Accessory Protocol (HAP).

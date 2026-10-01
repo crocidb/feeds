@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-c
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-09-29T21:52:18.345060221Z"
-seen = false
+seen = true
 +++
 

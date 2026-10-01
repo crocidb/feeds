@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2025-website-work/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-08-24T15:49:20.767599805Z"
-seen = false
+seen = true
 +++
 
 Looking back at 2025, I spent a lot of time working on my website. I did nearly 500 commits focused on content diversification, feature expansion, and performance optimization. Let me walk through what I did chronologically by months.

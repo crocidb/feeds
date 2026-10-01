@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/os/linux/distributions/azure?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.044612416Z"
-seen = false
+seen = true
 +++
 
 [Azure Linux](https://github.com/microsoft/azurelinux?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) is [Microsoft](/space/com/microsoft)’s internal Linux distribution for 1st party services (cloud infra, IoT devices, etc.).

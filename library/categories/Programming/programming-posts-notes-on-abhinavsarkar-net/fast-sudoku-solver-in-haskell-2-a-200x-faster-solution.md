@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-2/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.678524277Z"
-seen = false
+seen = true
 +++
 
 In the [first part](https://abhinavsarkar.net/posts/fast-sudoku-solver-in-haskell-1/?mtm_campaign=feed) of this series of posts, we wrote a simple [Sudoku](https://en.wikipedia.org/wiki/Sudoku) solver in [Haskell](https://www.haskell.org/). It used a [constraint satisfaction](https://en.wikipedia.org/wiki/Constraint_satisfaction_problem) algorithm with [backtracking](https://en.wikipedia.org/wiki/Depth-first_search). The solution worked well but was very slow. In this post, we are going to improve it and make it **fast**.

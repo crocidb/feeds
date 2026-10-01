@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/protocols/ldap?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.046368519Z"
-seen = false
+seen = true
 +++
 
 The Lightweight Directory Access Protocol, the bastard child of the original X.400-oriented DAP (Directory Access Protocol) and [TCP/IP](/space/protocols/tcp/ip).

@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24995"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-29T21:52:19.865314675Z"
-seen = false
+seen = true
 +++
 
 This morning, I killed my Gumroad stores.

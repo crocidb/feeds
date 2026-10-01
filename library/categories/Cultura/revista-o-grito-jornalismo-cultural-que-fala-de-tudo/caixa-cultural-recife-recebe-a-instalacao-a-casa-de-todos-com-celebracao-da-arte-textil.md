@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/caixa-cultural-recife-recebe-a-instalacao-a-cas
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-09-28T20:25:27.202814658Z"
-seen = false
+seen = true
 +++
 
 A Caixa Cultural Recife recebe, de 1º a 25 de outubro de 2026, a instalação interativa *A Casa de Todos*, idealizada pela artista visual catarinense radicada em Curitiba **Leila Alberti**. O projeto ocupa o espaço no Bairro do Recife com uma estrutura de 9 m² e 2,7 m de altura, totalmente revestida por tramas de crochê confeccionadas em parceria com a ONG Lucianas e Marias (PR). A abertura ocorre nesta quinta-feira (1º/10), às 18h, com sessão de contação de histórias apresentada por **Cadu Cinelli**.

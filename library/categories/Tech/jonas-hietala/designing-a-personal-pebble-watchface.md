@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchf
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-06-29T12:19:39.460512143Z"
-seen = false
+seen = true
 +++
 
 ![](/images/pebble-watchface/face_on_wrist.jpg)

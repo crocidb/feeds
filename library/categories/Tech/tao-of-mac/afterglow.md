@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/afterglow?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.052423317Z"
-seen = false
+seen = true
 +++
 
 ![Afterglow running Flying Toasters, with the module library and original settings visible](/space/apps/afterglow/screenshot.webp?v=c8b3558d1dc2)Afterglow running Flying Toasters, with the module library and original settings visible

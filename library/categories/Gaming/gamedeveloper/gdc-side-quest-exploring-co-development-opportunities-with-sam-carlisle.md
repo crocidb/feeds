@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-deve
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-09-27T09:50:56.441701540Z"
-seen = false
+seen = true
 +++
 

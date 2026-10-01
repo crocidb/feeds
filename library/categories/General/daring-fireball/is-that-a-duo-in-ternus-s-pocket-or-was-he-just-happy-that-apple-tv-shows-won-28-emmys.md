@@ -6,7 +6,7 @@ url = "https://x.com/DEADLINE/status/2099645816361332775"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.879125348Z"
-seen = false
+seen = true
 +++
 
 Note the reaction from the Deadline reporter.

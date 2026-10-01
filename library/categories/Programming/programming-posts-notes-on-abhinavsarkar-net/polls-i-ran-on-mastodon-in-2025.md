@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2025-mastodon-polls/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.445046413Z"
-seen = false
+seen = true
 +++
 
 In 2025, I ran ten polls on Mastodon exploring various topics, mostly to outsource my research to the hivemind. Here are the poll results organized by topic, with commentary.

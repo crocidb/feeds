@@ -6,7 +6,7 @@ url = "https://glog.glennf.com/blog/2026/09/17/u-s-small-biz-cant-ship-to-the-eu
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.721803091Z"
-seen = false
+seen = true
 +++
 
 Glenn Fleishman:

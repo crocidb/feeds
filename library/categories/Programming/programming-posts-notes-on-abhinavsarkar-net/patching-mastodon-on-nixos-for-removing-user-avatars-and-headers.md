@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2022-patching-mastodon/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.553296817Z"
-seen = false
+seen = true
 +++
 
 [Mastodon](https://joinmastodon.org/) is the most used software for running an [Fediverse](https://en.wikipedia.org/wiki/Fediverse) server. However, it is notorious for its high resource usage. In particular, it caches a lot of media from remote servers, which can be a problem for machines with limited storage.

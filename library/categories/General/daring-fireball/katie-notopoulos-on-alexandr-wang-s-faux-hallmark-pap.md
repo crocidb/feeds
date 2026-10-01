@@ -6,7 +6,7 @@ url = "https://x.com/katienotopoulos/status/2103993429659386026"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-28T20:25:24.461665635Z"
-seen = false
+seen = true
 +++
 
 Katie Notopoulos, in a short tweet thread regarding Alexandr Wang’s “Why We’re Building Muse” essay:

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/08/18/1921?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.704501680Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/08/18/1921/large.jpg?v=00244671f552" alt="quicklook" width="320" height="240">](https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/genome-duplication-is-a-radical-evolutiona
 author = "Carrie Arnold"
 text = ""
 lastupdated = "2026-09-03T13:15:10.606108062Z"
-seen = false
+seen = true
 +++
 
 No larger than the head of a match, Potamopyrgus antipodarum doesn’t look very impressive. Few people visiting New Zealand’s Lake Alexandrina even notice the tiny gastropods littering the shores. The snail’s diminutive size, however, conceals a massive secret. Sometime in the recent past, its genome doubled. Instead of having two sets of chromosomes and two copies of every gene…

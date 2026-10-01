@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindus
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-09-27T09:50:55.917583083Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/2025_10_02_TRI_JPEG-8-bit-300ppi-(sRGB)-For-Web_00061.jpg?width=690&quality=85&format=jpg&auto=webp)

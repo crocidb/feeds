@@ -6,7 +6,7 @@ url = "https://nautil.us/pangolins-are-some-of-the-most-illegally-trafficked-ani
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-23T18:24:59.565228608Z"
-seen = false
+seen = true
 +++
 
 Manis aurita just got reinstated

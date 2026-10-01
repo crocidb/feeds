@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/09/02/scrape-scrope-scrap/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-03T13:15:13.430460227Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/02Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/02/scrape-scrope-scrap/)

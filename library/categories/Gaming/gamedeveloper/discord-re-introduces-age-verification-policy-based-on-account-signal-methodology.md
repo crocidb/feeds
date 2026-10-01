@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/discord-re-introduces-age-verifica
 author = "Diego Argüello"
 text = ""
 lastupdated = "2026-09-27T09:50:56.449195192Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24954"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-08-24T15:49:16.007851282Z"
-seen = false
+seen = true
 +++
 
 Back in the 90s a notably pedantic coworker informed us ignorant peasants that, according to International Electrotechnical Commission standard IEC 80000-13:2008, disks and memory were now to be measured in “bi” units such as kibibyte and mebibyte. I agreed that he was technically correct, but nobody cared and saying “mebibytes” made you sound like either a pedant or an idiot.[<sup>1</sup>](https://mwl.io/archives/24954#easy-footnote-bottom-1-24954) For all practical system administration purposes, the difference between a 1.544 MB floppy and a 1.544 MiB floppy was negligible. Yes, the operating system showed everything in mebibytes, but everything was labeled as being megabytes, and we all knew what it means.

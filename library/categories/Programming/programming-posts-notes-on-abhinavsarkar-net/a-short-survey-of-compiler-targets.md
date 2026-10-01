@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2025-compiler-backend-survey/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.454448971Z"
-seen = false
+seen = true
 +++
 
 As an amateur compiler developer, one of the decisions I struggle with is choosing the right compiler target. Unlike the 80s when people had to target various machine architectures directly, now there are many mature options available. This is a short and very incomplete survey of some of the popular and interesting options[<sup>1</sup>](#fn1).

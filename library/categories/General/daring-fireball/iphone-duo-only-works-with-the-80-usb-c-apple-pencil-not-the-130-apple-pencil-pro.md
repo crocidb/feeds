@@ -6,7 +6,7 @@ url = "https://www.macrumors.com/2026/09/09/apple-pencil-usb-c-iphone-duo/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.908472995Z"
-seen = false
+seen = true
 +++
 
 Juli Clover, MacRumors:

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-sleep-cycle-of-ideas-seeded-dream-poems-and-the-que
 author = "Bob Grant"
 text = ""
 lastupdated = "2026-09-29T21:52:23.993897131Z"
-seen = false
+seen = true
 +++
 
 The Nautilus monthly reading list

@@ -6,7 +6,7 @@ url = "https://nautil.us/humpback-whales-grieve-for-lost-offspring-video-evidenc
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-21T09:42:47.721898454Z"
-seen = false
+seen = true
 +++
 
 Behavior we’ve never seen before

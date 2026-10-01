@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24951"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-08-24T15:49:16.009313151Z"
-seen = false
+seen = true
 +++
 
 I’m writing about space usage [OpenZFS Mastery](https://www.tiltedwindmillpress.com/product/openzfs-sponsor/).

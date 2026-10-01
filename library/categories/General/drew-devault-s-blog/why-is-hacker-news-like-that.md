@@ -6,7 +6,7 @@ url = "https://drewdevault.com/blog/Why-is-HN-like-that/"
 author = "Drew DeVault's blog"
 text = ""
 lastupdated = "2026-09-23T18:24:54.338515261Z"
-seen = false
+seen = true
 +++
 
 Hacker News (aka HN) is a link aggregator where “hackers”<sup class="footnote-ref"><a href="#fn-1" id="fn-1-ref-1">1</a></sup> gather to discuss technology, politics, and anything which “good hackers would find interesting”. HN is a means by which its host, prominent startup incubator Y Combinator, projects soft power, promotes startups it funds, and feeds people with ideas into its incubation program. Hacker News is one of the most popular forums for discussing technology online today – perhaps the biggest.

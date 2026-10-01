@@ -6,7 +6,7 @@ url = "https://ziglang.org/devlog/2026/#2026-06-26"
 author = ""
 text = ""
 lastupdated = "2026-06-29T12:19:37.146348775Z"
-seen = false
+seen = true
 +++
 
 [SPIR-V Backend Progress](#2026-06-26)

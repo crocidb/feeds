@@ -6,7 +6,7 @@ url = "https://nautil.us/memory-decline-starts-earlier-than-you-might-think-1284
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-01T19:33:17.112829637Z"
-seen = false
+seen = true
 +++
 
 Middle-age memory slips are a bit strange

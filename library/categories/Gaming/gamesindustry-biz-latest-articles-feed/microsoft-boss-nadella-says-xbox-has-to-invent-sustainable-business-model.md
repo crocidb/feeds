@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-inv
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-28T20:25:22.840225892Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Satya_Nadella.jpeg?width=690&quality=85&format=jpg&auto=webp)

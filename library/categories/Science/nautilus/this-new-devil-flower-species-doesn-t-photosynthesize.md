@@ -6,7 +6,7 @@ url = "https://nautil.us/this-new-devil-flower-species-doesnt-photosynthesize-12
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-08T23:03:52.947183326Z"
-seen = false
+seen = true
 +++
 
 It’s a rare plant with an “enigmatic and devil-like essence”

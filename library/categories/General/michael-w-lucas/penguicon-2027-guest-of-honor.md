@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24978"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-09-21T09:42:44.439181864Z"
-seen = false
+seen = true
 +++
 
 Me, a few days ago: Hey, Penguicon has some great Guests of Honor lined up! Not a dud in the bunch.

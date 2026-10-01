@@ -6,7 +6,7 @@ url = "blog/reviewing-my-first-monad/index.html"
 author = "Sandy Maguire"
 text = ""
 lastupdated = "2026-08-24T15:49:17.747222199Z"
-seen = false
+seen = true
 +++
 
 I’ve been wanting to get back into the habit of blogging, and thought a fun project would be to go back through my old code and review it as the programmer I am now. So let’s do that.

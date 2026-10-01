@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/site/about?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-08T09:44:10.293355355Z"
-seen = false
+seen = true
 +++
 
 Tao of Mac is my personal wiki. It has been online since 2002 and contains articles, weekly notes, reviews and reference pages about technology, products, books, photography and my other interests.

@@ -6,7 +6,7 @@ url = "https://cims.nyu.edu/~tristanb/statement.pdf"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.902040679Z"
-seen = false
+seen = true
 +++
 
 Tristan Buckmaster, [professor of mathematics at NYU](https://cims.nyu.edu/~tristanb/), in his own statement, regarding his and Levent Alpöge’s interactions with employees at OpenAI regarding [this week’s math-proof controversy](https://daringfireball.net/linked/2026/09/12/marcus-ai-drama):

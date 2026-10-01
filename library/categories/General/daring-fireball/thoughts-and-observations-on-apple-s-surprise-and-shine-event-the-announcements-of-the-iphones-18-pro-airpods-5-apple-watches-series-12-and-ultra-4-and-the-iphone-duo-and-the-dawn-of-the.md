@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_su
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.436342137Z"
-seen = false
+seen = true
 +++
 
 The Keynote

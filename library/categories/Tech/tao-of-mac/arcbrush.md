@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/apps/arcbrush?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.705970479Z"
-seen = false
+seen = true
 +++
 
 <img src="/space/apps/arcbrush/large.jpg?v=2d879b68e956" alt="ArcBrush editing a texture through a node graph" width="1280" height="720">ArcBrush editing a texture through a node graph

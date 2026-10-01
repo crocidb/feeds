@@ -6,7 +6,7 @@ url = "https://nautil.us/new-species-of-groundsnake-named-after-guns-n-roses-gui
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-08-24T15:49:20.487252455Z"
-seen = false
+seen = true
 +++
 
 It likes the nightlife

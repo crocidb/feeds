@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-29T21:52:17.580651871Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/p-l-zhSYYVFqpFY-unsplash-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

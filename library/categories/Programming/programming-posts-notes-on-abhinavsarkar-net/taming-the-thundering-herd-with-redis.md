@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2019-redis-promises/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.668210768Z"
-seen = false
+seen = true
 +++
 
 [This article](https://web.archive.org/web/20190613/https://instagram-engineering.com/thundering-herds-promises-82191c8af57d) inspired me to write this python pseudo-code to solve the thundering herd problem with [redis](https://redis.io/).

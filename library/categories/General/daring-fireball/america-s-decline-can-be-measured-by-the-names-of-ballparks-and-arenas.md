@@ -6,7 +6,7 @@ url = "https://www.mlb.com/news/tigers-ballpark-name-changed-to-fifth-third-park
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-23T18:24:54.719268002Z"
-seen = false
+seen = true
 +++
 
 MLB:

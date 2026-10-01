@@ -6,7 +6,7 @@ url = "https://www.mux.com/?utm_campaign=fireball&utm_source=DF"
 author = "Daring Fireball Department of Commerce"
 text = ""
 lastupdated = "2026-09-23T18:24:54.715471594Z"
-seen = false
+seen = true
 +++
 
 Video isn’t just something to stream; it’s structured data you build with.

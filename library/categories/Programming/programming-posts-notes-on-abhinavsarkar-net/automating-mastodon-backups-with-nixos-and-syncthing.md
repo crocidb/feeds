@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/notes/2023-mastodon-backup/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.532677938Z"
-seen = false
+seen = true
 +++
 
 Six months ago, a bunch of my friends and I started the Mastodon instance [fantastic.earth](https://fantastic.earth). Till now, we were kind of experimenting with it, but now that we are accepting new users, I wanted to make sure that we have a backup strategy for the Mastodon data. This post describes how I set up the backup system using [NixOS](https://nixos.org/), which we use to manage the server.

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/report-sony-surveying-developers-about-drop
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-09-28T20:25:22.825323Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/playstation-controller-glowing-red.jpg?width=690&quality=85&format=jpg&auto=webp)

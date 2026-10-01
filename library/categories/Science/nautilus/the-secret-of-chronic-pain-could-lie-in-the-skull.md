@@ -6,7 +6,7 @@ url = "https://nautil.us/the-secret-of-chronic-pain-could-lie-in-the-skull-12847
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-03T13:15:13.296994120Z"
-seen = false
+seen = true
 +++
 
 Skull bone marrow has become an exciting research topic

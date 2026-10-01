@@ -6,7 +6,7 @@ url = "https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfir
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.856146569Z"
-seen = false
+seen = true
 +++
 
 My thanks to WorkOS for sponsoring this last week — a big week — at DF.

@@ -6,7 +6,7 @@ url = "https://nautil.us/do-transplanted-hearts-assume-the-age-of-their-new-host
 author = "Kristen French"
 text = ""
 lastupdated = "2026-09-29T21:52:23.992640722Z"
-seen = false
+seen = true
 +++
 
 Experiments in humans and mice suggest a way to make more organs available for transplant, but may squash a theory of rejuvenation

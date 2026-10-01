@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/08/27/0747?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.055326365Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/08/27/0747/large.jpg?v=e84f2e78fd29" alt="quicklook" width="320" height="240">](https://www.theinformation.com/articles/nvidia-agrees-buy-open-source-model-repository-hugging-face-12-9-billion?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

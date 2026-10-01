@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobi
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-27T09:50:55.920542318Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/horizon1_IMrj6S8.jpg?width=690&quality=85&format=jpg&auto=webp)

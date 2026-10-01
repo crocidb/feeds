@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/09/11/super_ultrawide_niri/index.html"
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-09-21T09:42:47.087819912Z"
-seen = false
+seen = true
 +++
 
 [<img width="1600" height="450" alt="" src="/images/wide-niri-screen.jpg">](/images/wide-niri-screen.jpg) A [Niri](https://github.com/niri-wm/niri) workspace with 7 visible columns.

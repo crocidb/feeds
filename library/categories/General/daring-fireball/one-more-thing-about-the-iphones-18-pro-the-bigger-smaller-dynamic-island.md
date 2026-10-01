@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/the_iphones_18_pro#:~:text=OR%20IS%20I
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.871332332Z"
-seen = false
+seen = true
 +++
 
 Cleaning up my notes this morning, I realized I forgot to write about the new under-display Face ID sensor in the iPhones 18 Pro, and the corresponding change to the Dynamic Island. I just added it to my review. For those of you who’ve already read the review, here’s the new section in its entirety:

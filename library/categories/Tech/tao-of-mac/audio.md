@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/audio?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-09-01T19:33:17.039941356Z"
-seen = false
+seen = true
 +++
 
 The stuff you hear, like [MP3](/space/audio/mp3), [MIDI](/space/music/midi), [WAV](audio/wav), [AMR](/space/audio/amr) and suchlike.

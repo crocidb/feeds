@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/09/12/god-in-the-box/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-21T09:42:49.274967092Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/12Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/12/god-in-the-box/)

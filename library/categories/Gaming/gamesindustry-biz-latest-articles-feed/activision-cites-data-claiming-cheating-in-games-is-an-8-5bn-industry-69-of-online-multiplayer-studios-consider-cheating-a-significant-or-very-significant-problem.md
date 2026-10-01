@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-09-27T09:50:55.956257460Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/cod-modern-warfare.webp?width=690&quality=85&format=jpg&auto=webp)

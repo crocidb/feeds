@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/05/28/just_command_runner_documentation/
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-05-28T23:18:21.849812023Z"
-seen = false
+seen = true
 +++
 
 I wanted the bootstrap process to be simple; ideally a single command and it would be up and running. But that’s not what we have right now; just look at this monstrosity from the [previous post](/blog/2026/05/22/talos_linux_on_proxmox_with_terraform):

@@ -6,7 +6,7 @@ url = "https://www.t-mobile.com/news/devices/iphone-18-pro-iphone-duo-apple-watc
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.900775429Z"
-seen = false
+seen = true
 +++
 
 T-Mobile, in their iPhone 18 Pro / iPhone Duo press release:

@@ -6,7 +6,7 @@ url = "https://pluralistic.net/2026/09/29/algorithmic-wage-theft/"
 author = "Cory Doctorow"
 text = ""
 lastupdated = "2026-09-29T21:52:26.017178145Z"
-seen = false
+seen = true
 +++
 
 [![](https://i0.wp.com/craphound.com/images/29Sep2026.jpg?w=840&ssl=1)](https://pluralistic.net/2026/09/29/algorithmic-wage-theft/)

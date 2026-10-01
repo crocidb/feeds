@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/implementing-co-5/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.439836442Z"
-seen = false
+seen = true
 +++
 
 In the [previous post](https://abhinavsarkar.net/posts/implementing-co-4/?mtm_campaign=feed), we added channels to Co, the small language we are implementing in this series of posts. In this post, we add the `sleep` primitive to it, enabling time-based coroutine scheduling. We then use sleep to build a simulation of digital logic circuits.

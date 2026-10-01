@@ -6,7 +6,7 @@ url = "https://www.ft.com/content/bab5c4c5-5377-4dd0-8b46-d8c4ce9a36d5?syn-25a6b
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-21T09:42:41.885654936Z"
-seen = false
+seen = true
 +++
 
 Joe Miller, reporting for the Financial Times ([via Political Wire](https://politicalwire.com/2026/09/14/steve-bannon-and-bernie-sanders-unite-in-ai-safety-call/)):

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-extinct-american-cheetah-wasnt-a-cheetah-after-all-
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-09-08T09:44:10.333711625Z"
-seen = false
+seen = true
 +++
 
 And, unlike African cheetahs, it was a flexible carnivore

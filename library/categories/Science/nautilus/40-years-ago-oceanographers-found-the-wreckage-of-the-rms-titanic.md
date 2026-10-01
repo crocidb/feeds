@@ -6,7 +6,7 @@ url = "https://nautil.us/40-years-ago-oceanographers-found-the-wreckage-of-the-r
 author = "David Nield"
 text = ""
 lastupdated = "2026-09-03T13:15:13.294420122Z"
-seen = false
+seen = true
 +++
 
 The maritime disaster of 1912 wasn’t fully understood until the shipwreck was rediscovered

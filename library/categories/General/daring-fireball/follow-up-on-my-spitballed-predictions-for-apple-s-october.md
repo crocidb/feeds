@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/09/spitballing_predictions_for_apples_oct
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-29T21:52:18.277646294Z"
-seen = false
+seen = true
 +++
 
 Regarding [my post yesterday](https://daringfireball.net/2026/09/spitballing_predictions_for_apples_october) speculating on how Apple’s October — seemingly set to be a big one — might play out, a friend asked if any or all of the new stuff might be released through Apple Newsroom announcements only. Good question. Let’s run through the rumored new hardware products:

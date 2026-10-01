@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/poema-linha-do-horizonte-leva-versos-as-pontes-
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-09-27T09:50:58.769912858Z"
-seen = false
+seen = true
 +++
 
 Entre os dias 24 e 27 de setembro de 2026, durante o [SPA das Artes](https://revistaogrito.com/spa-das-artes-segue-no-recife-com-atividades-gratuitas/), **Tetê** realiza, uma por dia, quatro intervenções do Poema Linha do Horizonte em pontes e travessias sobre o Rio Capibaribe. As faixas, de aproximadamente 1,50 por 20 metros, funcionam como uma espécie de legenda para as paisagens onde são instaladas e, juntas, formam um poema que se completa no deslocamento entre os diferentes lugares.

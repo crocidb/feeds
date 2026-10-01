@@ -6,7 +6,7 @@ url = "https://nautil.us/male-sex-reversed-frogs-hold-their-own-in-fertility-com
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-09-08T23:03:52.948568113Z"
-seen = false
+seen = true
 +++
 
 Sex reversal may not be an evolutionary dead end after all

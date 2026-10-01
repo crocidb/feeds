@@ -6,7 +6,7 @@ url = "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-a-dedicate
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.375470467Z"
-seen = false
+seen = true
 +++
 
 Mark Gurman, reporting for Bloomberg Wednesday, *after* Meta’s 2026 Connect keynote (gift link):

@@ -6,7 +6,7 @@ url = "https://nautil.us/30-minutes-of-exercise-can-boost-your-task-switching-ef
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-09-03T14:30:46.858625201Z"
-seen = false
+seen = true
 +++
 
 A brisk walk could reduce the cognitive cost of changing gears

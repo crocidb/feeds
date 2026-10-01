@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/08/22/0827?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-08-24T15:49:20.648460247Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/08/22/0827/large.jpg?v=31b6af4d5145" alt="quicklook" width="320" height="240">](https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

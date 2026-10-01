@@ -6,7 +6,7 @@ url = "https://abhinavsarkar.net/posts/static-site-generator-using-shake/"
 author = "Abhinav Sarkar"
 text = ""
 lastupdated = "2026-07-21T09:17:41.559162675Z"
-seen = false
+seen = true
 +++
 
 Static site generators (SSGs) are all rage these days as people realize that plain HTML websites are good enough for most cases. SSGs take raw data in various formats—often [Markdown](https://en.wikipedia.org/wiki/Markdown), [JSON](https://en.wikipedia.org/wiki/JSON), and [YAML](https://en.wikipedia.org/wiki/YAML)—and process them to produce the static websites, which can then be hosted easily on any hosting provider, or on personal VPSes. In this post, we write a bespoke SSG using the [Shake](https://shakebuild.com/) build system.

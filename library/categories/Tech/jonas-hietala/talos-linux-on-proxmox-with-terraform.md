@@ -6,7 +6,7 @@ url = "http://jonashietala.se/blog/2026/05/22/talos_linux_on_proxmox_with_terraf
 author = "Jonas Hietala"
 text = ""
 lastupdated = "2026-05-26T11:29:20.593947657Z"
-seen = false
+seen = true
 +++
 
 ![](/images/kube/talos_in_console.png)

@@ -6,7 +6,7 @@ url = "https://developer.apple.com/app-store/user-privacy-and-data-use/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-09-27T09:50:56.391420220Z"
-seen = false
+seen = true
 +++
 
 Apple Developer:
