@@ -6,6 +6,6 @@ url = "http://gpfault.net/posts/sph.html"
 author = "General Protection Fault"
 text = ""
 lastupdated = "2026-04-12T23:33:49.258917541Z"
-seen = false
+seen = true
 +++
 
