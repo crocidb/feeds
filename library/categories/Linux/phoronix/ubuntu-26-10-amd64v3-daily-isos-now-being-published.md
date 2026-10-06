@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Ubuntu-26.10-amd64v3-Daily"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-08T09:44:05.339954812Z"
-seen = false
+seen = true
 +++
 
 As an interesting development for Ubuntu 26.10, the daily ISOs of the "Stonking Stingray" now include amd64v3 images...

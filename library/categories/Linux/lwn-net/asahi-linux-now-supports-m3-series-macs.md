@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1092768/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-08T09:44:05.484065890Z"
-seen = false
+seen = true
 +++
 
 The Asahi Linux project has [announced](https://asahilinux.org/2026/09/m2-episode-1/) that support for Apple's M3-series chips has been added to the Asahi installer.

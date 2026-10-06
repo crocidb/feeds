@@ -6,6 +6,6 @@ url = "https://fabiensanglard.net/agent.md/index.html"
 author = "Fabien Sanglard"
 text = ""
 lastupdated = "2026-08-24T15:49:17.267405404Z"
-seen = false
+seen = true
 +++
 

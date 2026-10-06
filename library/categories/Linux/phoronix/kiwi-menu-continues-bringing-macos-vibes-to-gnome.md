@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-28T12:42:27.402234288Z"
-seen = false
+seen = true
 +++
 
 Kiwi Menu as the macOS-inspired quick menu option for the GNOME Shell desktop is continuing to enhance its macOS-esque experience on GNOME...

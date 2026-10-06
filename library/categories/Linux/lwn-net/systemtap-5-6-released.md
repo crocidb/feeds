@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1095220/"
 author = "corbet"
 text = ""
 lastupdated = "2026-09-21T09:42:43.302615444Z"
-seen = false
+seen = true
 +++
 
 Version 5.6 of the Systemtap tracing tool has been released.

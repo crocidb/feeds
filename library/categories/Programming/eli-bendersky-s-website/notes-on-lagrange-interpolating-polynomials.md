@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/notes-on-lagrange-interpolating-polyno
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-03-18T21:57:51.383401404Z"
-seen = false
+seen = true
 +++
 
 *Polynomial interpolation* is a method of finding a polynomial function that fits a given set of data perfectly. More concretely, suppose we have a set of n+1 distinct points [[1]](#footnote-1):

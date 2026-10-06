@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1094312/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-21T09:42:43.320513145Z"
-seen = false
+seen = true
 +++
 
 Pádraig Brady has [announced](https://lists.gnu.org/archive/html/coreutils-announce/2026-09/msg00000.html) GNU Core Utilities (coreutils) version 9.12. "

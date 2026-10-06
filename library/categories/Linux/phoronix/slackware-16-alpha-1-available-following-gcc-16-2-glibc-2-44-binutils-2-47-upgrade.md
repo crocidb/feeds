@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Slackware-16-Alpha"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-08T09:44:05.357546813Z"
-seen = false
+seen = true
 +++
 
 The timing on Saturday's Slackware-based Zenwalk ISO "current milestone" update is now more clear with upstream Slackware having prepared what is its first alpha release of the upcoming Slackware 16...

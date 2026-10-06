@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/ReactOS-Job-Objects"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-24T15:49:15.216150900Z"
-seen = false
+seen = true
 +++
 
 Merged yesterday to the ReactOS code-base is initial support for Job Objects, which is an important milestone in the road to being able to run more modern Windows software under this open-source operating system striving for Windows driver/application compatibility...

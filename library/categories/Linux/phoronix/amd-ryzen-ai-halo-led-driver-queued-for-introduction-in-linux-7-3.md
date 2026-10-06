@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Ryzen-AI-Halo-LED-Linux-7.3"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-22T09:22:32.026856519Z"
-seen = false
+seen = true
 +++
 
 For those that have picked up one of the neat AMD Ryzen AI Halo mini PCs, the LED driver allowing for customization of the LED lighting bar is set to be mainlined for the Linux 7.3 kernel cycle...

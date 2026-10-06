@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.3-KVM"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-01T19:33:13.201545372Z"
-seen = false
+seen = true
 +++
 
 The Kernel-based Virtual Machine "KVM" changes have landed for the Linux 7.3 merge window that is wrapping up later today...

@@ -6,7 +6,7 @@ url = "https://blog.fogus.me/llm/born-against.html"
 author = "fogus"
 text = ""
 lastupdated = "2026-08-06T09:52:37.120902991Z"
-seen = false
+seen = true
 +++
 
 Whereby I discuss why we're seeing an increasingly aggressive rejection of LLMS by niche hobby communities...

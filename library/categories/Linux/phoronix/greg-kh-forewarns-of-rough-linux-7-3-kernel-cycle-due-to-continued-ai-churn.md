@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.3-Rough-Cycle"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-03T13:15:07.079777129Z"
-seen = false
+seen = true
 +++
 
 While Linux 7.3-rc1 only released this week and there are another roughly seven weeks to go until the official kernel release, Linux's second-in-command Greg Kroah-Hartman is already warning that it's likely to be another "rough" kernel cycle given the ongoing noise caused by AI/LLM with the increase in bug reports and kernel patches...

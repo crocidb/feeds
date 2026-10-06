@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Cryptsetup-2.8.7-Released"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-22T09:22:32.007532365Z"
-seen = false
+seen = true
 +++
 
 Linux's cryptsetup for configuring and managing encrypted storage devices is ready with a new version as the developers work to deal with the recent deprecation of the Linux AF\_ALG interface...

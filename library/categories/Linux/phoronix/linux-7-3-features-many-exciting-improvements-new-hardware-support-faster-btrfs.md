@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/review/linux-73-features"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-01T19:33:13.184035616Z"
-seen = false
+seen = true
 +++
 
 With Linux 7.3-rc1 released to cap off the two week merge window, here is a look at the many exciting changes merged for the Linux 7.3 kernel that is working its way toward release in the second half of October.

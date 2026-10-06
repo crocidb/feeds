@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-06-08T12:50:01.508417376Z"
-seen = false
+seen = true
 +++
 
 A few months ago I wrote about [using LLM agents to help restructuring one of my Python projects](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/). It's worth beginning by saying that the rewrite has been successful by all reasonable measures; I've been able to continue maintaining that project since then without an issue.

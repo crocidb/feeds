@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Fedora-Conflict-Interest-Draft"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-28T12:42:27.401014309Z"
-seen = false
+seen = true
 +++
 
 Posted this week is a draft copy of the Fedora Conflict of Interest policy being worked on for dealing with identifying, disclosing, and managing any actual, actual, or perceived conflicts of interest within the Fedora Project...

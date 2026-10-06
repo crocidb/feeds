@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/KDE-Server-SIde-Drop-Shadows"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-18T14:48:10.440978621Z"
-seen = false
+seen = true
 +++
 
 The KDE Plasma 6.8 will be introducing support for server-side drop shadows with the feature recently having been merged to KWin...

@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/IMG-PowerVR-BXM-4-64-FW"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-16T14:36:55.033248057Z"
-seen = false
+seen = true
 +++
 
 Now in the upstream linux-firmware.git centralized repository is the firmware binary needed for enabling the Imagination Tech PowerVR BXM-4-64 Rogue GPU found with the Alibaba T-Head TH1520 SoC...

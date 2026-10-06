@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.3-MSI-Claw-M-Center-Key"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-06T09:52:34.714072939Z"
-seen = false
+seen = true
 +++
 
 For those with a MSI Claw A8 BZ2EM handheld gaming system, the model powered by the latest AMD Ryzen Z2 Extreme SoC, an important addition is coming to the Linux 7.3 kernel so that the M-Center keys will be properly supported...

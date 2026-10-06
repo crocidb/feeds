@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.3-Preps-Toward-FAMFS"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-24T15:49:15.217512698Z"
-seen = false
+seen = true
 +++
 
 The NVDIMM and direct access (DAX) patches have been merged for the Linux 7.3 cycle. Most of the DAX/NVDIMM activity this cycle is on making preparations for the upcoming submission of Micron's FAMFS file-system...

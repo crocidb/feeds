@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/thoughts-on-webassembly-as-a-stack-mac
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-05-05T08:25:02.118741663Z"
-seen = false
+seen = true
 +++
 
 This week the article [Wasm is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/) has been making the rounds and has caught my eye. The post claims that WASM is not a pure stack machine because it has locals and is missing some stack manipulation operations like dup and swap.

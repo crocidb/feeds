@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1090585/"
 author = "corbet"
 text = ""
 lastupdated = "2026-09-03T13:15:07.746364575Z"
-seen = false
+seen = true
 +++
 
 The online publication industry, as a whole, is struggling, with challenges coming from multiple directions. Thanks to the support of all of you, our readers, LWN would appear to be doing better than most. But the world has changed around us and, in particular, prices have changed considerably. By now, you probably know where this is going: subscription prices at LWN will be increasing as of September 15.

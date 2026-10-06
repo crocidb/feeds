@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-04-10T10:24:01.286361173Z"
-seen = false
+seen = true
 +++
 
 I'm happy to announce the general availability of [watgo](https://github.com/eliben/watgo) - the **W**eb**A**ssembly **T**oolkit for **G**o. This project is similar to [wabt](https://github.com/webassembly/wabt) (C++) or [wasm-tools](https://github.com/bytecodealliance/wasm-tools) (Rust), but in pure, zero-dependency Go.

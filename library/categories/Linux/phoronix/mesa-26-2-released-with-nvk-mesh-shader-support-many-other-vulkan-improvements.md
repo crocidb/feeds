@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Mesa-26.2-Released"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-06T09:52:34.696351659Z"
-seen = false
+seen = true
 +++
 
 Mesa 26.2 stable is now available as the newest quarterly feature release for this set of open-source OpenGL and Vulkan drivers typically used on Linux systems...

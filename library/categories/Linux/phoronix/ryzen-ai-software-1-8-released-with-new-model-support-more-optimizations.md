@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Ryzen-AI-Software-1.8"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-23T22:52:44.213395632Z"
-seen = false
+seen = true
 +++
 
 Ahead of Lisa Su's keynote this morning at the AMD Advancing AI event, tagged on GitHub just now was the Ryzen AI Software 1.8 release for helping to deploy AI models on Ryzen AI PCs...

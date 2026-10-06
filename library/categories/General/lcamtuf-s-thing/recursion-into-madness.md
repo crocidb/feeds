@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/recursion-into-madness"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-09-08T09:44:05.693938466Z"
-seen = false
+seen = true
 +++
 
 I don’t write about generative AI much. Everyone else does; not much of consequence ever gets said. I think the technology is great where it helps us automate mundane tasks, cancerous where it undermines genuine human expression, and [darkly funny where the two worlds collide](https://blog.coredump.cx/p/ai-childrens-books-body-horror-edition).

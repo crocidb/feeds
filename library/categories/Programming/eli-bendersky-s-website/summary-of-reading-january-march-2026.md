@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/summary-of-reading-january-march-2026/
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-04-10T10:24:01.290249971Z"
-seen = false
+seen = true
 +++
 
 * "Intellectuals and Society" by Thomas Sowell - a collection of essays in which Sowell criticizes "intellectuals", by which he mostly means left-leaning thinkers and opinions. Interesting, though certainly very biased. This book is from 2009 and focuses mostly on early and mid 20th century; yes, history certainly rhymes.

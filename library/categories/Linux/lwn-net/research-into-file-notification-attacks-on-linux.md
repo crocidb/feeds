@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1096431/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-27T09:50:58.742555035Z"
-seen = false
+seen = true
 +++
 
 Sudheendra Raghav Neela, a member of a group of researchers from [Graz University of Technology](https://www.tugraz.at/en/home), has [announced](https://infosec.exchange/@vmcall/117327103049106849) the release of research into file-notification attacks that would allow spying on user activity on Android, Linux, macOS, and Windows. The group has published [a paper](https://inoti.fyi/pubs/file-notification-attacks.pdf) with details on the research as well as a [web site](https://inoti.fyi/) with demonstrations of the vulnerabilities.

@@ -1,0 +1,61 @@
++++
+title = "Reading books"
+description = '''I read books either on my Kobo Libra Colour (\~80% reading), or listening fiction in Абук/Audible (15%), or re-reading printed stuff. Ukrainian publishing houses are great lately, but it's only this amount of books I can fit in my fla'''
+date = "2026-09-16T00:00:00Z"
+url = "https://vlnn.dev/?stack=reading-books"
+author = "Generalistic writings from @vlnn"
+text = ""
+lastupdated = "2026-10-05T09:04:45.951300663Z"
+seen = true
++++
+
+I read books either on my Kobo Libra Colour (\~80% reading), or listening fiction in [Абук](https://abuk.com.ua)/[Audible](https://audible.com) (15%), or re-reading printed stuff. Ukrainian publishing houses are great lately, but it's only this amount of books I can fit in my flat.
+
+Having lots paper books is burdensome, but at least you can have a quick glance over it. Electronic books on the other hand tend to become a huge unruly heap of books that are easier to re-download than to find. Poor interfaces of existing eink-readers and primitive OPDS navigation add even more problems with quick opening of the book from the library. Thus, I've created [vlnn/kobo-alfred](https://github.com/vlnn/kobo-alfred): set of [Alfred](alfred-hitchcock.md)-based entrypoints to govern the ebooks.
+
+Reading notes
+----------
+
+I hope keeping the reading notes publicly will a) will fill the Persons tag with writers, b) will add some ideas to the boiling pool, while it still boils, c) will be useful for someone else
+
+The year in the list is the year when I copied the book to my reader. I'm sure some of them will never be read from cover to cover, but it's not the reason not to add them to the list: this is wishful reading overall.
+
+### 2026 ###
+
+* [The Will of the Many](the-will-of-the-many.md) by [James Islington](james-islington.md)
+* [I, Claudius](i-claudius.md) by Rober Graves
+* [Hild](hild.md) by [Nicola Griffith](nicola-griffith.md)
+* [Erebus: The Story of a Ship](erebus-the-story-of-a-ship.md) by [Michael Palin](michael-palin.md)
+* [The King Must Die](the-king-must-die.md) by [Mary Renault](mary-renault.md)
+* [СОЛпік](solpik.md) by [Олена Красносельська](olena-krasnoselska.md)
+* [Теплиця](teplytsia.md) by [Brian Aldiss](brian-aldiss.md)
+* [Айфельгайм](aifelhaim.md) by [Michael Flynn](michael-flynn.md)
+* [Ґарґантюа і Пантаґрюель](gargantiua-i-pantagriuel.md) by [Франсуа Рабле](fransua-rable.md)
+* [Do It Tomorrow](do-it-tomorrow.md) by [Mark Forster](mark-forster.md)
+* [Soldier of the Mist](soldier-of-the-mist.md) by [Gene Wolfe](gene-wolfe.md)
+
+Related
+----------
+
+* [Robert Graves](robert-graves.md)
+* [Ґарґантюа і Пантаґрюель](gargantiua-i-pantagriuel.md)
+* [Nicola Griffith](nicola-griffith.md)
+* [Brian Aldiss](brian-aldiss.md)
+* [James Islington](james-islington.md)
+* [The Will of the Many](the-will-of-the-many.md)
+* [I, Claudius](i-claudius.md)
+* [Hild](hild.md)
+* [Mary Renault](mary-renault.md)
+* [The King Must Die](the-king-must-die.md)
+* [Олена Красносельська](olena-krasnoselska.md)
+* [СОЛпік](solpik.md)
+* [Теплиця](teplytsia.md)
+* [Michael Flynn](michael-flynn.md)
+* [Айфельгайм](aifelhaim.md)
+* [Erebus: The Story of a Ship](erebus-the-story-of-a-ship.md)
+* [Michael Palin](michael-palin.md)
+* [Франсуа Рабле](fransua-rable.md)
+* [Mark Forster](mark-forster.md)
+* [Do It Tomorrow](do-it-tomorrow.md)
+* [Gene Wolfe](gene-wolfe.md)
+* [Soldier of the Mist](soldier-of-the-mist.md)

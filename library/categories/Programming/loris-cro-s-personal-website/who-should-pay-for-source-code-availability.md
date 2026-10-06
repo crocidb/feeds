@@ -6,6 +6,6 @@ url = "https://kristoff.it/blog/source-code-availability/"
 author = "Loris Cro's Personal Website"
 text = ""
 lastupdated = "2026-08-10T12:13:29.067289204Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/know-your-paradoxes"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-09-03T13:15:07.109068576Z"
-seen = false
+seen = true
 +++
 
 According to the latest projections from a frontier AI lab, we’re at most five years away from the scenario shown in the diagram below:

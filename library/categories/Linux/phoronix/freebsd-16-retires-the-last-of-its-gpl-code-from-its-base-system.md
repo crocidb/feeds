@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/FreeBSD-16-Goes-GPL-Free"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-16T14:36:55.065536298Z"
-seen = false
+seen = true
 +++
 
 As of this past week in the FreeBSD source tree for FreeBSD 16, the last of the GNU GPL licensed code from the base system has been retired...

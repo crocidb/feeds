@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/dot-product-component-vs-geometric-def
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-07-16T14:36:59.306818262Z"
-seen = false
+seen = true
 +++
 
 The goal of this post is to answer a simple question: why are the following two definitions of the vector dot product in Euclidean space [[1]](#footnote-1) equivalent for vectors \\vec{a} and \\vec{b}:

@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/SDL-HDR10-Rendering-Support"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-23T22:52:44.225434909Z"
-seen = false
+seen = true
 +++
 
 Sam Lantinga of Valve and SDL fame has landed HDR10 rendering support into the Simple DirectMedia Library...

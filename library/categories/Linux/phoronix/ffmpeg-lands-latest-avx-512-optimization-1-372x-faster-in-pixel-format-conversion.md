@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/FFmpeg-AVX-512-1.372x"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-21T09:19:52.557390720Z"
-seen = false
+seen = true
 +++
 
 The latest hand-tuned code in the FFmpeg multimedia library for allowing better performance on today's modern Intel/AMD AVX-512-capable processors is showing 1.372x faster performance for RGB24 to RGBA pixel format conversions...

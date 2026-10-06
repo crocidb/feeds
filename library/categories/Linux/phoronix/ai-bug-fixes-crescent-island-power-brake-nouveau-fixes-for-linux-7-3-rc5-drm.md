@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.3-rc5-DRM"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-27T09:50:57.561590339Z"
-seen = false
+seen = true
 +++
 
 The Direct Rendering Manager (DRM) subsystem fixes for the week are heavier on the side with many fixes to these kernel graphics/display drivers ahead of Sunday's Linux 7.3-rc5 release...

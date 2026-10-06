@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=dyalog-apl-support-in-emacs"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-09-21T09:42:42.384913307Z"
-seen = false
+seen = true
 +++
 
 Why

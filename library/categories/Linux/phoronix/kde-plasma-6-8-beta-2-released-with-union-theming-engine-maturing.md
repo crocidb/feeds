@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/KDE-Plasma-6.8-Beta-2"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-27T09:50:57.592795958Z"
-seen = false
+seen = true
 +++
 
 Following the KDE Plasma 6.8 Beta from earlier this month, the second and last beta of the upcoming Plasma 6.8 desktop is now available for testing...

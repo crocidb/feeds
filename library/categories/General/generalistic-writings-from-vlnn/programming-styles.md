@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=programming-styles"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-09-21T09:42:42.386613595Z"
-seen = false
+seen = true
 +++
 
 [Writing code](writing-code.md) and [reading code](reading-code.md) are both depend on notation — [notation becoming a tool of thought](notation-as-a-tool-of-thought.md). E.g. it's so much easier to solve system of differential equations using APL than assembler, that assembler programmer will perhaps either solve them once and hardcode the answer, or will look for other way to solve the problem. Thus number of stylistic approaches exist in programming, shaped by the technical restrictions and problem space as well as on the personal preferences.

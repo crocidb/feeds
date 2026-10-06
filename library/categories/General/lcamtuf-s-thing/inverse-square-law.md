@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/inverse-square-law"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-09-21T09:42:43.499176777Z"
-seen = false
+seen = true
 +++
 
 If you’re dabbling in electronics, you might have heard of what’s known as the *inverse-square law.* This law says that the intensity of many types of physical phenomena decreases with the square of the distance to the origin. For example, if you get twice as far from a lightbulb, a handheld light meter will register a four-fold drop in luminance. The same goes for sound, radio transmissions, and so forth.

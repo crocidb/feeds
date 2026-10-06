@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=clay-style"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-09-27T09:50:56.240408259Z"
-seen = false
+seen = true
 +++
 
 This is [programming style](programming-styles.md) I'm working on right now. It is independent from the programming language with which it is being practices, even though it is easier to use it with some than with others. Main idea is to arrange the code in such way that it is 1) easy to [read](reading-code.md) and [understand](speed-of-software-development-mainly-depends-on-velocity-of.md), 2) easy to [write](writing-code.md) and [maintain](maintaining-legacy.md).

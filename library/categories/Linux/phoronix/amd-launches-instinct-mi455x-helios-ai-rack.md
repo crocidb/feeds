@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/AMD-Instinct-MI455X-Helios"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-23T22:52:44.201566534Z"
-seen = false
+seen = true
 +++
 
 Lisa Su at AMD Advancing AI 2026 just launched the new Instinct MI455X GPUs and the Helios rack...

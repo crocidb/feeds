@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/AMD-ROCm-Six-Weeks"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-28T12:42:27.408623714Z"
-seen = false
+seen = true
 +++
 
 One of many interesting takeaways from this week's AMD Advancing AI event in San Francisco was word that ROCm will be on a rigid six week release cycle moving forward...

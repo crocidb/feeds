@@ -6,7 +6,7 @@ url = "https://mwl.io/archives/24997"
 author = "Michael Lucas"
 text = ""
 lastupdated = "2026-10-01T11:34:02.777874838Z"
-seen = false
+seen = true
 +++
 
 Folks sometimes forget that [OpenZFS Mastery](https://www.tiltedwindmillpress.com/product/openzfs-sponsor/) has a co-author. Here’s a bit Allan Jude originally wrote.

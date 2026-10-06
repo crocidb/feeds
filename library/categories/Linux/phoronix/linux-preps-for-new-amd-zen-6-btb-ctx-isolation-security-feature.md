@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-Preps-AMD-BTB-CTX"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-08T09:44:05.341523351Z"
-seen = false
+seen = true
 +++
 
 A recently posted Linux kernel patch has revealed a new security improvement with Zen 6 processors...

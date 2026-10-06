@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/FreeBSD-14.5-RELEASE"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-08T09:44:05.336422693Z"
-seen = false
+seen = true
 +++
 
 For those that haven't yet made the move to FreeBSD 15 with still relying on FreeBSD 14 in production, out today is FreeBSD 14.5-RELEASE...

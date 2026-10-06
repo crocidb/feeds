@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-23T18:24:55.023266255Z"
-seen = false
+seen = true
 +++
 
 Valve's Steam client beta today introduced Pyrowave as an experimental video codec for high bandwidth, low-latency video streaming...

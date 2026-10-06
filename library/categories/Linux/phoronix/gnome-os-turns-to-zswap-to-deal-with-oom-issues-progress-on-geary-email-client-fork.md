@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/GNOME-OS-Goes-Zswap"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-21T09:42:43.338481588Z"
-seen = false
+seen = true
 +++
 
 In addition to this week's GNOME 51 release were several other exciting developments in the GNOME desktop space...

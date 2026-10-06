@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/plugins-case-study-pluggy/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-06-16T20:08:14.038645974Z"
-seen = false
+seen = true
 +++
 
 Recently I came upon [Pluggy](https://pluggy.readthedocs.io/en/latest/), a Python library for developing plugin systems. It was originally developed as part of the pytest project - known for its rich plugin ecosystem - and later extracted into a standalone library. You're supposed to reach out for Pluggy if you want to add a plugin system to your tool or library and want to use something proven rather than rolling your own.

@@ -6,6 +6,6 @@ url = "https://fabiensanglard.net/jurrasic_park_computers/index.html"
 author = "Fabien Sanglard"
 text = ""
 lastupdated = "2026-07-16T14:37:00.107767535Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-09-01T19:33:13.868513806Z"
-seen = false
+seen = true
 +++
 
 I never mentioned it publicly, but early in my career, I did a part-time stint in *technical surveillance countermeasures* (TSCM) — a fancy term for sweeping office environments in search of listening devices and other unauthorized spy gear. In practice, the job entailed getting several certifications, hauling around a bunch of costly suitcases, and above all, spending some time with ex-spooks, listening to stories that would make James Bond blush.

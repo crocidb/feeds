@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/GNU-Hurd-Q2-2026"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-21T09:19:52.565343994Z"
-seen = false
+seen = true
 +++
 
 The GNU Hurd project recently issued their Q2'2026 status report to outline recently development efforts. The Hurd is still happening!..

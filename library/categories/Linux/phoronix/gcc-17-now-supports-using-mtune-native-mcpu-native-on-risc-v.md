@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/GCC-17-RISC-V-mtune-mcpu-native"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-03T13:15:07.059701223Z"
-seen = false
+seen = true
 +++
 
 As a follow up to last month's article about patches being posted for enabling "-mcpu=native -mtune=native" support for RISC-V with the GCC compiler, that code is now merged for what will become the GCC 17.1 release in the early months of 2027...

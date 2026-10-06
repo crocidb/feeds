@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1091203/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-01T19:33:14.073345122Z"
-seen = false
+seen = true
 +++
 
 Konstantin Ryabitsev has written a [blog post with hard numbers](https://people.kernel.org/monsieuricon/creepy-crawlies) about the impact of AI crawlers on the Linux kernel repositories at [git.kernel.org](https://git.kernel.org/):

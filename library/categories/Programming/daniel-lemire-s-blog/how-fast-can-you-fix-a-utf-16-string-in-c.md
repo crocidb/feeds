@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/09/26/how-fast-can-you-fix-a-utf-16-string-in
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-09-27T09:51:01.388428750Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/09/utf16-cover-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="How fast can you fix a UTF-16 string in C#" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async">

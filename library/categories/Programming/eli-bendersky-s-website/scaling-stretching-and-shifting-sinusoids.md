@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/scaling-stretching-and-shifting-sinuso
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-05-05T08:25:02.114480474Z"
-seen = false
+seen = true
 +++
 
 This is a brief and simple [[1]](#footnote-1) explanation of how to adjust the standard sinusoid sin(x) to change its amplitude, frequency and phase shift. More precisely, given the general function:

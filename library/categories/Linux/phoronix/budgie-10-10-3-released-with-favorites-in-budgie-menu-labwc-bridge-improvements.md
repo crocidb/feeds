@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Budgie-10.10.3-Released"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-28T20:25:27.393936907Z"
-seen = false
+seen = true
 +++
 
 Budgie 10.10.3 is out today as the newest point release to this open-source desktop...

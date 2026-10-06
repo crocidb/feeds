@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/the-c-word"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-09-27T09:50:57.687228752Z"
-seen = false
+seen = true
 +++
 
 I dislike the punditry that surrounds generative AI. Perhaps on brand, much of it is machine-generated. The rest is mired in near-religious fervor, flames fanned for financial or political gain. There’s also simply too much of it. I have opinions — opinions I like! — but so does everyone else in your social media feed.

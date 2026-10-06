@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.3-RandStruct-Rust"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-03T13:15:07.054665447Z"
-seen = false
+seen = true
 +++
 
 While Rust programming language use may help with memory safety and other security advantages, the default Linux kernel configuration is now losing randomization of sensitive kernel structures if Rust support is present...

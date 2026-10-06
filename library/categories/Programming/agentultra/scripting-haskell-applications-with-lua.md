@@ -6,7 +6,7 @@ url = "https://agentultra.com/blog/scripting-haskell-applications-with-lua/index
 author = "James"
 text = ""
 lastupdated = "2026-03-18T21:57:48.541263630Z"
-seen = false
+seen = true
 +++
 
 Musings and ramblings on programming and things

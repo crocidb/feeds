@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-q
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-09-03T14:30:45.489645645Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/09/quadratic-150x150.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async">

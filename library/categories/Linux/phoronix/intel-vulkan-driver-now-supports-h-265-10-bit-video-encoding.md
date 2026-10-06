@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Intel-Vulkan-Video-10-bit-H265"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-16T14:36:55.077283672Z"
-seen = false
+seen = true
 +++
 
 Hyunjun Ko with Igalia continues advancing the Vulkan Video capabilities of the Intel open-source "ANV" Vulkan driver for Linux systems...

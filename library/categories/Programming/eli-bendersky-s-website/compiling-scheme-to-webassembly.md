@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-02-11T20:17:04.461079240Z"
-seen = false
+seen = true
 +++
 
 One of my oldest open-source projects - [Bob](https://github.com/eliben/bobscheme) - has [celebrated 15 a couple of months ago](https://eli.thegreenplace.net/2010/11/06/bob-a-scheme-interpreter-compiler-and-vm-in-python). Bob is a suite of implementations of the Scheme programming language in Python, including an interpreter, a compiler and a VM. Back then I was doing some hacking on CPython internals and was very curious about how CPython-like bytecode VMs work; Bob was an experiment to find out, by implementing one from scratch for R5RS Scheme.

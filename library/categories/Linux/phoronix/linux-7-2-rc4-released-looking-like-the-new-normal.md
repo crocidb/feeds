@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.2-rc4-Released"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-21T09:19:52.552233819Z"
-seen = false
+seen = true
 +++
 
 The fourth weekly release candidate of the Linux 7.2 kernel is now available for testing...

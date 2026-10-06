@@ -6,7 +6,7 @@ url = "https://agentultra.com/blog/large-language-models-are-not-table-saws/inde
 author = "James"
 text = ""
 lastupdated = "2026-04-29T14:23:12.183730022Z"
-seen = false
+seen = true
 +++
 
 Musings and ramblings on programming and things

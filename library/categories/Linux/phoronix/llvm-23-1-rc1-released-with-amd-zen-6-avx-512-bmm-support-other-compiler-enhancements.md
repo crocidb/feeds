@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/LLVM-23.1-rc1"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-23T22:52:44.216803084Z"
-seen = false
+seen = true
 +++
 
 Following the recent code branching for the LLVM 23 series, LLVM 23.1-rc1 was released today in working toward the next stable release of this open-source compiler stack...

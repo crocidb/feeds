@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/KDE-Linux-August-2026"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-01T19:33:13.169594149Z"
-seen = false
+seen = true
 +++
 
 With the end of the month comes a new monthly status report from the KDE Linux project as their in-house distribution project...

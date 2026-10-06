@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Fedora-46-Proposal-Crystal"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-03T13:15:07.065963849Z"
-seen = false
+seen = true
 +++
 
 A new change proposal that's been filed for evaluation with next year's Fedora 46 release is to provide official, native support for the Crystal programming language...

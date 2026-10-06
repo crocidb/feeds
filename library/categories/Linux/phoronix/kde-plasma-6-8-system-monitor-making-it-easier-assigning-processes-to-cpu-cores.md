@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/KDE-Plasma-6.8-CPU-Affinity"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-18T14:48:10.292222593Z"
-seen = false
+seen = true
 +++
 
 Nate Graham and John Veness are out with the latest issue of This Week in Plasma to highlight all of the interesting developments taking place in the KDE Plasma desktop space...

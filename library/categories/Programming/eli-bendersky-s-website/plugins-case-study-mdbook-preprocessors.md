@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2025/plugins-case-study-mdbook-preprocessor
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-02-11T20:17:04.469440529Z"
-seen = false
+seen = true
 +++
 
 [mdBook](https://rust-lang.github.io/mdBook/index.html) is a tool for easily creating books out of Markdown files. It's very popular in the Rust ecosystem, where it's used (among other things) to publish [the official Rust book](https://doc.rust-lang.org/book/).

@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/NVIDIA-Hugging-Face"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-03T13:15:07.051518360Z"
-seen = false
+seen = true
 +++
 
 Following rumors in recent days of NVIDIA courting Hugging Face, it's now been officially announced that NVIDIA is acquiring Hugging Face...

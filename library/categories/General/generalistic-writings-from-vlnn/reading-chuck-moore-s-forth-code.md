@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=reading-chuck-moore-s-forth-code"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-09-27T09:50:56.238723715Z"
-seen = false
+seen = true
 +++
 
 Related to the [Example of Chuck Moore's FORTH code](example-of-chuck-moore-s-forth-code.md):

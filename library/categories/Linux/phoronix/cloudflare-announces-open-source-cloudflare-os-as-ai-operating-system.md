@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Cloudflare-OS"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-06T09:52:34.700010997Z"
-seen = false
+seen = true
 +++
 
 Cloudflare today announced the open-sourcing of Cloudflare OS as an "open platform for agents, apps, and work." Cloudflare OS is an AI "operating system" but not in the traditional OS sense...

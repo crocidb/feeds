@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=test-driven-development"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-09-27T09:50:56.245865600Z"
-seen = false
+seen = true
 +++
 
 Test-driven development is a programming paradigm popularized by [Kent Beck](kent-beck.md). The idea is to decrease [feedback time](feedback.md) of each task using formalized process of

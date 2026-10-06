@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1094470/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-21T09:42:43.317122507Z"
-seen = false
+seen = true
 +++
 
 PostgreSQL contributor Tomas Vondra has [published a blog post](https://vondra.me/posts/postgres-development-activity/) looking at development activity in the project, with data from the late 1990s to today.

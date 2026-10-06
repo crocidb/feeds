@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1092151/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-03T13:15:07.743772097Z"
-seen = false
+seen = true
 +++
 
 Greg Kroah-Hartman has announced the [7.2.3](https://lwn.net/Articles/1092153/), [7.1.13](https://lwn.net/Articles/1092154/), [6.18.49](https://lwn.net/Articles/1092156/), [6.12.108](https://lwn.net/Articles/1092157/), [6.6.156](https://lwn.net/Articles/1092158/), [6.1.187](https://lwn.net/Articles/1092159/), [5.15.220](https://lwn.net/Articles/1092160/), and [5.10.269](https://lwn.net/Articles/1092161/) stable kernels. Each contains a number of important fixes throughout the tree. Users are advised to upgrade.

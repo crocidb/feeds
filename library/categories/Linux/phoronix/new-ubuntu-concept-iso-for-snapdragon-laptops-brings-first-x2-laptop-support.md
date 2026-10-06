@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Ubuntu-26.10-Snapdragon-Concept"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-29T21:52:18.591205239Z"
-seen = false
+seen = true
 +++
 
 It's been a while since Canonical announced any new ISOs of their Ubuntu builds targeting Qualcomm Snapdragon X series laptops. But ahead of this week's Ubuntu 26.10 beta release, they shipped new Ubuntu 26.10 Snapdragon Concept images today with improved Snapdragon X1 laptop support as well as the initial Snapdragon X2 laptop support...

@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/notes-on-the-fourier-transform/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-07-16T14:36:59.304808584Z"
-seen = false
+seen = true
 +++
 
 The Fourier series is a great tool for analyzing periodic functions. But what about functions that don’t repeat? [We’ve seen](https://eli.thegreenplace.net/2026/notes-on-fourier-series/) that we can compute Fourier series for a non-periodic function defined on a finite interval, as long as we don’t care about its behavior beyond that interval.

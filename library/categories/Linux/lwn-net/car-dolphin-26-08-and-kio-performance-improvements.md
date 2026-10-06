@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1091177/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-01T19:33:14.074784530Z"
-seen = false
+seen = true
 +++
 
 Méven Car has written a pair of interesting blog posts ([part 1](https://blogs.kde.org/2026/08/26/dolphin-26.08-and-kio-perf-improvements/), [part 2](https://blogs.kde.org/2026/08/27/dolphin-26.08-and-kio-part-two-what-got-faster-and-smaller/)). The first post is largely about some of the recent new features and performance work that have gone into the [Dolphin](https://apps.kde.org/dolphin/) file manager 26.08 release, as well as the [KIO](https://en.wikipedia.org/wiki/KIO) framework. The second looks at the performance improvements and benchmarks for previous, current, and upcoming releases.

@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/AMDGPU-DC-Apple-Studio-Display"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-18T14:48:10.270618948Z"
-seen = false
+seen = true
 +++
 
 This week's batch of AMDGPU Display Core "DC" updates arrived heavy with 70 new patches for improving that open-source display support for Radeon graphics on the Linux desktop...

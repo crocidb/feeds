@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Mesa-26.2-rc1-Released"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-16T14:36:55.040440148Z"
-seen = false
+seen = true
 +++
 
 Mesa 26.2 was branched today from Mesa Git and in turn Mesa 26.3-devel is now open on mainline...

@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/debugging-wasm-in-chrome-devtools/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-04-25T13:20:44.457754459Z"
-seen = false
+seen = true
 +++
 
 When I was working on the [WASM backend for my Scheme compiler](https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/), I ran into several tricky situations with debugging generated WASM code. It turned out that Chrome has a very capable WASM debugger in its DevTools, so in this brief post I want to share how it can be used.

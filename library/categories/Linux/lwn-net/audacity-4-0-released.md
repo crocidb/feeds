@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1092439/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-03T14:30:41.836494730Z"
-seen = false
+seen = true
 +++
 
 [Version 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0) of the Audacity audio editor has been released. Notable changes in this release include a rewritten interface using Qt, ability to save user-interface layouts as "Workspaces", improvements in working with audio clips, and a new .aup4 project format.

@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/09/20/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-09-21T09:42:46.846218638Z"
-seen = false
+seen = true
 +++
 
 The past year has been exciting for w64devkit, which like any software distribution is never complete. [Peter0x44](https://peter0x44.github.io/) joined as co-maintainer, and has pushed the project in good, new directions, with ideas I would never have considered. Many of his improvements have gone back upstream, and so you may benefit even if you don’t use w64devkit. I’d like to touch on the various odds and ends from the past year.

@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1096200/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-23T18:24:55.794555244Z"
-seen = false
+seen = true
 +++
 
 The [Radicle](https://radicle.dev/) peer-to-peer code-collaboration project has [disclosed two critical vulnerabilities](https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol) in the network protocol used by Radicle nodes. The first flaw is that the network protocol used by Radicle "

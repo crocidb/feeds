@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Vulkan-1.4.363"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-21T09:42:43.331505771Z"
-seen = false
+seen = true
 +++
 
 Vulkan 1.4.363 is out as the latest routine update to the Vulkan API specification and also introduces a new Intel vendor extension...

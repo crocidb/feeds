@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1097758/"
 author = "corbet"
 text = ""
 lastupdated = "2026-09-30T20:51:44.811088200Z"
-seen = false
+seen = true
 +++
 
 The election for members of the Linux Foundation Technical Advisory Board will be held electronically after the close of the upcoming [Linux Plumbers Conference](https://lpc.events/). The [call for candidates](https://lwn.net/ml/all/a7f69e8d-1140-44b5-baf8-bacb8c30c01a@kernel.org) is open, with a nomination deadline of October 7. There are five seats to fill this time, including the one vacated by the unfortunate passing of Dan Williams.

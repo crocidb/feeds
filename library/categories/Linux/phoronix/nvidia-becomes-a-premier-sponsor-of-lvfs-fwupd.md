@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/NVIDIA-Premier-Sponsor-LVFS"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-06T09:52:34.708623692Z"
-seen = false
+seen = true
 +++
 
 Now this is a pleasant and very unexpected surprise... NVIDIA has become the latest premier sponsor of the Linux Vendor Firmware Service (LVFS)...

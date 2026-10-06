@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/KDE-Plasma-6.8-More-Performance"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-24T15:49:15.239552873Z"
-seen = false
+seen = true
 +++
 
 This Week in Plasma is out with its latest issue to highlight interesting developments in the trek towards Plasma 6.8...

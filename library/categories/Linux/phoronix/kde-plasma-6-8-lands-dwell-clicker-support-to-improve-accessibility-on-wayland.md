@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/KDE-Plasma-6.8-Dwell-Clicker"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-03T13:15:07.069186256Z"
-seen = false
+seen = true
 +++
 
 In preparations for Plasma 6.8 going Wayland-exclusive in abandoning the X11 session, another feature gap compared to X11 has been addressed...

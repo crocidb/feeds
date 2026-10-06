@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/06/21/chatting-with-ai-wont-make-you-a-top-pr
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-06-29T12:19:32.070533194Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/06/image-4-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async">

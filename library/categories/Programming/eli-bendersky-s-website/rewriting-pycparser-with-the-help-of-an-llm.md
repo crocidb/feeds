@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-a
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-02-11T20:17:04.456609191Z"
-seen = false
+seen = true
 +++
 
 [pycparser](https://github.com/eliben/pycparser) is my most widely used open source project (with \~20M daily downloads from PyPI [[1]](#footnote-1)). It's a pure-Python parser for the C programming language, producing ASTs inspired by [Python's own](https://docs.python.org/3/library/ast.html). Until very recently, it's been using [PLY: Python Lex-Yacc](https://www.dabeaz.com/ply/ply.html) for the core parsing.

@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/concurrent-servers-part-7-rust/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-08-24T15:49:17.488704751Z"
-seen = false
+seen = true
 +++
 
 This is part 7 in a series of posts on writing concurrent network servers. In this part, we discuss how the challenges described in earlier parts are tackled in the Rust programming language.

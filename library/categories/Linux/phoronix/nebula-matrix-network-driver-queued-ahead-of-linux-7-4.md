@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Nebula-Matrix-NIC-Linux-7.4"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-23T18:24:55.028490643Z"
-seen = false
+seen = true
 +++
 
 NBL is a new Ethernet networking driver destined to premiere in the upcoming Linux 7.4 kernel for supporting Nebula Matrix NICs...

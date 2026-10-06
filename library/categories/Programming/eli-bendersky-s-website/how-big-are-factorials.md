@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/how-big-are-factorials/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-09-01T19:33:15.342930428Z"
-seen = false
+seen = true
 +++
 
 The other day, I found myself wondering how big 52! (52 factorial) is, and that led me to ponder how these could be estimated without a calculator or a computer.

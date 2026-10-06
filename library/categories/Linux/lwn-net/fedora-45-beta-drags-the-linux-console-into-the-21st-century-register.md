@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1094762/"
 author = "corbet"
 text = ""
 lastupdated = "2026-09-21T09:42:43.311877820Z"
-seen = false
+seen = true
 +++
 
 The Register [looks forward](https://www.theregister.com/software/2026/09/16/fedora-45-beta-drags-the-linux-console-into-the-21st-century/5296873) to the upcoming Fedora 45 release.

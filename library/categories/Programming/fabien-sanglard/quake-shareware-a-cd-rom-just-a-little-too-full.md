@@ -6,6 +6,6 @@ url = "https://fabiensanglard.net/quake_shareware_cd/index.html"
 author = "Fabien Sanglard"
 text = ""
 lastupdated = "2026-08-24T15:49:17.268741711Z"
-seen = false
+seen = true
 +++
 

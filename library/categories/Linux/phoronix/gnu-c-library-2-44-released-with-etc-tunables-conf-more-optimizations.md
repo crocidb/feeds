@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/GNU-C-Library-glibc-2.44"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-28T12:42:27.403463347Z"
-seen = false
+seen = true
 +++
 
 GNU developers today released GNU C Library "glibc" 2.44 as the newest feature release for this critical library to modern Linux systems and other platforms...

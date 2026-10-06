@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-pr
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-09-21T09:42:46.664824947Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/09/Gemini_Generated_Image_co7959co7959co79-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy">

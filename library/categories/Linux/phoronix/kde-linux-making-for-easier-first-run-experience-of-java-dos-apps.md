@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/KDE-Linux-July-2026"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-06T09:52:34.732588708Z"
-seen = false
+seen = true
 +++
 
 With July all wrapped up, the monthly status report is now published for KDE Linux as the in-house Linux distribution featuring all of the latest KDE wares and other open-source innovations...

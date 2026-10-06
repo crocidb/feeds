@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/notes-on-discrete-time-fourier-series-
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-09-21T09:42:46.637867480Z"
-seen = false
+seen = true
 +++
 
 The following are my notes on discrete-time Fourier series (DTFS), as well as the discrete-time Fourier transform (DTFT). These topics serve as an important theoretical underpinning to the digital processing of signals by computers using the DFT (which will be covered in a future post).

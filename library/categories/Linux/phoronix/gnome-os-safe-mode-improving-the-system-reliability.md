@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/GNOME-OS-Safe-Mode"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-18T14:48:10.281263453Z"
-seen = false
+seen = true
 +++
 
 At GNOME's annual GUADEC conference happening this week in Spain, an update was shared on the current state of GNOME OS...

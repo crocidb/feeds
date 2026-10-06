@@ -6,7 +6,7 @@ url = "blog/reviewing-again/index.html"
 author = "Sandy Maguire"
 text = ""
 lastupdated = "2026-09-01T19:33:16.141822466Z"
-seen = false
+seen = true
 +++
 
 Last time, we took a stroll down memory lane to review some ancient code I wrote, and see what/how I’d do things differently now. That was fun, and I have a new banger for us today.

@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/GNOME-Shell-Mutter-51-RC"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-03T13:15:07.078211670Z"
-seen = false
+seen = true
 +++
 
 The release candidates are out today for the GNOME Shell and Mutter in preparing for the formal "GNOME 51.rc" release in the coming days...

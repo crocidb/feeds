@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/COSMIC-Epoch-1.3"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-16T14:36:55.063599461Z"
-seen = false
+seen = true
 +++
 
 For those that were intrigued by the COSMIC desktop's "Frosted Glass" effect, it's now available in released form with today's COSMIC Epoch 1.3 release...

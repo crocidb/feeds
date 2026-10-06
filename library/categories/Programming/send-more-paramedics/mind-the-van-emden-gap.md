@@ -6,7 +6,7 @@ url = "https://blog.fogus.me/llm/van-emden.html"
 author = "fogus"
 text = ""
 lastupdated = "2026-04-22T14:43:24.613212889Z"
-seen = false
+seen = true
 +++
 
 Whereby I read a paper about Intelligence Augmentation written in 1982 and talk about how it relates to today...

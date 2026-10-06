@@ -6,7 +6,7 @@ url = "https://nautil.us/this-cool-lava-planet-has-an-atmosphere-1285436/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-01T11:34:04.724497721Z"
-seen = false
+seen = true
 +++
 
 It’s like a big baby Earth

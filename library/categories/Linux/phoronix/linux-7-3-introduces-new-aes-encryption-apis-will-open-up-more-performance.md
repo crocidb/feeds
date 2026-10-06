@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.3-New-Crypto-AES-APIs"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-24T15:49:15.220206693Z"
-seen = false
+seen = true
 +++
 
 Eric Biggers of Google continues carrying out great work on the Linux kernel crypto code. For Linux 7.3 he's landed work on new library APIs for most of the AES encryption modes used within the kernel. Moving forward this will open the door to more performance optimizations, reducing code duplication, and other enhancements...

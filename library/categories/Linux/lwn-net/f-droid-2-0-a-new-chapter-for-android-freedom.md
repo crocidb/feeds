@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1096444/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-27T09:50:58.740936632Z"
-seen = false
+seen = true
 +++
 
 The [F-Droid project](https://f-droid.org/en/) has [announced](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) the release of F-Droid 2.0, which is a complete redesign of the official app. Notable changes in the release include making it easier to discover and install applications, more useful app categories, improved search, and much more.

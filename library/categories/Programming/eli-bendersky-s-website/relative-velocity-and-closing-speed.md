@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/relative-velocity-and-closing-speed/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-08-06T09:52:35.881196446Z"
-seen = false
+seen = true
 +++
 
 In Physics simulations or game engines it’s sometimes useful to determine the speed with which two objects are approaching each other. This post will discuss the concept of *closing speed*, which is the *normal component* of the *relative velocity* of two objects.

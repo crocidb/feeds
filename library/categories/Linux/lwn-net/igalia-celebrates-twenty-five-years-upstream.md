@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1095723/"
 author = "jake"
 text = ""
 lastupdated = "2026-09-23T18:24:55.801053169Z"
-seen = false
+seen = true
 +++
 
 The open-source consulting firm [Igalia](https://www.igalia.com/) has put out [an announcement celebrating 25 years](https://www.igalia.com/2026/09/21/Twenty-Five-Years-Upstream.html) of working on upstream FOSS projects for its clients. The list of projects the company has worked on is rather eye-opening: WebKit, mobile-browser rendering (on Maemo, Moblin, MeeGo, and Tizen), the Linux kernel (CPU and GPU scheduling), 3D graphics drivers, the Orca screen reader, GStreamer, and lots more. Beyond that, the company, which is a worker-owned cooperative, does its work in ways that benefit the community as well as its clients:

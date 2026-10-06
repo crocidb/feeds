@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2025/summary-of-reading-october-december-20
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-02-11T20:17:04.465408430Z"
-seen = false
+seen = true
 +++
 
 * "The Origins of Political Order: From Prehuman Times to the French Revolution" by Francis Fukuyama - while reading this book it occurred to me that domains of study like political sciense must be incredibly difficult and frustrating. Imagine trying to match a model onto a set of data; the model has thousands of parameters, but you only have dozens or a couple of hundred of data points. This is what political sciense is like; there's a huge number of parameters and variables, far more than actual historical examples. And moreover, the historical examples are vague and often based on very partial memory and sketchy records. So books like this most often just devolve to history. As a history book, this one isn't bad, but I found it hard to draw wide conclusions from the themes it presents.

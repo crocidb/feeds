@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/notes-on-linear-algebra-for-polynomial
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-03-18T21:57:51.392784967Z"
-seen = false
+seen = true
 +++
 
 We’ll be working with the set P\_n(\\mathbb{R}), real polynomials of degree \\leq n. Such polynomials can be expressed using n+1 scalar coefficients a\_i as follows:

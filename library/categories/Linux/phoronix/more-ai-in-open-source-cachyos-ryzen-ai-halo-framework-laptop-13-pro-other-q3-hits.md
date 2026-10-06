@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Q3-2026-Highlights"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-30T20:51:44.501328207Z"
-seen = false
+seen = true
 +++
 
 With the third quarter wrapping up, here is a look back at the most interesting content on Phoronix over the past three months...

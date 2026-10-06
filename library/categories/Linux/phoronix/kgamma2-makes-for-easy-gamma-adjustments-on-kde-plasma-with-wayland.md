@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/KDE-KGamma2-Gamma-Wayland"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-06T09:52:34.729893500Z"
-seen = false
+seen = true
 +++
 
 KDE developer David Edmundson announced today his KGamma2 tool in aiming to address a pain point for KDE Plasma desktop users on Wayland...

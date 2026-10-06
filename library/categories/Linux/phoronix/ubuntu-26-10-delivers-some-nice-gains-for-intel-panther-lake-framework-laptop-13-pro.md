@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/review/ubuntu-2610-panther-lake"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-27T09:50:57.586436310Z"
-seen = false
+seen = true
 +++
 
 For those with a Framework Laptop 13 Pro or another Intel Core Ultra Series 3 "Panther Lake" laptop, the upcoming Ubuntu 26.10 release is delivering some nice out-of-the-box improvements over Ubuntu 26.04 LTS.

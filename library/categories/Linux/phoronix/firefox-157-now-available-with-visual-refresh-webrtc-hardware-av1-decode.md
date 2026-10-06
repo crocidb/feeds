@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Firefox-157-Released"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-28T20:25:27.336689193Z"
-seen = false
+seen = true
 +++
 
 As part of the Mozilla Firefox bi-weekly release regiment, the Firefox 157 binaries are now available for this open-source web browser...

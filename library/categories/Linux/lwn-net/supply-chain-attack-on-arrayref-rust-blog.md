@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1089720/"
 author = "corbet"
 text = ""
 lastupdated = "2026-08-24T15:49:16.139654794Z"
-seen = false
+seen = true
 +++
 
 The Rust blog [reports](https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/) on a malicious crate, called proc-macro1, that was uploaded to the crates.io repository.

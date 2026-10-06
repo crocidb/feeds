@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.3-HIDPP-Reprogrammable"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-10T12:13:28.618499849Z"
-seen = false
+seen = true
 +++
 
 For those with newer, high-end Logitech input devices, coming with Linux 7.3 is support for the re-programmable button support of the HID++ 2.0 protocol...

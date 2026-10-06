@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/a-skillmd-for-commenting-on-hacker"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-09-27T09:50:57.685127396Z"
-seen = false
+seen = true
 +++
 
 Roll a d6.

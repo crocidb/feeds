@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Rusticl-2026"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-30T20:51:44.516309310Z"
-seen = false
+seen = true
 +++
 
 Rusticl lead developer Karol herbst provided a status update on this Mesa Rust-based OpenCL driver during the XDC 2026 conference happening in Toronto...

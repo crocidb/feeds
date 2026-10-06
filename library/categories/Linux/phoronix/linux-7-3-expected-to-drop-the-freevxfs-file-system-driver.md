@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-Retiring-FreeVxFS"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-06T09:52:34.728401771Z"
-seen = false
+seen = true
 +++
 
 It looks like Linux 7.3 will end up dropping FreeVxFS as the read-only Linux kernel driver for the Veritas VxFS file-ssytem used formerly by HP-UX and SCO UnixWare...

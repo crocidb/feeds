@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Fedora-45-Approves-Stratis"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-22T09:22:32.023729878Z"
-seen = false
+seen = true
 +++
 
 The Fedora Engineering and Steering Committee (FESCo) has approved the latest batch of features for the upcoming Fedora 45 release...

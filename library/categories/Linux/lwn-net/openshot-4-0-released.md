@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1091606/"
 author = "jzb"
 text = ""
 lastupdated = "2026-09-01T19:33:14.064536888Z"
-seen = false
+seen = true
 +++
 
 [Version 4.0](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/) of the OpenShot video editor has been released.

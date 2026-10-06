@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/07/16/using-ai-to-build-your-own-software/"
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-07-18T14:48:15.187906079Z"
-seen = false
+seen = true
 +++
 
 A few years ago, a friend of mine was stuck. He needed to quickly process over a hundred high-quality images according to a complicated sequence. He was using Photoshop, but it was going to take him days. Initially, he asked for my help, could I do the manual labor? I spent 15 minutes writing a script with ImageMagick that processed all the images in seconds, but in a completely automated way.

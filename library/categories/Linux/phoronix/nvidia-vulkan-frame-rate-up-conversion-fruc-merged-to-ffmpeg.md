@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/FFmpeg-NVIDIA-RTX-FRUC"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-01T19:33:13.200211015Z"
-seen = false
+seen = true
 +++
 
 Upstreamed to the FFmpeg multimedia driver code this weekend is support for Frame Rate Up-Conversion "FRUC" making use of the NVIDIA Vulkan Optical Flow extension...

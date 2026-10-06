@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Debian-Inference-Portal"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-27T09:50:57.604616680Z"
-seen = false
+seen = true
 +++
 
 With Debian voting to allow the responsible use of generative AI, there is now a new initiative funded by Scaleway to make it easier for Debian contributors to leverage AI: the Debian Inference Portal...

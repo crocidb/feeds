@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=my-apl-coding-style"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-09-21T09:42:42.383086367Z"
-seen = false
+seen = true
 +++
 
 [Coding style depends on task](coding-style-depends-on-task.md), but usually I prefer heavily annotated APL code to the code without annotations, even though I usually tend to forget about annotations under time pressure or due to the flow.

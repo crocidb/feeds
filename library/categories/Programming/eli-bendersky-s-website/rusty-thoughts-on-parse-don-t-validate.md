@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-09-27T09:51:01.365770461Z"
-seen = false
+seen = true
 +++
 
 Like many programmers, I find Alexis King's [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/) article fascinating, because it gives a name to an idiom that seems familiar and important - one I've observed and used in the past without naming it explicitly. This post is a review of the "Parse, don't validate" pattern applied to the Rust programming language (the original post uses Haskell). I was particularly interested in finding educational examples of this pattern in the Rust standard library and other well-known projects.

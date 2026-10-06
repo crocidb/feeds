@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/NetworkManager-1.58"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-21T09:19:52.523784333Z"
-seen = false
+seen = true
 +++
 
 NetworkManager 1.58 is out today with the latest feature enhancements for bettering wired and wireless network management on Linux...

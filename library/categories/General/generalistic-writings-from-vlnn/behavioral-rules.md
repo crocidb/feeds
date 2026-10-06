@@ -6,7 +6,7 @@ url = "https://vlnn.dev/?stack=behavioral-rules"
 author = "Generalistic writings from @vlnn"
 text = ""
 lastupdated = "2026-09-01T19:33:12.329713242Z"
-seen = false
+seen = true
 +++
 
 In the context of the **Attitude Note (태도정리노트)** and **Behavioral Guidelines (행동강령)**, a [behavioral](behavior.md) rule is a structured, action-oriented instruction designed to replace unpredictable "intuition" or "panic" under stress with highly automated, machine-like routines

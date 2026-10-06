@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Fedora-45-Atomic-Remote-Install"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-23T22:52:44.210011581Z"
-seen = false
+seen = true
 +++
 
 One of the latest change proposals filed for Fedora Linux 45 is for supporting web-based remote installations of Fedora Atomic Desktop images...

@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/NetBSD-9.5-Released"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-08T09:44:05.351201387Z"
-seen = false
+seen = true
 +++
 
 NetBSD 9.5 released today as the final release of the NetBSD 9 stable branch...

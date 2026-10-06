@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/OpenCL-3.1.2-Released"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-21T09:42:43.358093169Z"
-seen = false
+seen = true
 +++
 
 The Khronos Group today released the newest revision of the OpenCL specification with a handful of changes...

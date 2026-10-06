@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Btrfs-Fixes-For-Linux-7.3-rc4"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-21T09:42:43.334280609Z"
-seen = false
+seen = true
 +++
 
 Merged today were this week's set of Btrfs file-system fixes for the Linux 7.3-rc4 kernel, which include two notable bug fixes...

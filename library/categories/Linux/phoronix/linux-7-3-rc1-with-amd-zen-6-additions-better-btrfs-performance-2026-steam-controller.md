@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/Linux-7.3-rc1-Released"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-01T19:33:13.193451157Z"
-seen = false
+seen = true
 +++
 
 Like clockwork, the Linux 7.3 merge window has concluded after two weeks and the Linux 7.3-rc1 kernel now available for testing...

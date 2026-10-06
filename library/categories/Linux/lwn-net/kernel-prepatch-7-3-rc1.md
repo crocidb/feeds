@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1091421/"
 author = "corbet"
 text = ""
 lastupdated = "2026-09-01T19:33:14.070295132Z"
-seen = false
+seen = true
 +++
 
 Linus has [released 7.3-rc1](https://lwn.net/Articles/1091420/) and closed the merge window for this release. "

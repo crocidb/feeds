@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/notes-on-fourier-series/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-05-28T23:18:06.471354766Z"
-seen = false
+seen = true
 +++
 
 The trigonometric Fourier series is a beautiful mathematical theory that shows how to decompose a periodic function into an infinite sum of sinusoids. These are my notes on the subject, with some examples and the connection to linear algebra in Hilbert space.

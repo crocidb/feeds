@@ -6,7 +6,7 @@ url = "https://agentultra.com/blog/time-efficient-least-frequently-used-cache/in
 author = "James"
 text = ""
 lastupdated = "2026-02-11T20:17:06.359381201Z"
-seen = false
+seen = true
 +++
 
 Musings and ramblings on programming and things

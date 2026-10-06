@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/GCC-17-Merges-ACE-v1"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-09-03T13:15:07.081026137Z"
-seen = false
+seen = true
 +++
 
 Landing today in the GNU Compiler Collection (GCC) codebase is initial support for the AI Compute Extensions (ACEv1) as the initial work out of the x86 Ecosystem Advisory Group between Intel and AMD for a common matrix acceleration architecture for helping AI/ML workloads with future CPUs...

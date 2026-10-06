@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/09/17/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-09-21T09:42:46.847691817Z"
-seen = false
+seen = true
 +++
 
 [Stars!](https://en.wikipedia.org/wiki/Stars!) is a 1995 [4X](https://en.wikipedia.org/wiki/4X) game (explore, expand, exploit, exterminate) for 16-bit Windows 3.1 that I first played \~28 years ago. While Windows is famously backwards compatible, it’s notoriously difficult to play Stars! today. Windows x64 cannot run 16-bit applications, and playing requires either retro hardware or emulation ([otvdm](https://github.com/otya128/winevdm), [DOSBox](https://www.dosbox.com/)), sometimes paired with [Wine](https://www.winehq.org/). My new, exciting solution, **[Stars!VM](https://github.com/skeeto/StarsVM)**, or *Stars! Virtual Machine*, embeds a custom [80286](/blog/2014/12/09/) emulator and a Win16 to Win32 bridge. As native Win32, the game looks and feels exactly as it did originally, except sporting a modern file chooser and 4k scaling. It’s indistinguishable from a genuine 32-bit or 64-bit port of the game, especially with the original 16-bit game embedded inside the VM executable.

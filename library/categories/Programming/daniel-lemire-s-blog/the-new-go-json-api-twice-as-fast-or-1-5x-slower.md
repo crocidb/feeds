@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/08/29/the-new-go-json-api-twice-as-fast-or-1-
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-09-01T19:33:15.267704827Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/08/xZAWW-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy">

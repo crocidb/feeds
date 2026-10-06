@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/FreeBSD-Intern-AMD-ROCm"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-07-18T14:48:10.452764883Z"
-seen = false
+seen = true
 +++
 
 An intern with the FreeBSD Foundation is working on porting AMD's ROCm compute stack to run on this popular BSD environment...

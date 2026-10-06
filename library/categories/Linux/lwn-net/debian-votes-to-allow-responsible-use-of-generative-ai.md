@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1091231/"
 author = "corbet"
 text = ""
 lastupdated = "2026-09-01T19:33:14.071913713Z"
-seen = false
+seen = true
 +++
 
 The [results](https://lwn.net/ml/all/E1x06W1-00AjNI-1i@vento.debian.org) of the [Debian general-resolution vote](https://lwn.net/Articles/1087134/) on the use of large language models have been posted; the winner is [choice 5: Responsible Use of Generative AI](https://www.debian.org/vote/2026/vote_002#texte).

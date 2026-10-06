@@ -6,7 +6,7 @@ url = "https://eli.thegreenplace.net/2026/concurrent-servers-part-8-go/"
 author = "Eli Bendersky"
 text = ""
 lastupdated = "2026-08-24T15:49:17.479255179Z"
-seen = false
+seen = true
 +++
 
 This is part 8 in a series of posts on writing concurrent network servers. In this part, we'll switch to Go and see how it tackles the challenges described earlier in the series.

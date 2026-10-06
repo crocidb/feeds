@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-09-21T09:42:43.495943278Z"
-seen = false
+seen = true
 +++
 
 I try to keep marketing in check: I’ve been working on my latest book for more than a year but only posted about it once. At the time, the book was still going through layout and editing, so I didn’t expect many subscribers to pull the trigger. But now, I’m happy to report that the book is actually, physically here — and is lookin’ good:

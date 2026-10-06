@@ -6,7 +6,7 @@ url = "https://www.phoronix.com/news/UALink-Series-2-Linux"
 author = "Michael Larabel"
 text = ""
 lastupdated = "2026-08-24T15:49:15.245097894Z"
-seen = false
+seen = true
 +++
 
 Whether coincidental or intentional, AMD engineers tend to drop interesting, feature patches for the open-source/Linux space on Friday afternoons. Hitting the kernel mailing list minutes ago were two patch series sent out by AMDGPU maintainer Alex Deucher for introducing UALink infrastructure...

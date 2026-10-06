@@ -6,7 +6,7 @@ url = "https://lemire.me/blog/2026/09/11/the-four-colour-theorem-was-only-the-st
 author = "Daniel Lemire"
 text = ""
 lastupdated = "2026-09-21T09:42:46.672224594Z"
-seen = false
+seen = true
 +++
 
 <img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2026/09/kALnB-150x150.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy">

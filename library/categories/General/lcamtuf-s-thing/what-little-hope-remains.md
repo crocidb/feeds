@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/what-little-hope-remains"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-09-21T09:42:43.493983730Z"
-seen = false
+seen = true
 +++
 
 I am alone now. I don’t know who else survived.
