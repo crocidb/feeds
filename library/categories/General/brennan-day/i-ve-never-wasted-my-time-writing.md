@@ -6,7 +6,7 @@ url = "https://brennan.day/i-ve-never-wasted-my-time-writing/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-28T20:25:25.489156879Z"
-seen = false
+seen = true
 +++
 
 This blog is an expression of the things I love—I love [community](https://brennan.day/collections/community/), [religion](https://brennan.day/collections/religion/), [science](https://brennan.day/collections/science/), [good web technologies](https://brennan.day/collections/technical-tutorials/), and [history](https://brennan.day/collections/history/), just to name a few topics off the top of my head. Of course, I also love [writing](https://brennan.day/collections/writing-craft/). Focusing on what I love and what brings me joy is how I've been able to sustain my publishing cadence over the past year without it ever becoming a slog, or burning me out.

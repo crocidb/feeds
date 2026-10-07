@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-a
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-10-05T09:04:46.048786017Z"
-seen = false
+seen = true
 +++
 

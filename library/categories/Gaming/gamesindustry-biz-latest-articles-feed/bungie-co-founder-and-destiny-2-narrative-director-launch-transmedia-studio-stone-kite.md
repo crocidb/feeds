@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-d
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-05T09:04:45.324448295Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/stone-kite-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

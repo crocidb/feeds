@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/consumer-protection-cooperation-network-lau
 author = "Dr Andreas Lober"
 text = ""
 lastupdated = "2026-10-05T09:04:45.330981461Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/clash-of-clans_VxMdTAs.jpg?width=690&quality=85&format=jpg&auto=webp)

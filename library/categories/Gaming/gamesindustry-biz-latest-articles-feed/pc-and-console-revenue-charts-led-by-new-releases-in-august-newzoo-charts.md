@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-re
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-01T11:34:01.229360160Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/big-walk_WjHYVBm.jpg?width=690&quality=85&format=jpg&auto=webp)

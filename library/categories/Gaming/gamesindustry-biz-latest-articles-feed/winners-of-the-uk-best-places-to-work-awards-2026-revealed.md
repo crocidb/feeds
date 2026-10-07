@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/winners-of-the-uk-best-places-to-work-award
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-05T09:04:45.325765304Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/5D7A8416-Edit.png?width=690&quality=85&format=jpg&auto=webp)

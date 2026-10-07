@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-05T09:04:45.321638066Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/5D7A8407-Edit.png?width=690&quality=85&format=jpg&auto=webp)

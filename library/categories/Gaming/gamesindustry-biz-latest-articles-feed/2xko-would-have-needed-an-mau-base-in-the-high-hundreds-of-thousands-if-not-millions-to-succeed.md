@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-h
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-05T09:04:45.328403663Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/2kxo_3bOEGlA.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-10-05T09:04:45.323009035Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/5D7A6953.png?width=690&quality=85&format=jpg&auto=webp)

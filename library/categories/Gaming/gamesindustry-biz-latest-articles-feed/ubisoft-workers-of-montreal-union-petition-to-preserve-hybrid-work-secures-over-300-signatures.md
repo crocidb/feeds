@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-05T09:04:45.332302820Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ubisoft-dennis-zhang-eomfnamQM38-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

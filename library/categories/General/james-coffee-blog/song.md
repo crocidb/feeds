@@ -1,0 +1,16 @@
++++
+title = "Song"
+description = "I want to give all my breath to the song, listening to every transcendent, liminal, spooky note, accompanied by intertwined tracks of coded and pure voice. I want to sing out the words I know loudly, and read all those I don’t know so that I may sing as much as I can with all the"
+date = "2026-10-05T00:00:00Z"
+url = "https://jamesg.blog/2026/10/05/song"
+author = "with words, wonder"
+text = ""
+lastupdated = "2026-10-06T13:46:49.545826211Z"
+seen = false
++++
+
+I want to give all my breath to the song, listening to every transcendent, liminal, spooky note, accompanied by intertwined tracks of coded and pure voice. I want to sing out the words I know loudly, and read all those I don’t know so that I may sing as much as I can with all the ardour in my heart and my soul, each vestige of passion entering the air being a sign of life, a sign of feeling, a sign of all that I have learned and all that I do not know. I listen to songs that I have heard dozens of times before, hearing in my partial recall of the lyrics my limits. I cannot sing everything, but I can sing parts of the song, and keep singing until I have learned as much as I can – every word a signal of a feeling that I have transversed and held in my hands or the wells of my eyes.
+
+As I sing I know where to pause and when the music will come back again; there are always moments to listen, each a chapter in the story, a story in which I know so few words but with which I feel so much. Therein again, limits. How can a song feel so right even when you do not know what all the words mean? How can such a song invite you to harmonise, in which you become part of a chorus of three voices – two, the artist, one, you? The pauses in the tracks invite a moment to take a breath; to feel your eyes and face lighten with the instrumental before you feel compelled to sing once again to an interplay of sounds and solo transformed only days ago when your reading of the background brought tears. You sing, and then shake your head with closed eyes to the mountain sounds of the conclusion – layers of meaning yet to appreciate; the fade-out before the fade-in gives you pause, and then distance, as a new song plays that holds your heart unlike those that came before.
+
+(function(){function c(){var b=a.contentDocument||(a.contentWindow&amp;&amp;a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.\_\_CF$cv$params={r:'a4651cec1fcae47f',t:'MTc5MTI5NDM5NA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&amp;&amp;(document.onreadystatechange=e,c())}}}})();

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sha
 author = "Nicole Carpenter"
 text = ""
 lastupdated = "2026-10-05T09:04:46.050118855Z"
-seen = false
+seen = true
 +++
 

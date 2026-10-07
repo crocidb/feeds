@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-eng
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-05T09:04:45.318906768Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/resident-evil-requiem-trailer-reveals-bustling-city-location_89ud.jpg?width=690&quality=85&format=jpg&auto=webp)

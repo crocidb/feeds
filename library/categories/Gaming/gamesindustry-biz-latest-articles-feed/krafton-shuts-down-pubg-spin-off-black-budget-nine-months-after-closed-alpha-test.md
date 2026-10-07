@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budg
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-05T09:04:45.329686901Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/black-budget.jpg?width=690&quality=85&format=jpg&auto=webp)

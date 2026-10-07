@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-app
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-01T11:34:01.228067111Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Catherine-Bygrave-New-edit-(1).jpg?width=690&quality=85&format=jpg&auto=webp)
