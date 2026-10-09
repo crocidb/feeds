@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/plataforma-pernambuco-arte-publica-mapeia-cerca
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-06T13:46:49.579548294Z"
-seen = false
+seen = true
 +++
 
 A plataforma digital **[Pernambuco Arte Pública](https://pernambucoartepublica.com.br)** entra no ar no dia 12 de outubro de 2026 reunindo informações e registros fotográficos de cerca de 100 obras de arte instaladas em espaços abertos de aproximadamente 40 municípios pernambucanos. O projeto amplia a pesquisa desenvolvida há mais de uma década pelo Recife Arte Pública e abrange trabalhos distribuídos pela Região Metropolitana do Recife, Zona da Mata, Agreste e Sertão, com incentivo do edital Funcultura Geral.

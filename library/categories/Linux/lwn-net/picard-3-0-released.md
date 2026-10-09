@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1098600/"
 author = "jzb"
 text = ""
 lastupdated = "2026-10-06T13:46:50.478851462Z"
-seen = false
+seen = true
 +++
 
 [Version 3.0](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/) of the [MusicBrainz Picard](https://picard.musicbrainz.org/) tag editor has been released. "

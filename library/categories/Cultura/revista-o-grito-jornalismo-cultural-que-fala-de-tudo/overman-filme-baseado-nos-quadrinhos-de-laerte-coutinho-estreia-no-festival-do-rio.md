@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/overman-filme-baseado-nos-quadrinhos-de-laerte-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-06T13:46:49.581026074Z"
-seen = false
+seen = true
 +++
 
 O longa-metragem *Overman*, adaptação cinematográfica da célebre tira de quadrinhos criada pela cartunista [Laerte Coutinho](https://revistaogrito.com/laerte-se-documentario-sobre-laerte-coutinho-ganha-trailer-oficial/), faz sua estreia mundial na Première Brasil – Midnight Movies do [Festival do Rio](https://revistaogrito.com/festival-do-rio-anuncia-os-filmes-selecionados-para-a-premiere-brasil-principal-vitrine-do-cinema-brasileiro/). A exibição ocorre nesta terça-feira (6/10), às 21h45, no Cinesystem Belas Artes Botafogo, no Rio de Janeiro (RJ). Dirigida por **Tomás Portella** e produzida por **Iafa Britz**, a comédia satiriza as convenções das histórias de super-heróis ao acompanhar a rotina caótica de um personagem brasileiro falido e em crise existencial.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cinema-sao-luiz-estreia-novo-projetor-a-laser-4
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-10-05T09:04:46.371623610Z"
-seen = false
+seen = true
 +++
 
 O [Cinema São Luiz](https://revistaogrito.com/assunto/cinema-sao-luiz/), importante equipamento cultural de Pernambuco e um dos mais emblemáticos cinemas de rua do Brasil, entra em uma nova fase a partir desta quinta-feira (1º de outubro), com a estreia de um novo sistema de projeção e uma nova tela. A primeira sessão com os equipamentos será a exibição de *[A Odisseia](https://revistaogrito.com/a-odisseia-a-ambicao-homerica-de-christopher-nolan/)*, novo filme de **Christopher Nolan**, protagonizado por **Matt Damon**, **Tom Holland**, **Anne Hathaway**, **Robert Pattinson** e **Zendaya**, às 18h30. Os ingressos custam R$10 (inteira) e R$5 (meia) e estão disponíveis no [site](https://ingressosfundarpe.com.br/) e presencialmente na bilheteria uma hora antes do filme.

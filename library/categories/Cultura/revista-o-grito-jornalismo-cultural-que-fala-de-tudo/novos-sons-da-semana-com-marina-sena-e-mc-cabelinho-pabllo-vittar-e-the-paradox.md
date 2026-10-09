@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-marina-sena-e-mc-cabel
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-05T09:04:46.370159401Z"
-seen = false
+seen = true
 +++
 
 Novos Sons no ar! Hora de atualizar a playlist com as novidades. Essa semana, entre os destaques, **MC Cabelinho** lançou álbum novo, *ESCORPIÃO*, e conta com a presença de **[Marina Sena](https://revistaogrito.com/assunto/marina-sena/)** na faixa “VENENO”, que navega entre o simbolismo do animal que nomeia o álbum e sua presença difícil de ignorar (além do significado astrológico). Além disso, **Pabllo Vittar** lançou seu primeiro álbum internacional *Lost In Lust* e integra a playlist de novidades com a canção “Bad Good”.

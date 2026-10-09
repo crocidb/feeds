@@ -6,7 +6,7 @@ url = "https://lwn.net/Articles/1098980/"
 author = "jzb"
 text = ""
 lastupdated = "2026-10-06T13:46:50.473580225Z"
-seen = false
+seen = true
 +++
 
 [Version 10.6](https://www.openssh.org/txt/release-10.6) of OpenSSH has been released. The announcement notes that the OpenSSH team has been receiving a large number of AI-assisted security bug reports. "

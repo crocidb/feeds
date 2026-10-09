@@ -1,0 +1,31 @@
++++
+title = "Documentário “144 – Apocalipse Não”, de J.P. Cuenca, faz estreia mundial no Festival do Rio"
+description = "O documentário 144 – Apocalipse Não, dirigido, roteirizado e protagonizado pelo escritor e cineasta J.P. Cuenca (João Paulo Cuenca), faz sua estreia mundial no Festival do Rio. Selecionado para a mostra Première Brasil: Competição Novos Rumos, o filme toma como ponto de partida a"
+date = "2026-10-07T15:36:31Z"
+url = "https://revistaogrito.com/documentario-144-apocalipse-nao-de-j-p-cuenca-faz-estreia-mundial-no-festival-do-rio/"
+author = "Equipe O Grito!"
+text = ""
+lastupdated = "2026-10-08T09:34:21.224728171Z"
+seen = true
++++
+
+O documentário ***144 – Apocalipse Não***, dirigido, roteirizado e protagonizado pelo escritor e cineasta **J.P. Cuenca** (**João Paulo Cuenca**), faz sua estreia mundial no Festival do Rio. Selecionado para a mostra Première Brasil: Competição Novos Rumos, o filme toma como ponto de partida a ofensiva judicial coordenada de 144 processos por danos morais movidos por líderes da Igreja Universal do Reino de Deus após uma publicação satírica do autor direcionada a **Jair Bolsonaro** em uma rede social.
+
+Em resposta às ações e às ameaças recebidas, o cineasta percorreu mais de 10 mil quilômetros pelas cinco regiões do país em busca de diálogo com fiéis, pastores, lideranças comunitárias e moradores afetados por problemas socioambientais. Coproduzido pela produtora portuguesa O Som e a Fúria em parceria com a Bartleby e Duas Mariola, o longa conta com comentários do cineasta **Walter Salles** e equipe técnica formada por **Guilherme Tostes** na fotografia, **Bruna Carvalho** e **Marta Lopes** na montagem, e **Barulhista** na trilha sonora.
+
+* **[Acesse nossa homepage de Cinema](https://revistaogrito.com/musica)**
+* **[Leia mais críticas de filmes](https://revistaogrito.com/cinema/critica-filme)**
+
+As exibições no festival contam com a presença do diretor e da equipe para sessões com debates na capital fluminense. Os ingressos podem ser adquiridos diretamente nas bilheterias e plataformas dos cinemas exibidores.
+
+<img decoding="async" width="1024" height="540" data-attachment-id="202293" data-permalink="https://revistaogrito.com/documentario-144-apocalipse-nao-de-j-p-cuenca-faz-estreia-mundial-no-festival-do-rio/144-ap_f01cor_2026117335/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335.webp" data-orig-size="1450,765" data-comments-opened="0" data-image-title="144-ap_f01cor_2026117335" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335-1024x540.webp" loading="lazy" src="https://controle.revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335-1024x540.webp" alt="144 ap f01cor 2026117335" class="wp-image-202293" srcset="https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335-1024x540.webp 1024w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335-300x158.webp 300w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335-100x53.webp 100w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335-832x439.webp 832w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335-798x421.webp 798w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335-321x169.webp 321w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335-1428x753.webp 1428w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap_f01cor_2026117335.webp 1450w" sizes="auto, (max-width: 1024px) 100vw, 1024px">\<img decoding="async" width="1024" height="540" data-attachment-id="202293" data-permalink="https://revistaogrito.com/documentario-144-apocalipse-nao-de-j-p-cuenca-faz-estreia-mundial-no-festival-do-rio/144-ap\_f01cor\_2026117335/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335.webp" data-orig-size="1450,765" data-comments-opened="0" data-image-title="144-ap\_f01cor\_2026117335" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335-1024x540.webp" src="https://controle.revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335-1024x540.webp" alt="144 ap f01cor 2026117335" class="wp-image-202293" srcset="https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335-1024x540.webp 1024w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335-300x158.webp 300w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335-100x53.webp 100w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335-832x439.webp 832w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335-798x421.webp 798w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335-321x169.webp 321w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335-1428x753.webp 1428w, https://revistaogrito.com/wp-content/uploads/2026/10/144-ap\_f01cor\_2026117335.webp 1450w" sizes="(max-width: 1024px) 100vw, 1024px" /\>Cena de *144 – Apocalipse Não*. (Divulgação).
+
+**Serviço**   
+Exibições do filme *144 – Apocalipse Não* no Festival do Rio   
+
+Sexta-feira, 9 de outubro de 2026:  
+18h45 no Estação Claro Gávea (Rua Marquês de São Vicente, 52, Gávea, Rio de Janeiro – RJ)   
+
+Sábado, 10 de outubro de 2026: 16h15 no Estação Claro Rio (Rua Voluntários da Pátria, 35, Botafogo, Rio de Janeiro – RJ) e às 21h no Cinesystem Belas Artes Botafogo (Praia de Botafogo, 316, Botafogo, Rio de Janeiro – RJ)
+
+O post [Documentário “144 – Apocalipse Não”, de J.P. Cuenca, faz estreia mundial no Festival do Rio](https://revistaogrito.com/documentario-144-apocalipse-nao-de-j-p-cuenca-faz-estreia-mundial-no-festival-do-rio/) apareceu primeiro em [Revista O Grito! — Jornalismo cultural que fala de tudo](https://revistaogrito.com).

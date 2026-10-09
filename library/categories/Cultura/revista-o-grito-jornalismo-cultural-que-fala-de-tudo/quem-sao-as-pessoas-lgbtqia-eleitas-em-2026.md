@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/quem-sao-as-pessoas-lgbtqia-eleitas-em-2026/"
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-06T13:46:49.578042306Z"
-seen = false
+seen = true
 +++
 
 **Por Agência Diadorim**

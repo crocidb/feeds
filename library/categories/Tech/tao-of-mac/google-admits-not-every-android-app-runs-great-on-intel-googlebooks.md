@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/10/06/0634?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-06T13:46:52.592645430Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/10/06/0634/large.jpg?v=ba20cb8792f2" alt="quicklook" width="320" height="213">](https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

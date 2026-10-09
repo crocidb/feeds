@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/animamedo-mostra-de-animacao-de-horror-acontece
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-10-06T13:46:49.576125747Z"
-seen = false
+seen = true
 +++
 
 A primeira edição da AnimaMedo – Mostra de Animação de Horror chega em outubro ao [Cinema da UFPE](https://revistaogrito.com/?s=cinema+da+ufpe). Serão dois dias de programação gratuita, com sessões de curtas e longas-metragens animados de diversos países. As produções vão do body horror ao terror psicológico e utilizam diferentes técnicas de animação. O melhor curta nacional ganhará o troféu Perna Cabeluda.

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/design/print/fonts?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-06T13:46:52.597179448Z"
-seen = false
+seen = true
 +++
 
 The style affectations we rely on to render text.
