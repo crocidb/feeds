@@ -1,0 +1,32 @@
++++
+title = "The Secret Life of Circuits is now in stock everywhere"
+description = "For the past couple of weeks, you could get my latest book — The Secret Life of Circuits — directly from the publisher."
+date = "2026-10-20T07:07:38Z"
+url = "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now"
+author = "lcamtuf"
+text = ""
+lastupdated = "2026-10-21T11:46:09.611072692Z"
+seen = false
++++
+
+For the past couple of weeks, you could get my latest book — *[The Secret Life of Circuits](https://lcamtuf.coredump.cx/electronics/)* — directly from the publisher. That said, I know that some of you don’t want Jeff Bezos to starve, so I’m happy to announce that it’s now in stock on Amazon:
+
+[Buy on Amazon](https://www.amazon.com/dp/1718504802)
+
+Prospective readers in Europe can place orders on *[amazon.de](https://amazon.de/dp/1718504802), [amazon.fr](https://amazon.fr/dp/1718504802), [amazon.pl](https://amazon.pl/dp/1718504802), [amazon.es](https://amazon.es/dp/1718504802), [amazon.nl](https://amazon.nl/dp/1718504802), [amazon.se](https://amazon.se/dp/1718504802), [amazon.it](https://amazon.it/dp/1718504802),* and *[amazon.co.uk](https://www.amazon.co.uk/dp/1718504802).* The book is also available from [Barnes & Noble](https://www.barnesandnoble.com/w/the-secret-life-of-circuits-michal-zalewski/1149922689?ean=9781718504806) and other major online retailers in the US and Canada.
+
+[
+
+<img src="https://substackcdn.com/image/fetch/$s_!i_7m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99878b41-a047-45fc-8a3a-54cdc25e50f0_2000x1334.jpeg" width="1456" height="971" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/99878b41-a047-45fc-8a3a-54cdc25e50f0_2000x1334.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:971,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:973130,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://blog.coredump.cx/i/221063057?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99878b41-a047-45fc-8a3a-54cdc25e50f0_2000x1334.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" class="sizing-normal" alt="" srcset="https://substackcdn.com/image/fetch/$s_!i_7m!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99878b41-a047-45fc-8a3a-54cdc25e50f0_2000x1334.jpeg 424w, https://substackcdn.com/image/fetch/$s_!i_7m!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99878b41-a047-45fc-8a3a-54cdc25e50f0_2000x1334.jpeg 848w, https://substackcdn.com/image/fetch/$s_!i_7m!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99878b41-a047-45fc-8a3a-54cdc25e50f0_2000x1334.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!i_7m!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99878b41-a047-45fc-8a3a-54cdc25e50f0_2000x1334.jpeg 1456w" sizes="100vw" fetchpriority="high">
+
+](https://substackcdn.com/image/fetch/$s_!i_7m!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/99878b41-a047-45fc-8a3a-54cdc25e50f0_2000x1334.jpeg)*We conducted rigorous tests to confirm the book is free of AI slop.*
+
+While I have you here, a small plea: if you read *The Secret Life of Circuits* and have an Amazon account, please consider leaving an honest review. Reviews matter for their recommendation algorithm, and in 2026, every human author is “competing” with [hundreds of AI-generated books](https://blog.coredump.cx/p/the-100000-whys-of-ai). There’s even AI title-squatting going on:
+
+[
+
+<img src="https://substackcdn.com/image/fetch/$s_!BuoI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc954d5f6-a30e-4d7a-a21f-9ec8626ad3b8_2091x1039.jpeg" width="1456" height="723" data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c954d5f6-a30e-4d7a-a21f-9ec8626ad3b8_2091x1039.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:723,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:646614,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://blog.coredump.cx/i/221063057?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc954d5f6-a30e-4d7a-a21f-9ec8626ad3b8_2091x1039.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}" class="sizing-normal" alt="" srcset="https://substackcdn.com/image/fetch/$s_!BuoI!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc954d5f6-a30e-4d7a-a21f-9ec8626ad3b8_2091x1039.jpeg 424w, https://substackcdn.com/image/fetch/$s_!BuoI!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc954d5f6-a30e-4d7a-a21f-9ec8626ad3b8_2091x1039.jpeg 848w, https://substackcdn.com/image/fetch/$s_!BuoI!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc954d5f6-a30e-4d7a-a21f-9ec8626ad3b8_2091x1039.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!BuoI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc954d5f6-a30e-4d7a-a21f-9ec8626ad3b8_2091x1039.jpeg 1456w" sizes="100vw">
+
+](https://substackcdn.com/image/fetch/$s_!BuoI!,f_auto,q_auto:good,fl_progressive:steep/https://substack-post-media.s3.amazonaws.com/public/images/c954d5f6-a30e-4d7a-a21f-9ec8626ad3b8_2091x1039.jpeg)
+
+Of course, both Jeff and I thank you for your patronage!

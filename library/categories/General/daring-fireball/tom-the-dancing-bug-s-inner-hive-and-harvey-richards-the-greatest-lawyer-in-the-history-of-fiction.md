@@ -1,0 +1,20 @@
++++
+title = "Tom the Dancing Bug’s Inner Hive, and Harvey Richards, the Greatest Lawyer in the History of Fiction"
+description = "Ruben Bolling’s long-running Tom the Dancing Bug is one of my favorite comic strips. I’ve been a huge fan since the early 1990s, when I started reading it in alternative newspapers. (Newspapers were sort of like websites, excepted they were printed daily or weekly. I swear.) Back"
+date = "2026-10-18T22:53:00Z"
+url = "https://tomthedancingbug.com/the-inner-hive/"
+author = "John Gruber"
+text = ""
+lastupdated = "2026-10-21T11:46:08.134773667Z"
+seen = false
++++
+
+Ruben Bolling’s long-running Tom the Dancing Bug is one of my favorite comic strips. I’ve been a huge fan since the early 1990s, when I started reading it in alternative newspapers. (Newspapers were sort of like websites, excepted they were printed daily or weekly. I swear.) Back in 2012 Bolling — noting that the comic was more widely read than ever yet generating less money than ever — started a subscription membership called [The Inner Hive](https://tomthedancingbug.com/the-inner-hive/). I love it. Not just because I’m supporting work that I adore and value, but because the extras that members get are so fun. If you’re even half as big a fan of Tom the Dancing Bug as I am, [you should join too](https://tomthedancingbug.com/the-inner-hive/). There are several options — Patreon, MailChimp, Substack — but in my opinion Patreon is the simplest and the best, and it gets you everything.
+
+I was reminded to re-endorse The Inner Hive after I wrote [a post last night referencing Harvey Richards](https://daringfireball.net/linked/2026/10/17/whatever-you-say-bounces-off-me-and-sticks-to-you), lawyer for children — one of the comic’s longest running recurring characters. Tom the Dancing Bug’s entire schtick is premised on a wide array of recurring characters and premises, but Richards is probably my favorite. Here’s [an early one regarding the doctrine of “He Who Smelt It, Dealt It”](https://daringfireball.net/misc/2026/10/harvey-richards-smelt-it-dealt-it-1990.png) that ran [in National Lampoon in 1990](https://www.luckyfrogfarms.com/cook/NL/1990's/1991/1991_02.pdf). Here’s [one from 2012 at Boing Boing](https://boingboing.net/2012/04/18/tom-the-dancing-bug-harvey-r.html) (where Bolling is a contributor), and [here’s one from 2018 where Richards joins the Trump 1.0 White House](https://boingboing.net/2018/01/31/trumps-new-lawyer-harvey-ri.html), and specifically invokes the “I’m Rubber, You’re Glue, Everything You Say Bounces Off Me and Sticks to You” doctrine that I mentioned as a Richards specialty [in my post yesterday](https://daringfireball.net/linked/2026/10/17/whatever-you-say-bounces-off-me-and-sticks-to-you).
+
+But the thing is, my earliest memory of Harvey Richards was regarding the “I’m Rubber, You’re Glue” doctrine. It’s the foundation of all of children’s law, obviously. In my memory, it’s the first thing I remember about Harvey Richards in the strip. But I searched the web, and couldn’t find any old strips with it. I asked the LLM robots to search, and they came up with nothing. So I wrote to Bolling, with whom I’ve exchanged occasional correspondence for many years. Bolling not only confirmed that my memory isn’t entirely shot, but he graciously granted me permission to reproduce it here. It’s from 1993, when I know I was already a weekly reader of the strip.
+
+[<img src="https://daringfireball.net/misc/2026/10/harvey-richards-courtroom-rubber-glue-1993.png" alt="1993 “Tom the Dancing Bug” comic strip, featuring Harvey Richards, lawyer for children, branching out into courtroom practice." width="600">](https://daringfireball.net/misc/2026/10/harvey-richards-courtroom-rubber-glue-1993.png)
+
+[ ★ ](https://daringfireball.net/linked/2026/10/18/tom-the-dancing-bugs-inner-hive)
