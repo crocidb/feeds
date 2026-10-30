@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-10-21T11:46:07.690315963Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/-1430347497876.jpg?width=690&quality=85&format=jpg&auto=webp)

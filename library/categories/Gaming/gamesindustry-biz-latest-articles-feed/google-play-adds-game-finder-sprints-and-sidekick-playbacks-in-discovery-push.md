@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-si
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-21T11:46:07.698396869Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/unnamed_joO2efy.webp?width=690&quality=85&format=jpg&auto=webp)

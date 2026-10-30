@@ -6,7 +6,7 @@ url = "https://nautil.us/penguin-poop-is-melting-antarctic-snow-1285601/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-10-07T14:53:36.147832997Z"
-seen = false
+seen = true
 +++
 
 Thanks to green algae that groove on guano

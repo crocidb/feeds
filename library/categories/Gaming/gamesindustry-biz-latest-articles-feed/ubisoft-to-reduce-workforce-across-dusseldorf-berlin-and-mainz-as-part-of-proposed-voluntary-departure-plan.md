@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldo
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.697082209Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ubisoft-logo-black.png?width=690&quality=85&format=jpg&auto=webp)

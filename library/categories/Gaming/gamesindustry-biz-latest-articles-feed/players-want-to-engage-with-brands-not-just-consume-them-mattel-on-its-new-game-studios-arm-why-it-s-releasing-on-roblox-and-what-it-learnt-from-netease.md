@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/players-want-to-engage-with-brands-not-just
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-10-21T11:46:07.665843502Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Mattel-logo.png?width=690&quality=85&format=jpg&auto=webp)

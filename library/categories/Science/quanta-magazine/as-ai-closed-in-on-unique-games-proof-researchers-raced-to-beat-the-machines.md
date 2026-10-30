@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-rese
 author = "Ben Brubaker"
 text = ""
 lastupdated = "2026-10-08T09:34:21.712315166Z"
-seen = false
+seen = true
 +++
 
 On the morning of September 11, 2026, Dor Minzer received a text message from a friend asking whether he was close to settling one of the most famous open questions in theoretical computer science. Minzer, a professor at the Massachusetts Institute of Technology and a leading expert on the “unique games” conjecture, initially thought it was a joke. Then more messages started coming in…

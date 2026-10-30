@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/hell-let-loose-developer-expression-opens-n
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-21T11:46:07.744147980Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Expression-Logo-1920.jpg?width=690&quality=85&format=jpg&auto=webp)

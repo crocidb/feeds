@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.733926994Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/psvr-2_N82EKCi.jpg?width=690&quality=85&format=jpg&auto=webp)

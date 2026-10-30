@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-c
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-10-21T11:46:08.264560433Z"
-seen = false
+seen = true
 +++
 

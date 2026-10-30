@@ -6,7 +6,7 @@ url = "https://nautil.us/longevity-research-has-a-bullshit-problem-1285933/"
 author = "Saul Justin Newman"
 text = ""
 lastupdated = "2026-10-21T11:46:12.161202860Z"
-seen = false
+seen = true
 +++
 
 How impossible ages, lost paperwork, and invented biographies become scientific fact

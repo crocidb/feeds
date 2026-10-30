@@ -6,7 +6,7 @@ url = "https://nautil.us/the-incas-adorned-animal-sacrifices-with-coca-leaves-12
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-07T14:53:36.159815674Z"
-seen = false
+seen = true
 +++
 
 The find highlights the importance of the plant to Incan culture

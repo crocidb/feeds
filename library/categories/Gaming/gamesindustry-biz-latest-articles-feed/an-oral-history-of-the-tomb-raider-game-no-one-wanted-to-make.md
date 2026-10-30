@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-
 author = "Daryl Baxter"
 text = ""
 lastupdated = "2026-10-21T11:46:07.692995001Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Cropped-book-cover-the-making-of-tomb-raider-1997-2000.png?width=690&quality=85&format=jpg&auto=webp)

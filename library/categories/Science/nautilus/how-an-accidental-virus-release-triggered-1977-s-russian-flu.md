@@ -6,7 +6,7 @@ url = "https://nautil.us/how-an-accidental-virus-release-triggered-1977s-russian
 author = "Donald S. Burke"
 text = ""
 lastupdated = "2026-10-06T13:46:52.019413663Z"
-seen = false
+seen = true
 +++
 
 Preparing for a pandemic that never came ended up setting off another

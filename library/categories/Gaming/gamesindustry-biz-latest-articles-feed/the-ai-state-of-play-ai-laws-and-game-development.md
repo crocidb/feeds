@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-devel
 author = "Anna Poulter-Jones"
 text = ""
 lastupdated = "2026-10-21T11:46:07.678722797Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

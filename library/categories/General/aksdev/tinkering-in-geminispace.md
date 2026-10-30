@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/tinkering-in-geminispace/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-10-21T11:46:08.326721557Z"
-seen = false
+seen = true
 +++
 
 *I'm back in geminispace*

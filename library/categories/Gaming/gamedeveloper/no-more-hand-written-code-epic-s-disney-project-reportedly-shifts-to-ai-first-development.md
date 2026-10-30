@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-
 author = "Alissa McAloon"
 text = ""
 lastupdated = "2026-10-21T11:46:08.258556995Z"
-seen = false
+seen = true
 +++
 

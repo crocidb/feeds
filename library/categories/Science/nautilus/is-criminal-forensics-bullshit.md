@@ -6,7 +6,7 @@ url = "https://nautil.us/is-criminal-forensics-bullshit-1285587/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-07T14:53:36.157266245Z"
-seen = false
+seen = true
 +++
 
 Blood pattern analysis, ballistics, and drug-sniffing dogs are getting a fresh look

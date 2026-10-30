@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-ann
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.683862735Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/2_0r2ct4G.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-ga
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-21T11:46:07.670945731Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/PEGI-age-rating-logos.png?width=690&quality=85&format=jpg&auto=webp)

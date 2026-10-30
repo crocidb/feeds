@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-n
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-10-21T11:46:07.728843436Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Jason_Duval_02_YqCdnKx.jpg?width=690&quality=85&format=jpg&auto=webp)

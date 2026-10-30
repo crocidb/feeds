@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-red
 author = "Alissa McAloon"
 text = ""
 lastupdated = "2026-10-21T11:46:08.257234866Z"
-seen = false
+seen = true
 +++
 

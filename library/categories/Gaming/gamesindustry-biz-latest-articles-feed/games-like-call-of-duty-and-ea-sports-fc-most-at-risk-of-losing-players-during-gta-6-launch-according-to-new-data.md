@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-mo
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.660382264Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=690&quality=85&format=jpg&auto=webp)

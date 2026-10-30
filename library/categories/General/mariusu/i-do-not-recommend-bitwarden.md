@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/i-do-not-recommend-bitwarden/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-05-05T08:24:58.558038738Z"
-seen = false
+seen = true
 +++
 
 Almost four years ago I published a guide on how to [*run your own LastPass on hardened OpenBSD*](/run-your-own-lastpass-on-hardened-openbsd/), in which I explained how to set up an OpenBSD instance, either as a cloud instance or as a *Raspberry Pi* bare metal installation, that would host [*Vaultwarden*](https://github.com/dani-garcia/vaultwarden) as a backend for the [*Bitwarden*](https://bitwarden.com) client applications. After having used a similar approach for myself for several years now, I came to the conclusion that I do not recommend the use of *Bitwarden* any longer. Let me explain.

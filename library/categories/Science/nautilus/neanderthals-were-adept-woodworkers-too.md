@@ -6,7 +6,7 @@ url = "https://nautil.us/neanderthals-were-adept-woodworkers-too-1285608/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-08T09:34:22.485365140Z"
-seen = false
+seen = true
 +++
 
 But most of their work has been lost

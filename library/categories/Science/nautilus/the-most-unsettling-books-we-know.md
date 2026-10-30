@@ -6,7 +6,7 @@ url = "https://nautil.us/the-most-unsettling-books-we-know-1285958/"
 author = "Namir Khaliq"
 text = ""
 lastupdated = "2026-10-21T11:46:12.147300536Z"
-seen = false
+seen = true
 +++
 
 Scientists and artists tell us about the book that scared them to the core

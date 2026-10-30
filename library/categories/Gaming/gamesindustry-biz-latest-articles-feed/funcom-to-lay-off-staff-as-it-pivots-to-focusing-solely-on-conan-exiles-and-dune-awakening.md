@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-foc
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-21T11:46:07.702420307Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ss_8616aceb30a8b01979c16a5aea46f9ef587f7ff3.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp)

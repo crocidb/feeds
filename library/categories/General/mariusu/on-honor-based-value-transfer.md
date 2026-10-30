@@ -1,0 +1,121 @@
++++
+title = "On Honor-Based Value Transfer"
+description = 'A walk through \_Hawala\_ and why I believe that society should be reminded of how it has moved money across the world for the better part of a thousand years without banks.'
+date = "2026-10-24T10:02:12Z"
+url = "https://xn--gckvb8fzb.com/on-honor-based-value-transfer/"
+author = "marius@xn--gckvb8fzb.com (Marius)"
+text = ""
+lastupdated = "2026-10-27T22:33:08.727058803Z"
+seen = false
++++
+
+**Disclaimer:** This is an opinion piece, written from the perspective of someone who has grown steadily more uneasy and frankly tired with the amount of surveillance and compliance that modern banking now takes for granted. This is, however, *not* a naive claim that the system I am about to describe is somehow free of abuse, because it very much is not. It is more of an attempt to ask why we have decided that financial privacy is inherently suspect, and to make the case that a tool used overwhelmingly by criminals only stays that way for as long as honest people refuse to use it.
+
+By touching topics like this [every once in a while](/bureaucracy-is-eating-the-world/) I’m hoping to remind the average reader of a world they might have long forgotten or be even unaware it existed (and still does, at least in some parts of the world), in order to spark awareness for the fact that world isn’t necessarily the way one might think it is, and that there are other realities that might be worth exploring.
+
+As usual, [summary](#summary) at the end.
+
+There is a particular kind of arrangement that I have always found fascinating, because it should not work nearly as well as it does. Picture a roadside farm stand somewhere in the countryside, with a table of vegetables, a handwritten sign with the prices, and an unguarded tin box for the money. You take what you want, you drop the coins in the box, and you drive off. Nobody checked your bag, nobody filmed you, and nobody asked for your name, let alone your ID. The entire arrangement rests on a single assumption, namely that you will do the honest thing even when there is no one around to make you.
+
+That is what we call an *honor system*, and once you start looking for them, you notice that they are everywhere. Universities run unproctored exams on them, trains across much of Europe let you board without a gate and only occasionally check whether you actually bought a ticket, and in some places you might even find your average convenience store with unguarded self-checkout cashiers, which, while running 24/7 camera surveillance, still trust their customers at first, until there’s hard evidence that someone cannot be trusted going forward.
+
+The [honor system](https://en.wikipedia.org/wiki/Honour_system) is, at its core, nothing more than *“a way of running a variety of endeavours based on trust, honour, and honesty”*, without a whole apparatus of enforcement and surveillance on top of it. We tend to think of these arrangements as quaint, small in scale, and perhaps a little naive, but what I suspect most people do not realize is that one of the oldest and by far the largest of these trust systems moves money across the entire planet, and has been doing so for the better part of a thousand years.
+
+Moving value without moving money
+----------
+
+When you send money abroad through your bank, you tend to imagine your money physically traveling somewhere, but that couldn’t be further from the truth. What actually happens is a series of ledger entries. Your bank debits your account, a chain of correspondent banks adjust the balances they hold with one another, and a bank on the far end credits the recipient. No suitcase of cash ever crosses a border, and what moved was not money but *value*, which these days is increasingly nothing more than numbers in databases, that most of the time aren’t even backed by anything of actual value… but that’s a story for another time. Anyway, what allowed the *value* to move was a chain of institutions that trust each other enough to keep running tabs and settle up later. After all, as most of us have got to experience first hand during the 2008 financial crisis, almost all of finance is at its core based on trust, whether it’s trusting a government and its bonds to continue paying interest, or whether it’s trusting private individuals to not default on their mortgage.
+
+A [value transfer system](https://en.wikipedia.org/wiki/Value_transfer_system) is simply the general name for any arrangement that moves value, and the realization at the heart of this post is that you do not actually need banks in order to build one. All you need are, first and foremost, people in two different places who are each able to pay out locally, and, secondly, enough trust between them that each is willing to be owed by the other for a while. An [*informal value transfer system*](https://en.wikipedia.org/wiki/Informal_value_transfer_system), or *IVTS*, is precisely that, namely a network of people operating outside the formal banking system that, in the dry language of the regulators, *“receives money for the purpose of making the funds or an equivalent value payable to a third party in another geographic location”*.
+
+These systems are not some modern invention, either. They predate banks by thousands of years and exist, under one name or another, in nearly every culture that ever had both merchants and distances to bridge. The Chinese called it *fei ch’ien* (飞钱), which translates rather poetically to *“flying money”*. In South Asia it was *hundi*, in Thailand *phoe kuan*, and in Latin America the closely related *Black Market Peso Exchange*. And across the Middle East, Afghanistan and South Asia there is the one name that has come to stand in for all of them:
+
+*Hawala*
+----------
+
+The word [*Hawala*](https://en.wikipedia.org/wiki/Hawala) comes from Arabic and means both, *transfer* and *trust*, and the mechanism of *Hawala* itself is rather simple.
+
+Suppose you are working in, let’s say, Dubai, and you want to send money home to your family in a village in Pakistan. You walk into a shop, the kind of small place that might also sell phone cards or groceries, and you hand the man behind the counter your cash. He is a *Hawaladar*, a *Hawala* broker. The two of you agree on a password, some word or number, and you then call your family and pass it along to them. The *Hawaladar* in Dubai contacts a counterpart of his in the town nearest your village. Your family walks into *that* shop, says the password, and walks out with the money in local currency, minus a small commission. And the whole thing takes maye a few hours, or sometimes only minutes.
+
+What I find truly remarkable in all of this, is not what happened, but instead what did **not** happen. No money crossed the border, and no promissory note, contract, or anything else legally enforceable changed hands between the two brokers. The *Hawaladar* in Dubai now simply *owes* the one in Pakistan, and the two of them will settle that debt later, between themselves, over the course of many transactions, perhaps by netting it against money flowing the other way, perhaps through trade, perhaps with a conventional wire when it happens to be convenient. As the YouTuber *Johnny Harris* of a recent and pretty good [video essay on the subject](https://www.youtube.com/watch?v=nAFw5i39m9I) put it, *“the ledger is only trust”*.
+
+That trust is anything but abstract, as it is enforced, just not by courts or regulators. It is enforced by family, clan, village and ethnic ties, and by the fact that a *Hawaladar* who cheats another will be cut out of the network entirely, which is an [*“effective excommunication and the loss of honour”*](https://en.wikipedia.org/wiki/Hawala) that ends his livelihood and follows his name.
+
+This honor system can be scaled up until it moves billions of dollars across continents and it works for exactly the same reason the farm stand’s tin box works, with the difference that the social cost of stealing from this particular box is total and permanent.
+
+Where and why
+----------
+
+If you’re thinking that this is some fringe or marginal activity then you might be in for a surprise. In large parts of the world, *Hawala* is not the alternative to banking so much as it *is* the banking. For example in Afghanistan it has long been described as the *de facto* banking system of the entire country, and in Somalia, after the formal banks collapsed, *Hawaladars* have handled something on the order of $1.6 billion a year in remittances, which is money that keeps families fed and that keeps local economies turning over.
+
+The reasons people reach for it instead of a bank, where they even have the choice, are quite obvious once you lay them out. *Hawala* tends to be considerably faster, settling in hours rather than the days a bank transfer can still take, it is usually a good deal cheaper, with commissions that are a fraction of what banks and the large remittance companies charge, which matters to a migrant worker for whom those few percentage points are the difference between a child eating well or not, and it frequently offers a better exchange rate than the official one. On top of that, it reaches the places banks simply will not go, namely the rural towns, the failed states, and the refugee populations that no compliance department on earth will ever find profitable enough to serve. Last but not least, it requires almost no paperwork and, crucially, no identity documentation whatsoever.
+
+That last point is what makes regulators in the West distinctly nervous, and it is also the detail that I want to highlight, because I have come to think we have been ~~indoctrinated~~ *educated* to read it backwards.
+
+A parallel system (a.k.a. the freedom to actually transact)
+----------
+
+Strip away the moralizing for a moment, and what *Hawala* really amounts to is a parallel financial system. It runs alongside the regulated one, but it only touches it when it has no other option. Otherwise, it lets its users do something that has become almost impossible these days, at least in the western world: To *transact freely*, in the literal sense of these words.
+
+There is no account waiting to be frozen, no form demanding to know the purpose of the payment, no *“AI”* algorithm flagging the transaction as suspicious, merely because it did not fit the profile some model has built of you, and no permanent record handed over to a government that doesn’t ever ask for your permission to have it. You also don’t need to confirm that your data is still up to date every few months and it certainly won’t require you to hand over utility bills just to *be allowed* to work with **your own money**.
+
+We have arrived, more or less without noticing, at a point where moving **your own money** has become a privilege that the financial system *grants you* on fairly arbitrary and ever-changing conditions, and that it can revoke at any moment. To open an account you must submit to [*Know Your Customer*](https://en.wikipedia.org/wiki/Know_your_customer) (*KYC*) checks. To keep it, you must continuously re-verify the data and avoid tripping any tripwires, which are calibrated by people who do not know you and who are under no obligation to explain themselves to you.
+
+Banks close accounts with no reason given and no meaningful avenue of appeal. Payment processors decide, entirely on their own initiative, which perfectly legal businesses, professions, public figures, and groups, are too *inconvenient* to be allowed to receive money at all. All while governments float the idea of central bank digital currencies (*CBDC*) that would, by design, make every transaction you ever make visible to, and potentially programmable by, the state.
+
+I have written before about a world that increasingly insists you [identify yourself](/a-world-without-passports/) before you are permitted to do much of anything, and about how [the slow accretion of regulation](/bureaucracy-is-eating-the-world/) has closed doors that used to stand open. Financial surveillance is the same story, told in money rather than purely in paperwork. Long time ago, privacy used to be the assumption and disclosure the exception, but now disclosure is the mandate and privacy is treated as inherently suspect, the sort of thing only a person with *something to hide* could possibly want. Held up against that backdrop, an honor-based network that lets ordinary people move value to one another without first asking anyone’s permission starts to look less like a grey area, and instead more like a relic of a saner arrangement, in which your money was actually yours.
+
+Of course there are problems
+----------
+
+Of course, the same properties that make *Hawala* a gift to a migrant worker and that can make it a viable alternative to everyone else also make it equally spectacular for criminals. The very network of *flying money* that began as a way for *Tang Dynasty* tea merchants to avoid hauling heavy copper coins past bandits has, in its modern incarnation, become one of the most important criminal instruments on the planet.
+
+The aforementioned video that inspired parts of this post lays the modern version out in detail, and it shows why the system is so difficult to stop. A wealthy man in China wants to move money out of the country, past the [$50,000 annual limit](https://www.congress.gov/crs-product/R48786) that the state imposes on capital leaving its borders. A Mexican cartel, meanwhile, has a pile of drug cash sitting in Chicago that it needs to get back to Mexico. A Chinese broker in the United States sits in the middle of the two. The wealthy man’s money never actually leaves China, the cartel’s cash never crosses a border, and through a series of so-called *mirror transactions* the two needs cancel one another out. The brokers square up afterwards, very often by [over- or under-invoicing real shipments of goods](https://www.justice.gov/opa/pr/key-member-chinese-money-laundering-network-charged-laundering-tens-millions-dollars-drug) (e.g. refrigerators, electronics, …) that move through entirely legitimate global trade and leave next to no trail behind them. As the investigators put it, it is sometimes far more useful to *follow the value* than to follow the money.
+
+These [*money laundering networks*](https://home.treasury.gov/news/press-releases/sb0231) have, over the past decade or so, quietly become the [preferred launderers for the Mexican cartels](https://www.brookings.edu/articles/how-chinese-criminal-networks-fuel-illicit-markets-across-the-americas/), exactly because the combination of capital controls on one side and drug cash on the other makes the mirror trade so efficient. It funds the fentanyl trade, it funds wildlife trafficking, and the totoaba bladders, shark fins and ivory that travel along the very same path as the narcotics. It is the engine behind a great deal of misery, and somewhere between three and five percent of global GDP, on the order of four trillion dollars a year, is estimated to be criminal proceeds sloshing through systems very much like this one.
+
+So no, I am not romanticizing any of this. But I do want to be specific about *what*, exactly, is doing the harm here. The harm is the drug trade, the trafficking, the poaching, but *Hawala* is just the plumbing those things happen to flow through. Blaming the plumbing for the sewage is convenient, because plumbing is so much easier to regulate than human nature is, but it is also a mistake, and it happens to be the very same error that gets wheeled out to justify surveilling everyone’s perfectly lawful transactions on the off chance of catching the handful of unlawful ones.
+
+Legitimize it
+----------
+
+This brings me to the argument I actually want to make. At present, the user base of these networks skews heavily towards the people who have little choice in the matter, specifically those whom the banks will not serve, and those who cannot afford the scrutiny that banking brings with it. While the first group is almost entirely legitimate, the second one is oftentimes criminal. That imbalance is part of the problem, because a system used overwhelmingly by criminals comes, in the public imagination, to *be* a criminal system, which in turn justifies cracking down on it, which pushes the legitimate users out first, since they are the ones with the most to lose and the least appetite for any risk at all.
+
+What I would actually like to see, is ordinary people, acting on entirely ordinary motives, making up the bulk of the traffic. People who simply believe, quite correctly in my view, that a payment between two consenting adults is nobody’s business but their own. People who would rather not have every coffee, every donation, every gift recorded and assembled into a profile, then sold, leaked, or held in reserve to be used against them later when the political weather has changed. The more such people there are in the network, the less it resembles a criminal artifact and the more it resembles what it has been all along, which is ordinary financial privacy, exercised by ordinary people.
+
+Privacy, after all, is something of a herd property. A single individual insisting on cash, or on a private transfer, looks suspicious. An entire society that treats financial privacy as the norm, however, makes it unremarkable, and in doing so turns the surveillance back into the aberration it ought to have remained. After all, the way you protect the migrant worker and the dissident is by standing in the crowd next to them, not by leaving them to be the only two faces in it.
+
+What this would look like
+----------
+
+Allow me to imagine, for a moment, a world in which financial privacy were once again simply the default. You want to send a friend on the other side of the planet a little money for their birthday. You do not open an app that records the transfer, files it, profiles it, and then waits to see whether it trips some internal rule, but instead, you move the value directly, from you to them. They have it within minutes, and the only two parties who know anything about it are the two parties who ought to. A small business pays an overseas supplier without a week of compliance friction and without a cut being skimmed off by three separate intermediaries along the way, just like a charity gets funds into a disaster zone where the banks are rubble. None of these people are doing anything remotely wrong, and not one of them owes anybody an explanation.
+
+That world is not a fantasy and for several hundred million people it is simply the *normal* way of doing things. The only thing standing between it and the rest of us is the trust problem, which is the single weakness sitting at the heart of every honor system, and the reason *Hawala* never managed to scale to strangers. You can only join a *Hawala* network if someone already inside it is willing to vouch for you. You can only place your trust in a *Hawaladar* if your family has trusted his for a generation or two. The system runs on relationships, and relationships, by their nature, do not scale to a planet full of strangers who share no clan, no village, and no name in common. Especially not with a *technocracy* trying as hard as it can to disrupt communities and actively **make us strangers**… but that’s also a topic for another time.
+
+Trust is solved
+----------
+
+As we start to realize, the weak part of *Hawala* was never in the *transfer* itself, but it was in the *settlement*, in that later moment when two brokers have to trust that the debt standing between them will in fact be honored. The entire elaborate apparatus of clan, honor and excommunication exists in order to solve how one could possibly know that the other will pay them back, when there is no court anywhere that they can drag each other in front of.
+
+However, it turns out that we have solved the trust issues over a decade ago: Bitcoin, and the cryptocurrencies that followed in its wake, allow strangers to settle transcations instantly, without any intermediary involved. In *Hawala* the brokers hold what are effectively *IOUs* against one another, which are basically promises that are only worth anything for as long as the trust behind them holds. On a public blockchain, however, there are no IOUs at all. The coins are not accounting entries waiting to be settled at some later date, but they **are** the settlement. When value moves, it has actually moved, verified by a network that ideally no single party controls and that no broker can simply default on. The very thing that *Hawala* needed honor in order to guarantee, cryptocurrency guarantees instead with mathematics and a public ledger that anyone can inspect and that is impractical to forge.
+
+Put differently, [cryptocurrency is *Hawala*](https://www.tradingview.com/news/cointelegraph:72176662b094b:0-crypto-enabled-hawala-transactions-legal-and-regulatory-implications/) with the trust problem subtracted out. It keeps nearly everything that made the old system so attractive in the first place, the speed, the low cost, the reach into the places banks ignore, the freedom from any gatekeeper’s permission, and it discards the single thing that kept the old system confined to tight-knit communities, namely the requirement that you have to belong to one. You no longer need a cousin somewhere in the network, and you also no longer need anyone to vouch for you. A complete stranger on the far side of the world can be your counterparty, because you do not need to blindly trust them at all.
+
+>
+>
+> *Vires in numeris*
+>
+>
+
+It is no accident, then, that the criminal networks worked this out, in exactly the same way they worked out *Hawala*, and encrypted messaging, and nearly every other tool of financial privacy before the rest of us got to it. Investigators now describe *“flying money paired with crypto, paired with encrypted communication”* as a combination that is *“almost unbreakable from the outside”*.
+
+The tools that allow the worst people among us to transact without anyone’s permission are the very same tools that could allow the rest of us to do the same, and the more of us who pick them up for honest, unremarkable reasons, the less these networks belong, by default, to the criminals. The honor system that has been moving value across the world for the better part of a thousand years has, for the first time in its long history, been handed a way to extend its trust to people who have never once met. Whether we leave that entirely in the hands of the ghosts, or take some of it back for ourselves, seems to me a question worth thinking about.
+
+Summary
+----------
+
+Honor-based value transfer systems, of which *Hawala* is the best known, have moved money across the world for the better part of a thousand years using not much more than local payouts, a password, and the trust between brokers who cannot afford to cheat one another. They are fast, cheap, and reach the people and places the formal banking system has written off, which is why they remain indispensable across much of the world. Unfortunately they are also abused on a vast scale, by money laundering networks, by cartels, and by traffickers of nearly every description.
+
+My argument, however, is that the system is *plumbing*, and that the reasons it appeals to criminals (speed, low cost, and above all the freedom to transact without first surrendering your identity and your privacy) are very much the same reasons it ought to appeal to ordinary, honest people in an age when banking has become an instrument of surveillance. A tool used only by criminals stays a criminal tool, and the honest users are always the first to be pushed out when the crackdown comes. Using cryptocurrency, every one of us can benefit from the advantages of the traditional *Hawala* system all while leaving behind the trust problem that the confined the old system to tight-knit communities.
+
+I would like to see a future in which financial freedom and privacy is being taken more seriously by society, and in which modern adaptations of these millennia-old systems are used for unremarkable everyday transactions between regular people.

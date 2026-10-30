@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-mov
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.731372575Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/cyberpunk-2077_GuK1Ple.webp?width=690&quality=85&format=jpg&auto=webp)

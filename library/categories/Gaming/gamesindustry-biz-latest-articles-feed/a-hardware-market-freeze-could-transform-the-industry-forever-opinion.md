@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/a-hardware-market-freeze-could-transform-th
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-10-21T11:46:07.681267286Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/julian-hochgesang-jtPSdmlEOjk-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

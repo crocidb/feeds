@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-10-21T11:46:07.714563642Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/GameDataCore_logo-gradient-network-mark_7680x4320.png?width=690&quality=85&format=jpg&auto=webp)

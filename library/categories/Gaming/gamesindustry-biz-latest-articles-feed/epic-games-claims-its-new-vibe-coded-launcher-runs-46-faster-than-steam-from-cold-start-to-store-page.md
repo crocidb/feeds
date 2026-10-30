@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launch
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.695604880Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/epic-games-launcher_kTybhO5.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-10-21T11:46:07.724764438Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Tarn-Adams-Dwarf-Fortress.jpg?width=690&quality=85&format=jpg&auto=webp)

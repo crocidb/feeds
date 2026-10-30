@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026"
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-10-21T11:46:07.659058786Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Sensor-Tower-header.png?width=690&quality=85&format=jpg&auto=webp)

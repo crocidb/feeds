@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/privacy-setup-for-android-16-with-grapheneos/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-04-22T14:43:17.309837066Z"
-seen = false
+seen = true
 +++
 
 [GrapheneOS](https://grapheneos.org) is a free and open-source mobile operating system, built on top of the Android Open Source Project (AOSP) but with a strong focus on privacy and security. It’s developed independently, with no ties to Google or any hardware vendor, and it’s the operating system I’ve been recommending (and using on my own devices) for years, both on the [phone side](/reclaiming-mobile-privacy-with-grapheneos/) and on the [tablet side](/de-googled-pixel-tablet-with-grapheneos-a-review/).

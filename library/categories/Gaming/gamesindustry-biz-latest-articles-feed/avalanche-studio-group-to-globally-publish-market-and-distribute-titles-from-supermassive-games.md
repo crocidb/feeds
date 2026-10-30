@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.735165843Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/nordisk-games-avalanche-supermassive.png?width=690&quality=85&format=jpg&auto=webp)

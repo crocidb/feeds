@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-add
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.667119512Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ritupon-baishya-5C-ApajFi1g-unsplash(1).jpg?width=690&quality=85&format=jpg&auto=webp)

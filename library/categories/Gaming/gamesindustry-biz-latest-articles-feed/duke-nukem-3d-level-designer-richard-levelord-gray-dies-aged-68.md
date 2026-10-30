@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelo
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-21T11:46:07.699753699Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-10-14-at-20.40.11.png?width=690&quality=85&format=jpg&auto=webp)

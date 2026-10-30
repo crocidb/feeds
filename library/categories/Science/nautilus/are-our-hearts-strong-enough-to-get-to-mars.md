@@ -6,7 +6,7 @@ url = "https://nautil.us/are-our-hearts-strong-enough-to-get-to-mars-1285977/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-21T11:46:12.144010138Z"
-seen = false
+seen = true
 +++
 
 Prolonged space travel can wreak havoc on the circulatory system

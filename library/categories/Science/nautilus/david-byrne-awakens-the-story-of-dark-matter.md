@@ -6,7 +6,7 @@ url = "https://nautil.us/david-byrne-awakens-the-story-of-dark-matter-1285530/"
 author = "David Byrne"
 text = ""
 lastupdated = "2026-10-06T13:46:52.013060116Z"
-seen = false
+seen = true
 +++
 
 In an excerpt from his new book, “Sleeping Beauties,” the musician and writer revisits the brilliant discoveries by astronomer Vera Rubin

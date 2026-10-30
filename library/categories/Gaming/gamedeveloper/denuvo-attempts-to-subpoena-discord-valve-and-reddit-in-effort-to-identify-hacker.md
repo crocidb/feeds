@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discor
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-10-21T11:46:08.268995221Z"
-seen = false
+seen = true
 +++
 

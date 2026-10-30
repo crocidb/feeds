@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/game-developer-veteran-chris-kerr-launches-
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-21T11:46:07.723405218Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Vertical-Slice-Purple.png?width=690&quality=85&format=jpg&auto=webp)

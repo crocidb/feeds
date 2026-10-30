@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-t
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-21T11:46:07.676168398Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Splitscreen-logo.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://nautil.us/why-forgive-and-forget-is-bad-advice-1285629/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-10-08T09:34:22.482712951Z"
-seen = false
+seen = true
 +++
 
 A conversation with MacArthur fellow Felipe de Brigard about how forgiveness reshapes the memory of atrocity

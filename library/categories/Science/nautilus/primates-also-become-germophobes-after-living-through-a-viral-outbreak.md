@@ -6,7 +6,7 @@ url = "https://nautil.us/primates-also-become-germophobes-after-living-through-a
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-21T11:46:12.140797438Z"
-seen = false
+seen = true
 +++
 
 And it could shed light on the evolutionary origins of disgust

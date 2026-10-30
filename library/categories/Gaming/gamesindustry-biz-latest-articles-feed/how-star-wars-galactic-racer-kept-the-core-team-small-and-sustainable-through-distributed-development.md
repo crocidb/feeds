@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-10-21T11:46:07.682550725Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Star-Wars_-Galactic-Racer-Launch-Screenshot-2.png?width=690&quality=85&format=jpg&auto=webp)

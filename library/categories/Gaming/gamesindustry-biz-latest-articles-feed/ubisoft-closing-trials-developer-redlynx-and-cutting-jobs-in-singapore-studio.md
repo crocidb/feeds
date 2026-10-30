@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-an
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-21T11:46:07.710614424Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Trials_2.jpg_CTbXk1t.jpg?width=690&quality=85&format=jpg&auto=webp)

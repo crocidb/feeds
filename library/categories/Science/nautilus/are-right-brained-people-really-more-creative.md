@@ -6,7 +6,7 @@ url = "https://nautil.us/are-right%e2%80%91brained-people-really-more-creative-1
 author = "Sarah Hellewell"
 text = ""
 lastupdated = "2026-10-06T13:46:52.020761802Z"
-seen = false
+seen = true
 +++
 
 Here’s what the science really tells us

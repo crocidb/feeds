@@ -6,7 +6,7 @@ url = "https://nautil.us/from-the-great-sphinxs-raw-materials-a-new-crocodile-sp
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-10-07T14:53:36.152804597Z"
-seen = false
+seen = true
 +++
 
 It from a bygone epoch when all sorts of crocs roamed the Mediterranean

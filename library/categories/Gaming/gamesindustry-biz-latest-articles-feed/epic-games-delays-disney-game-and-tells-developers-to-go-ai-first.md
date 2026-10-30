@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-dev
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-21T11:46:07.717191631Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/image002_5im69wh.png?width=690&quality=85&format=jpg&auto=webp)

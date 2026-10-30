@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-m
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.736470143Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/copertina_HWJnsEe.png?width=690&quality=85&format=jpg&auto=webp)

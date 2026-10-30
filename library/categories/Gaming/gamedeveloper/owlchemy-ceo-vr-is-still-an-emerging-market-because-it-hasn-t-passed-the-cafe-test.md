@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-a
 author = "Chris Kerr"
 text = ""
 lastupdated = "2026-10-21T11:46:08.259981335Z"
-seen = false
+seen = true
 +++
 

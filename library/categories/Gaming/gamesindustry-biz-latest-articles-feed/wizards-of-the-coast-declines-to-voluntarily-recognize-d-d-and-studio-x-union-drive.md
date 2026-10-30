@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntaril
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-21T11:46:07.672244170Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Wizards_CWA.webp?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-re
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.691646021Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/reforj_SAsBzlp.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://nautil.us/it-feels-like-something-out-of-science-fiction-astronom
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-21T11:46:12.163211400Z"
-seen = false
+seen = true
 +++
 
 The universe just got a little more colorful

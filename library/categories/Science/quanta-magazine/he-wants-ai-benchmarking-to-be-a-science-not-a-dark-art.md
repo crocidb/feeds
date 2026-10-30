@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-n
 author = "John Pavlus"
 text = ""
 lastupdated = "2026-10-21T11:46:11.426930606Z"
-seen = false
+seen = true
 +++
 
 Benchmarks are the rulers of AI, in both senses of the word. As measuring sticks, they work according to an extremely simple logic: If you want to know what an AI model can do, devise a standardized test to gauge it. But AI benchmarks can also dominate the behavior of the entire field. In 1987, the Defense Advanced Research Projects Agency’s first benchmark on automatic speech-to-text…

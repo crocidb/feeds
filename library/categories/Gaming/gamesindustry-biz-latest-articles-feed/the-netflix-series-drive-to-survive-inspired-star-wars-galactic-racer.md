@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspire
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-10-21T11:46:07.685148195Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Star-Wars_-Galactic-Racer-Launch-Screenshot-4.png?width=690&quality=85&format=jpg&auto=webp)

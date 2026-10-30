@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-t
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-21T11:46:07.713290002Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/XBOX-LABS.png?width=690&quality=85&format=jpg&auto=webp)

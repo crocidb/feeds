@@ -6,7 +6,7 @@ url = "https://nautil.us/thousands-of-fancy-dishes-have-survived-a-2100-year-old
 author = "David Nield"
 text = ""
 lastupdated = "2026-10-06T14:22:33.009667248Z"
-seen = false
+seen = true
 +++
 
 You probably wouldn’t want to eat off them though

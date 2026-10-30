@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.673535260Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gdca_H2ogd1U.jpg?width=690&quality=85&format=jpg&auto=webp)

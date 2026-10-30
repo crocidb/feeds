@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/griffin-gaming-partners-entertainm
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-10-21T11:46:08.251598648Z"
-seen = false
+seen = true
 +++
 

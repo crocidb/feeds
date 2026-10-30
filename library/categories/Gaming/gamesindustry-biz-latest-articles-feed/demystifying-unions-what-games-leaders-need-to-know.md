@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need
 author = "James Batchelor"
 text = ""
 lastupdated = "2026-10-21T11:46:07.663115523Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/IWGB_members_with_banner.jpg?width=690&quality=85&format=jpg&auto=webp)

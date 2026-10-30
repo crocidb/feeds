@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.688972233Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/page_bg_raw_vCy21mE.jpg?width=690&quality=85&format=jpg&auto=webp)

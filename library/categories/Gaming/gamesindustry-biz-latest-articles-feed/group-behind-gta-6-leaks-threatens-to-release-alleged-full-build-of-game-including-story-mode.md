@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-relea
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.726138728Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Grand-Theft-Auto-6-Ultimate-Edition-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

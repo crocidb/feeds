@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-h
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-21T11:46:07.701090748Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/s%26box-going-free-to-play-garrys-mod-01.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://nautil.us/the-most-curious-cloud-on-mars-relies-on-some-bizarre-p
 author = "David Nield"
 text = ""
 lastupdated = "2026-10-08T09:34:22.486701858Z"
-seen = false
+seen = true
 +++
 
 We’ve never seen anything like this before

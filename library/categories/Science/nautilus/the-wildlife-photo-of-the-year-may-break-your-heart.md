@@ -6,7 +6,7 @@ url = "https://nautil.us/the-wildlife-photo-of-the-year-may-break-your-heart-128
 author = "David Nield"
 text = ""
 lastupdated = "2026-10-21T11:46:12.164421619Z"
-seen = false
+seen = true
 +++
 
 The circle of life fully on display

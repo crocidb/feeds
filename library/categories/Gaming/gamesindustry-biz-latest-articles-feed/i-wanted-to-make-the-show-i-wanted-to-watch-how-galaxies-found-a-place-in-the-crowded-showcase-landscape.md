@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-21T11:46:07.703844096Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Behind-The-Scenes-1.jpg?width=690&quality=85&format=jpg&auto=webp)

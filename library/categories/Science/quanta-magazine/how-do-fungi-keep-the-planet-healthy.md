@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261
 author = "Steven Strogatz and Janna Levin"
 text = ""
 lastupdated = "2026-10-21T11:46:11.428700275Z"
-seen = false
+seen = true
 +++
 
 People may think of soil as just dirt, but it is anything but inert. Beneath your feet, a vast network of mycorrhizal fungi is hard at work, trading minerals with plant roots. This trading system helps enrich the soil, and it sequesters 13 billion tons of atmospheric carbon dioxide each year — roughly equivalent to one-third of the world’s fossil-fuel emissions. Scientists know that these fungi…

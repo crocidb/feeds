@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-bet
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-10-21T11:46:07.668349122Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Jason_and_Lucia_09.jpg?width=690&quality=85&format=jpg&auto=webp)

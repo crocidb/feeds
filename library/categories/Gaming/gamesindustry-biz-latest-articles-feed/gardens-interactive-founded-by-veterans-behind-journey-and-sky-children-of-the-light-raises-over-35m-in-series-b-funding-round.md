@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-beh
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.745409550Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gardens-interactive.jpg?width=690&quality=85&format=jpg&auto=webp)

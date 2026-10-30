@@ -6,7 +6,7 @@ url = "https://nautil.us/walking-may-improve-your-attention-span-1285936/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-21T11:46:12.158642751Z"
-seen = false
+seen = true
 +++
 
 One more reason to get those steps in

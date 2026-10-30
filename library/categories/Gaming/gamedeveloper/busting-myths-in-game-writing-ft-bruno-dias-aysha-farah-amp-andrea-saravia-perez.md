@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/busting-myths-in-game-writing-ft-bru
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-10-21T11:46:08.261540915Z"
-seen = false
+seen = true
 +++
 

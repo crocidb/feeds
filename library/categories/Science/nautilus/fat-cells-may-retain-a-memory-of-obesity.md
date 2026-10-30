@@ -6,7 +6,7 @@ url = "https://nautil.us/fat-cells-may-retain-a-memory-of-obesity-1285557/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-06T13:46:52.014308875Z"
-seen = false
+seen = true
 +++
 
 Which could be why weight regain is so common

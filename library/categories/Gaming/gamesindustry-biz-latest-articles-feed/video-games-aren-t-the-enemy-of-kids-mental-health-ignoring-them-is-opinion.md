@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-
 author = "Sarah Sorrell"
 text = ""
 lastupdated = "2026-10-21T11:46:07.732646574Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gamesindustry.biz_image.jpg?width=690&quality=85&format=jpg&auto=webp)

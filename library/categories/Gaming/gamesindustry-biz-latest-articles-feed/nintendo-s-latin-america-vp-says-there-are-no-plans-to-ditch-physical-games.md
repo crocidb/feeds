@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-n
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-21T11:46:07.719673860Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/switch-console-jesper-brouwers-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

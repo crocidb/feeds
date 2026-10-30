@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/safe-in-our-world-launches-four-billion-pla
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.740216541Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Safe-In-Our-World-signposting-in-Discord.jpg?width=690&quality=85&format=jpg&auto=webp)

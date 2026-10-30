@@ -6,7 +6,7 @@ url = "https://jcs.org/2026/10/19/amend4"
 author = "joshua stein"
 text = ""
 lastupdated = "2026-10-21T11:46:10.763776472Z"
-seen = false
+seen = true
 +++
 
 [Amend](/amend) 4.0 has been released:

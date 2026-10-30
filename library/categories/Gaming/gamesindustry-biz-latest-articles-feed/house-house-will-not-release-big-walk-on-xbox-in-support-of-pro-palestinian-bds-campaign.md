@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xb
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.694292340Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_05.png?width=690&quality=85&format=jpg&auto=webp)

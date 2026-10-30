@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankr
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.677413407Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/samson.webp?width=690&quality=85&format=jpg&auto=webp)

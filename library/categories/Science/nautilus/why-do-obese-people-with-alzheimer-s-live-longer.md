@@ -6,7 +6,7 @@ url = "https://nautil.us/why-do-obese-people-with-alzheimers-live-longer-1285595
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-07T14:53:36.155261186Z"
-seen = false
+seen = true
 +++
 
 The “obesity paradox” strikes again

@@ -6,7 +6,7 @@ url = "https://nautil.us/meet-the-new-otterlike-predator-that-scurried-alongside
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-08T09:34:22.481459831Z"
-seen = false
+seen = true
 +++
 
 Its unique throat paved the way for our big brains

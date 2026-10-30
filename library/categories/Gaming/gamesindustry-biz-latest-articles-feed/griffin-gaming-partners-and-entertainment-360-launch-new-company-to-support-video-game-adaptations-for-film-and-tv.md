@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/griffin-gaming-partners-and-entertainment-3
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.664449553Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/zelda-live-action.jpg?width=690&quality=85&format=jpg&auto=webp)

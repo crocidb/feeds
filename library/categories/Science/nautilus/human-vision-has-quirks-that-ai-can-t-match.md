@@ -6,7 +6,7 @@ url = "https://nautil.us/human-vision-has-quirks-that-ai-cant-match-1285580/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-10-07T14:53:36.158522885Z"
-seen = false
+seen = true
 +++
 
 Your robot butler can’t do a Magic Eye poster… yet

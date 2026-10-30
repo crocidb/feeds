@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-10-21T11:46:08.255965946Z"
-seen = false
+seen = true
 +++
 

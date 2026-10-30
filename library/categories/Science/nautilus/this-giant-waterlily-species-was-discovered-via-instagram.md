@@ -6,7 +6,7 @@ url = "https://nautil.us/this-giant-waterlily-species-was-discovered-via-instagr
 author = "David Nield"
 text = ""
 lastupdated = "2026-10-21T11:46:12.153294883Z"
-seen = false
+seen = true
 +++
 
 They can grow to more than 6 feet in diameter

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.686403264Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Game-Republic-15-10-26-84-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

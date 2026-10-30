@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-ga
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-21T11:46:07.718436310Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-10-12-at-19.25.58.png?width=690&quality=85&format=jpg&auto=webp)

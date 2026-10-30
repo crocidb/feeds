@@ -6,7 +6,7 @@ url = "https://nautil.us/how-hunger-can-trigger-alcohol-cravings-1285953/"
 author = "Jake Currie"
 text = ""
 lastupdated = "2026-10-21T11:46:12.150533704Z"
-seen = false
+seen = true
 +++
 
 At least in fruit flies

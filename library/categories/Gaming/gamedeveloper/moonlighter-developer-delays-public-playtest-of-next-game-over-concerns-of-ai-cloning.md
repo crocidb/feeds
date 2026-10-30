@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-pu
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-10-21T11:46:08.254462838Z"
-seen = false
+seen = true
 +++
 

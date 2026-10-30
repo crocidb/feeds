@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-gra
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-21T11:46:07.720910009Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/nvidia_ctHUg28.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -1,0 +1,32 @@
++++
+title = "Cineclube XHY-247 exibe o filme “Flammes”, de Adolfo Arrieta, no Cinema São Luiz"
+description = "O cineclube XHY-247 promove nesta quinta-feira (22/10), às 19h, no Cinema São Luiz, no Recife (PE), a primeira exibição na cidade do longa-metragem Flammes (1978), dirigido pelo cineasta e pintor espanhol Adolfo Arrieta. Inédita no circuito comercial local, a produção francesa ac"
+date = "2026-10-19T21:07:54Z"
+url = "https://revistaogrito.com/cineclube-xhy-247-exibe-o-filme-flammes-de-adolfo-arrieta-no-cinema-sao-luiz/"
+author = "Equipe O Grito!"
+text = ""
+lastupdated = "2026-10-22T13:34:56.378638290Z"
+seen = false
++++
+
+O cineclube **XHY-247** promove nesta quinta-feira (22/10), às 19h, no [Cinema São Luiz](https://revistaogrito.com/assunto/cinema-sao-luiz/), no Recife (PE), a primeira exibição na cidade do longa-metragem *Flammes* (1978), dirigido pelo cineasta e pintor espanhol **Adolfo Arrieta**. Inédita no circuito comercial local, a produção francesa acompanha Barbara (interpretada por **Caroline Loeb**), uma jovem que vive isolada com o pai (**Dionys Mascolo**) em um casarão na França e desenvolve uma obsessão por um bombeiro que apareceu em seu quarto durante a infância.
+
+A sessão ocorre com o apoio direto de **Adolfo Arrieta**, realizador ligado ao cinema de vanguarda e à cena *queer* underground parisiense das décadas de 1970 e 1980, autor de títulos como *Les Intrigues de Sylvia Couski* e *Le Château de Pointilly*. Antes da exibição do filme, que possui 88 minutos de duração, integrantes do coletivo organizado por **Davi Barros** farão a leitura de um texto crítico assinado pelo pesquisador **Luiz Soares Júnior**.
+
+“Se trata de uma das sessões mais especiais que já realizamos, em grande parte por se tratar de um grande cineasta, bastante reconhecido por certos nichos da cinefilia, mas que infelizmente não recebe a devida atenção que merece”, diz Davi Barros, um dos organizadores do cineclube. “Nossa esperança com essa sessão, realizada graças a generosidade e atenção do próprio Arrieta, é que ela desperte a curiosidade do público recifense e brasileiro no geral, que seus filmes sejam redescobertos por uma nova plateia, pois a inventividade onírica do seu cinema é extremamente refrescante e certamente interessaria muitos”, completa.
+
+<img decoding="async" width="1024" height="585" data-attachment-id="202449" data-permalink="https://revistaogrito.com/cineclube-xhy-247-exibe-o-filme-flammes-de-adolfo-arrieta-no-cinema-sao-luiz/arrieta/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/10/arrieta.jpg" data-orig-size="1645,939" data-comments-opened="0" data-image-title="arrieta" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-1024x585.jpg" loading="lazy" src="https://controle.revistaogrito.com/wp-content/uploads/2026/10/arrieta-1024x585.jpg" alt="arrieta" class="wp-image-202449" srcset="https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-1024x585.jpg 1024w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-100x57.jpg 100w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-832x475.jpg 832w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-300x171.jpg 300w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-1536x877.jpg 1536w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-321x183.jpg 321w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-798x455.jpg 798w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-1428x815.jpg 1428w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta.jpg 1645w" sizes="auto, (max-width: 1024px) 100vw, 1024px">\<img fetchpriority="high" decoding="async" width="1024" height="585" data-attachment-id="202449" data-permalink="https://revistaogrito.com/cineclube-xhy-247-exibe-o-filme-flammes-de-adolfo-arrieta-no-cinema-sao-luiz/arrieta/" data-orig-file="https://revistaogrito.com/wp-content/uploads/2026/10/arrieta.jpg" data-orig-size="1645,939" data-comments-opened="0" data-image-title="arrieta" data-image-description="" data-image-caption="" data-large-file="https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-1024x585.jpg" src="https://controle.revistaogrito.com/wp-content/uploads/2026/10/arrieta-1024x585.jpg" alt="arrieta" class="wp-image-202449" srcset="https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-1024x585.jpg 1024w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-100x57.jpg 100w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-832x475.jpg 832w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-300x171.jpg 300w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-1536x877.jpg 1536w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-321x183.jpg 321w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-798x455.jpg 798w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta-1428x815.jpg 1428w, https://revistaogrito.com/wp-content/uploads/2026/10/arrieta.jpg 1645w" sizes="(max-width: 1024px) 100vw, 1024px" /\>Arrieta em cena da série de TV Cinema of Our Time. (Divulgação)
+
+* **[Acesse nossa homepage de Cinema](https://revistaogrito.com/cinema)**
+* **[Leia mais críticas de filmes](https://revistaogrito.com/cinema/critica-filme)**
+
+A exibição tem entrada franca, sem necessidade de retirada prévia de ingressos na bilheteria. Mais informações sobre a programação do espaço e do projeto podem ser acompanhadas nos perfis oficiais no Instagram ([`@cinexhy247`](https://instagram.com/cinexhy247)).
+
+**Serviço**   
+Exibição do filme *Flammes* (1978) – Cineclube XHY-247   
+Quando: Quinta-feira, 22 de outubro de 2026, às 19h   
+Onde: Cinema São Luiz (Rua da Aurora, 175, Boa Vista, Recife – PE)   
+Quanto: Entrada gratuita (sem retirada prévia de ingressos)   
+Classificação: Consultar no local
+
+O post [Cineclube XHY-247 exibe o filme “Flammes”, de Adolfo Arrieta, no Cinema São Luiz](https://revistaogrito.com/cineclube-xhy-247-exibe-o-filme-flammes-de-adolfo-arrieta-no-cinema-sao-luiz/) apareceu primeiro em [Revista O Grito! — Jornalismo cultural que fala de tudo](https://revistaogrito.com).

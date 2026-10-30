@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-t
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.707953075Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta-lucia-jason-(1).webp?width=690&quality=85&format=jpg&auto=webp)

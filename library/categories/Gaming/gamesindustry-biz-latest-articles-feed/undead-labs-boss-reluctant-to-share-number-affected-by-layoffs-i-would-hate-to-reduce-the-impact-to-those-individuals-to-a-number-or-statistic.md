@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.730131735Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/state-of-decay-3-june-2026-screen-2.jpg?width=690&quality=85&format=jpg&auto=webp)

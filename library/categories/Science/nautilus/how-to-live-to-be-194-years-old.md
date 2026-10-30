@@ -6,7 +6,7 @@ url = "https://nautil.us/how-to-live-to-be-194-years-old-1285604/"
 author = "Devin Reese"
 text = ""
 lastupdated = "2026-10-08T09:34:22.484049730Z"
-seen = false
+seen = true
 +++
 
 A tortoise’s genetic hacks for longevity

@@ -6,7 +6,7 @@ url = "https://nautil.us/what-makes-life-beautiful-1285942/"
 author = "Kristen French"
 text = ""
 lastupdated = "2026-10-21T11:46:12.155918173Z"
-seen = false
+seen = true
 +++
 
 The magic of rhyme and the search for a creator

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.687677464Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/fishlabs.jpg?width=690&quality=85&format=jpg&auto=webp)

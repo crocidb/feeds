@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-auth
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-21T11:46:07.674842638Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Activision.webp?width=690&quality=85&format=jpg&auto=webp)
