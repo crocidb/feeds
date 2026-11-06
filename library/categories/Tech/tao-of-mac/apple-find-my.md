@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/apple/find_my?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.249283669Z"
-seen = false
+seen = true
 +++
 
 Resources for Apple’s Find My device and item-location network.

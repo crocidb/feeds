@@ -6,7 +6,7 @@ url = "https://www.washingtonpost.com/investigations/2026/10/15/secret-documents
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.162861565Z"
-seen = false
+seen = true
 +++
 
 Jonathan O’Connell, Sarah Blaskey, and Aaron Schaffer, reporting for The Washington Post ([News+ link](https://apple.news/AblrTEVS5ROWp089jXUp2oQ); [Archive.today link](https://archive.is/20261015145817/https://www.washingtonpost.com/investigations/2026/10/15/secret-documents-reveal-donors-behind-330-million-trumps-ballroom/)):

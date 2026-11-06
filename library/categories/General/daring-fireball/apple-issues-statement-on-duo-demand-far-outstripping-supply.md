@@ -6,7 +6,7 @@ url = "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.141273234Z"
-seen = false
+seen = true
 +++
 
 The Financial Times:

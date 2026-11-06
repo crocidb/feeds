@@ -6,7 +6,7 @@ url = "https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?st=GaYV
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.387242157Z"
-seen = false
+seen = true
 +++
 
 Nicole Nguyen (also with [a 5-minute video](https://www.youtube.com/watch?v=9A6YGb9gqJs)), writing for The Wall Street Journal (gift link):

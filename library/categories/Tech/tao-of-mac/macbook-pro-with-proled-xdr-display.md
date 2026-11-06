@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/10/28/2024?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-29T10:49:00.773145376Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/10/28/2024/large.jpg?v=6da85e1bcdcf" alt="quicklook" width="320" height="213">](https://www.apple.com/macbook-pro/proled-xdr-display/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

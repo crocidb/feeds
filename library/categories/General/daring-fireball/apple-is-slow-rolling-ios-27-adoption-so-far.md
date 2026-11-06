@@ -6,7 +6,7 @@ url = "https://mastodon.social/@_Davidsmith/117355154519434137"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.175829110Z"
-seen = false
+seen = true
 +++
 
 David Smith, last week:

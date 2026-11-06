@@ -6,7 +6,7 @@ url = "https://tomthedancingbug.com/the-inner-hive/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.134773667Z"
-seen = false
+seen = true
 +++
 
 Ruben Bolling’s long-running Tom the Dancing Bug is one of my favorite comic strips. I’ve been a huge fan since the early 1990s, when I started reading it in alternative newspapers. (Newspapers were sort of like websites, excepted they were printed daily or weekly. I swear.) Back in 2012 Bolling — noting that the comic was more widely read than ever yet generating less money than ever — started a subscription membership called [The Inner Hive](https://tomthedancingbug.com/the-inner-hive/). I love it. Not just because I’m supporting work that I adore and value, but because the extras that members get are so fun. If you’re even half as big a fan of Tom the Dancing Bug as I am, [you should join too](https://tomthedancingbug.com/the-inner-hive/). There are several options — Patreon, MailChimp, Substack — but in my opinion Patreon is the simplest and the best, and it gets you everything.

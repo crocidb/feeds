@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/gtd?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.226069953Z"
-seen = false
+seen = true
 +++
 
 “Getting Things Done”, the workplace religion that tries to atone for the fact that all this technology hasn’t made us one whit more productive.

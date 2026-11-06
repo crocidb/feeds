@@ -6,7 +6,7 @@ url = "https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.138634875Z"
-seen = false
+seen = true
 +++
 
 Mark Gurman, today, in his weekly Power On column for Bloomberg (gift link):

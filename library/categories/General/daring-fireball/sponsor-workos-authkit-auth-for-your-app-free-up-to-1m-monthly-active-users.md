@@ -6,7 +6,7 @@ url = "https://workos.com/?utm_source=daringfireball&utm_medium=newsletter&utm_c
 author = "Daring Fireball Department of Commerce"
 text = ""
 lastupdated = "2026-10-21T11:46:08.164182195Z"
-seen = false
+seen = true
 +++
 
 Login looks simple until you’re building password resets, email verification, MFA, social providers, session management, and the enterprise SSO your first big customer asked for last week.

@@ -6,7 +6,7 @@ url = "https://www.nytimes.com/2026/10/25/style/marissa-mayer-ai-assistants-wome
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.373685475Z"
-seen = false
+seen = true
 +++
 
 Alexandra Alter, in the lede for her profile of Marissa Mayer’s new AI startup Dazzle for The New York Times (gift link):

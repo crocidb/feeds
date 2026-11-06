@@ -6,7 +6,7 @@ url = "https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.365332711Z"
-seen = false
+seen = true
 +++
 
 Apple Newsroom, with software news for Apple’s “Pro and Tell” week:

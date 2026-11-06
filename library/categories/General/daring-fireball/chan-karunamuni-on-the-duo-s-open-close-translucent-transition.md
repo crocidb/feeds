@@ -6,7 +6,7 @@ url = "https://x.com/chan_k/status/2113622379050246243"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.395893589Z"
-seen = false
+seen = true
 +++
 
 Chan Karunamuni, human interface designer at Apple, on X:

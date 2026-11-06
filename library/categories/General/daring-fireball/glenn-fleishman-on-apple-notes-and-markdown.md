@@ -6,7 +6,7 @@ url = "https://sixcolors.com/post/2026/10/why-notes-will-never-let-us-edit-markd
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.376414633Z"
-seen = false
+seen = true
 +++
 
 Glenn Fleishman, writing at Six Colors, “Why Notes Will Never Let Us Edit Markdown”:

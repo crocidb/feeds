@@ -6,7 +6,7 @@ url = "https://x.com/viticci/status/2113888099784638932"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.379193721Z"
-seen = false
+seen = true
 +++
 
 Federico Viticci:

@@ -6,7 +6,7 @@ url = "https://www.macrumors.com/2026/10/27/macbook-pro-with-touchscreen-tomorro
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.368274628Z"
-seen = false
+seen = true
 +++
 
 Joe Rossignol, MacRumors:

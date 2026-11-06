@@ -6,7 +6,7 @@ url = "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-pus
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-08T09:34:20.381370060Z"
-seen = false
+seen = true
 +++
 
 The [incomparable](https://daringfireball.net/2025/03/a_postscript_on_the_singular_nature_of_mark_gurmans_reporting) Mark Gurman, reporting for Bloomberg:

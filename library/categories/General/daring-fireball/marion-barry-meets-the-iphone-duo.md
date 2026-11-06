@@ -6,7 +6,7 @@ url = "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.390152244Z"
-seen = false
+seen = true
 +++
 
 Jay Peters, The Verge:

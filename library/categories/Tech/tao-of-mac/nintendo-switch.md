@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/nintendo/switch?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.250693882Z"
-seen = false
+seen = true
 +++
 
 Resources for Nintendo Switch emulation, native game runtimes and recompilation.

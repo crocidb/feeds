@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/security?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-29T10:49:00.805564140Z"
-seen = false
+seen = true
 +++
 
 One of the things I seldom talk about, both due to my [Disclaimer](/space/site/disclaimer) and to my ingrained dislike of the “it’s got to have a half-dozen firewalls to be secure” school of thought.

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/apple/mac?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.195633996Z"
-seen = false
+seen = true
 +++
 
 [Folklore](http://www.folklore.org/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) tells a lot of tales about the creation of the original [Mac](/space/com/apple/mac). These days, of course, it’s all about [macOS](/space/com/apple/macos).

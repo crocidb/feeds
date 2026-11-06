@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/markup/svg?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.216319447Z"
-seen = false
+seen = true
 +++
 
 A resolution-independent graphics format based on `XML` that is becoming all the rage because people finally figured out that scaling bitmaps gives funky results.

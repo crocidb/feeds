@@ -6,7 +6,7 @@ url = "https://www.manton.org/2026/10/17/in-john-grubers-initial-thoughts.html"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.142510834Z"
-seen = false
+seen = true
 +++
 
 Manton Reece:

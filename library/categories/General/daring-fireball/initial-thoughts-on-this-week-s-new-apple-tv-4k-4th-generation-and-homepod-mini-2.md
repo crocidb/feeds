@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/10/thoughts_on_new_apple_tv_4k_and_homepo
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.161557616Z"
-seen = false
+seen = true
 +++
 
 [Apple Newsroom, Tuesday morning](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/):

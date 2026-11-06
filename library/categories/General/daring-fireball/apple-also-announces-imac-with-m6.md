@@ -6,7 +6,7 @@ url = "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.369599522Z"
-seen = false
+seen = true
 +++
 
 Just a speed bump, but [speed bumps are good](https://daringfireball.net/2019/05/good_old_fashioned_macbook_pro_speed_bumps).

@@ -6,7 +6,7 @@ url = "https://www.verizon.com/about/news/iphone-duo-verizon-offers"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.137339606Z"
-seen = false
+seen = true
 +++
 
 Verizon, in a post headlined “Switch to Verizon and Get the New iPhone Duo Now. No Trade-In Needed.”:

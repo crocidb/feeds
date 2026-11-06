@@ -6,7 +6,7 @@ url = "https://nr.apple.com/Du9G9W8Nq1"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.363890787Z"
-seen = false
+seen = true
 +++
 
 Apple Newsroom yesterday:

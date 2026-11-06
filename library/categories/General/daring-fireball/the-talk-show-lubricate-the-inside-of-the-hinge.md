@@ -6,7 +6,7 @@ url = "https://daringfireball.net/thetalkshow/2026/10/25/ep-456"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.384579868Z"
-seen = false
+seen = true
 +++
 
 Special guest: Joanna Stern.   

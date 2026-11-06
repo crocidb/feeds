@@ -6,7 +6,7 @@ url = "https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-i
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.375060199Z"
-seen = false
+seen = true
 +++
 
 Chance Miller, 9to5Mac:

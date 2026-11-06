@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/games?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.253243802Z"
-seen = false
+seen = true
 +++
 
 See also [Emulation](/space/emulation). The following table lists some game development resources I’ve been gathering over the years:

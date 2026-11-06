@@ -6,7 +6,7 @@ url = "https://x.com/johnternus/status/2107093462118199562"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-06T13:46:49.075029703Z"
-seen = false
+seen = true
 +++
 
 John Ternus, posting on X:

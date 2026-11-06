@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2009/02/17/1933?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.219273916Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2009/02/17/1933/large.jpg?v=b2239d7aaabc" alt="quicklook" width="320" height="240">](http://www.gsmworld.com/newsroom/press-releases/2009/2548.htm?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)

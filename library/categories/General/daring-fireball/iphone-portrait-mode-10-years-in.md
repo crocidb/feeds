@@ -6,7 +6,7 @@ url = "https://x.com/johnnie/status/2114007844605612167"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.385888342Z"
-seen = false
+seen = true
 +++
 
 Speaking of Johnnie Manzari, he wrote a post yesterday marking the 10 year anniversary of Portrait Mode:

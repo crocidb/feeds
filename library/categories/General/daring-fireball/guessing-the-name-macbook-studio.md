@@ -6,7 +6,7 @@ url = "https://www.macrumors.com/2026/10/28/macbook-studio/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-29T10:48:57.719199898Z"
-seen = false
+seen = true
 +++
 
 Joe Rossignol, MacRumors:

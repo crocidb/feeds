@@ -6,7 +6,7 @@ url = "https://x.com/bzamayo/status/2108498107184934914"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.173308151Z"
-seen = false
+seen = true
 +++
 
 Benjamin Mayo (on X, of course), commenting on Apple promoting behind-the-scenes footage showing that the embroidered “Welcome Home” logo for next week’s keynote/experience was stitched by hand:

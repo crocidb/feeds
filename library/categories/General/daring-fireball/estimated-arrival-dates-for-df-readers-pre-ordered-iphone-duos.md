@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/10/estimated_arrival_dates_for_preordered
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.128033090Z"
-seen = false
+seen = true
 +++
 
 Yesterday I posted the same question to my followers [on X](https://x.com/gruber/status/2111904155472146778), [Threads](https://www.threads.com/@gruber/post/DepcnGgFCKH), and [Mastodon](https://mastodon.social/@gruber/117463540267834280):<sup id="fnr1-2026-10-19"><a href="#fn1-2026-10-19">1</a></sup>

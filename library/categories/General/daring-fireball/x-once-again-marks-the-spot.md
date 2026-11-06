@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/10/x_once_again_marks_the_spot"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.169429682Z"
-seen = false
+seen = true
 +++
 
 Upon taking the CEO helm last month, John Ternus [began tweeting on X](https://x.com/johnternus/). He tweeted “[hello](https://x.com/johnternus/status/2094814214787633367)”, posted an iPhone event eve [teaser](https://x.com/johnternus/status/2097672038781763614) and then a [promo video](https://x.com/johnternus/status/2097753253027221817) for the new products, celebrated [Apple’s plethora of wins at the Emmys](https://x.com/johnternus/status/2099877747375907322) and [launch day on Fifth Avenue](https://x.com/johnternus/status/2100945522848567672), and commemorated the [anniversary of Steve Jobs’s death](https://daringfireball.net/linked/2026/10/05/ternus-cook-jobs-15th-anniversary).

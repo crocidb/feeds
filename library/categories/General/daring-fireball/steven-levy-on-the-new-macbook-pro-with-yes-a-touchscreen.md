@@ -6,7 +6,7 @@ url = "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-29T10:48:57.717839303Z"
-seen = false
+seen = true
 +++
 
 Steven Levy, writing at Wired with the scoop on the new MacBook Pros ([News+ link](https://apple.news/AaeR22fkURt6i_tk9bd_44g)):

@@ -6,7 +6,7 @@ url = "https://x.com/finkd/status/2110778025629347999"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.153175509Z"
-seen = false
+seen = true
 +++
 
 Mark Zuckerberg, on X:

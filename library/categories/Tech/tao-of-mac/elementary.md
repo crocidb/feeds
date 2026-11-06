@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/os/linux/distributions/elementary?utm_content=
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.214767978Z"
-seen = false
+seen = true
 +++
 
 [Elementary](https://elementary.io?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) is an [Ubuntu](/space/os/linux/distributions/ubuntu)-based [Linux](/space/os/linux) that I have grown to like because it delivers a polished, straightforward and (traditional) [macOS](/space/com/apple/macos)-like user interface without the hassles, inconsistencies and ugliness of either Gnome or Unity.

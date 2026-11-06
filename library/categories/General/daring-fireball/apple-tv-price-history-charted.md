@@ -6,7 +6,7 @@ url = "https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.147777601Z"
-seen = false
+seen = true
 +++
 
 Glenn Fleishman:

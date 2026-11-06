@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/hw/ebook_readers?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.224475334Z"
-seen = false
+seen = true
 +++
 
 [](/space/hw/ebook_readers#devices)

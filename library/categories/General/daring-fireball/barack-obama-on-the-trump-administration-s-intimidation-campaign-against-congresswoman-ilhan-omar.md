@@ -6,7 +6,7 @@ url = "https://x.com/BarackObama/status/2111819687524774170"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.123496942Z"
-seen = false
+seen = true
 +++
 
 Barack Obama, in a 430-word essay:

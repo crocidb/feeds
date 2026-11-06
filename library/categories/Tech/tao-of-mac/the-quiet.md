@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/10/25/1900?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.228762687Z"
-seen = false
+seen = true
 +++
 
 I was watching [Gergely Orosz](https://blog.pragmaticengineer.com/about/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) the other day for some reason, and he was going on about the impact of AI on the industry (what I like to call the Cambrian Slop Explosion). He mentioned that one of the major changes–and one of the personally taxing effects of using AI–was constant context switching and how fatiguing it was.

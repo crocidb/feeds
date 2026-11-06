@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/10/apple_announces_new_a20_pro_ipad_mini"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.377808707Z"
-seen = false
+seen = true
 +++
 
 * [Apple Newsroom announcement](https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/).

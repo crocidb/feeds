@@ -6,7 +6,7 @@ url = "https://openai.com/index/eu-text-provenance/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-06T13:46:49.073775304Z"
-seen = false
+seen = true
 +++
 
 OpenAI, today:

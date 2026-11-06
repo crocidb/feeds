@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/apple/ipad?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.238831913Z"
-seen = false
+seen = true
 +++
 
 The iPad is [Apple’s](/space/com/apple) entry into an entirely new product category, launched January 27th, 2010 and made available to the public on April 3rd. According to Steve Jobs, “the tablet actually came first”, which is rather interesting considering that it was initially not as sophisticated as the [iPhone](/space/com/apple/iphone) in some ways.

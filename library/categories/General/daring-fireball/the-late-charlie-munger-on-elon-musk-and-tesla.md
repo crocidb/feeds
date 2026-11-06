@@ -6,7 +6,7 @@ url = "https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.149040061Z"
-seen = false
+seen = true
 +++
 
 Re: my post today [on the still-vaporware Tesla Roadster](https://daringfireball.net/2026/10/real_artists_ship_tesla_edition) and Benedict Evans’s maxim that “Elon Musk is a bullshitter who delivers”, a reader sent me [this YouTube short](https://www.youtube.com/shorts/p5vm2n49qp8) of Charlie Munger’s answer to a question at [Daily Journal’s 2020 shareholder meeting](https://www.youtube.com/watch?v=HS8neXkNnhw) regarding Tesla’s volatility and Musk’s self-promotion. Munger said:

@@ -6,7 +6,7 @@ url = "https://book.stevejobsarchive.com/#photo-37"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-06T13:46:49.071176326Z"
-seen = false
+seen = true
 +++
 
 What an apt photo, [today](https://daringfireball.net/linked/2026/10/05/ternus-cook-jobs-15th-anniversary) of all days. What a gift *Make Something Wonderful* is.

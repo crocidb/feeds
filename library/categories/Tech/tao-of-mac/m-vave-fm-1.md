@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/com/m-vave/fm-1?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-29T10:49:00.775879575Z"
-seen = false
+seen = true
 +++
 
 I picked the black-and-green [M-VAVE FM-1](https://www.m-vave.com/product?id=fm-1&utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) because it reminded me of the [DX7](/space/com/yamaha/dx7#yamaha-dx7), and have been using mine with [Sloop](https://github.com/isod89/sloop-fm1?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com). The little screen and knobs make a surprising difference when you’re editing sounds or messing about with a sequencer–I went into that in [my review](/space/reviews/2026/10/11/2100#the-m-vave-fm-1).

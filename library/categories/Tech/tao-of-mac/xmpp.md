@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/protocols/xmpp?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.205287982Z"
-seen = false
+seen = true
 +++
 
 The Extensible Messaging and Presence Protocol, which underlies [Jabber](Jabber) and [PubSub](PubSub).

@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/os/plan9/acme?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.210934619Z"
-seen = false
+seen = true
 +++
 
 The eerily fascinating (and hopelessly retro) [Plan9](/space/os/plan9) editor.

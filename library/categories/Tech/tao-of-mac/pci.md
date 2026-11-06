@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/hw/pci?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.221814485Z"
-seen = false
+seen = true
 +++
 
 [](/space/hw/pci#resources)

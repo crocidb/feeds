@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/protocols/upnp?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.209508620Z"
-seen = false
+seen = true
 +++
 
 [Universal Plug and Play](http://www.upnp.org/?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com), an [Intel-centric](Intel) norm that is used for things like dynamical location and configuration of network devices (it is quite different from [Rendezvous](Rendezvous) in the sense that it covers both service discovery and interaction).

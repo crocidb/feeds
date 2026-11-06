@@ -6,7 +6,7 @@ url = "https://netnewswire.blog/2026/10/16/how-we-got-duo-support.html"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.155074068Z"
-seen = false
+seen = true
 +++
 
 From the NetNewsWire blog:

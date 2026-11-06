@@ -6,7 +6,7 @@ url = "https://www.theverge.com/tech/1015028/iphone-duo-review"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.397257893Z"
-seen = false
+seen = true
 +++
 
 Nilay Patel and Allison Johnson (also: [26-minute video review on YouTube](https://www.youtube.com/watch?v=g5gptFkgBlI)):

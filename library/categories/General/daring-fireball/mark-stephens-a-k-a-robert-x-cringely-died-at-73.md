@@ -6,7 +6,7 @@ url = "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7p
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.168068704Z"
-seen = false
+seen = true
 +++
 
 Mary Alyce Stephens (née Neader), posting on Cringely’s Facebook account:

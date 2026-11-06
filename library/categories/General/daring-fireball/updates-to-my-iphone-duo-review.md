@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/10/the_iphone_duo"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.401725884Z"
-seen = false
+seen = true
 +++
 
 Nothing major, but since publishing at 7:00pm last night, I’ve made a few additions and changes to my iPhone Duo review. I’m calling them out here, so that if you’ve already read it, you can see the changes. If I make more, I’ll add them to the top.

@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/10/prestructured_wysiwyg"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.366825125Z"
-seen = false
+seen = true
 +++
 
 One of the many small pleasures of my job is when someone else writes a good take on a subject that I have been meaning to write myself. Occasionally this stings, because it was something I really wanted to write myself. But usually it’s just awesome, because it’s an article I wanted to exist, didn’t really want to do the work of writing myself, and now it exists and I can just link to it, perhaps with commentary. It’s like finding money on the ground or in the pocket of a jacket you haven’t worn in months.

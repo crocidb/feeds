@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/blog/2026/10/26/2150?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.194853133Z"
-seen = false
+seen = true
 +++
 
 OpenAI launched [GPT-6.1 Terra](https://developers.openai.com/api/docs/models/gpt-6.1-terra?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) today at $1 per million input tokens, $5 for output and $0.05 for cached input. That is pretty similar to what happened with 6.1-Sol, since it is half of what [GPT-5.6 Terra](https://developers.openai.com/api/docs/pricing?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) costs now, and the cached input rate is a fifth of what my [`piclaw`](https://github.com/rcarmo/piclaw?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) pricing table recorded for it back in July.

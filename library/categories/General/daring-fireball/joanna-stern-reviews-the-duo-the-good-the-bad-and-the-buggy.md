@@ -6,7 +6,7 @@ url = "https://www.youtube.com/watch?v=bxDTWuL9GxY"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.398765027Z"
-seen = false
+seen = true
 +++
 
 Joanna Stern’s video review packs a ton into 16 minutes. She commissioned a custom robot to fold/unfold the thing over 32,000 times in a week, to see if it loosened the hinge. (I won’t spoil the answer.) She took it on a yacht on the Hudson. She took it to a dark bar to test the cameras. And she really, really missed Face ID. I don’t know how she makes these videos in just a week, along with all the actual testing. So good.

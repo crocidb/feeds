@@ -6,7 +6,7 @@ url = "https://www.linkedin.com/posts/frpotter_tonight-im-looking-back-through-t
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.130722059Z"
-seen = false
+seen = true
 +++
 
 Fred Potter, on LinkedIn:

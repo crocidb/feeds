@@ -6,7 +6,7 @@ url = "https://www.reuters.com/business/retail-consumer/openai-employee-who-left
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.145057843Z"
-seen = false
+seen = true
 +++
 
 Stephen Nellis and Deepa Seetharaman, reporting Wednesday for Reuters:

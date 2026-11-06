@@ -6,7 +6,7 @@ url = "https://daringfireball.net/linked/2022/10/11/ceos-as-nerds"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.124990941Z"
-seen = false
+seen = true
 +++
 
 Back in 2022, I quoted from an interesting post by Ben Schlappig at One Mile at a Time, [where he wrote](https://onemileatatime.com/news/american-airlines-ceo-jetblue-mint/):

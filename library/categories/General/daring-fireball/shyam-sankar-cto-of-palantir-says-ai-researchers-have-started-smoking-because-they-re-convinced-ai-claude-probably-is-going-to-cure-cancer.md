@@ -6,7 +6,7 @@ url = "https://www.cbsnews.com/news/shyam-sankar-chief-technology-officer-palant
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.158687717Z"
-seen = false
+seen = true
 +++
 
 From the transcript of Sunday’s Face the Nation on CBS:

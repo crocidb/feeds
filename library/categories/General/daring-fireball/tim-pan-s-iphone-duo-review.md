@@ -6,7 +6,7 @@ url = "https://www.youtube.com/watch?v=8pCccpKjjos"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.392999541Z"
-seen = false
+seen = true
 +++
 
 I hadn’t heard of Tim Pan or Mediastorm until running across his 24-minute video review of the Duo. It’s a good and fair review, but what struck me are the rather astonishing [production values](https://x.com/mediastorm_en/status/2113197007217295440). Amongst other things, they stress-tested the hinge with an industrial robot by opening/closing it 10,000 times. (That’s less than one-third the folds tested [by Joanna Stern’s Hingey](https://daringfireball.net/linked/2026/10/23/stern-iphone-duo-review), but still.) It’s an incredible piece of work, especially given the one-week time constraint. English is Pan’s second language, and there’s [an entire alternate version of the whole review](https://www.youtube.com/watch?v=gUgfS1vkMxw), under the Mediastorm channel, in Chinese. It’s not just a different soundtrack — it’s an entirely separate cut of the video, where all his on-camera shots are spoken in Chinese.

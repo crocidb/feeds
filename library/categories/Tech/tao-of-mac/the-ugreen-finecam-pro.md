@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/10/25/1814?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.231642615Z"
-seen = false
+seen = true
 +++
 
 It’s been a while since I wrote about my desk setups or how much I rely on having decent audio and a good camera with face tracking, so my return to work in early September seemed like a good time to do that. I’d meant to post this then, but said work was enough of a pain to delay it until late October… But that’s beside the point right now.

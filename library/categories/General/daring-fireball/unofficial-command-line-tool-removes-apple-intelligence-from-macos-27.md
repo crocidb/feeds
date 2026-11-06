@@ -6,7 +6,7 @@ url = "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-a
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-07T14:53:31.466197451Z"
-seen = false
+seen = true
 +++
 
 Scharon Harding, Ars Technica:

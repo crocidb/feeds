@@ -6,7 +6,7 @@ url = "https://youtu.be/ESABTN4VtrA"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.391420519Z"
-seen = false
+seen = true
 +++
 
 Marques Brownlee thinks the lack of Face ID will be the biggest gripe. I agree. And I love his central framing for the review: that the Duo is extremely polished around the edges (figuratively, but also true literally) but rough in the middle.

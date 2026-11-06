@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/os/linux/distributions/fedora?utm_content=atom
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-29T10:49:00.800638091Z"
-seen = false
+seen = true
 +++
 
 [Fedora](https://fedoraproject.org?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com) is the consumer-oriented (i.e., free) flavor of [RedHat](/space/os/linux/distributions/redhat). Throughout the years it has been (on and off) my distribution of choice for desktop purposes, since it is extremely well organized and easy to maintain.

@@ -6,7 +6,7 @@ url = "https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-ap
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.400172481Z"
-seen = false
+seen = true
 +++
 
 Apple Newsroom:

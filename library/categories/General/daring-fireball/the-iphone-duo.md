@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/10/the_iphone_duo"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-22T13:34:55.805244340Z"
-seen = false
+seen = true
 +++
 
 The very nature of the iPhone Duo raises numerous obvious questions about what it’s like to use. Does it not feel thick and heavy, awkward both to pocket and unpocket? Doesn’t the outer (cover) screen feel small and cramped, with an unfamiliar squat-rather-than-tall layout for UI controls in every app you use? Isn’t it weird that when you open it up to use the inner screen, that all the hardware buttons on the edges of the device are in the “wrong” places for a tablet? For anyone who’s gotten used to Face ID over the last decade, is it not frustrating to go back to Touch ID? And what about third-party apps that haven’t been updated to support the Duo’s novel displays — do they not suck to use?

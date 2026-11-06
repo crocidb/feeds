@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/os/linux/distributions/debian?utm_content=atom
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.257627353Z"
-seen = false
+seen = true
 +++
 
 <img src="/space/os/linux/distributions/debian/logo.gif?v=27da22ea2a37" width="54" height="63">

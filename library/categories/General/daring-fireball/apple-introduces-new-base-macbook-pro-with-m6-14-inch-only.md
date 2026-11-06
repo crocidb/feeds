@@ -6,7 +6,7 @@ url = "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-m
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.372307801Z"
-seen = false
+seen = true
 +++
 
 Apple Newsroom’s “Pro and Tell” announcement week continues:

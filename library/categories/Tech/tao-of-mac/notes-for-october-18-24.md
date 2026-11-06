@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/notes/2026/10/24/2003?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.258979537Z"
-seen = false
+seen = true
 +++
 
 I’ve been more interested in exploring how to simultaneously enjoy Greek yoghurt, orange marmalade and the glorious golden-hour light that pervades my living room than, well, most other things, so this week was a bit of a bust as far as personal projects go.

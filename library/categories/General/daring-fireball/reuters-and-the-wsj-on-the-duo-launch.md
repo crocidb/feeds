@@ -6,7 +6,7 @@ url = "https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-ca
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.388849679Z"
-seen = false
+seen = true
 +++
 
 Aditya Soni, Christine Chen, and Will Russell, reporting Friday for Reuters:

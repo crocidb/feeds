@@ -6,7 +6,7 @@ url = "https://www.theinformation.com/articles/apple-developing-ai-wearable-pin"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.140002735Z"
-seen = false
+seen = true
 +++
 
 Wayne Ma and Qianer Liu, reporting, wrongly, for The Information in January this year (paywalled; [here’s MacRumors’s summary](https://www.macrumors.com/2026/01/21/home-hub-robotic-swivel-base/))

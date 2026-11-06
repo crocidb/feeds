@@ -6,7 +6,7 @@ url = "https://www.fountaininteractive.com/TinyComputers/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.380544736Z"
-seen = false
+seen = true
 +++
 
 If you’ve got or get a Duo and don’t try this out, you’re not hooked up right.

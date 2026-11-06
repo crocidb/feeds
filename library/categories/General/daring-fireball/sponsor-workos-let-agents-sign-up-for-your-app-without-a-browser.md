@@ -6,7 +6,7 @@ url = "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newslette
 author = "Daring Fireball Department of Commerce"
 text = ""
 lastupdated = "2026-10-27T22:33:08.370947507Z"
-seen = false
+seen = true
 +++
 
 An agent can’t click through a signup page built for humans, so give it something it can read instead. Publish an auth.md file and agents register themselves without ever touching a browser login, and the user never gets pulled out of what they were doing.

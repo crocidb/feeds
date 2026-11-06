@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/reviews/2026/10/18/1646?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-21T11:46:12.199425654Z"
-seen = false
+seen = true
 +++
 
 I’ve done quite a few KVM reviews [in the past](/space/blog/2025/02/02/1630#the-sipeed-nanokvm-cube), and there’s a reason for that: All of the homelab and industrial IoT stuff I test needs some sort of physical access for setup, and even if I do have monitors with multiple inputs, USB video capture dongles, etc., it gets really old to have to constantly re-wire stuff, switch between keyboards, etc.

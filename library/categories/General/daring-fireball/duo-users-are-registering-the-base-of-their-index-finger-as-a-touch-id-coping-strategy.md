@@ -6,7 +6,7 @@ url = "https://www.reddit.com/r/iPhoneDuo/comments/1xehtcj/best_fingerprint_meth
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.383272514Z"
-seen = false
+seen = true
 +++
 
 Some guy on Reddit (with an illustration video):

@@ -6,7 +6,7 @@ url = "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.132055768Z"
-seen = false
+seen = true
 +++
 
 Joe Flint and Jessica Toonkel, reporting for The Wall Street Journal last week:

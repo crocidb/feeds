@@ -6,7 +6,7 @@ url = "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-e
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.166784414Z"
-seen = false
+seen = true
 +++
 
 Apple Newsroom:

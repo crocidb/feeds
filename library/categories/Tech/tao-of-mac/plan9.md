@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/os/plan9?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-27T22:33:14.262604231Z"
-seen = false
+seen = true
 +++
 
 My summer break in 2014 had a theme of sorts, which was “back to basics”. I wanted to forget everything I could about work and fiddle with more interesting stuff – less abstractions, less wondering, more concrete, down-to-earth stuff.

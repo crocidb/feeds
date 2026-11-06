@@ -6,7 +6,7 @@ url = "https://www.macrumors.com/2026/10/16/iphone-duo-sold-out-for-christmas/"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.160082406Z"
-seen = false
+seen = true
 +++
 
 Joe Rossignol, MacRumors:

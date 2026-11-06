@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/10/real_artists_ship_tesla_edition"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.157109098Z"
-seen = false
+seen = true
 +++
 
 Jonathan Gitlin, [writing for Ars Technica](https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/):

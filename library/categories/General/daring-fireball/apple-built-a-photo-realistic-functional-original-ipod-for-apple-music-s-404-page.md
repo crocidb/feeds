@@ -6,7 +6,7 @@ url = "https://music.apple.com/404"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-27T22:33:08.394421636Z"
-seen = false
+seen = true
 +++
 
 It [seems like](https://x.com/kianworld/status/2113519872999301172) this amazing Easter egg only launched yesterday, to celebrate [the original iPod’s 25th anniversary](https://x.com/tfadell/status/2113708201762033691). Exquisitely well done. More like this, please.

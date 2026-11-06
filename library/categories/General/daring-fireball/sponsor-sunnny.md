@@ -6,7 +6,7 @@ url = "https://sunnny.com/"
 author = "Daring Fireball Department of Commerce"
 text = ""
 lastupdated = "2026-10-06T13:46:49.072432164Z"
-seen = false
+seen = true
 +++
 
 How can B2B software be so friggin’ delicious? Early access drops 10/19. Spread the love.

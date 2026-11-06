@@ -6,7 +6,7 @@ url = "https://daringfireball.net/2026/10/homeview_thoughts_and_observations"
 author = "John Gruber"
 text = ""
 lastupdated = "2026-10-21T11:46:08.146486173Z"
-seen = false
+seen = true
 +++
 
 I’ll start with a nomenclatural sidenote: Apple seems to be going with “Apple HomeView” as the product’s name. E.g., the URL slug for it on Apple.com is *[apple-homeview/](https://www.apple.com/apple-homeview/)*, not just *homeview/*. Few people notice and no one who doesn’t work in Apple product marketing cares, but they actually do the same thing with Vision Pro — in Cupertino, it’s “Apple Vision Pro” (once again including [the URL slug](https://www.apple.com/apple-vision-pro/)). Yet this week’s new HomePod Mini is just “[HomePod mini 2](https://www.apple.com/homepod-mini/)” and the existing 2nd-generation HomePod is just “[HomePod (2nd generation)](https://www.apple.com/homepod-2nd-generation/)” — not “HomePod 2” or “Apple HomePod”. I certainly intend to just call it “HomeView”.

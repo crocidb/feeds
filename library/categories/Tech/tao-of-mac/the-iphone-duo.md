@@ -6,7 +6,7 @@ url = "https://taoofmac.com/space/links/2026/10/22/0651?utm_content=atom"
 author = "Rui Carmo"
 text = ""
 lastupdated = "2026-10-22T13:34:59.295502739Z"
-seen = false
+seen = true
 +++
 
 [<img class="quicklook" src="/space/links/2026/10/22/0651/large.jpg?v=e633b7ce71c1" alt="quicklook" width="320" height="213">](https://daringfireball.net/2026/10/the_iphone_duo?utm_campaign=unsolicited_traffic&utm_medium=web&utm_source=taoofmac.com)
