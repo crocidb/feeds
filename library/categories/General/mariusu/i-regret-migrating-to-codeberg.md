@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/i-regret-migrating-to-codeberg/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-07-23T22:52:43.498666356Z"
-seen = false
+seen = true
 +++
 
 My primary reason for leaving *GitHub* was not about a single feature or a single outage, but about the *“enshittification”* of the platform under *Microsoft*’s ownership. The web interface got rewritten into a sluggish pile of [*JavaScript*](https://disable-javascript.org) that either broke things which used to just work, or made them so horribly slow that using them became a *PITA*. Beyond the technical decay *GitHub* had turned into de facto *“public infrastructure”* in much the same way that [*WhatsApp* has](/the-day-whatsapp-goes-dark/), hosting the source code of a very large share of the world’s software and, through that, giving *Microsoft* a degree of leverage and surveillance over everyone’s projects, and by extension everyone’s digital lives, that no single company should hold. On top of that, stories about legitimate developers losing their accounts due to arbitrary bans by *Microsoft* only reinforced the feeling that it would be a good idea to at least have a backup *somewhere else*.

@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/deus-ex-machina"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-10-29T10:48:58.366026008Z"
-seen = false
+seen = true
 +++
 
 In some of the recent articles on this blog, we tackled the structure of logic, the nature of truth, and the meaning of existence. With these beginner topics sorted out, we can now talk about God.

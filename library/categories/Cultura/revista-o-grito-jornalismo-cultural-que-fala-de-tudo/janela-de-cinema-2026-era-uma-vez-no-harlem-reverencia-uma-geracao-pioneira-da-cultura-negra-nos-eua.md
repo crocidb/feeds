@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/janela-de-cinema-2026-era-uma-vez-no-harlem-rev
 author = "Alexandre Cunha"
 text = ""
 lastupdated = "2026-11-02T23:27:00.345809971Z"
-seen = false
+seen = true
 +++
 
 Uma luneta apontada ao passado: era agosto de 1972 quando o cineasta William Greaves reuniu, na casa do músico Duke Ellington, em Nova York, algumas das principais figuras do Renascimento do Harlem. Movimento artístico, cultural e intelectual eclodido nas décadas de 1920 e 1930, o *Harlem Renaissance* foi primordial para a produção cultural afro-americana e contribuiu para a consolidação de uma nova consciência política e racial nos Estados Unidos. Proeminentes artistas plásticos, escritores, músicos e ativistas participaram do grande encontro na casa de Ellington: Aaron Douglas, Romare Bearden, Eubie Blake e Arna Bontemps, entre tantos outros. Muitos não se encontravam havia décadas.

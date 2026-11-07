@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/hyperuplink-discuss-like-its-1998/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-09-01T19:33:13.848389216Z"
-seen = false
+seen = true
 +++
 
 Between the screeching handshake of a 2400-baud modem, the steady hum of a computer in *Turbo* mode, and the pale flicker of a CRT glowing at three in the morning, the internet seemed to have had something that, over the past two decades or so, it has completely lost: A *soul*. Communities made up of actual humans gathered around bulletin boards that loaded in a single request, where regular hardware could bring an entire world to your screen without borrowing half your CPU just to show you a list of topics. If you happened to have lived through that brief and peculiar moment in history, you probably still carry a fondness for those days, and you remember the strange little corners of the internet that you discovered, the hours you spent exploring them, and perhaps the friends you made along the way.

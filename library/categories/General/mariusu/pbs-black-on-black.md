@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/pbs-black-on-black/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-11-02T23:27:00.742901649Z"
-seen = false
+seen = true
 +++
 
 **Disclaimer:** While this post is about the “Black on Black” keycap set specifically, it is also a more general review of the PBS profile.

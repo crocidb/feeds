@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/mulheres-de-ninive-chega-ao-teatro-do-parque-em
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-10-22T13:34:56.375723211Z"
-seen = false
+seen = true
 +++
 
 O espetáculo “Mulheres de Nínive”, idealizado e protagonizado pela atriz e apresentadora **[Nínive Caldas](https://revistaogrito.com/festival-cena-cumplicidades-encerra-com-ninive-caldas-e-judith-cohen-em-teatro-e-concerto-internacional/)**, chega ao Teatro do Parque, no Recife, para apresentação única no dia 30 de outubro, às 20h. Com direção de **Hilda Torres**, o monólogo propõe uma reflexão sobre histórias de mulheres que, em diferentes épocas, tiveram suas trajetórias silenciadas, distorcidas ou apagadas. Os ingressos custam a partir de R$ 30 e estão disponíveis pelo Sympla.

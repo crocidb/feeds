@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/animage-conecta-divulga-programacao-com-300-reu
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-10-22T13:34:56.365676025Z"
-seen = false
+seen = true
 +++
 
 Rodada de negócios, sessões de pitching, masterclasses e entrevistas com profissionais premiados internacionalmente, painéis e debates sobre os desafios da animação brasileira, estão entre as atividades do ANIMAGE Conecta, que acontece de 20 a 23 de novembro, no Cais do Sertão, no Recife. O encontro reúne mais de 50 profissionais convidados e representantes de 25 empresas e instituições nacionais e internacionais. Toda a programação é gratuita, com acesso mediante credenciamento no site do evento. O ANIMAGE Conecta integra a 16ª edição do [ANIMAGE](https://revistaogrito.com/animage-2026-festival-anuncia-filmes-selecionados/) – Festival Internacional de Animação de Pernambuco, que acontece de 20 a 29 de novembro, no Recife.

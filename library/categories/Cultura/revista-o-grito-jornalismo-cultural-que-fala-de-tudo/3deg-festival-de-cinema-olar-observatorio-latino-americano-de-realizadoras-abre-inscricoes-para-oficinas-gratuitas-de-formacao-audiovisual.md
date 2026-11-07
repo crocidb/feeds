@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/3-festival-de-cinema-olar-observatorio-latino-a
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-10-21T11:46:08.587347588Z"
-seen = false
+seen = true
 +++
 
 O Festival de Cinema OLAR (Observatório Latino-americano de Realizadoras) abre, entre os dias 15 e 26 de outubro, as inscrições para duas oficinas gratuitas que integram sua Sala de Formação OLAR, iniciativa dedicada à criação, à pesquisa e à reflexão sobre o audiovisual produzido por mulheres e dissidências de gênero na América Latina. Realizadas em Paudalho e Carpina, as atividades fazem parte da terceira edição do festival, que acontece com exibições de 11 a 14 de novembro de 2026 e amplia, nesta edição, sua presença territorial na Zona da Mata de Pernambuco. As inscrições são voltadas para pessoas maiores de 18 anos e não exigem experiência prévia. O resultado da seleção para as oficinas será divulgado no dia 30 de outubro. Além das oficinas, serão disponibilizadas três bolsas de estudo destinadas a estudantes do interior, com apoio para transporte, alimentação e hospedagem durante o período do festival.

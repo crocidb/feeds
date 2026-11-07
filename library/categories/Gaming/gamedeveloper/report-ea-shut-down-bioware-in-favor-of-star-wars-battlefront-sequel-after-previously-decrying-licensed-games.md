@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/report-ea-shut-down-bioware-in-fav
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-02T23:27:00.272628049Z"
-seen = false
+seen = true
 +++
 

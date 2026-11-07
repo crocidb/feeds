@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supp
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-05T13:08:19.939930478Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/splatoon-raiders_nMrGrDb.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/ruy-castro-vence-o-livro-do-ano-no-68o-premio-j
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-10-29T10:48:58.350785352Z"
-seen = false
+seen = true
 +++
 
 O escritor **[Ruy Castro](https://revistaogrito.com/premio-jabuti-consagra-ruy-castro-como-livro-do-ano-veja-lista-de-vencedores/)** foi o grande nome do [68º Prêmio Jabuti](https://revistaogrito.com/premio-jabuti-anuncia-finalistas-da-edicao-2026-confira-a-integra/). Ele levou o troféu de Livro do Ano com *Trincheira Tropical: A Segunda Guerra Mundial no Rio* (Companhia das Letras), que também venceu em Biografia e Reportagem. A obra investiga como o conflito global remodelou a história e a identidade do Brasil. É o segundo ano consecutivo em que Castro conquista o principal prêmio: em 2025, foi escolhido por sua coletânea de crônicas sobre Tom Jobim. Os vencedores foram anunciados na noite de terça-feira (27/10), na Sala São Paulo, em cerimônia transmitida pelo YouTube da Câmara Brasileira do Livro. Foram premiadas 23 categorias, nos eixos Literatura, Não Ficção, Produção Editorial e Inovação.

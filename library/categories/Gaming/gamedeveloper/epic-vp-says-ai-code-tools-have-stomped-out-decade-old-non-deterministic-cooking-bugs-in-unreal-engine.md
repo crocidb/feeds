@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-10-29T10:48:58.533157968Z"
-seen = false
+seen = true
 +++
 

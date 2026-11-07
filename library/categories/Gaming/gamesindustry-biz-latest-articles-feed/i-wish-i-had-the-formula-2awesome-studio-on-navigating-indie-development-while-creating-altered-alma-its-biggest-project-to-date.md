@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/i-wish-i-had-the-formula-2awesome-studio-on
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-02T23:26:59.445667687Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Altered_Alma_Screenshot_01.png?width=690&quality=85&format=jpg&auto=webp)

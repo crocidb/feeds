@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/it-is-just-a-weapon/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-10-29T10:48:57.403584700Z"
-seen = false
+seen = true
 +++
 
 *Another useless AI rant, me screaming into the void, feel free to ignore.*

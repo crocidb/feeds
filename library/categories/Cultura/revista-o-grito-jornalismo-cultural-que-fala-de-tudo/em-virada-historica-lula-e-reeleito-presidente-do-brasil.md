@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/em-virada-historica-lula-e-reeleito-presidente-
 author = "Agência Brasil"
 text = ""
 lastupdated = "2026-10-27T22:33:09.858416982Z"
-seen = false
+seen = true
 +++
 
 ![ebc](https://agenciabrasil.ebc.com.br/ebc.gif?id=1706705&o=node)\<img decoding="async" src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1706705&amp;o=node" alt="ebc"\>Com mais de 98,2% das urnas apuradas, Lula obteve 51,75% dos votos válidos, o equivalente a 64.060.863 votos em uma campanha que tomou fôlego no segundo turno, a partir de uma reação nas redes sociais e de manifestações de rua. 

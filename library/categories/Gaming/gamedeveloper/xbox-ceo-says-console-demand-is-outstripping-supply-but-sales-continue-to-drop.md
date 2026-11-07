@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/console/xbox-ceo-says-console-demand-is-out
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-02T23:27:00.276477812Z"
-seen = false
+seen = true
 +++
 

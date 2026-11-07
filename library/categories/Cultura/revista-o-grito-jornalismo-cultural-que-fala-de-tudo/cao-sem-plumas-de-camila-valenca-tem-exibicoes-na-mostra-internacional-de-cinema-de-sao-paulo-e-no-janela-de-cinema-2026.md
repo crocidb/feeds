@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cao-sem-plumas-de-camila-valenca-tem-exibicoes-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-29T10:48:58.349289188Z"
-seen = false
+seen = true
 +++
 
 A realizadora pernambucana Camila Valença estreia na direção de longas-metragens com *Cão sem Pluma*s, documentário que investiga o cruzamento entre literatura, dança e linguagem cinematográfica ao longo do curso do rio Capibaribe. Produzido pela Perdidas Ilusões e JR Produções, com produção associada da Jurema Filmes e produção executiva de Carol Ferreira, o filme toma como ponto de partida o processo criativo do espetáculo homônimo concebido pela coreógrafa Deborah Colker. Além de estar na programação da 50ª Mostra Internacional de Cinema de São Paulo, ele será exibido nesta sexta (30), no Cinema São Luiz, no Janela Internacional de Cinema.

@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/travel/thailand/bangkok-2026/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-07-22T09:22:31.362687861Z"
-seen = false
+seen = true
 +++
 
 [![/travel/thailand/bangkok-2026/images/IMG_0564.jpg](/travel/thailand/bangkok-2026/images/IMG_0564_hu_96f349d8dd5ab16.webp) ](/travel/thailand/bangkok-2026/images/IMG_0564.jpg)

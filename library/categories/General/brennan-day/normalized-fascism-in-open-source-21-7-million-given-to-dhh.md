@@ -6,7 +6,7 @@ url = "https://brennan.day/normalized-fascism-in-open-source-12-million-given-to
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-08T09:34:20.332252402Z"
-seen = false
+seen = true
 +++
 
 **Update, October 7, 2026:** This post has been updated to reflect the Omacom Foundation's growth from $12 million to \~$21.7 million, along with its new patrons, hires, and sponsorships. For a continuously updated summary, see [Stop Omarchy](https://stopomarchy.neocities.org).

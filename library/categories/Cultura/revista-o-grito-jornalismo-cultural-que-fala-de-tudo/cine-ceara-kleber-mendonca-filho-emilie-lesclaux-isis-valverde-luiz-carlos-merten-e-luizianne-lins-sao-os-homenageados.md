@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cine-ceara-kleber-mendonca-filho-emilie-lesclau
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-22T13:34:56.368628494Z"
-seen = false
+seen = true
 +++
 
 O [Cine Ceará – Festival Ibero-americano de Cinema](https://revistaogrito.com/?s=cine+ceará) revelou os cinco homenageados da sua 36ª edição, que ocorre de 7 a 13 de novembro de 2026, com programação gratuita em Fortaleza (CE). A solenidade de abertura, marcada para o dia 7 de novembro, às 19h, no Cineteatro São Luiz, concede o Troféu Eusélio Oliveira ao diretor pernambucano **[Kleber Mendonça Filho](https://revistaogrito.com/?s=kleber+mendonça)** e à produtora **Emilie Lesclaux**, em reconhecimento ao sucesso internacional do longa *[O Agente Secreto](https://revistaogrito.com/o-agente-secreto-critica/)*. Na mesma noite, o evento exibe o curta-metragem *[Sul de Teerã](https://revistaogrito.com/kleber-mendonca-anuncia-lancamento-do-novo-filme-south-of-tehran/)*, trabalho mais recente do realizador.

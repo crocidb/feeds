@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/i-do-not-recommend-google-hardware/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-06-29T12:19:28.422778097Z"
-seen = false
+seen = true
 +++
 
 I’ve been a [*GrapheneOS*](https://grapheneos.org) user for years now. Back in 2022 I [switched away](/reclaiming-mobile-privacy-with-grapheneos/) from */e/OS* on a *Samsung Galaxy S10* to a *Google Pixel 6a* that I had bought, because at the time it happened to be one of the cheapest devices on the [short list of officially supported Pixels](https://grapheneos.org/faq#device-support). However, my history with *Google phones* goes way past the *6a* and ever since I got my first *Nexus*, every single piece of *Google* (branded and manufactured) hardware that has passed through my hands has eventually broken on a hardware level, way quicker than expected. At this point I have run out of patience with *Google*’s consumer electronics and have decided to stop giving the company any more of my money.

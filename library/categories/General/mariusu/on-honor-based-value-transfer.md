@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/on-honor-based-value-transfer/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-10-27T22:33:08.727058803Z"
-seen = false
+seen = true
 +++
 
 **Disclaimer:** This is an opinion piece, written from the perspective of someone who has grown steadily more uneasy and frankly tired with the amount of surveillance and compliance that modern banking now takes for granted. This is, however, *not* a naive claim that the system I am about to describe is somehow free of abuse, because it very much is not. It is more of an attempt to ask why we have decided that financial privacy is inherently suspect, and to make the case that a tool used overwhelmingly by criminals only stays that way for as long as honest people refuse to use it.

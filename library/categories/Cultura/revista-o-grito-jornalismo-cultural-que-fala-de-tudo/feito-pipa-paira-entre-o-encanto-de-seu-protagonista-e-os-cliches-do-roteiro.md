@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/feito-pipa-paira-entre-o-encanto-de-seu-protago
 author = "Alexandre Cunha"
 text = ""
 lastupdated = "2026-11-05T13:08:20.896244101Z"
-seen = false
+seen = true
 +++
 
 “Feito Pipa” paira entre o encanto de seu protagonista e os clichês do roteiro 

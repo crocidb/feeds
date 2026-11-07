@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/recnplay-2026-sera-palco-de-tecnologia-e-criati
 author = "Agência Brasil"
 text = ""
 lastupdated = "2026-11-05T13:08:20.899159428Z"
-seen = false
+seen = true
 +++
 
 **Por Elaine Patricia Cruz – Repórter da Agência Brasil**

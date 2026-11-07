@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/janela-de-cinema-2026-foi-uma-vitrine-excepcion
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-11-05T13:08:20.903900928Z"
-seen = false
+seen = true
 +++
 
 As produções LGBTQIA+ estão em alta. No último Festival de Cannes, em maio último, nada menos de 21 longas-metragens com a temática estavam na seleção oficial e já se anuncia, para o Oscar 2027, uma grande presença de filmes queer nas diversas categorias da premiação. Talvez refletindo essa tendência, este ano, o Janela Internacional de Cinema apresentou na programação uma ótima seleção de filmes LGBTQIA+.

@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/lenovo-x1-carbon-gen-14-aura/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-07-09T12:05:22.311415142Z"
-seen = false
+seen = true
 +++
 
 **tl;dr:** After [the long](/updates-2026-q1/) and [painful goodbye](/updates-2026-q2/) to my *Star Labs StarBook Mk VI AMD*, I caved and did what every Linux nerd eventually does, which is buying a *ThinkPad*. I left *Team Red* and chose the *X1 Carbon Gen 14 Aura Edition* with *Intel*’s new *Panther Lake* *Core Ultra X7 368H vPro*, 32GB of (sadly soldered) RAM and the 2.8K OLED panel. It’s a sub-1kg, repairable carbon-fibre slab that runs Linux beautifully and that I can service (or get serviced) pretty much anywhere on the planet thanks to the widespread availability of parts and service points. Migration consisted of installing the latest *Gentoo* distribution kernel (to have all necessary modules available), pulling the SSD with my [hardened Gentoo installation](/hardened-gentoo-with-full-disk-encryption-on-the-star-labs-starbook-mk-vi/) out of the *StarBook*, dropping it into the *Lenovo*, and booting the system. Plus one round of recompiling all packages for the new architecture, but that’s… details.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/apesar-da-vitoria-de-lula-e-preciso-estar-atent
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-10-27T22:33:09.853956742Z"
-seen = false
+seen = true
 +++
 
 A [vitória de **Luiz Inácio Lula da Silva** ](https://revistaogrito.com/em-virada-historica-lula-e-reeleito-presidente-do-brasil/) (PT) no segundo turno das eleições presidenciais foi um alívio para os [artistas e produtores culturais](https://revistaogrito.com/as-propostas-para-cultura-dos-candidatos-a-presidencia/). Pelo menos, por enquanto, a classe artística tem a seu favor um mandatário que defenderá, nos próximos quatro anos, a continuidade das ações do governo federal, retomadas e implementadas por ele no âmbito da cultura, depois dos anos sombrios da gestão de [extrema direita de Jair Bolsonaro ](https://revistaogrito.com/assunto/jair-bolsonaro/)no período de 2019 a 2022 que, entre outros desmandos, extinguiu o Ministério da Cultura.

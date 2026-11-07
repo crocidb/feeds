@@ -6,7 +6,7 @@ url = "https://brennan.day/the-better-web-the-human-web-the-living-web/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-21T11:46:09.796524665Z"
-seen = false
+seen = true
 +++
 
 It's been a few days since [my article on Claude Code being used to develop various IndieWeb tools](https://brennan.day/the-indieweb-now-has-genai-and-claude-built-in-what-do-we-do/), and in that time [Aaron Parecki has written a response](https://aaronparecki.com/2026/10/17/5/rebuilding-my-indieweb-projects).

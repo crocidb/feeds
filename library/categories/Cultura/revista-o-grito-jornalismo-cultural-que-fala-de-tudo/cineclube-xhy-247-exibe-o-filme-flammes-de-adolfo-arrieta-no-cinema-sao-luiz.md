@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cineclube-xhy-247-exibe-o-filme-flammes-de-adol
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-22T13:34:56.378638290Z"
-seen = false
+seen = true
 +++
 
 O cineclube **XHY-247** promove nesta quinta-feira (22/10), às 19h, no [Cinema São Luiz](https://revistaogrito.com/assunto/cinema-sao-luiz/), no Recife (PE), a primeira exibição na cidade do longa-metragem *Flammes* (1978), dirigido pelo cineasta e pintor espanhol **Adolfo Arrieta**. Inédita no circuito comercial local, a produção francesa acompanha Barbara (interpretada por **Caroline Loeb**), uma jovem que vive isolada com o pai (**Dionys Mascolo**) em um casarão na França e desenvolve uma obsessão por um bombeiro que apareceu em seu quarto durante a infância.

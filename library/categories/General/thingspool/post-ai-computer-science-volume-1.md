@@ -6,7 +6,7 @@ url = "https://thingspool.net/shards-of-sanity/page-1.html"
 author = "Youngjin Kang"
 text = ""
 lastupdated = "2026-10-21T11:46:09.028240705Z"
-seen = false
+seen = true
 +++
 
 How do we keep programming despite the presence of AI coding agents?

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-02T23:26:59.426391438Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ss_6e300b19df2d25ee2435c848dca5da277ce7ebff.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-reb
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-29T10:48:57.252933931Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/unnamed_pe6RTjE.png?width=690&quality=85&format=jpg&auto=webp)

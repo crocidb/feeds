@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-tower
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-02T23:26:59.437908100Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/celeste_V0TUsmA.jpg?width=690&quality=85&format=jpg&auto=webp)

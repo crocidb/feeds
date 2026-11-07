@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/nagoshi-studio-toshihiro-nagoshi-s
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-02T23:27:00.265104670Z"
-seen = false
+seen = true
 +++
 

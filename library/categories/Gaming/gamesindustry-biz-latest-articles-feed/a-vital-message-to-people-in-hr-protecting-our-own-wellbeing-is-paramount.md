@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-
 author = "James Batchelor"
 text = ""
 lastupdated = "2026-11-02T23:26:59.435395710Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/stormseeker-rX12B5uX7QM-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

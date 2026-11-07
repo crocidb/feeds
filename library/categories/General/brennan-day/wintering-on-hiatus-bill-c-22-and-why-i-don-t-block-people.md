@@ -6,7 +6,7 @@ url = "https://brennan.day/wintering-on-hiatus-bill-c-22-and-why-i-dont-block-pe
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-08T09:34:20.288667182Z"
-seen = false
+seen = true
 +++
 
 Earlier today, [I announced](https://folk.zone/blog/putting-services-on-hiatus/) that I'm putting a fair number of [folk.zone](https://folk.zone) services on hiatus. There were a few reasons for this. Primarily, it is due to a lack of capability to responsibly moderate and manage so many different services.

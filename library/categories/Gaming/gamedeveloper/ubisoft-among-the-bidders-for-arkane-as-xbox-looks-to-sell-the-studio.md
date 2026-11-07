@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arka
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-05T13:08:20.739826681Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-05T13:08:19.938545173Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/wolverine_LMSehZh.webp?width=690&quality=85&format=jpg&auto=webp)

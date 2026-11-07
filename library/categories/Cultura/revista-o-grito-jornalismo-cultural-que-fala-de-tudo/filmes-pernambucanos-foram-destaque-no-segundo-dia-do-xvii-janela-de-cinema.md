@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/filmes-pernambucanos-foram-destaque-no-segundo-
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-11-02T23:27:00.341007261Z"
-seen = false
+seen = true
 +++
 
 A decisão do Janela de Cinema de abrir espaço para o audiovisual pernambucano, colocando nada menos do que 15 obras entre os 31 filmes programados, mostra a diversidade da produção local e fortalece o papel do festival como agente de valorização de nossa cinematografia. Na segunda noite do evento, comprovando essa potência criativa, dois longas metragens de realizadores pernambucanos foram exibidos, *Coração de Lona*, de Tuca Siqueira e *Yellow Cake*, de Tiago Melo.

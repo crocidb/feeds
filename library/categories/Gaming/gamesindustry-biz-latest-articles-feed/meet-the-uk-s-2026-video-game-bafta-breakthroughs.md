@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/meet-the-uks-2026-video-game-bafta-breakthr
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-05T13:08:19.945677863Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/bafta-breakthrough-2026.png?width=690&quality=85&format=jpg&auto=webp)

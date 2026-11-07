@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-11-05T13:08:20.742241001Z"
-seen = false
+seen = true
 +++
 

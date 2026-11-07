@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/the-day-whatsapp-goes-dark/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-07-16T14:36:54.188096768Z"
-seen = false
+seen = true
 +++
 
 **Note:** As usual, [*tl;dr*](#summary) at the end.

@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/teaching-an-old-dog-new-tricks-forgejo-xmpp/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-08-10T12:13:28.497526214Z"
-seen = false
+seen = true
 +++
 
 I recently [decided to leave *Codeberg*](/i-regret-migrating-to-codeberg/) and run my own *Forgejo* instance instead. After finishing the initial setup, I realized that a forge I host myself is a forge that I get to shape, and that I no longer have to settle for whatever feature set someone else considered reasonable. I can now make it truly mine, and switch on the things I have always wanted a *Git* host to do.

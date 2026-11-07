@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cineclube-bar-super-8-apresenta-nessa-sexta-a-s
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-27T22:33:09.864926934Z"
-seen = false
+seen = true
 +++
 
 Com a realização no próximo domingo do segundo turno das eleições presidenciais, o Cineclube Bar Super 8 apresentará nesta sexta-feira (23), às 19h30, os curtas *A Lua Luta por Lula (1981)*, de Jomard Muniz de Britto (*in memoriam*), e *A Visita* (1982/2023*)*, de Ivan Cordeiro, na sessão gratuita *Poesia, Política e Urgência no Cinema Super 8*. Após a exibição, o professor, cineasta e pesquisador Alexandre Figueirôa vai analisar os filmes num debate com o público.

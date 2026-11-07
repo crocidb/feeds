@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/bureaucracy-is-eating-the-world/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-06-10T21:35:43.226853160Z"
-seen = false
+seen = true
 +++
 
 **Disclaimer:** This is an opinion piece. It is also a long one, because the subject is too tangled to compress without losing the thread. I have tried to look at the matter from different perspectives and include the strongest counter-arguments where I saw them. As this write-up had been in the works for a *very* long time, some of the referenced data isn’t the absolute latest data available today, which however does not impact the underlying message.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/lisa-see-resgata-tradicao-de-mergulhadoras-core
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-05T13:08:20.906884456Z"
-seen = false
+seen = true
 +++
 
 A escritora **Lisa See** aborda a ancestralidade e a resistência feminina na Coreia do Sul no romance *A Ilha das Mulheres do Mar*, lançado no Brasil pela Editora Vestígio. A narrativa se debruça sobre a história das *haenyeo*, mergulhadoras da Ilha de Jeju que mantêm há gerações uma economia comunitária baseada na coleta subaquática de algas e moluscos em profundidades de até 20 metros sem auxílio de cilindros de oxigênio.

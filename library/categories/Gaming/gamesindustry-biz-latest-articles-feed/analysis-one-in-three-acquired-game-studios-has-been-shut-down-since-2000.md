@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-05T13:08:19.944426638Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ss_8a13650ffe930da77593dae80f0118588c46a5ca.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp)

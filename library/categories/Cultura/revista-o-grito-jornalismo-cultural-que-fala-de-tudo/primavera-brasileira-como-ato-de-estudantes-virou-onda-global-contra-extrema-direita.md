@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/primavera-brasileira-como-ato-de-estudantes-vir
 author = "Agência Pública"
 text = ""
 lastupdated = "2026-11-02T23:27:00.334799646Z"
-seen = false
+seen = true
 +++
 
 **Por Aldrey Olegario, Nicole Santos, da Agência Pública**

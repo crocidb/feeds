@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/entre-afetos-memoria-e-humor-janela-de-cinema-e
 author = "Alexandre Cunha"
 text = ""
 lastupdated = "2026-11-02T23:27:00.331292941Z"
-seen = false
+seen = true
 +++
 
 Há algo de particularmente belo em assistir, na tela do Cinema São Luiz, a histórias que celebram as pessoas responsáveis por manter viva a própria sala de exibição. No domingo (1º), último dia da 17ª edição do Janela Internacional de Cinema do Recife, a programação começou sob o signo do afeto, com o curta-metragem **Miguel**, de Janaína Guedes e Sérgio Poroger. Em apenas nove minutos, a obra presta homenagem a um dos profissionais que integram o cotidiano do histórico cinema da Rua da Aurora, lançando luz sobre um trabalho que, embora fundamental à experiência cinematográfica, raramente ocupa o centro das atenções.

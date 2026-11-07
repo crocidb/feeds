@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/xvii-janela-de-cinema-uma-noite-inesquecivel/"
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-11-02T23:27:00.339514727Z"
-seen = false
+seen = true
 +++
 
 Uma noite radiante para o cinema feito em Pernambuco. Essa foi a sensação que marcou os espectadores no terceiro dia do XVII Janela de Cinema. A exibição de dois pesos pesados da produção fílmica deste ano – os longas *Cão sem Plumas* e *A Margem do Rio* – não deixam dúvida de que nosso cinema está evoluindo tanto do ponto de vista técnico quanto na sua elaboração estética e narrativa. Ambas as obras mostraram um trabalho apurado em que fica evidente um audiovisual que inclui o diverso e a construção coletiva como eixos do seu processo de criação.

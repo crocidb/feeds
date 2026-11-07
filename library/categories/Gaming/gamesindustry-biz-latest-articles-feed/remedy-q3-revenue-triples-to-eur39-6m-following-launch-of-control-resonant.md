@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/remedy-q3-revenue-triples-to-396m-following
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-05T13:08:19.954566386Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/control-resonant-bus.jpg.webp?width=690&quality=85&format=jpg&auto=webp)

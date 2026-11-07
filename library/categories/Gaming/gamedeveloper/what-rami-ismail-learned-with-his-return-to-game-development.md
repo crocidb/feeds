@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/what-rami-ismail-learned-with-his-re
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-11-05T13:08:20.744785040Z"
-seen = false
+seen = true
 +++
 

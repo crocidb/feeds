@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-29T10:48:57.258945715Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-10-28-101114-(1).png?width=690&quality=85&format=jpg&auto=webp)

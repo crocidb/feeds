@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/monica-salmaso-e-zelia-duncan-lancam-proposta-p
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-10-22T13:34:56.377146570Z"
-seen = false
+seen = true
 +++
 
 “Eu cuido de você e você cuida de mim.” É a partir dessa ideia tão simples quanto necessária que **Mônica Salmaso** e **Zélia Duncan** apresentam “Proposta para um Estado Crítico”, da cantora e compositora pernambucana **[Isadora Melo](https://revistaogrito.com/isadora-melo-marca-sua-identidade-artistica-no-novo-disco-anagrama/)**. Com distribuição da Tratore, o single está disponível nos aplicativos de música e no [YouTube](https://youtu.be/Wi39s6YPmz4), com clipe de **Walter Carvalho**. Lançada em meio às eleições brasileiras, em um cenário de acirramento político e ameaças à democracia, a canção propõe o afeto, a solidariedade e o cuidado mútuo como respostas possíveis a um país em estado de alerta.

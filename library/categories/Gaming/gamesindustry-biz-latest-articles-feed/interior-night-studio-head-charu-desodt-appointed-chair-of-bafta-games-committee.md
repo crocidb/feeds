@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/interior-night-studio-head-charu-desodt-app
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-29T10:48:57.260259060Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/140928-Bafta_Charu-Desodt-Games-Producer_008-(1).jpg?width=690&quality=85&format=jpg&auto=webp)

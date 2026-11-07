@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/nuphy-kick75/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-09-23T18:24:55.774850194Z"
-seen = false
+seen = true
 +++
 
 If you’ve been around the mechanical keyboard scene for a while, NuPhy’s name has probably come up at some point, most likely attached to one of their Air series low-profile boards. Over the past few years they’ve put out keyboards that look better than they have any right to at their price point, with a sound and feel that punches above their weight class and without the pretentiousness that usually comes with enthusiast hardware. The Kick75 is one of their more interesting releases so far, because it’s a *hybrid-profile* board. It is one PCB and one chassis that take two different switch and keycap ecosystems, using a relatively inexpensive swap kit.

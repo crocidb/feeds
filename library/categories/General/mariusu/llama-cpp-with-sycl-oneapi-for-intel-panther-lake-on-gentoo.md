@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/llamacpp-with-sycl-oneapi-for-intel-panther-lak
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.133540848Z"
-seen = false
+seen = true
 +++
 
 Alright, so if you’ve read the title and thought you were having a stroke, you might not be the target audience for this post. If, however, you thought *“more tokens/s?”*, you should keep on reading.

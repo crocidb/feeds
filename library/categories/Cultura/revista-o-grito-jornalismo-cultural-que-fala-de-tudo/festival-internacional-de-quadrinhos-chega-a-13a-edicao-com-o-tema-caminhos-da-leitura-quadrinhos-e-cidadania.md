@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festival-internacional-de-quadrinhos-chega-a-13
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-11-05T13:08:20.902231725Z"
-seen = false
+seen = true
 +++
 
 De 4 a 8 de novembro, Belo Horizonte se transforma mais uma vez na “Capital dos Quadrinhos” com a realização do maior evento de arte sequencial da América Latina. O **[Festival Internacional de Quadrinhos de Belo Horizonte – FIQ BH](https://revistaogrito.com/assunto/festival-internacional-de-quadrinhos/)**, realizado pela Prefeitura de Belo Horizonte, por meio da Fundação Municipal de Cultura, em parceria com o Instituto Periférico, chega à sua 13ª edição e traz uma programação diversificada e gratuita, composta por mesas-redondas, feira de quadrinhos, oficinas, exposições, exibição de filmes, lançamentos – como a versão de *Torto Arado* em quadrinhos -, sessões de autógrafos, debates, duelos de quadrinistas em tempo real e rodada de negócios. Entre as novidades de 2026, o evento recebe: a “24h de HQ”, desafio intensivo de criação em quadrinhos, ao vivo, que vai durar 24 horas, e também o Dia do Quadrinho Grátis, que vai contar com a distribuição gratuita de 3 mil exemplares para o público do festival. Este ano, o festival vai reunir, no Minascentro, cerca de 400 artistas brasileiros e internacionais. 

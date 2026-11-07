@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/roblox-growth-slumps-but-the-compa
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-02T23:27:00.270023179Z"
-seen = false
+seen = true
 +++
 

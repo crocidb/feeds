@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/serie-pernambucana-delegado-estreia-no-canal-br
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-22T13:34:56.374068982Z"
-seen = false
+seen = true
 +++
 
 A série de ficção *Delegado* estreia na grade do Canal Brasil no dia 30 de outubro de 2026, às 22h, com exibições semanais às sextas-feiras e disponibilização no Globoplay no dia seguinte. Dirigida e criada por **Leonardo Lacca** e **[Marcelo Lordello](https://revistaogrito.com/critica-eles-voltam-de-marcelo-lordello/)** em parceria com **Tião**, a produção conta com sete episódios de 35 minutos gravados em Pernambuco. A trama acompanha Felipe (interpretado por **[Johnny Massaro](https://revistaogrito.com/maquinas-de-oxigenio-nao-cairao-automaticamente-critica/)**), um jovem de classe média que ingressa na Polícia Civil e assume sua primeira chefia em uma delegacia recifense marcada por precariedade estrutural e contradições sociais.

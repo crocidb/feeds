@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-ser
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-08-06T09:52:34.766994279Z"
-seen = false
+seen = true
 +++
 
 **Disclaimer:** This is an opinion piece and most of it is speculation about a future that has not arrived (yet?), based on a few data points that have. As usual, [summary](#summary) at the end.

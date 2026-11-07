@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/685"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-10-21T11:46:16.856502864Z"
-seen = false
+seen = true
 +++
 
 ***NOTES***

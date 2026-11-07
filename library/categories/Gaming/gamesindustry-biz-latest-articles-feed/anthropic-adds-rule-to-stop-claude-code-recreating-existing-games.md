@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-rec
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-02T23:26:59.428946748Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-11-02-at-17.44.04.png?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cinema-da-fundacao-exibe-sessao-especial-em-hom
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-21T11:46:08.579607712Z"
-seen = false
+seen = true
 +++
 
 A Cinemateca Pernambucana, o Festival Noturno e a plataforma Cinelimite realizam, neste sábado (17/10), às 15h50, uma sessão especial em homenagem ao cineasta, poeta, filósofo e professor [Jomard Muniz de Britto](https://revistaogrito.com/morre-jomard-muniz-de-britto-poeta-e-cineasta-vanguardista-pernambucano-aos-89-anos/), que morreu na última segunda-feira (12/10), aos 89 anos. A exibição gratuita ocorre no Cinema da Fundação (sala Museu), em Casa Forte, no Recife (PE), reunindo obras marcadas pela experimentação e pelo diálogo entre crítica cultural, literatura e linguagem cinematográfica.

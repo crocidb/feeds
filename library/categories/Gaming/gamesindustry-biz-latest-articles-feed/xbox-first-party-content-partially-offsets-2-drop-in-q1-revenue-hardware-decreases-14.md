@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-02T23:26:59.448166257Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/billy-freeman-5O5oJGOnj20-unsplash-copy.jpg?width=690&quality=85&format=jpg&auto=webp)

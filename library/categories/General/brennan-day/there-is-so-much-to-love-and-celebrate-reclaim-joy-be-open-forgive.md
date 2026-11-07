@@ -6,7 +6,7 @@ url = "https://brennan.day/there-is-so-much-to-love-and-celebrate-reclaim-joy-be
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.414138334Z"
-seen = false
+seen = true
 +++
 
 Autumn continues with chilly winds and overcast skies, and I couldn't be more grateful. I've had a lot more eyes on my work than usual lately, and so I've taken stock over the past few days—trying to measure the inventory of myself.

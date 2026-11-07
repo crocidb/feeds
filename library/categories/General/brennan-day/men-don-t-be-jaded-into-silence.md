@@ -6,7 +6,7 @@ url = "https://brennan.day/men-dont-be-jaded-into-silence/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-05T09:04:46.271133958Z"
-seen = false
+seen = true
 +++
 
 Are you feeling jaded?

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenad
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-11-02T23:26:59.439341864Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/steam_ROoZJs3.jpg?width=690&quality=85&format=jpg&auto=webp)

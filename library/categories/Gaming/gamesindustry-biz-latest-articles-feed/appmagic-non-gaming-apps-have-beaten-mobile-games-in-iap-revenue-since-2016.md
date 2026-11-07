@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/appmagic-non-gaming-apps-have-beaten-mobile
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-05T13:08:19.953286991Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/honor-of-kings_OwVt3n7.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-u
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-10-29T10:48:58.534380533Z"
-seen = false
+seen = true
 +++
 

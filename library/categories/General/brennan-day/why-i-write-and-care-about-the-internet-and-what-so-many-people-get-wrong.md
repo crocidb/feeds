@@ -6,7 +6,7 @@ url = "https://brennan.day/why-i-write-and-care-about-the-internet-and-what-so-m
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-05T09:04:46.269402859Z"
-seen = false
+seen = true
 +++
 
 Let's begin with a couple books. When Patricia Lockwood's *No One Is Talking About This* and Lauren Oyler's *Fake Accounts* came out in 2021, critics called them "Internet novels." Sally Olds, in her essay [*United States v. The Internet*](https://sydneyreviewofbooks.com/reviews/united-states-v-the-internet), counted six reviews covering the two books together, five of those reviews using "internet" or "online" in the headline. She noted that one [Washington Post review](https://www.washingtonpost.com/entertainment/books/lauren-oyler-patricia-lockwood/2021/02/09/d1e0afe2-6af9-11eb-ba56-d7e2c8defa31_story.html) used six of the same stock, boring keywords in its first six sentences.

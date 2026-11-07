@@ -6,7 +6,7 @@ url = "https://brennan.day/thank-you-for-today/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-29T10:48:57.802877177Z"
-seen = false
+seen = true
 +++
 
 Often, I remind myself to [shake the dust](https://brennan.day/shake-off-the-dust/), and I think why I've ritualized the act of getting rid of things is because of the holy clean. I wrote in [my last post](https://brennan.day/where-the-sidewalk-ends/) about how I have the urge to delete everything and start again, but I'm too long in the tooth to keep that pattern up. Regardless, I suppose you could say that I get my spring cleaning started earlier than most, in late October of the year before.

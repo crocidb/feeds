@@ -6,7 +6,7 @@ url = "https://brennan.day/i-love-sharing-cool-stuff-made-by-people/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-21T11:46:09.808091120Z"
-seen = false
+seen = true
 +++
 
 Yesterday, I wrote [a diary entry on Dreamwidth](https://brennanbrown.dreamwidth.org/2698.html) cataloguing the computers I own after my 2015 MacBook Pro died due to a swollen battery I couldn't afford to repair. While this was meant to be a simple inventory, writing it made me pause and realize that I really have so much, and that I've been under-utilizing both my time and what I own.

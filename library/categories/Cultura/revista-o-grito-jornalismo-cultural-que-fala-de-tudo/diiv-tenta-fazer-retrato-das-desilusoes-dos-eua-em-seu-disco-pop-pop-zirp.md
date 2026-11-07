@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/diiv-tenta-fazer-retrato-das-desilusoes-dos-eua
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-11-05T13:08:20.905427242Z"
-seen = false
+seen = true
 +++
 
 DIIV tenta fazer retrato das desilusões dos EUA em seu disco pop pop, “ZIRP”

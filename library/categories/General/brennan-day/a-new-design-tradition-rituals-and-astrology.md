@@ -6,7 +6,7 @@ url = "https://brennan.day/a-new-design-tradition-rituals-and-astrology/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-30T20:51:44.316664241Z"
-seen = false
+seen = true
 +++
 
 Those of you that visit my website, rather than reading my writing via RSS, will notice that I've updated the [colour scheme and fonts](https://social.lol/@brennan/117349468054271540) used for the first time since I began my blog [Brennan.day](https://brennan.day), last November.

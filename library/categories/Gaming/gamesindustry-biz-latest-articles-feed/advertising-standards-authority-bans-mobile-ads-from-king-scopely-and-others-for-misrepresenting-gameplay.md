@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-05T13:08:19.948233443Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/farm-hereos-saga.png?width=690&quality=85&format=jpg&auto=webp)

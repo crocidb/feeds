@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/tekoha-nova-hq-de-clara-chotil-sobre-a-luta-gua
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-27T22:33:09.866631387Z"
-seen = false
+seen = true
 +++
 
 A editora Veneta lança no Brasil ***Tekoha***, nova *graphic novel* da artista visual, arquiteta e pesquisadora **[Clara Chotil](https://revistaogrito.com/assunto/clara-chotil/)**. Pintada inteiramente em acrílico, a obra propõe um mergulho sensível na relação profunda entre os povos indígenas e seus territórios no Mato Grosso do Sul, percorrendo as trajetórias de famílias em busca de terras, os conflitos da violência colonial e a resistência contemporânea.

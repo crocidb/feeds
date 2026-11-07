@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/s-neovim-helix-g/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-09-08T09:44:05.117556712Z"
-seen = false
+seen = true
 +++
 
 A while ago I decided that I’d like to challenge my muscle-memory (and by that my brain) a little by pushing it out of its comfort zone. Last time I did that was back in 2024 with the switch from my [endgame M60](/keyboard/#rama-m60-a) to the [Corne v3](https://xn--gckvb8fzb.com/corne-v3/) and ultimately to the [Kunai](https://xn--gckvb8fzb.com/kunai-corne-v3/), which required me to re-learn to type, in a way. I remember how dreadfully inconvenient the experience had been in the first days/weeks, but over two years down the line I’m glad I made the move, and I feel like it has definitely improved my typing and my abilities, let alone my wrist posture.

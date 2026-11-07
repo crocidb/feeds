@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/south-of-midnight-director-was-alw
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-05T13:08:20.746048625Z"
-seen = false
+seen = true
 +++
 

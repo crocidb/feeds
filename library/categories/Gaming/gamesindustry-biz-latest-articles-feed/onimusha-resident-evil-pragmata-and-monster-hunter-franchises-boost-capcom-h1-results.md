@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-02T23:26:59.446933352Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/onimusha-way-of-the-sword-is-the-best-game-i-played-at-summe_2j2m.jpg?width=690&quality=85&format=jpg&auto=webp)

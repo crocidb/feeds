@@ -6,7 +6,7 @@ url = "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-27T09:50:56.609000310Z"
-seen = false
+seen = true
 +++
 
 The more I learn about the web, the more appreciative I become of what came before. We truly are standing on the shoulders of giants. In the past week, I've had the pleasure of (finally) becoming an ARPA member on [SDF](https://freeshell.org), a non-profit public-access UNIX system and online community that has been in continuous operation since 1987.

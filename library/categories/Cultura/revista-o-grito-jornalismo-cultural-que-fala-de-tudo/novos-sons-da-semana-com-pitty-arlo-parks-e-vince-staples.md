@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-pitty-arlo-parks-e-vin
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-21T11:46:08.583018900Z"
-seen = false
+seen = true
 +++
 
 Novos Sons no ar! Hora de atualizar a playlist com as novidades. Essa semana, **[Pitty](https://revistaogrito.com/assunto/pitty/)** chega com seu novo álbum, *PITTY*, primeiro trabalho de inéditas em 7 anos e que surge, segundo a cantora, de 3 anos de coisas entaladas e muita terapia. No cenário internacional, **[Chappell Roan](https://revistaogrito.com/eu-sou-a-artista-favorita-da-sua-artista-favorita-conheca-chappell-roan-novo-nome-do-pop/)** e **[Olivia Rodrigo](https://revistaogrito.com/olivia-rodrigo-guts/)** se juntaram para uma nova versão de “expectations” e **Ashe** lançou o álbum *The Girl Of Your Dreams* depois do sucesso da canção “Stop the Wedding!”. Além disso, **Arlo Parks** lançou uma versão deluxe de *Ambiguous Desire*, **Vince Staples** surgiu com “Tulsa, OK”, a banda **Makari** chegou com o EP *Chemistry* e muito mais.

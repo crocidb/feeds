@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-ve
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-11-02T23:26:59.444416642Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Ruger-Aidal-with-logo.jpg?width=690&quality=85&format=jpg&auto=webp)

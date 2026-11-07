@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/caixa-cultural-recife-recebe-barbatuques-em-doi
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-11-02T23:27:00.344412536Z"
-seen = false
+seen = true
 +++
 
 Reconhecido pela linguagem única de percussão e música corporal, o **[Barbatuques](https://revistaogrito.com/assunto/barbatuques/)** traz dois shows celebrativos à Caixa Cultural: “Barbatuques 25 anos” e, para as crianças, “Tum Pá 10 anos!”. Haverá bate-papo aos sábados após a apresentação, com tradução em Libras. O grupo se revela ao vivo como uma orquestra orgânica de música corporal, ressoando a musicalidade de variados cantos do mundo, sempre destacando a nossa brasilidade. Participam da formação **André Hosoi**, **André Venegas**, **Giba Alves**, **Helô Ribeiro**, **João Simão**, **Luciana Cestari**, **Lu Horta**, **Mairah Rocha**, **Maurício Maas**, **Renato Epstein** e **Taís Balieiro**. Serão duas semanas de programação da “Ocupação Barbatuques”, de 30 de outubro a 1º de novembro e de 6 a 8 de novembro (de sexta a domingo).

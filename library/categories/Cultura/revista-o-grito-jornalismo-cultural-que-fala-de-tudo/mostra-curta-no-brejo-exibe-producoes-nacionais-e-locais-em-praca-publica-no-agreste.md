@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/mostra-curta-no-brejo-exibe-producoes-nacionais
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-02T23:27:00.337855563Z"
-seen = false
+seen = true
 +++
 
 A cidade de Brejo da Madre de Deus, localizada no Agreste de Pernambuco, recebe a segunda edição da **Mostra de Cinema Curta no Brejo** neste domingo (1º/11) e segunda-feira (2/11), a partir das 18h. O evento transforma o Pátio de Eventos (Praça Pedro Guenes) em um cinema ao ar livre com entrada gratuita e classificação indicativa livre. Idealizado e dirigido artisticamente pela realizadora brejense **Mayara Millane**, o encontro busca consolidar a circulação de filmes fora dos grandes centros urbanos do Estado.

@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/apple-iphone-air/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-07-21T09:19:51.513283315Z"
-seen = false
+seen = true
 +++
 
 **tl;dr:** I bought an *Apple iPhone Air*, not because I believe in *Apple*’s self-congratulatory *“privacy is a fundamental human right”* marketing, but because after years of [replacing *Google Pixel* hardware](/i-do-not-recommend-google-hardware/) roughly every 18 months I have, again, reached the point where I need exactly **one** mobile device that will reliably run the closed-source financial, corporate and government apps that modern societies insist on. The *Air* is a fascinating piece of engineering, despite the new *Liquid Glass* in *iOS* being the UI equivalent of a [*bad car accident*](https://www.wired.com/story/is-the-ferrari-luce-design-really-bad-we-ask-3-italian-auto-experts/), and the device’s raw performance for things like mobile RAW photo development is, sadly, significantly ahead of anything *Android* offers in 2026. I still do not recommend using an *iPhone* as a primary device, because *Apple* remains a surveillance company.

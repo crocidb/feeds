@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-gam
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-05T13:08:19.950723552Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/unnamed-(1)_cTi9N9k.png?width=690&quality=85&format=jpg&auto=webp)

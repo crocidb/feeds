@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/feira-miolos-reune-300-expositores-independente
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-05T13:08:20.910071023Z"
-seen = false
+seen = true
 +++
 
 A 13ª edição da **Feira Miolo(s)** acontece nos dias 7 e 8 de novembro de 2026, das 11h às 19h, na Biblioteca Mário de Andrade, em São Paulo (SP), com entrada gratuita. Promovido pela editora [Lote 42](https://revistaogrito.com/editora-lote-42-abre-banca-de-cultura-independente-no-centro-de-sp/) e pelo espaço cultural paulistano, o evento reúne 300 projetos editoriais, ateliês e livrarias de 13 estados brasileiros e conta com um recorde de 29 expositores estrangeiros vindos da Argentina, Chile, Colômbia, Equador e Peru. A curadoria do encontro é assinada pelo artista visual, editor e pesquisador cearense **Weaver Lima**, nome atuante na cena independente desde os anos 1990.

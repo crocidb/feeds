@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/roblox-q3-results-beat-expectations-despite
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-02T23:26:59.440609948Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/roblox-(1).webp?width=690&quality=85&format=jpg&auto=webp)

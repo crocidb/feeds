@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/tripwire-interactive-expands-publi
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-05T13:08:20.738612357Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/minimal-yet-productive-travel-desk-setup/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-06-16T20:07:34.500878705Z"
-seen = false
+seen = true
 +++
 
 Being able to travel while being productive sounds romantic until you’ve spent hours hunching over your laptop on a hotel nightstand, untangling cables, hunting for outlets, and trying to focus in a space that clearly wasn’t designed for it. Over time, I have realized that productivity on the road has less to do with *where* you are and more to do with *how intentionally* you pick your equipment and set up your workspace. A good travel desk setup isn’t about recreating your home office, but rather about stripping things down to the essentials that actually help you think, create, and execute, no matter where you are.

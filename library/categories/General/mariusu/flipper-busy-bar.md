@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/flipper-busy-bar/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-08-24T15:49:16.027145101Z"
-seen = false
+seen = true
 +++
 
 Yes, it is in fact real, I’m holding it in my hands, and after what feels like years of Flipper teasing everyone with this ominous device in various online posts, I can finally confirm that it is real.

@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/the-cables-that-connect-the-world/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-09-03T13:15:07.767510029Z"
-seen = false
+seen = true
 +++
 
 At the northeastern edge of *La Línea de la Concepción*, on a scrubby Mediterranean beach called *El Burgo–Torrenueva*, there is an old battlement-tower, *La Torre Nueva*, and not much else. It was part of the system of coastal watchtowers during the 16th century that would defend the area against the incursion of the [Barbary corsairs](https://en.wikipedia.org/wiki/Barbary_corsairs). The coordinates are `36°12′36″N, 5°19′27″W`. Walk the tideline and you would never know that buried two metres beneath the sand, a fibre-optic cable comes out of the sea here and turns into the internet. It’s the start of a line that runs across the *Strait of Gibraltar* to *Ceuta*, on the African coast, and on toward two continents. Nearly everything you do online that crosses an ocean passes through a cable like this, ending, in most cases, underneath a similarly unremarkable patch of coast.

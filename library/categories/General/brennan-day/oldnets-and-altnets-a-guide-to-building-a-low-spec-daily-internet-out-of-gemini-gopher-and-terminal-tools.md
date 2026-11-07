@@ -6,7 +6,7 @@ url = "https://brennan.day/oldnets-and-altnets-a-guide-to-building-a-low-spec-da
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.419817912Z"
-seen = false
+seen = true
 +++
 
 With news of [DigitalOcean deciding to give $3 million dollars to Omarchy and DHH](https://omarchy.org/news/2026/09/digitalocean-joins-as-founding-corporate-patron/), I thought it would be fitting to once again take a look at alternative visions of what our Internet can be.

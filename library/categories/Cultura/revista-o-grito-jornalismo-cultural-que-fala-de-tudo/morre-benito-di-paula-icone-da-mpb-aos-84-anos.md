@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/morre-benito-di-paula-icone-da-mpb-aos-84-anos/
 author = "Agência Brasil"
 text = ""
 lastupdated = "2026-10-21T11:46:08.578122652Z"
-seen = false
+seen = true
 +++
 
 Morreu neste domingo (18), aos 84 anos, o cantor, compositor e pianista Benito di Paula. Um dos grandes nomes da música popular brasileira (MPB), o artista estava internado no Hospital 9 de Julho, em São Paulo, e tratava um câncer havia cerca de um ano.![ebc](https://agenciabrasil.ebc.com.br/ebc.png?id=1705776&o=node)\<img decoding="async" src="https://agenciabrasil.ebc.com.br/ebc.png?id=1705776&amp;o=node" alt="ebc"\>![ebc](https://agenciabrasil.ebc.com.br/ebc.gif?id=1705776&o=node)\<img decoding="async" src="https://agenciabrasil.ebc.com.br/ebc.gif?id=1705776&amp;o=node" alt="ebc"\>

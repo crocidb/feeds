@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/janela-internacional-de-cinema-do-recife-anunci
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-27T22:33:09.855659735Z"
-seen = false
+seen = true
 +++
 
 A 17ª edição do [Janela Internacional de Cinema do Recife](https://revistaogrito.com/janela-internacional-de-cinema-divulga-curtas-selecionados/) começa na próxima quarta-feira (28/10), às 17h, ocupando integralmente a sala do Cinema São Luiz, no Recife (PE). Com curadoria assinada pelo cineasta **Kleber Mendonça Filho** e pelo pesquisador **Pedro Azevedo Moreira**, o festival reúne 31 obras entre longas-metragens, curtas e televisão, divididas entre títulos contemporâneos, retrospectivas históricas e exibições em cópias restauradas. A realização é da Cinemascópio, com direção artística compartilhada com **Emilie Lesclaux** e produção executiva de **Dora Amorim** e **Juliana Soares**.

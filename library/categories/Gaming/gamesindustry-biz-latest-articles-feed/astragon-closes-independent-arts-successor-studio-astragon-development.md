@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/astragon-closes-independent-arts-successor-
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-02T23:26:59.427663572Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Astragon-Entertainment-00.png?width=690&quality=85&format=jpg&auto=webp)

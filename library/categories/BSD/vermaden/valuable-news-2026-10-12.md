@@ -6,7 +6,7 @@ url = "https://vermaden.wordpress.com/2026/10/12/valuable-news-2026-10-12/"
 author = "vermaden"
 text = ""
 lastupdated = "2026-10-21T11:46:07.858893902Z"
-seen = false
+seen = true
 +++
 
 The *Valuable News* weekly series is dedicated to provide summary about news, articles and other interesting stuff mostly but not always related to the UNIX/BSD/Linux systems. Whenever I stumble upon something worth mentioning on the Internet I just put it here.

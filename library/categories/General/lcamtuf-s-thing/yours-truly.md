@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/yours-truly"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-10-21T11:46:09.618438629Z"
-seen = false
+seen = true
 +++
 
 Today, we’ll talk about the nature of truth. And I know what’s your first reaction: *“how do I unsubscribe?”*. Look, I’ve got no idea. I’ve been trying to figure that out myself.

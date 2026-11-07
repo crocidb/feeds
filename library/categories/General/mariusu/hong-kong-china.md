@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/travel/china/hong-kong/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-06-29T12:19:28.426516018Z"
-seen = false
+seen = true
 +++
 
 [![0001-01-01 00:00:00 +0000 UTC](/travel/china/hong-kong/images/DSCF6153_hu_99798b8e77f634ea.webp) ](/travel/china/hong-kong/images/DSCF6153.jpg)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-five-golden-rules-of-external-developme
 author = "Stuart Muckley"
 text = ""
 lastupdated = "2026-10-29T10:48:57.249935093Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/jingming-pan-iYsrkq5qq0Q-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

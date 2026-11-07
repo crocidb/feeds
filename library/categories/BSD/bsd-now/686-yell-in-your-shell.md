@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/686"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-10-27T22:33:11.211015220Z"
-seen = false
+seen = true
 +++
 
 ! marks in shell, learning at scale, Thinkcenters and BSD, and more...

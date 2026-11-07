@@ -6,7 +6,7 @@ url = "https://brennan.day/rivyayr-pimiciwan-we-are-always-somewhere/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-21T11:46:09.805682581Z"
-seen = false
+seen = true
 +++
 
 Four days ago marked 157 years since [nineteen unarmed Métis riders, led by Louis Riel, confronted a Canadian government survey crew](https://manitoba.ca/chc/hrb/plaques/plaq1191.html) south of the Forks and compelled it to withdraw. The crew had been running a base line across Métis river lots for a township north of Ste. Anne. Nobody fired a shot. No weapons were seen. According to [the surveyor's own memorandum](<http://metismuseum.ca/media/document.php/07185.Riel stops survey.pdf>), the riders stopped the work "by standing on the chain."

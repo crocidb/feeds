@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-o
 author = "Gendel Gento"
 text = ""
 lastupdated = "2026-11-05T13:08:19.946987878Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Katsuhiro-Harada.JPG?width=690&quality=85&format=jpg&auto=webp)

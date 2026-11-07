@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-10-29T10:48:57.257262122Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/wardogs-preview-devourer-of-weekends-2266.jpg?width=690&quality=85&format=jpg&auto=webp)

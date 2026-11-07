@@ -6,7 +6,7 @@ url = "https://brennan.day/i-ceo-how-medium-com-went-from-being-anti-ai-to-pro-a
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.412410586Z"
-seen = false
+seen = true
 +++
 
 When I first joined [Medium.com](http://Medium.com), I thought I was late to the party. Little did I know I would be one of the platform's most veteran members still writing and publishing here after over ten years. One of my first-ever posts was about getting into the discourse about [what Medium should be](https://blog.brennanbrown.ca/anti-medium-30d6fbafc5f8). It's a rather embarrassing read a decade later, but it's important to note I've always been interested in the longevity of this place while also not shying away from being critical when necessary.

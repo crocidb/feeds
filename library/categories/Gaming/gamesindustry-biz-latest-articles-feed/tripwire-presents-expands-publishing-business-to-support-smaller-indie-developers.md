@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/tripwire-presents-expands-publishing-busine
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-05T13:08:19.941863329Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/unnamed_vWLFdpy.jpg?width=690&quality=85&format=jpg&auto=webp)

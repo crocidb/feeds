@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/jomard-muniz-de-britto-e-o-desejo-de-investigar
 author = "Yeda Bezerra de Melo"
 text = ""
 lastupdated = "2026-10-21T11:46:08.584438600Z"
-seen = false
+seen = true
 +++
 
 *A Revista O Grito! publica uma série de relatos em homenagem ao poeta, cineasta e filósofo Jomard Muniz de Britto, que nos deixou no último dia 12/10. Jomard foi um dos mais inquietos pensadores pernambucanos e um irreverente agitador cultural. Sua influência se alargou por várias décadas, desde os anos 1960, e influenciou diferentes gerações de artistas.*  

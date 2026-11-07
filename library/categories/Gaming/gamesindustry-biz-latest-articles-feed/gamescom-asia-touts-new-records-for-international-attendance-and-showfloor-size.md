@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-interna
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-10-29T10:48:57.261531204Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gamescom-asia-crowd-2025.jpg?width=690&quality=85&format=jpg&auto=webp)

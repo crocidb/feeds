@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/um-papo-com-santana-blossom-vencedora-do-lipsyn
 author = "Túlio Vasconcelos"
 text = ""
 lastupdated = "2026-11-02T23:27:00.332913904Z"
-seen = false
+seen = true
 +++
 
 ##### **Foto: Divulgação.** #####

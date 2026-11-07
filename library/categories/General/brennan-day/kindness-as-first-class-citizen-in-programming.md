@@ -6,7 +6,7 @@ url = "https://brennan.day/kindness-as-first-class-citizen-in-programming/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-27T09:50:56.604589783Z"
-seen = false
+seen = true
 +++
 
 What do you think the world has too much of, right now? There are probably a lot of answers that come to mind. Too many bills, too much being asked of us, too many stupid and dangerous people in politics, too many plates we need to constantly keep spinning. We are overwhelmed by how overwhelmed we are, and we are exhausted by our exhaustion. We are sick and tired of being sick and tired.

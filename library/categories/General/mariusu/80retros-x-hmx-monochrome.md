@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/80retros-x-hmx-monochrome/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-05-28T23:18:00.282419500Z"
-seen = false
+seen = true
 +++
 
 After spending a fair amount of time with the [*KTT x 80Retros GAME 1989 Orange*](/ktt-x-80retros-game-1989-orange/), I figured it was about time to take a closer look at the *HMX*-side of the *80Retros* catalogue. The *80Retros x HMX Monochrome* have been with me for a while, ever since I picked them up back in Seoul. The switches stand out from the rest of the *80Retros* lineup as they don’t ship in a film canister, and they have a fairly *boring* black and white colorway.

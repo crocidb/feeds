@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/netflix-adapts-krafton-pubg-to-be-
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-02T23:27:00.275220177Z"
-seen = false
+seen = true
 +++
 

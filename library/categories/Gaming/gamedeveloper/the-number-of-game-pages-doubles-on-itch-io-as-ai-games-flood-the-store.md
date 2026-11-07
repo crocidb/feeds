@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-02T23:27:00.266316335Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/clinic-e-o-nonsense-como-mote-no-hipnotico-wild
 author = "Rafael Curtis"
 text = ""
 lastupdated = "2026-11-05T13:08:20.897754034Z"
-seen = false
+seen = true
 +++
 
 Clinic e o nonsense como mote no hipnótico “Wild In The Streets”

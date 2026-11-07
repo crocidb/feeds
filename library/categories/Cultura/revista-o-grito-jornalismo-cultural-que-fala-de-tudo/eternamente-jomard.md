@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/eternamente-jomard/"
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-21T11:46:08.581032572Z"
-seen = false
+seen = true
 +++
 
 O “mau velhinho” – como o próprio Jomard Muniz de Britto se denominava – partiu, mas não nos deixou. Continua vivo na nossa memória pelos atentados poéticos que nos legou. Quem não conhece Jomard não conhece o Recife.

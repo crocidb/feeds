@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/lula-promete-regular-grandes-plataformas-digita
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-27T22:33:09.857012309Z"
-seen = false
+seen = true
 +++
 
 No primeiro discurso após a confirmação da vitória no segundo turno das eleições presidenciais, **Luiz Inácio Lula da Silva** (PT) afirmou que o novo governo terá como foco a modernização da economia digital, a soberania tecnológica e a regulação de plataformas digitais. Falando na capital paulista na noite deste domingo (25/10), o presidente reeleito para seu quarto mandato declarou que pretende ampliar o diálogo direto com a população e combater crimes cometidos no ambiente virtual, pontuando a necessidade de frear a atuação de corporações internacionais que tentam direcionar resultados políticos.

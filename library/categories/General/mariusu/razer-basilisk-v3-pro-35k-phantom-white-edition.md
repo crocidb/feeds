@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/razer-basilisk-v3-pro-35k-phantom-white-edition
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-10-21T11:46:09.515624252Z"
-seen = false
+seen = true
 +++
 
 In 2024 I [replaced](/updates-2024-q3/) the Logitech MX Master 3 that I had been using since 2021 with a Razer Basilisk V3 Pro and Razer’s Mouse Dock Pro. The Basilisk did what the Logitech never managed to do, namely work without connection stutters, lags and dropouts. It also charged wirelessly on its dock and came with the same free-spinning scroll wheel that I had gotten used to on the MX Master, while being lighter and not covered in rubber that got quite disgusting to touch over time. Since then it has been my mouse at most [desks](/desk/), as well as on the road, where I bring it on almost every trip, even though my [setup](/minimal-yet-productive-travel-desk-setup/) is mostly keyboard-driven.

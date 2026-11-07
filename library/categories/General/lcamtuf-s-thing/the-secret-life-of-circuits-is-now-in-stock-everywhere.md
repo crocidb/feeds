@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-10-21T11:46:09.611072692Z"
-seen = false
+seen = true
 +++
 
 For the past couple of weeks, you could get my latest book — *[The Secret Life of Circuits](https://lcamtuf.coredump.cx/electronics/)* — directly from the publisher. That said, I know that some of you don’t want Jeff Bezos to starve, so I’m happy to announce that it’s now in stock on Amazon:

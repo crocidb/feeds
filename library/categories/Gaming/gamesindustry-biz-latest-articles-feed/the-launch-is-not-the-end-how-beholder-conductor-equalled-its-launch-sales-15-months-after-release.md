@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-launch-is-not-the-end-how-beholder-cond
 author = "Artem Bashutin"
 text = ""
 lastupdated = "2026-11-05T13:08:19.952029556Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Cover_NEWS_1920x622.png?width=690&quality=85&format=jpg&auto=webp)

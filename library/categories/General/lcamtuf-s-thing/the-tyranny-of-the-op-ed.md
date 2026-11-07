@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/the-tyranny-of-the-op-ed"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-10-21T11:46:09.614991740Z"
-seen = false
+seen = true
 +++
 
 I occasionally vent on social media about the comically lopsided incentives for authors who publish content on the internet. I try to keep these rants off the blog, apart from a [short piece](https://blog.coredump.cx/p/some-notes-on-influenceering) back in 2024 — but it’s been bugging me long enough that I should probably state my grievances more coherently.

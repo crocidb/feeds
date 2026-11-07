@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-pe
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-10-29T10:48:57.251370567Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-10-28-at-19.10.58.png?width=690&quality=85&format=jpg&auto=webp)

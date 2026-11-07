@@ -6,7 +6,7 @@ url = "https://brennan.day/its-christlike-to-love-immigrants-and-transfolk/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.415911384Z"
-seen = false
+seen = true
 +++
 
 Since writing my article on [DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/), I've been getting an above-average number of emails in my inbox decrying my stance and public advocacy. And I have to be honest, I find it so *weird*, more than anything. It's confusing to me how many typical people—men of the same ilk as myself—want to play defence for the handful of millionaires and corporate executives and weird little guys. A lot of the time, religion will be invoked, specifically Christianity.

@@ -6,7 +6,7 @@ url = "https://brennan.day/here-is-a-person-enter-the-tildeverse/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-06T13:46:49.609623470Z"
-seen = false
+seen = true
 +++
 
 In the fall of 2014, writer Paul Ford was a couple drinks in and reading [a 2004 Thanksgiving letter Stevie Nicks posted online](http://rockalittle.com/thanksgiving2004.htm), addressed "Dear all Armed Forces Members\~" (it's still up, and a great read).

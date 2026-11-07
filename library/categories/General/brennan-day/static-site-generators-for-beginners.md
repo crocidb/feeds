@@ -6,7 +6,7 @@ url = "https://brennan.day/static-site-generators-for-beginners/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-23T18:24:55.961671712Z"
-seen = false
+seen = true
 +++
 
 I've been writing [technical tutorials](https://brennan.day/collections/technical-tutorials/) on my website since I started it last November, but [this thread](https://discourse.32bit.cafe/t/ssg-resources-for-total-newbies/5218?u=brennan) asking about static site generators for beginners on 32-bit Café made me realize I've never made a proper tutorial regarding SSGs from the ground-up basics. This post initially began as a reply to that thread, but I realized I had enough to say to fill an entire blog post. I hope this is helpful to anybody who has been interested in static-site generators but has found trying them out to be difficult, obtuse, and with a lot of friction.

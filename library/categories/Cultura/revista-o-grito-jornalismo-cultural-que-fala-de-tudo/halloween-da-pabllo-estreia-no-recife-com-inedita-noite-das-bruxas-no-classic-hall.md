@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/halloween-da-pabllo-estreia-no-recife-com-inedi
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-10-22T13:34:56.356679439Z"
-seen = false
+seen = true
 +++
 
 O Halloween da Pabllo chega ao Recife para uma Noite das Bruxas no palco do Classic Hall, dia 23 de outubro. Com o tema “Circo dos Horrores”, o show será apresentado pela primeira vez na capital pernambucana, integrando turnê que passa por cinco cidades. Com cenário e figurino criados especialmente para o projeto, a noite terá repertório de hits da trajetória musical de **[Pabllo Vittar](https://revistaogrito.com/pabllo-vittar-batidao-tropical-vol-2-critica/)**, além de faixas do sétimo álbum da carreira, *LOST IN LUST*, recém-lançado dia 1º de outubro, nas plataformas de áudio. 

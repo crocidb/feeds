@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-11-05T13:08:20.854673626Z"
-seen = false
+seen = true
 +++
 
 Like some of you, we have several kitchen appliances with integrated digital timers. I find them annoying: they are clunky to operate and if one uses them while cooking, the reflective surface gets covered in muck.

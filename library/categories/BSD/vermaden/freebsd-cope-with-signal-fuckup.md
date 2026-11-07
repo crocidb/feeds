@@ -6,7 +6,7 @@ url = "https://vermaden.wordpress.com/2026/10/10/freebsd-cope-with-signal-fuckup
 author = "vermaden"
 text = ""
 lastupdated = "2026-10-21T11:46:07.861054731Z"
-seen = false
+seen = true
 +++
 
 The main credit for this article goes – [Signal Desktop on FreeBSD Using Linux Binary Compatibility](https://unixdigest.com/tutorials/how-to-install-signal-desktop-on-freebsd-using-the-linux-binary-compatibility.html) – here. I used [linux-browser-installer](https://github.com/mrclksr/linux-browser-installer) all this time on FreeBSD with Ubuntu system at **/compat/ubuntu** … but when I tried to install Signal Desktop there it said that its too old version of Ubuntu – because it was **focal**. The mentioned guide opened my eyes that I can use something more recent like **trixie** for example.

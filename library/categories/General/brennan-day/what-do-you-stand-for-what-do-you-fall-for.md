@@ -6,7 +6,7 @@ url = "https://brennan.day/what-do-you-stand-for-what-do-you-fall-for/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-21T11:46:09.809769199Z"
-seen = false
+seen = true
 +++
 
 Yesterday, I got an email from Jesse Lebron of Storible letting me know that [over a third of all data centres and projected new hyperscale sites](https://storible.com/37-percent-us-data-centres-sit-water-stressed-areas/) are "in high or extremely high water-stress areas." Arizona alone has 57 data centres in extremely water-stressed areas.

@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/recovering-bios-firmware-on-the-star-labs-starb
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-08-24T15:49:16.029206168Z"
-seen = false
+seen = true
 +++
 
 As I described in my [latest quarterly update](/updates-2026-q2/), a perfectly routine firmware update managed to turn my [*Star Labs StarBook Mk VI (AMD)*](/computer/#f0g6) into an expensive paperweight. I had simply copy-pasted the `curl ... | bash` one-liner from *Star Labs*' [official documentation](https://support.starlabs.systems/hc/star-labs/articles/updating-your-firmware), the script did its thing for about half a minute, shut the device down, and from that point on the *StarBook* refused to boot. Black screen, keyboard backlight on, the power LED lit, and the speakers occasionally producing a *clacking* sound. Sadly no amount of the usual *turn-it-off-and-on-again* rituals or battery disconnects brought it back.

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/why-asking-whats-the-budget-for-your-game-d
 author = "Nicholas Lovell"
 text = ""
 lastupdated = "2026-11-02T23:26:59.441894233Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Chart_HMuimI0.png?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/dead-german-guys"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-10-21T11:46:09.612541961Z"
-seen = false
+seen = true
 +++
 
 If you’re a regular, you know that I often write about niche topics ranging from electronic circuit theory to snowblower maintenance. For the past several weeks, I’ve been also trying to cover a bit of geek-adjacent philosophy: [formal logic](https://blog.coredump.cx/p/all-logic-no-bite) and its [paradoxes](https://blog.coredump.cx/p/know-your-paradoxes), the question of [sentient machines](https://blog.coredump.cx/p/the-c-word), a [critique of scientific materialism](https://blog.coredump.cx/p/haunted-by-the-ghosts-of-materialism), and the [nature of truth](https://blog.coredump.cx/p/yours-truly).

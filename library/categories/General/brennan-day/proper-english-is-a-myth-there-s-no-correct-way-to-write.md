@@ -6,7 +6,7 @@ url = "https://brennan.day/proper-english-is-a-myth-theres-no-correct-way-to-wri
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.410802166Z"
-seen = false
+seen = true
 +++
 
 I've been keeping up with the blogosphere, and there have been a couple of posts that have irked me enough to write a post about linguistics. And that's saying something.

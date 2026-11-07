@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-annou
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-02T23:26:59.432832891Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/among-us-vr_wbXHFDI.jpg?width=690&quality=85&format=jpg&auto=webp)

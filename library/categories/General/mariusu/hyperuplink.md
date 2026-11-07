@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/projects/hyperuplink/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-07-23T22:52:43.508842157Z"
-seen = false
+seen = true
 +++
 
 Links

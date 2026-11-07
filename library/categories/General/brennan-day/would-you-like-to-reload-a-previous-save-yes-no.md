@@ -6,7 +6,7 @@ url = "https://brennan.day/would-you-like-to-reload-a-previous-save-yes-no/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.409266056Z"
-seen = false
+seen = true
 +++
 
 A common [maladaptive daydream I have](https://brennan.day/confessions-of-a-maladaptive-daydreamer/) is imagining that I wake up and I'm much younger again, spontaneously and miraculously, with all of my knowledge and understanding still intact. Magically, I find myself back at a specific age in my life, and I can redo everything all over again from that point on.

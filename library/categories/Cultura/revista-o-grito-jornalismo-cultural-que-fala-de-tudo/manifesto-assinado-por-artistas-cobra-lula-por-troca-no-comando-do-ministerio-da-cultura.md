@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/classe-artistica-cobra-lula-por-troca-no-comand
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-05T13:08:20.900676842Z"
-seen = false
+seen = true
 +++
 
 **Erramos**: *uma versão anterior desta matéria trazia na imagem um artista que não assinou o manifesto, o que poderia inferir o contrário. A postagem foi alterada.*

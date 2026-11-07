@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/making-my-content-more-easily-digestible/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-07-06T19:13:35.439746028Z"
-seen = false
+seen = true
 +++
 
 Over the past few months a recurring theme has emerged in my inbox, as well as within the [community channel](/contact/#xmpp), and it is one that I have been chewing on for a while now. Several of you have, kindly and very politely, told me more or less the same thing, which is that even though the topics I write about are interesting enough, the posts themselves have grown so long and so dense that actually getting through one of them has turned into something of a commitment rather than the casual read it probably ought to be.

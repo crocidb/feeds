@@ -6,7 +6,7 @@ url = "https://brennan.day/a-quarter-of-a-century-later/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-21T09:42:43.417400013Z"
-seen = false
+seen = true
 +++
 
 I was five years old, sitting on a dark green shag carpet in my home in Winnipeg, witnessing the television the way everyone else was. My mother was pregnant with my little brother, and she wondered how she could bring another life into a world where something like this could happen.

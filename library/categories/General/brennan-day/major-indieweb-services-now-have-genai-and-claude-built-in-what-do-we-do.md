@@ -6,7 +6,7 @@ url = "https://brennan.day/the-indieweb-now-has-genai-and-claude-built-in-what-d
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-21T11:46:09.803626422Z"
-seen = false
+seen = true
 +++
 
 UPDATE: Aaron has responded with [his own post](https://aaronparecki.com/2026/10/17/5/rebuilding-my-indieweb-projects) titled "Why I'm rebuilding my IndieWeb projects with Claude" which is worth reading, and which rightly picks a nit with my original title (now changed). I also want to be absolutely clear: I do *not* want anybody to go after Parecki, or anybody else that uses genAI. I wrote this solely to inform people and make them aware of what's going on. I'm still totally aimless about the next steps, myself.

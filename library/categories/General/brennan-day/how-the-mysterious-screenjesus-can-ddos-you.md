@@ -6,7 +6,7 @@ url = "https://brennan.day/how-the-mysterious-screenjesus-can-ddos-you/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-08T23:03:49.925294805Z"
-seen = false
+seen = true
 +++
 
 Buckle up. As I'm sure you can already tell by the title of this article, this one is a weird one. I (with the help of [Adam of omg.lol](https://neatnik.omg.lol)) accidentally uncovered a rather concerning—and novel—vulnerability when it comes to beloved website-maker [NeoCities](https://neocities.org).

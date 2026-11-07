@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/filosofa-vinciane-despret-lanca-o-livro-o-que-d
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-21T11:46:08.576615093Z"
-seen = false
+seen = true
 +++
 
 A filósofa e psicóloga belga **Vinciane Despret** lança no Brasil o livro *O Que Diriam os Animais?*, obra em que formula 26 perguntas e contrapontos baseados na literatura científica e etológica para investigar como as diferentes espécies se comportam e percebem o mundo.

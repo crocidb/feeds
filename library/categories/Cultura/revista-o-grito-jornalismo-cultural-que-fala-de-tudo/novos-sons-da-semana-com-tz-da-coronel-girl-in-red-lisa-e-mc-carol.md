@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-tz-da-coronel-girl-in-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-27T22:33:09.859908086Z"
-seen = false
+seen = true
 +++
 
 Novos Sons no ar! Hora de atualizar a playlist com as novidades. Essa semana, no cenário nacional, **TZ da Coronel** se juntou a **[Matuê](https://revistaogrito.com/matue-333-critica/)** na música “Mundo Fashion” e anunciou o novo álbum *Lado Mau*, seu quarto trabalho solo, com lançamento previsto para 4 de novembro. **MC Carol** lançou uma nova versão de “Vou Investir em Você” intitulada “Ele Investiu em Você”, na qual destaca as políticas públicas do governo Lula. Ainda, **Oreozin**, **Meno Tody** e **VTnoBea**t lançaram “Tão Só” em parceria, **Grelo** apareceu com “Baby Cadê Você” e **Natalia Lacunza** integrou as novidades com a música “Flor de Canela”.

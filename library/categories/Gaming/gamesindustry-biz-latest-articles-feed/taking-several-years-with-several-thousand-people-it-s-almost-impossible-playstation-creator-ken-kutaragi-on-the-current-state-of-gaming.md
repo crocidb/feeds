@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/taking-several-years-with-several-thousand-
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-10-29T10:48:57.255834068Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Game-Republic-15-10-26-142_8Olw2Zm.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-pr
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-11-02T23:27:00.273973633Z"
-seen = false
+seen = true
 +++
 

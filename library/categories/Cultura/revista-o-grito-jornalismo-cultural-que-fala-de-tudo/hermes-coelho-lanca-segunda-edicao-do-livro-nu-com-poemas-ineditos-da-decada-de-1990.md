@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/hermes-coelho-lanca-segunda-edicao-do-livro-nu-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-22T13:34:56.361919587Z"
-seen = false
+seen = true
 +++
 
 O poeta e jornalista piauiense **Hermes Coêlho** lança, pela Editora Patuá, a segunda edição revista e ampliada do livro de poesia *Nu*. Publicada originalmente em 2002 após vencer o Concurso Novos Autores – Prêmio Cidade de Teresina 2000, a obra retorna ao público 24 anos depois com o resgate de 17 poemas escritos em meados dos anos 1990 em Teresina (PI) e mantidos guardados pelo autor até a presente revisão conduzida ao lado do editor **Eduardo Lacerda**.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-megan-thee-stallion-em
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-02T23:27:00.342903613Z"
-seen = false
+seen = true
 +++
 
 Novos Sons no ar! Hora de atualizar a playlist com as novidades. Essa semana, **Emilia** retornou com seu novo single “BODYPAINTING”, que oferece um primeiro vislumbre da linguagem criativa da nova era de Emilia, na qual o corpo se torna uma tela para a transformação, a autoexpressão e a reinvenção. **DENNIS** lança nova versão do hit “Aquecimento Toda Hora”, de **MC Gorran**, e convida para a parceria **Ludmilla**, **MC Nito** e **MC Marcelly**. **[Megan Thee Stallion](https://revistaogrito.com/assunto/megan-thee-stallion/)** lançou a coletânea *Tina Tuesday Freestyles*, **[Duda Beat](https://revistaogrito.com/duda-beat-lanca-releitura-de-arlindo-cruz-em-ritmo-de-xote/)** surgiu com “Voltar Pra Casa”, da trilha sonora da série *Amor da Minha Vida*, **MC Livinho** e **Perera DJ** atualizaram “Azul Piscina” e muito mais.

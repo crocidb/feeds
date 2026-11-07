@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shu
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-02T23:26:59.434051806Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gang-of-dragon_yAI7wse.webp?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-02T23:26:59.443152127Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/skydance-logo-cropped.webp?width=690&quality=85&format=jpg&auto=webp)

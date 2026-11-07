@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/gl-inet-mudi-7/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-08-06T21:59:23.993782944Z"
-seen = false
+seen = true
 +++
 
 **tl;dr:** After almost seven years my [*Netgear Nighthawk M2*](/computer/#h4wk) has started rebooting on its own, reporting nonsensical battery percentages and ignoring most of my presses on its touch buttons, so I spent the past three months replacing it with the *GL.iNet Mudi 7* (*GL-E5800*), a 5G NR Sub-6 travel router with two nano-SIM slots plus an onboard eSIM, Wi-Fi 7, a 2.5 GbE port, two USB-C ports and a removable 5380 mAh battery. It is the most capable mobile router I have owned, its 13.5-hour battery rating is close to what I measure, and the LTE reception alone is a clear upgrade over the *M2*. Sadly the *Tri-band* on the box means two bands at a time, there is no *MLO* at all, both SIM trays are underneath the battery, the touchscreen still can’t get you through a captive portal, and firmware 4.8.5 has a cellular defect that leaves the device on *Connecting…* after a carrier deactivates an idle data session. If you came to the *Mudi* line for [*blue-merle*](https://github.com/srlabs/blue-merle) and IMEI randomization, you might be disappointed to learn that this sadly seems to have ended with the *GL-E750*.

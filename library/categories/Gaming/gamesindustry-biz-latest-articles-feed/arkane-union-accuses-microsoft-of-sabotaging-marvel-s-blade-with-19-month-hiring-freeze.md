@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotagin
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-05T13:08:19.943134534Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/marvel-blade-(1).webp?width=690&quality=85&format=jpg&auto=webp)

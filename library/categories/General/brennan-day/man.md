@@ -6,7 +6,7 @@ url = "https://brennan.day/man/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-09-27T09:50:56.606354270Z"
-seen = false
+seen = true
 +++
 
 man [starts blog](https://unstory.eu). man's blog different. man writes real truth on blog. man understand all tricks brain plays, all illusions. man shrug nonchalantly at stupid things like stress and emotions [and love](https://brennan.day/i-m-looking-for-love/). man writes Brennan tried and failed to be [healer and saviour](https://unstory.eu/mmu/). man right.

@@ -6,7 +6,7 @@ url = "https://brennan.day/where-the-sidewalk-ends/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-27T22:33:08.109262373Z"
-seen = false
+seen = true
 +++
 
 During my walks home after elementary school, when I wasn't avoiding the cracks of the grey sidewalk, I would do what you could call a meditation where I would close my eyes and imagine re-opening them to find myself a grown adult. And there are times now when I practice the second half of that meditation, opening my eyes to see I am in fact in the new present, twenty years later. Time is a ruthless arrow.

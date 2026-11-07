@@ -6,7 +6,7 @@ url = "https://blog.coredump.cx/p/stop-ontology-time"
 author = "lcamtuf"
 text = ""
 lastupdated = "2026-10-27T22:33:08.794582513Z"
-seen = false
+seen = true
 +++
 
 For the past couple of weeks, I’ve been writing about philosophy. This led to the single most dramatic drop in the number of subscribers to this blog, but no matter: I’m doing this in part to repent. In my younger years, I bought into the techno-rationalist dogma of the SF Bay Area; with time, I’ve come to realize that the ideology has fueled many toxic behaviors in our industry. Now, I just want get the word out that philosophy is interesting and goes beyond what’s peddled on LessWrong and Hacker News.

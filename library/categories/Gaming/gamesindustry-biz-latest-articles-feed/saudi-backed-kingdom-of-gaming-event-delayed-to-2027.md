@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/saudi-backed-kingdom-of-gaming-event-delaye
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-02T23:26:59.425097513Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-11-02-at-21.42.57.png?width=690&quality=85&format=jpg&auto=webp)

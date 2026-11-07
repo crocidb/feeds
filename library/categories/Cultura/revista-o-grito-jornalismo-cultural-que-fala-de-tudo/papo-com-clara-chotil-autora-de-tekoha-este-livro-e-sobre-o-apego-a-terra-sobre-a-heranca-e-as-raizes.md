@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/papo-com-clara-chotil-autora-de-tekoha-este-liv
 author = "Paulo Floro"
 text = ""
 lastupdated = "2026-11-05T13:08:20.908770167Z"
-seen = false
+seen = true
 +++
 
 [

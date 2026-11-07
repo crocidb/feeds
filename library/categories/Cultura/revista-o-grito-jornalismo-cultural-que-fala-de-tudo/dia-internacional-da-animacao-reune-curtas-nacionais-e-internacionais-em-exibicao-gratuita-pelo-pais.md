@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/dia-internacional-da-animacao-2026/"
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-10-27T22:33:09.863317082Z"
-seen = false
+seen = true
 +++
 
 O Dia Internacional da Animação (DIA) é uma Mostra de curtas-metragens de animação com exibições que acontecem em várias cidades de norte a sul do Brasil. A Mostra Oficial é composta O Dia Internacional da Animação (DIA) realiza uma mostra simultânea de curtas-metragens no dia 28 de outubro de 2026, com entrada franca em cidades de todas as regiões do Brasil.

@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/inbox-zero-for-privacy-not-productivity/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-10-21T11:46:09.517626631Z"
-seen = false
+seen = true
 +++
 
 The concept of *Inbox Zero* has been worn out by the productivity crowd over the years and you’ve most likely come across the genre yourself. The type of ideas that tell you to empty your inbox in an effort to attain a state of serene focus, and ascend to become the kind of *knowledge worker* who *“processes”* correspondence rather than merely reading it. To be fair, ever since *“AI”* has been widely adopted to write and even read e-mails, I haven’t heard much from the former *Inbox Zero* fans, but I never found their framing compelling to begin with. What does interest me, however, is that the average mailbox has grown into one of the most complete, most sensitive, and probably least defended archives of private data a person owns, and that this archive is stored on *someone else’s computer*.

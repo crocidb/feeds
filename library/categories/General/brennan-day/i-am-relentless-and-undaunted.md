@@ -6,7 +6,7 @@ url = "https://brennan.day/i-am-relentless-and-undaunted/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-11-02T23:26:59.569126827Z"
-seen = false
+seen = true
 +++
 
 The past few days, I have been a little busy. Two days ago, [Archive of Our Own](https://archiveofourown.org/), the largest fanfiction website on the net, announced [unexpected maintenance](https://www.otwstatus.org/), which then turned out to be [a security breach](https://www.404media.co/archive-of-our-own-ao3-down-maintenance/) resulting in the site being down for the next two to four weeks.

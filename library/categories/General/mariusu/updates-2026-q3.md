@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/updates-2026-q3/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-09-30T20:51:44.833030200Z"
-seen = false
+seen = true
 +++
 
 This post includes personal updates and some open source project updates.

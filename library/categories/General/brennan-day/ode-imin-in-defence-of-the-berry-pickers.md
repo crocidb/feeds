@@ -6,7 +6,7 @@ url = "https://brennan.day/ode-imin-in-defence-of-the-berry-pickers/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-10-21T11:46:09.801770233Z"
-seen = false
+seen = true
 +++
 
 Ever heard someone called a *berry picker* as a derogatory insult?

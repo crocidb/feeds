@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/a-gtk4-ssh-askpass-in-zig/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-07-28T12:42:26.807527964Z"
-seen = false
+seen = true
 +++
 
 I run [hardened *Gentoo*](/hardened-gentoo-with-full-disk-encryption-on-the-star-labs-starbook-mk-vi/) on my laptop, and most of the time I never touch `ssh-askpass` because I’m using `-sk` keys for most of the systems. There is one class of situation where I do need it, though, which is when a program wants an SSH key passphrase for a regular ED25519 key, but has no terminal to read it from. The usual case is `go get`, or the `go` toolchain in general, fetching a private module over SSH during a build that runs without a TTY. *OpenSSH* can’t prompt on a pipe, so it runs whatever `SSH_ASKPASS` points at and puts the passphrase prompt in a window instead. For years I had nothing installed for that and had to work around these scenarios. The main reason for that is what *Gentoo*’s *Portage* offers:

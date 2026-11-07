@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/pabllo-vittar-se-joga-no-desejo-e-na-experiment
 author = "Túlio Vasconcelos"
 text = ""
 lastupdated = "2026-10-27T22:33:09.861763198Z"
-seen = false
+seen = true
 +++
 
 “É um álbum que fala sobre entender os seus desejos e não se perder com isso”, define **Pabllo Vittar** sobre “*LOST IN LUST”,* seu sétimo álbum de estúdio. Em entrevista à **Revista O Grito!**, a cantora fala sobre a criação do disco, que reúne 12 faixas em inglês e espanhol, explora diferentes vertentes da música eletrônica e incorpora referências do pop, do tecnomelody, do forró, do funk e do rock. “É um álbum em inglês e espanhol, mas com muita brasilidade”, resume.

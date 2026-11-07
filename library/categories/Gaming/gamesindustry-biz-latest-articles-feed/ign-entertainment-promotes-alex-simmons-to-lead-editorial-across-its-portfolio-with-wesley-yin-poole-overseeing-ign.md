@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-11-05T13:08:19.936970260Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/igne_logo_combo.png?width=690&quality=85&format=jpg&auto=webp)

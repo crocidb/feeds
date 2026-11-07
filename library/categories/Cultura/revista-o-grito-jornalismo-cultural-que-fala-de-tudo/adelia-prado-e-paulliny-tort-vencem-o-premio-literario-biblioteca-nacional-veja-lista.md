@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/adelia-prado-e-paulliny-tort-vencem-o-premio-li
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-10-22T13:34:56.372255743Z"
-seen = false
+seen = true
 +++
 
 A Fundação Biblioteca Nacional (FBN) anunciou os vencedores do **Prêmio Literário Biblioteca Nacional 2026**, premiação que concede R$ 30 mil para os primeiros colocados de cada uma das suas 13 categorias. Na categoria Romance (Prêmio Machado de Assis), a escritora **Paulliny Tort** venceu com *Os Imortais*, narrativa centrada em um clã de neandertais. Já na categoria Conto (Prêmio Clarice Lispector), a autora **Maria Valéria Rezende** ficou em primeiro lugar com *Recapitulações*.

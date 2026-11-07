@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/we-all-met-by-doing-improv-comedy-the-los-a
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-11-02T23:26:59.431586876Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/send-in-the-clown-key-art.png?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-bett
 author = "Martijn van Zwieten"
 text = ""
 lastupdated = "2026-10-29T10:48:57.254359454Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/firm-framework.png?width=690&quality=85&format=jpg&auto=webp)

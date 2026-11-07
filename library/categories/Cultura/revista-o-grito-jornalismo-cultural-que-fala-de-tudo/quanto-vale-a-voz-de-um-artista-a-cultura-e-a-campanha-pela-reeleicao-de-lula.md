@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/quanto-importa-a-voz-de-um-artista-a-cultura-e-
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-10-29T10:48:58.352206146Z"
-seen = false
+seen = true
 +++
 
 Durante o período de campanha, vimos, além dos levantes populares históricos, muitos artistas colocando a cara para jogo e se posicionando firmemente contra um eventual governo de Flávio Bolsonaro (PL). Não é segredo que a classe cultural sofreria desmontes importantes em todas as suas frentes: quem defende uma narrativa única, quem precisa de mentiras para se sustentar e quem não entende o significado de liberdade não gosta da arte, porque a arte é plural, crítica e viva. Mas se posicionar publicamente também é uma decisão difícil. Requer humanidade, coragem e, às vezes, implica perder oportunidades e contratos importantes. Diante do fascismo, no entanto, a classe artística brasileira não titubeou em se somar à luta, principalmente por meio de projetos independentes.

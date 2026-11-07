@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/john-romero-canceled-game-finds-a-
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-02T23:27:00.271233334Z"
-seen = false
+seen = true
 +++
 

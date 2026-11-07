@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/janela-de-cinema-leva-para-tela-do-sao-luiz-a-m
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-11-02T23:27:00.336465180Z"
-seen = false
+seen = true
 +++
 
 O penúltimo dia do Janela Internacional de Cinema 2026, começou logo pela manhã do sábado com a exibição de obras que enaltecem personalidades marcantes. Exibidos em sessão conjunta, *O Programador* e *Sócrates Brasileiro* revelaram ao público olhares ternos sobre duas figuras prodigiosas, cada qual em seu horizonte de atuação.   

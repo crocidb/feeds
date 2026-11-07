@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approv
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-05T13:08:20.741018066Z"
-seen = false
+seen = true
 +++
 

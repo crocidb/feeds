@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkan
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-05T13:08:19.949462608Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/marvel-blade-(2).webp?width=690&quality=85&format=jpg&auto=webp)
