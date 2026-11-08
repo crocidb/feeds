@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/rapina-projeto-de-caio-dornelas-e-renatto-mendo
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-11-06T17:02:55.733560484Z"
-seen = false
+seen = true
 +++
 
 Em RAPINA, projeto assinado por **Caio Dornelas** e **Renatto Mendonça** e composto por dois curtas-metragens independentes, mas conectados por um mesmo tempo, espaço e universo cinematográfico, é do céu que vem a ameaça: a sombra de uma ameaça que paira sobre o Sítio Ambé, em plena preparação para as festas de São João, e o olhar atento de uma mulher que carrega a dor da perda do filho e a transforma em caça. Bandeirolas, fogueiras e fogos de artifício compõem uma paisagem de festa em que a violência, no entanto, nunca está longe.

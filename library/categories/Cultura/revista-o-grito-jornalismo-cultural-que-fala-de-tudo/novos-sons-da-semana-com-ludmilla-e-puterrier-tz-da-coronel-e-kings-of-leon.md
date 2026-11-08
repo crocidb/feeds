@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-ludmilla-e-puterrier-t
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-06T17:02:55.734950888Z"
-seen = false
+seen = true
 +++
 
 Novos Sons no ar! Hora de atualizar a playlist com as novidades. Essa semana, **[Marina Sena](https://revistaogrito.com/cobertura-marina-sena-sabe-que-nasceu-para-o-palco-e-o-recife-respondeu-a-altura/)** e **Baco Exu do Blues** criam uma conversa a dois na música cheia de desejo, “Mon Amour”. Ainda nos feats, **LUDMILLA**, **Puterrier** e **HITMAKER** lançaram “Bi Festinha”. **Tz da Coronel** surgiu com “Espelho, Espelho Meu”; a banda **Kings of Leon** lançou seu décimo álbum de estúdio, *O My Beloved*, o primeiro totalmente produzido pela banda; **[Olivia Rodrigo](https://revistaogrito.com/olivia-rodrigo-guts/)** abriu o período natalino com seu primeiro single temático “take me home (4 christmas)”; e **Royal Blood** elevou a potência do rock com seu novo EP *Dead Company*, trabalho que nasceu do desejo de criar o álbum mais rápido e pesado da carreira da dupla.

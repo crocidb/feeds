@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-cr
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-11-06T17:02:54.741112852Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/luke-michael-Tdwu35bCUj0-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

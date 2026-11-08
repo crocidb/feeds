@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/console/sony-insists-next-generation-consol
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-06T17:02:55.488075987Z"
-seen = false
+seen = true
 +++
 
