@@ -6,7 +6,7 @@ url = "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einst
 author = "Charlie Wood"
 text = ""
 lastupdated = "2026-11-06T17:02:56.094825613Z"
-seen = false
+seen = true
 +++
 
 One of a human’s earliest developmental milestones is an understanding of object permanence. It generally takes less than a year for a baby to realize that when an adult hides their face behind their hands in a game of peek-a-boo, they don’t cease to exist. There’s more to the world around us than what we perceive. This suggests — or at least, it suggested to Albert Einstein — that the world is…
