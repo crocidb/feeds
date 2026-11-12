@@ -6,7 +6,7 @@ url = "https://blog.fogus.me/thoughts/old-ideas.html"
 author = "fogus"
 text = ""
 lastupdated = "2026-11-02T23:27:04.999131994Z"
-seen = false
+seen = true
 +++
 
 Whereby I discuss the value of old ideas...
