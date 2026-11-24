@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-10-12--pages.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.912202665Z"
-seen = false
+seen = true
 +++
 
- indieweb carnival
+indieweb carnival
 
 Pages
 ==========

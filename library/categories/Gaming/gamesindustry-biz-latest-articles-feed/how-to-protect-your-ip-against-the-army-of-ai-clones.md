@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-
 author = "Simon Pulman"
 text = ""
 lastupdated = "2026-11-19T14:05:13.822404480Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/pexels-icon0-1214270.jpg?width=690&quality=85&format=jpg&auto=webp)

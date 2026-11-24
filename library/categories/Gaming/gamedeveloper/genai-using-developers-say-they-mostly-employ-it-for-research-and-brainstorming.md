@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/genai-using-developers-say-they-
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-11-19T14:05:14.147429219Z"
-seen = false
+seen = true
 +++
 

@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-09-05--jolla-impressions.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.923798687Z"
-seen = false
+seen = true
 +++
 
- reviewjolla phonesailfishOS
+reviewjolla phonesailfishOS
 
 Impressions After Two Weeks With SailfishOS on the Jolla Phone
 ==========

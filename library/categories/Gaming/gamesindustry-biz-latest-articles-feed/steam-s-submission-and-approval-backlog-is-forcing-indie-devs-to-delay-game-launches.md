@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-f
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.827387676Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/adi_screenshotnew_05_pc.jpg.webp?width=690&quality=85&format=jpg&auto=webp)

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-11-19T14:05:14.141007858Z"
-seen = false
+seen = true
 +++
 

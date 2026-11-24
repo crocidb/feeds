@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/tripwire-interactive-layoffs-come-
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.146150133Z"
-seen = false
+seen = true
 +++
 

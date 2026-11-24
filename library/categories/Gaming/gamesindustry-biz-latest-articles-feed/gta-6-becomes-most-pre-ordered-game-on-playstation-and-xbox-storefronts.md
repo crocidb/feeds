@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-play
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-11T16:05:17.370032326Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta_6_jason_screenshot.webp?width=690&quality=85&format=jpg&auto=webp)

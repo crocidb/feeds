@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-08-14--pro-indieweb.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.929611663Z"
-seen = false
+seen = true
 +++
 
- computingindieweb
+computingindieweb
 
 The Indieweb Has Not Become Irrelevant
 ==========

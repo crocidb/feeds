@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-10-05--apostrophes-and-quotes.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.915685821Z"
-seen = false
+seen = true
 +++
 
- bloggingindieweb
+bloggingindieweb
 
 Apostrophes and Closing Quotes in English
 ==========

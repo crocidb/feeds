@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-own
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.840231149Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/hidden-horses.webp?width=690&quality=85&format=jpg&auto=webp)

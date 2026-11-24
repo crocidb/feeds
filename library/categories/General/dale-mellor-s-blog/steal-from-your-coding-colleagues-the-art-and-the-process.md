@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-06-07--steal-code.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.940295629Z"
-seen = false
+seen = true
 +++
 
- computing
+computing
 
 Steal from your Coding Colleagues: the Art and the Process
 ==========

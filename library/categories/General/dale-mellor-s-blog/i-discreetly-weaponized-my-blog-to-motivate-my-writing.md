@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-11-06--weaponized-blog.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.894825047Z"
-seen = false
+seen = true
 +++
 
- indiewebblogging
+indiewebblogging
 
 I Discreetly Weaponized My Blog to Motivate My Writing
 ==========

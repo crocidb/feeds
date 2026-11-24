@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-10-21--silo-vs-indieweb.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.905238173Z"
-seen = false
+seen = true
 +++
 
- computing
+computing
 
 The Death of Honour: Silos Must Not Be Used
 ==========

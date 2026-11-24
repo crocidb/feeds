@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-10-27--polish-your-website.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.898353882Z"
-seen = false
+seen = true
 +++
 
- indiewebblogging
+indiewebblogging
 
 Polish Your Postings, Please
 ==========

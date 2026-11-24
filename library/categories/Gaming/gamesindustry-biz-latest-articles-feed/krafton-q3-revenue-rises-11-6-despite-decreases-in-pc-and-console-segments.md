@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decrea
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-11T16:05:17.375827941Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Image1_KRAFTON-CI-scaled.jpg?width=690&quality=85&format=jpg&auto=webp)

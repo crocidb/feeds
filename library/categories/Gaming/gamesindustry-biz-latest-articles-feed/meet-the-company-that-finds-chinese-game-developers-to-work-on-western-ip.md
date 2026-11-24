@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/meet-the-company-that-finds-chinese-game-de
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-11-19T14:05:13.803088454Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/The-Walking-Dead-1.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/design/clair-obscur-expedition-33-s-narrati
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.127051836Z"
-seen = false
+seen = true
 +++
 

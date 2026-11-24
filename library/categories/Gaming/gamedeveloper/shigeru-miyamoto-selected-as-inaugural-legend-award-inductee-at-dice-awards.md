@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugu
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.134513136Z"
-seen = false
+seen = true
 +++
 

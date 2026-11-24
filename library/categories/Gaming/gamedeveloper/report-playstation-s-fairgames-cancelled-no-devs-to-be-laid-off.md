@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cance
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-11T17:10:25.642362845Z"
-seen = false
+seen = true
 +++
 

@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-05-29--webmentions-posse.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.941675123Z"
-seen = false
+seen = true
 +++
 
- webmentioncomputingindieweb
+webmentioncomputingindieweb
 
 Invitation to Join a Posse of Webmention Scratch-Builders to Work Towards Interoperability
 ==========

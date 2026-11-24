@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-07-17--rss-robbing.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.935663318Z"
-seen = false
+seen = true
 +++
 
- indieweb
+indieweb
 
 Is RSS Robbing You?
 ==========

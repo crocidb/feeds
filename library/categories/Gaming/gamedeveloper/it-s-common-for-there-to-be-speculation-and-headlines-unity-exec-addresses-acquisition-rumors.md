@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-specu
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-11-19T14:05:14.137087578Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-11-19T14:05:13.832657081Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/55138521355_f5db9cb4aa_k_Hnb0M7J.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-11T16:05:17.368697242Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/forthstar.jpg?width=690&quality=85&format=jpg&auto=webp)

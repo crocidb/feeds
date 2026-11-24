@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ce
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.138477075Z"
-seen = false
+seen = true
 +++
 

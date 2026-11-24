@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-j
 author = "Jason Kingsley"
 text = ""
 lastupdated = "2026-11-19T14:05:13.787059199Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Venus-Bluegenes-(Hayley-Atwell)-plays-chess-against-Helm-(Daryl-McCormack).png?width=690&quality=85&format=jpg&auto=webp)

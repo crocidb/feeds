@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-07-20--freedom.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.934349813Z"
-seen = false
+seen = true
 +++
 
- lifestyleintentional communities
+lifestyleintentional communities
 
 The Meaning of Freedom: Experience of an Intentional Communities Conference
 ==========

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-s
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-11-19T14:05:13.793748040Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta-6-drinks.webp?width=690&quality=85&format=jpg&auto=webp)

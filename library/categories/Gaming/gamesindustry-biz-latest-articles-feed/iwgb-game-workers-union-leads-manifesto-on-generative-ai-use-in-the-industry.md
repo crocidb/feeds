@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/iwgb-game-workers-union-leads-manifesto-on-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.808256669Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/iwgb_logo.webp?width=690&quality=85&format=jpg&auto=webp)

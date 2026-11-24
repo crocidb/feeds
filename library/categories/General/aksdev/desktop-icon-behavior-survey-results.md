@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/desktop-icon-survey-results/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-11-07T14:31:41.573888941Z"
-seen = false
+seen = true
 +++
 
 *Here's the data!*

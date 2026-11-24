@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-19T14:05:13.789642011Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-11-18-at-17.31.21.png?width=690&quality=85&format=jpg&auto=webp)

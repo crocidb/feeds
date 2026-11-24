@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-re
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.829963718Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/jensen-huang.png?width=690&quality=85&format=jpg&auto=webp)

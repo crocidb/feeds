@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legen
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-19T14:05:13.817136544Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Screenshot-2026-10-23-140341.png?width=690&quality=85&format=jpg&auto=webp)

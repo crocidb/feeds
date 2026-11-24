@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-11-13--dirty-cam-sensor.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-19T14:05:13.751502388Z"
-seen = false
+seen = true
 +++
 
- car maintenance
+car maintenance
 
 Engine stall fix: Citroën 2.0 HDI 150
 ==========

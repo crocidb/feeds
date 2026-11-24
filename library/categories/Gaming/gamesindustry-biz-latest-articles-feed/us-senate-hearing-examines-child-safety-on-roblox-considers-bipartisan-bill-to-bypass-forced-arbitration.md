@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.785752032Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/roblox_tXvZOEK.jpg?width=690&quality=85&format=jpg&auto=webp)

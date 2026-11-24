@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-bi
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-11T16:05:17.380881871Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/BigWalk_Screenshot_May25_06.png?width=690&quality=85&format=jpg&auto=webp)

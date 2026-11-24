@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-11-19T14:05:13.801837628Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/firaxis-office.png?width=690&quality=85&format=jpg&auto=webp)

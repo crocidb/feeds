@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employee
 author = "Bryant Francis"
 text = ""
 lastupdated = "2026-11-19T14:05:14.133301809Z"
-seen = false
+seen = true
 +++
 

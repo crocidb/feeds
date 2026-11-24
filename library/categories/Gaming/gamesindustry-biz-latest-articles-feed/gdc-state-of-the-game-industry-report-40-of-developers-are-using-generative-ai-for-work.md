@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-11-19T14:05:13.831327125Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/state-of-the-game-industry-2026_SaCPvuv.png?width=690&quality=85&format=jpg&auto=webp)

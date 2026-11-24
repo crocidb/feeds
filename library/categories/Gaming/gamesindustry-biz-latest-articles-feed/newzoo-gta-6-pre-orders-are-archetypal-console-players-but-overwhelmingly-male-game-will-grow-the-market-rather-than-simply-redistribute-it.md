@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-cons
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-11-19T14:05:13.813368475Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Jason_and_Lucia_20.0cd~.c7jr~5g9_ZsIyOIo.jpg?width=690&quality=85&format=jpg&auto=webp)

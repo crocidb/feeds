@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-u
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.797838179Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta-6-zelda.png?width=690&quality=85&format=jpg&auto=webp)

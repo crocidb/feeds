@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-dr
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.828607722Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/maplestory_gBothMO.jpg?width=690&quality=85&format=jpg&auto=webp)

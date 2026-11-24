@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-11-13--replies-instead-of-comments.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-19T14:05:13.750092082Z"
-seen = false
+seen = true
 +++
 
- bloggingindieweb
+bloggingindieweb
 
 Re: Replies Instead of Comments
 ==========

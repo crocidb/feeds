@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36"
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-11T16:05:17.385011484Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/killing-floor-3_WcgSJ7n.jpg?width=690&quality=85&format=jpg&auto=webp)

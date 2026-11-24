@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-08-03--purpose.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.932392871Z"
-seen = false
+seen = true
 +++
 
- indieweb carnival
+indieweb carnival
 
 Purpose as a Verb, a Force for Good
 ==========

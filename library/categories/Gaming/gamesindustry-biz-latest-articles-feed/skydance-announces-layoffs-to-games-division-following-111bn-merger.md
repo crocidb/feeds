@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-divisio
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-11T16:05:17.378958449Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/last-ronin-(1).webp?width=690&quality=85&format=jpg&auto=webp)

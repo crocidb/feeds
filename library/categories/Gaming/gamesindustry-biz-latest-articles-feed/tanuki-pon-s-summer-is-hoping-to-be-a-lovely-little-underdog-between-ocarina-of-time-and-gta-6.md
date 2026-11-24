@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.806957513Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/TANUKI_4K_KEY_NO-LOGO.png?width=690&quality=85&format=jpg&auto=webp)

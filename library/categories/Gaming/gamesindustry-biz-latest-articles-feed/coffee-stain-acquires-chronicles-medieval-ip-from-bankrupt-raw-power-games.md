@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-i
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-19T14:05:13.818532030Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ss_8d564795cb6b1eaeb9f3ea6b862b445ffe62a5e5.1920x1080.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the
 author = "Dr Andreas Lober"
 text = ""
 lastupdated = "2026-11-11T16:05:17.371414070Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/pexels-marco-288924445-13153479.jpg?width=690&quality=85&format=jpg&auto=webp)

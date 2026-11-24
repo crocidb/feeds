@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fa
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-11T16:05:17.372886484Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Fairgames-Cancelled_11-10-26.jpg?width=690&quality=85&format=jpg&auto=webp)

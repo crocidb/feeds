@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.148752096Z"
-seen = false
+seen = true
 +++
 

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studi
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.810786382Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Unity%2BSyntyStudios_02.png?width=690&quality=85&format=jpg&auto=webp)

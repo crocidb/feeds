@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/german-games-industry-association-warns-dig
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.836442790Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/game-the-german-games-industry-association-logo.png?width=690&quality=85&format=jpg&auto=webp)

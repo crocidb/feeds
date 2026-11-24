@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/18-unsolicited-third-party-statistics-about
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-11-19T14:05:13.791038248Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ULTIMATE_EDITION_WYMAN_CAR_COLLECTION_01.jpg?width=690&quality=85&format=jpg&auto=webp)

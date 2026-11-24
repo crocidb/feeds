@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.805677516Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/roblox_RBFFQkI.webp?width=690&quality=85&format=jpg&auto=webp)

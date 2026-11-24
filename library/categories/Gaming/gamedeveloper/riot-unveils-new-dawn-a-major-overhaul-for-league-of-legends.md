@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.135797092Z"
-seen = false
+seen = true
 +++
 

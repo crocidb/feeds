@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-af
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.812091319Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/extremely-powerful-capybaras.jpg?width=690&quality=85&format=jpg&auto=webp)

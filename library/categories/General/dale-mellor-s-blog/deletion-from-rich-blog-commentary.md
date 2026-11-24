@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-05-20--charmed-webmentions--deletion.html
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.943146756Z"
-seen = false
+seen = true
 +++
 
- webmentioncomputingindieweb
+webmentioncomputingindieweb
 
 Deletion from Rich Blog Commentary
 ==========

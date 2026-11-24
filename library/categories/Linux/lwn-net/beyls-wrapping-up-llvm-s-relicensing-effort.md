@@ -1,0 +1,27 @@
++++
+title = "Beyls: Wrapping up LLVM's relicensing effort"
+description = "Kristof Beyls has published a summary to the LLVM discussion forum to announce that the project is declaring success and bringing its [relicensing effort](https://discourse.llvm.org/t/holiday-update-on-llv"
+date = "2026-11-20T14:35:24Z"
+url = "https://lwn.net/Articles/1108818/"
+author = "jzb"
+text = ""
+lastupdated = "2026-11-23T10:53:41.391220513Z"
+seen = false
++++
+
+Kristof Beyls has [published a summary](https://discourse.llvm.org/t/wrapping-up-llvms-relicensing-effort/92906) to the LLVM discussion forum to announce that the project is declaring success and bringing its [relicensing effort](https://discourse.llvm.org/t/holiday-update-on-llvms-relicensing-effort/50649) to a close after eight years.
+
+>
+>
+> We've been asking past contributors to relicense their work since 2018. New contributions have come in under Apache-2.0 WITH LLVM-exception since January 19, 2019. Code contributed before that date was under LLVM's earlier licenses (UIUC/NCSA, plus MIT for some runtime libraries), so we needed permission from its authors to move it over. [...]
+>
+>
+>
+> Today, more than 99.5% of all lines of code ever contributed to LLVM are either covered by the new license, too small for copyright to apply, or no longer in the repository.
+>
+>
+
+Rather than trying to "
+> chase the last tiny fraction forever
+
+" LLVM is winding up the effort. Any contributors with code contributed before January 19, 2019 who have not signed a relicensing agreement and do not want their contributions made available under Apache-2.0 with the LLVM-exception can still reach out to the project to ensure their code has the appropriate SPDX license identifier.

@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-07-07--acrylic-painting-2.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.937216972Z"
-seen = false
+seen = true
 +++
 
- lifestylepainting
+lifestylepainting
 
 Acrylic Painting Classes II
 ==========

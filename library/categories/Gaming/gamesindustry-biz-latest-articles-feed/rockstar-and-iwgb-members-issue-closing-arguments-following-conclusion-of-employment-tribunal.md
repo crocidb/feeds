@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arg
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.788376235Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/YaUq2tUybUPd6bHhaoTV97.jpg?width=690&quality=85&format=jpg&auto=webp)

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-11T16:05:17.383662189Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta-6_S2BF1hr.jpg?width=690&quality=85&format=jpg&auto=webp)

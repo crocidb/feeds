@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joys
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.835180444Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/grace-ashcroft-resident-evil.jpg?width=690&quality=85&format=jpg&auto=webp)

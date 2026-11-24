@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-09-22--webmention-blogroll.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.919973553Z"
-seen = false
+seen = true
 +++
 
- indieweb
+indieweb
 
 My Webmentionable/RSS Blogroll
 ==========

@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in
 author = "James Batchelor"
 text = ""
 lastupdated = "2026-11-19T14:05:13.800521251Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/5D7A7178.png?width=690&quality=85&format=jpg&auto=webp)

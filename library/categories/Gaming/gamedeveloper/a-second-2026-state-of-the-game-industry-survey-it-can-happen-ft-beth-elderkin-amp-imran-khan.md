@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-in
 author = "Game Developer Podcast"
 text = ""
 lastupdated = "2026-11-19T14:05:14.150056302Z"
-seen = false
+seen = true
 +++
 

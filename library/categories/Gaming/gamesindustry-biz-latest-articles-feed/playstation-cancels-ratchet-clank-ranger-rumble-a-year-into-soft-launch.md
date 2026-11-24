@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-ru
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-11T16:05:17.386493837Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/ratchet-and-clank-ranger-rumble-has-been-announced-for-mobile-cover6914bd26ba3ad-3399469877.jpg?width=690&quality=85&format=jpg&auto=webp)

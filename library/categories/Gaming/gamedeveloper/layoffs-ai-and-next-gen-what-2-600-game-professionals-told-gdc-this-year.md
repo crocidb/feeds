@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600
 author = "[GDC]"
 text = ""
 lastupdated = "2026-11-19T14:05:14.151304359Z"
-seen = false
+seen = true
 +++
 

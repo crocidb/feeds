@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/the-digital-fairness-act-is-a-decade-long-b
 author = "Rob Fahey"
 text = ""
 lastupdated = "2026-11-19T14:05:13.824896533Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/towfiqu-barbhuiya-xkArbdUcUeE-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

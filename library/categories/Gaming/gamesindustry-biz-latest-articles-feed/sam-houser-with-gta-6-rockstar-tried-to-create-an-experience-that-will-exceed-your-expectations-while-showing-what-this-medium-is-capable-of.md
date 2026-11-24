@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-cre
 author = "Jon Hicks"
 text = ""
 lastupdated = "2026-11-19T14:05:13.792411404Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/GTA-6-review.webp?width=690&quality=85&format=jpg&auto=webp)

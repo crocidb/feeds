@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus"
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.796365342Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gtavi_18.jpg.webp?width=690&quality=85&format=jpg&auto=webp)

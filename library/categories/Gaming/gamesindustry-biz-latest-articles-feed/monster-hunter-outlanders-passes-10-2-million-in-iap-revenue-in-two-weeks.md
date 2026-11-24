@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-millio
 author = "Vikki Blake"
 text = ""
 lastupdated = "2026-11-19T14:05:13.815901928Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Ruger-Aidal-with-logo.jpg?width=690&quality=85&format=jpg&auto=webp)

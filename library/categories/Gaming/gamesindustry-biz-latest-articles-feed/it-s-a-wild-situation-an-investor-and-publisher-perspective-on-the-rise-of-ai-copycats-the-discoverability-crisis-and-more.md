@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publis
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-11-19T14:05:13.826122359Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/IMG_8131-(1).jpeg?width=690&quality=85&format=jpg&auto=webp)

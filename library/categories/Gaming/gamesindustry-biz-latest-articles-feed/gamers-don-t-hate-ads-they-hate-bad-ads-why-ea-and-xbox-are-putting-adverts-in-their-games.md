@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-
 author = "Alex Forbes-Calvin"
 text = ""
 lastupdated = "2026-11-19T14:05:13.819875287Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/tania-mousinho-YlpfE9uCakE-unsplash.jpg?width=690&quality=85&format=jpg&auto=webp)

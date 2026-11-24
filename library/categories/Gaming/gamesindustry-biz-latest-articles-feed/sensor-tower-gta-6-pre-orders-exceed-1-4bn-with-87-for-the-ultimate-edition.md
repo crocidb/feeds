@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-w
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.814652541Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/gta-6-headline-launch-gallery-30.jpg?width=690&quality=85&format=jpg&auto=webp)

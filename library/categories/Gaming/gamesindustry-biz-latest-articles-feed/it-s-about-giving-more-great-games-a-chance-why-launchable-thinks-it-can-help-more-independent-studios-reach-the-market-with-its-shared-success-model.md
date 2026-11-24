@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-11-19T14:05:13.833930477Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Launchable-logo.png?width=690&quality=85&format=jpg&auto=webp)

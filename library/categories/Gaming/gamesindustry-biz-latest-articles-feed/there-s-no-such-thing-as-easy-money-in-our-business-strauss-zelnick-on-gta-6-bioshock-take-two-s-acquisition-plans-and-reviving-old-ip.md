@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-b
 author = "Lewis Packwood"
 text = ""
 lastupdated = "2026-11-11T16:05:17.382352094Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Strauss_Zelnick_2023_wide.jpg?width=690&quality=85&format=jpg&auto=webp)

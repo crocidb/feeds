@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-li
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-12T00:42:49.269131908Z"
-seen = false
+seen = true
 +++
 

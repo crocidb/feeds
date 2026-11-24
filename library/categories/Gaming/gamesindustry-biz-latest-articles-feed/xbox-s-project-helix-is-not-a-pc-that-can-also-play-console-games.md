@@ -6,7 +6,7 @@ url = "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-al
 author = "Sophie McEvoy"
 text = ""
 lastupdated = "2026-11-19T14:05:13.809502095Z"
-seen = false
+seen = true
 +++
 
 ![](https://assetsio.gnwcdn.com/Helix_header.webp?width=690&quality=85&format=jpg&auto=webp)

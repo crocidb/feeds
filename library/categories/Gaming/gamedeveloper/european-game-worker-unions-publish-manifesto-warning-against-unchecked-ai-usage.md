@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/europe-s-game-worker-unions-publ
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.129582490Z"
-seen = false
+seen = true
 +++
 

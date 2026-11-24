@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headli
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.130800186Z"
-seen = false
+seen = true
 +++
 

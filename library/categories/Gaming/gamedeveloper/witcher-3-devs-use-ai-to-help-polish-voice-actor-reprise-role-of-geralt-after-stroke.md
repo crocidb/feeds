@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-re
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.144932816Z"
-seen = false
+seen = true
 +++
 

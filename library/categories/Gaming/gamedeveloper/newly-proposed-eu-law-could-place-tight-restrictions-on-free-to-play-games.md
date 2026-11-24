@@ -6,6 +6,6 @@ url = "https://www.gamedeveloper.com/business/european-union-proposes-digital-fa
 author = "Imran Khan"
 text = ""
 lastupdated = "2026-11-19T14:05:14.142386704Z"
-seen = false
+seen = true
 +++
 

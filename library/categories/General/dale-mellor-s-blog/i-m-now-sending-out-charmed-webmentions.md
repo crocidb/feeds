@@ -6,10 +6,10 @@ url = "https://khleedril.org/blog/2026-06-21--charmed-webmentions.html"
 author = "Dale Mellor"
 text = ""
 lastupdated = "2026-11-12T12:47:49.938873924Z"
-seen = false
+seen = true
 +++
 
- computingwebmentionindieweb
+computingwebmentionindieweb
 
 Iʼm Now Sending Out Charmed Webmentions
 ==========
