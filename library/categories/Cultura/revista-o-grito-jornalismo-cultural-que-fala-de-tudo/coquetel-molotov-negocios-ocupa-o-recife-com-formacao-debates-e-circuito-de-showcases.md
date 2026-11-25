@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/coquetel-molotov-negocios-ocupa-o-recife-com-fo
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-11-12T00:42:49.722185735Z"
-seen = false
+seen = true
 +++
 
 O **Coquetel Molotov Negócios** celebra mais uma edição entre os dias 25 e 27 de novembro, no Recife, reunindo formação, encontros profissionais e música ao vivo em uma programação inteiramente gratuita. Imersão, pitchings, oficinas, debates e encontros de mercado ocupam o Nerd (Núcleo de Empreendedorismo e Residência Digital), no Recife Antigo, enquanto um circuito de showcases se espalha por Terra Café, Casa Lontra, Kafuá, Darkside e RIV. O evento já está com inscrições abertas online e [antecede a 23ª edição do Festival No Ar Coquetel Molotov](https://revistaogrito.com/festival-no-ar-coquetel-molotov-anuncia-karol-conka-azymuth-e-cidadao-instigado/), que acontece no dia 28 de novembro, no Campus da UFPE.

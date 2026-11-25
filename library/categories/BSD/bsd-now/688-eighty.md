@@ -6,7 +6,7 @@ url = "https://www.bsdnow.tv/688"
 author = "feedback@bsdnow.tv (JT Pennington)"
 text = ""
 lastupdated = "2026-11-05T22:34:10.039991516Z"
-seen = false
+seen = true
 +++
 
 OpenBSD 8.0, vmd(8), WebZFS has reached BETA3, HardenedBSD updates and more...

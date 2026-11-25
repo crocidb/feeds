@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/11/05/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-11-05T13:08:21.891456129Z"
-seen = false
+seen = true
 +++
 
 [Buffered output](/blog/2023/02/13/) typically comes in two flavors: fully buffered and line buffered. If output goes to a terminal then the implementation automatically selects line buffering, flushing its buffer when a line is completed so that it reaches the user immediately. Otherwise it fully buffers, holding output until the buffer is full or an explicit flush event at some arbitrary point in the future. Line buffering is a common bottleneck in non-interactive terminal applications such that it’s worth redirecting output to a file or pipe in order to avoid it. *It doesn’t have to be this way*. We can have our cake and eat it, too: promptly delivering lines to a terminal at fully-buffered speeds.

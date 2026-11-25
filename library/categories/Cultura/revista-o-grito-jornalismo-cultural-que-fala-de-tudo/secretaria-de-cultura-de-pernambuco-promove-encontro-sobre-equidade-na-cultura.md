@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/secult-pe-promove-encontro-sobre-equidade-na-cu
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-11-19T14:05:14.441201677Z"
-seen = false
+seen = true
 +++
 
 A Secretaria de Cultura de Pernambuco (Secult-PE) realizará, no dia 19 de novembro, das 14h às 18h, no Cinema São Luiz, no Recife, o encontro “Cultura Afirmativa: Reparação e Equidade na Cultura Pernambucana”. Integrando a programação do Mês da Consciência Negra, a iniciativa apresenta os resultados das políticas afirmativas desenvolvidas pela pasta, os instrumentos implementados e os desafios para ampliar o acesso, a participação e as oportunidades no campo cultural.

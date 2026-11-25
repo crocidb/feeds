@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/10/31/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-11-02T23:27:04.183873475Z"
-seen = false
+seen = true
 +++
 
 I’ve been [fascinated with local LLMs](/blog/2024/11/10/) for a couple of years now. The better open weight models, including some that inference on regular, higher-end consumer hardware at tolerable speeds, are now reliable enough to handle simpler programming tasks. This requires a coding harness, but so far this year I’ve been disappointed by all the harness offerings. For inexplicable reasons most are built with web stacks, and consume enormous amounts of memory. At its core a coding harness is essentially curl glued to `popen()`. This should not require gigabytes of RAM. So I built my own: **[Prospero](https://github.com/skeeto/prospero)**. It’s written in [my C++ style](/blog/2026/10/04/) with a snappy [Dear ImGui docking interface](/blog/2026/04/07/). It uses around two orders of magnitude fewer resources than other harnesses without sacrificing features.

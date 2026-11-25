@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/festival-nacional-de-teatro-do-recife-movimenta
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-23T10:53:39.569301408Z"
-seen = false
+seen = true
 +++
 
 Já está a pleno vapor a 25ª edição do Festival Recife do Teatro Nacional. Até o próximo dia 29 de novembro, com uma programação gratuita, 32 montagens, sendo 17 espetáculos nacionais, todos inéditos na cidade, além de 15 espetáculos pernambucanos, estão sendo apresentados pelos palcos da cidade. O festival é realizado pela Prefeitura do Recife, tendo como entrada um quilo de alimento não perecível.

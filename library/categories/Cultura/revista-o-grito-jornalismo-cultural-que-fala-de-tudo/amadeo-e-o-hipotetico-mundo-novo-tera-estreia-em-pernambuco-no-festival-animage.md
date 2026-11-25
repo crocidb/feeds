@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/amadeo-e-o-hipotetico-mundo-novo-tera-estreia-e
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-11-19T14:05:14.442572033Z"
-seen = false
+seen = true
 +++
 
 O longa-metragem de animação realizado pela Sagui Studio, de Caruaru, *[Amadeo e o Hipotético Mundo Novo](https://revistaogrito.com/animacao-de-caruaru-amadeo-o-hipotetico-mundo-novo-e-selecionado-para-festival-de-cinema-na-china/)* chega ao Recife para sua primeira exibição no Estado de Pernambuco, no dia 21 de novembro, durante o [ANIMAGE](https://revistaogrito.com/animage-2026-festival-anuncia-filmes-selecionados/) — 16º Festival Internacional de Animação de Pernambuco, um dos principais eventos dedicados à linguagem no país. A sessão acontece às 14h, no Cinema São Luiz, no Recife, e marca o primeiro encontro do público pernambucano com uma produção que tem parte importante de sua realização desenvolvida em Caruaru. Após a exibição, a equipe do filme participa de um bate-papo com o público.

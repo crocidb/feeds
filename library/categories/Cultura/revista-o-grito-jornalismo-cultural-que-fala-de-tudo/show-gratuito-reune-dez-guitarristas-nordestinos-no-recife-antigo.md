@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/show-gratuito-reune-dez-guitarristas-nordestino
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-11-19T14:05:14.451662577Z"
-seen = false
+seen = true
 +++
 
 Recife vai receber pela primeira vez o projeto Brasil Guitarras, com a reunião de expoentes do instrumento em noite de intercâmbio na Praça do Arsenal, de graça, no dia 19 de novembro, a partir das 19h. Após passagens por Belo Horizonte, Brasília, São Paulo e Salvador, a edição pernambucana contará com participações de **Cacau Santos**, **Renato Bandeira**, **Eric Assmar**, **Lígia Fernandes**, **Thathi**, **Luciano Magno**, **Liêve Ferreira**, **Jubileu** e **Bia Villa-Chan**, sob comando de **Armandinho Macêdo**, ícone da guitarra baiana e filho de **Osmar Macedo**, idealizador do **Trio Elétrico de Dodô e Osmar**. Haverá área reservada para pessoas com deficiência e transmissão ao vivo pelo YouTube da produtora Bra.zil Arte e Cultura.

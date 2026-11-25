@@ -1,0 +1,28 @@
++++
+title = "sneakernet: a slow, decentralized messaging network"
+description = "Over the past couple of weeks I have been working on a project idea I call sneakernet, named after the informal term for networks which transmit information on “sneakers” rather than wires or radio, i.e. by phy"
+date = "2026-11-23T00:00:00Z"
+url = "https://drewdevault.com/blog/Introducing-sneakernet/"
+author = "Drew DeVault's blog"
+text = ""
+lastupdated = "2026-11-24T14:06:57.583655376Z"
+seen = false
++++
+
+Over the past couple of weeks I have been working on a project idea I call [sneakernet](https://sneakernet.eu/), named after the [informal term](https://en.wikipedia.org/wiki/Sneakernet) for networks which transmit information on “sneakers” rather than wires or radio, i.e. by physically carrying the data to the destination. The classic, evocative image is of the station wagon full of tapes flying down the highway during an outage, which is (accurately) said to have more bandwidth than most Internet connections.
+
+The internet has been slowly but surely going to shit for a while now. There’s slop everywhere, the search engines are broken, and social media algorithms are getting people killed. There are still good parts, for sure, and necessary parts, but it’s also the case that browsing the good parts is feeling kind of depressing lately, because the bad parts are really bad and they’re just a click away. It’s probably not fixable at this point.
+
+But, I still want to be able to use my computer to communicate with people around the world, collaborate, and build community together, all of those things that are getting increasingly and increasingly more desperate to accomplish online. Sneakernet proposes to deliver all of that, in some small way, at a much slower pace, while encouraging people to see each other face to face, by taking it offline.
+
+In short, sneakernet is a general-purpose message distribution system which uses your feet as the main transport. When you publish a message on your node, it gets automatically passed on to anyone else on the LAN who is also running sneakernet. They physically carry your message on their laptop to another network, where other sneakernet nodes automatically pick it up, too, and pass it further along. You can send an email via sneakernet to your friend in another city, and it will arrive, perhaps weeks or months later, whenever someone physically carries the data to them, perhaps through some number of intermediaries. When the email arrives, the recipient can see who carried it for them, and maybe they send them a little “thank you” note back through the ’net.
+
+On top of the low-level messaging system, one can build high-level applications. Most things will work so long as they are message-oriented and tolerant of extremely high latency. Applications included include sneakermail, which sends and receives emails via sneakernet (and it’s compatible with your favorite email client); sneakernews, which runs news groups/message boards on sneakernet; and sneakershare, which can share files on the ’net. Building new sneaker applications [is straightforward](https://sneakernet.eu/development/building-apps/) and can be easily done in most programming languages.
+
+Imagine you go to an event like [40C3](https://events.ccc.de/en/category/40c3/). When you arrive, your laptop automatically delivers emails to other attendees from people at your local hackerspace who couldn’t make it, and you hop on sneakernews to discuss the event with everyone. When the event is over, and you go home, you take all of those messages back to your hackerspace, where they’re dropped on the relay there. Your friends get the replies to their emails, and can catch up on the conversations that were going on in Hamburg. They reply back, and their message is carried by whoever is heading in the right direction next. All of this happens automatically, without any manual intervention – you just use your normal email client, or other sneaker applications, and wait patiently, or organize an expedition to deliver them to the next city over if you’re impatient.
+
+Sneakernet provides some security – enough to meet the demands of prudence, but not enough to stake your life on. Every message is authenticated, and every private message is encrypted for its recipients, so anyone who happens to carry them cannot read them. Sneakermail, for example, provides full authentication and encryption for all emails, without having to configure PGP. On the other hand, there’s no forward secrecy and it’s trivial to find out who is talking to whom. [Check out the security write-up for more details](https://sneakernet.eu/security/).
+
+The system is still a work in progress. It currently depends on the latest [Hare](https://harelang.org) master branch, which I hope to resolve with a new Hare release in the next couple of weeks, but I’ll probably publish some statically linked binaries for it sooner than that. I’ll be running some tests at my own local hackerspace, [techinc](https://techinc.nl), during the open nights on Wednesdays, if you want to swing by and help me test drive it. I’ll be at 40C3 this year, and by then I hope to have most of the kinks worked out so it’s ready for people to use. I’ve submitted a talk on sneakernet for FOSDEM as well, so if it’s accepted I’ll go into more detail on the inner workings and anticipated future challenges. There’s still going to be some work in the long tail, particularly around message filtering and retention, and moderation.
+
+Read up on the [FAQ](https://sneakernet.eu/faq/) to learn more, and [send me a sneakermail](mailto:drew@ytck2bv0ecrdsacknvky4w0aw3sh75erb8zcr4xd67wz4rrnc2gg.alt) if you manage to get it working!

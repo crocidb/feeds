@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cepe-realiza-5a-feira-literaria-das-infancias-c
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-11-11T17:10:26.012726568Z"
-seen = false
+seen = true
 +++
 
 Principal evento literário dedicado ao público infantojuvenil em Pernambuco, a [Feira Literária das Infâncias (Flitin)](https://revistaogrito.com/?s=flitin), agora em sua quinta edição, volta a ocupar os jardins da Academia Pernambucana de Letras (APL), no bairro das Graças, entre os dias 13 e 15 de novembro. Com vasta programação gratuita que inclui shows, peças teatrais, lançamento de livros, contações de histórias, oficinas, sessões de cinema e muito bate-papo, a feira traz como tema “Imaginar Futuros”, conceito que orienta as atividades a partir dos eixos da ancestralidade (valorização dos saberes afroindígenas e da memória); do pensamento ecológico (integração entre sociedade e natureza) e da imaginação (estímulo à criatividade).

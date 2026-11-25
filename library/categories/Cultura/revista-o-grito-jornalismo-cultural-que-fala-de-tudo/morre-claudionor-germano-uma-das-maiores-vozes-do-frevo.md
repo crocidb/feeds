@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/morre-claudionor-germano-uma-das-maiores-vozes-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-19T14:05:14.447298640Z"
-seen = false
+seen = true
 +++
 
 Morreu neste domingo (15), aos 94 anos de idade, o cantor **[Claudionor Germano da Hora](https://revistaogrito.com/exposicao-claudionor-germano-90-carnavais-aporta-no-centro-apolo-hermilo/)**, em sua residência no bairro de Boa Viagem, no Recife. Patrimônio Vivo de Pernambuco, ele estava em tratamento contra a doença de Parkinson, mas seguia ativo e atento às manifestações culturais às quais dedicou quase oito décadas de carreira. Nascido em Recife em 10 de agosto de 1932, Claudionor estreou em 1947 no grupo Ases do Ritmo, ligado à Rádio Clube de Pernambuco. Conhecido como “A Voz do Frevo”, ajudou a construir a identidade sonora do frevo-canção e é considerado o maior intérprete da história do gênero.

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/potyguara-bardo-une-ancestralidade-e-memorias-e
 author = "Túlio Vasconcelos"
 text = ""
 lastupdated = "2026-11-19T14:05:14.444427877Z"
-seen = false
+seen = true
 +++
 
 ##### **Foto: Divulgação** #####

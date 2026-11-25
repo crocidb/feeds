@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/novos-sons-da-semana-com-majur-luiz-melodia-e-e
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-19T14:05:14.448779346Z"
-seen = false
+seen = true
 +++
 
 Novos Sons no ar! Hora de atualizar a playlist com as novidades. Essa semana, **[Majur](https://revistaogrito.com/assunto/majur/)** se renova com *Doce Caos*, seu quarto álbum de estúdio. Apostando na brasilidade e no afropop como fios condutores, o projeto reúne 10 faixas autorais e uma nova versão de “Tigresa”, de **Caetano Veloso**. Com uma sonoridade pop, o disco transita entre MPB, R&B, arrocha, ijexá e amapiano. 5 letras inéditas de **Luiz Melodia**, falecido há nove anos, criaram o EP *Melodia – Letra e música*, com parcerias póstumas do artista com **Adriana Calcanhotto**, **Julia Mestre**, **[BaianaSystem](https://revistaogrito.com/baianasystem-retorna-menos-agitado-e-mais-imerso-em-o-mundo-da-voltas/)**, **Victor Cupertino** e **[Xande de Pilares](https://revistaogrito.com/fabio-brazza-roda-a-rima-o-riso-e-a-reza/)**.

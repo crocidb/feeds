@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/34a-edicao-do-festival-mixbrasil-comeca-com-138
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-11-19T14:05:14.450201142Z"
-seen = false
+seen = true
 +++
 
 Com o tema “Todos os Futuros Possíveis”, que aponta para transformações, misturas, rompimento de padrões e abertura de espaço para novas possibilidades, o 34º [Festival MixBrasil](https://revistaogrito.com/mixbrasil-apresenta-programacao-da-33a-edicao-com-142-filmes-de-33-paises/), um dos maiores eventos culturais LGBTQIA+ da América Latina, acontece de 11 a 22 de novembro, em 14 espaços culturais de São Paulo e três plataformas digitais. Sob a direção geral de **André Fischer** e a direção de programação de cinema de **Márcio Miranda Perez**, o MixBrasil reúne 138 filmes e duas séries, provenientes de 30 países e 12 estados brasileiros, além de teatro, literatura, games, festas, performances e o tradicional Show do Gongo. A programação inclui ainda a mostra Queer.IA e as atividades de mercado e indústria do MixLab Spcine.

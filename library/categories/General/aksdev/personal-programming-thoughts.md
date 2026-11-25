@@ -6,7 +6,7 @@ url = "https://akselmo.dev/posts/programming-thoughts/"
 author = "Akseli"
 text = ""
 lastupdated = "2026-11-19T14:05:17.407289901Z"
-seen = false
+seen = true
 +++
 
 *This is personal ramble yet again and it touches the AI topic again. Sorry.*

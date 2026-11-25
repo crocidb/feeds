@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/cafe-pra-escrever-promove-piquenique-literario-
 author = "Maria Rebouças"
 text = ""
 lastupdated = "2026-11-19T14:05:14.438563845Z"
-seen = false
+seen = true
 +++
 
 E se, em vez de uma mesa de café, o encontro para escrever acontecesse sobre uma toalha estendida na grama? Essa é a proposta da terceira edição do **Café pra escrever**, projeto criado pelo escritor, dramaturgo e ator **[Cleyton Cabral](https://revistaogrito.com/cleyton-cabral-lanca-obra-sobre-relacionamentos-ambientada-em-uma-casa-imaginaria/)**, que realiza no dia 21 de novembro uma edição especial em formato de piquenique, em um parque do Recife. Com o tema “O que cabe numa tarde?”, o encontro propõe uma experiência de escrita criativa ao ar livre, reunindo participantes em torno de uma programação que combina observação, leitura, conversa, imaginação e experimentação literária.

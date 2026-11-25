@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/mostra-de-curtas-africanos-e-longa-de-animacao-
 author = "Equipe O Grito!"
 text = ""
 lastupdated = "2026-11-23T10:53:39.567360165Z"
-seen = false
+seen = true
 +++
 
 A Mostra Africana foi uma das principais atrações do primeiro dia da 16ª edição do Festival Internacional de Animação de Pernambuco – Animage. Para celebrar o Dia da Consciência Negra, o evento exibiu, no São Luiz, nove curtas do Egito, Tanzânia, Ruanda, Tunísia e Quênia mostrando a diversidade da animação produzida no continente africano. Esta é a maior edição do Animage com 280 filmes de 60 países em sua programação. 

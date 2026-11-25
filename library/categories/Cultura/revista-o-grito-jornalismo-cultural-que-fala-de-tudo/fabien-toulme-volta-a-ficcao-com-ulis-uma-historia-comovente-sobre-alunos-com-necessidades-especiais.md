@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/fabien-toulme-volta-a-ficcao-com-ulis-uma-histo
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-11-19T14:05:14.445945104Z"
-seen = false
+seen = true
 +++
 
 **Fabien Toulmé** tornou-se um quadrinista reconhecido pelos seus trabalhos com narrativas sensíveis e temas sociais. Desde sua estréia no mundo das HQs em 2014, com *Não Era Você que eu Esperava*, um comovente relato inspirado na sua filha que tem síndrome de Down, passando pela trilogia *A Odisseia de Hakim* (2018-2020), contando a história real dramática de um refugiado sírio e, mais recentemente, a interessante série *Inesquecíveis* (2023-2025), Toulmé tem se destacado pela abordagem humana de tema complexos. 

@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/hq-a-grande-negacao-um-chamado-para-se-enfrenta
 author = "Alexandre Figueirôa"
 text = ""
 lastupdated = "2026-11-23T10:53:39.570932970Z"
-seen = false
+seen = true
 +++
 
 A negação das mudanças climáticas por conta da ação dos seres humanos é uma das atitudes mais vis do capitalismo contemporâneo. E é exatamente a desfaçatez e o cinismo de quem age assim o que o quadrinista italiano Roberto Grossi expõe de forma precisa em *A Grande Negação*, *graphic novel* que chega ao Brasil pela editora Nemo, com tradução de Lauro Moretti. Todavia, mais do que uma denúncia, esta é uma HQ que tem o objetivo claro de sensibilizar o leitor e levá-lo a reagir diante da emergência planetária que já bate na nossa porta.

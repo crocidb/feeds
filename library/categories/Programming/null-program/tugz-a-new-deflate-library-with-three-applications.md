@@ -6,7 +6,7 @@ url = "https://nullprogram.com/blog/2026/10/13/"
 author = "Christopher Wellons"
 text = ""
 lastupdated = "2026-10-21T11:46:11.308818305Z"
-seen = false
+seen = true
 +++
 
 I spent a week creating a new [deflate](https://en.wikipedia.org/wiki/Deflate) implementation from scratch in C named **[tugz](https://github.com/skeeto/tugz)** to provide an [Info-ZIP](https://infozip.sourceforge.net/)-compatible `zip` program for [w64devkit](https://github.com/skeeto/w64devkit) 2.10.1 (released today). I also replaced [busybox-w32](https://frippery.org/busybox/)’s deflate-based `unzip`, `gzip`, `gunzip`, and `zcat` apps as well. My new deflate performs much better than [zlib](https://zlib.net/) and on par with [libdeflate](https://github.com/ebiggers/libdeflate). In general the new programs are substantially faster and produce slightly smaller outputs than the BusyBox equivalents, which is optimized for size than speed after all, but also compared to the original gzip and Info-ZIP you get in a typical Linux distribution. The tugz programs are [CRT-free](/blog/2023/02/15/) (inspect them with [peports](/blog/2024/06/30/)!) with first-class Windows support and better Unicode handling.

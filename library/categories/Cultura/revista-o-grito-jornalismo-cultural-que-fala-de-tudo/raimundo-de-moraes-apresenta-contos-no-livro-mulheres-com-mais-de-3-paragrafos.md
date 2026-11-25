@@ -6,7 +6,7 @@ url = "https://revistaogrito.com/raimundo-de-moraes-apresenta-contos-no-livro-mu
 author = "Revista O Grito!"
 text = ""
 lastupdated = "2026-11-19T14:05:14.439904231Z"
-seen = false
+seen = true
 +++
 
 Em tempos de conteúdos efêmeros, leituras rápidas e telas que ditam o ritmo do nosso foco, o escritor, jornalista e professor **[Raimundo de Moraes](https://revistaogrito.com/nosso-vizinho-biu-da-silva/)** propõe uma reflexão sobre duas abordagens literárias diferentes: o imediatismo das narrativas curtas/nano/microcontos e o aprofundamento dos personagens e tramas através de narrativas mais longas e complexas. *Mulheres com mais de 3 parágrafos* é uma coletânea de contos que fogem à regra de “no máximo três parágrafos ou menos”, buscando, principalmente, mostrar as multifacetas de 8 mulheres vivendo em épocas diferentes, porém marcadas igualmente por algumas necessidades básicas do ser humano: a liberdade de ser/existir, o desejo de amar/ser amado e, a partir disso (ou da ausência de), criar um significado para as suas vidas.
