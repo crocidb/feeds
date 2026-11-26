@@ -6,7 +6,7 @@ url = "https://brennan.day/let-justice-be-done-though-the-heavens-may-fall/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-11-11T16:05:18.221633171Z"
-seen = false
+seen = true
 +++
 
 Do you know what you want to be doing? I think about when we do have the rare time to sit down and figure out what we want to do with the precious free time we have, where do we end up allocating it to? During the new year, we tell ourselves the multitude of "good" things we *want* to start doing. Taking better care of our one and only body, finally quit drinking, learn how to meditate, or a new language, or start an embroidery and crochet Etsy. Maybe finally visit a new continent.

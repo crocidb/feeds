@@ -6,7 +6,7 @@ url = "https://brennan.day/when-the-glass-house-shatters/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-11-11T16:05:18.219905958Z"
-seen = false
+seen = true
 +++
 
 In 2020, *Bon Appétit* faced a [public reckoning](https://www.nbcnews.com/news/all/bon-appetit-refinery29-editors-step-down-calls-racial-justice-continue-n1227936) after employees of colour exposed severe [pay inequity](https://www.marketplace.org/2020/06/09/bon-appetit-editor-in-chief-resigns-after-brownface-photo-resurfaces), systemic racism, and a problematic YouTube video culture, leading to the [resignation of editor-in-chief Adam Rapoport](https://amp.cnn.com/cnn/2020/06/08/media/bon-appetit-adam-rapoport-resigns) after an [old Halloween photo surfaced showing him in brownface](https://www.cbc.ca/news/entertainment/adam-rapoport-resigns-1.5604265).

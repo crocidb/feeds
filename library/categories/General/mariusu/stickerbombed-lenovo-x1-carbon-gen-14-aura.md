@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/stickerbombed-lenovo-x1-carbon-gen-14-aura/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-11-11T16:05:18.564878796Z"
-seen = false
+seen = true
 +++
 
 Especially with laptops being an attractive target for thieves at airports and touristic areas, I not only enjoy telling a story through the appearance of my devices, but I also find customizing the appearance a good way to deceive snatchers into mistaking these items for something of lower and potentially uninteresting value.

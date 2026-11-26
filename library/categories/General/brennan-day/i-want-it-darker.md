@@ -6,7 +6,7 @@ url = "https://brennan.day/i-want-it-darker/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-11-23T10:53:38.757410451Z"
-seen = false
+seen = true
 +++
 
 It's only a few weeks until the winter solstice—the shortest day of the year. Right now, we only get eight hours of daylight per day up here, as well as over [20cm of snow](https://www.cbc.ca/news/canada/calgary/calgary-weather-9.7426172) in a few days after weeks of blonde grass and warm chinook winds. Solstice represents a turning point toward light, hope, fresh starts, and a new cycle, sure. But it's dark right now. It's dark, but I want it darker.

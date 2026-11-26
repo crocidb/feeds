@@ -6,7 +6,7 @@ url = "https://brennan.day/the-pendulum-cycles/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-11-07T14:31:43.111042415Z"
-seen = false
+seen = true
 +++
 
 Overnight, the political landscape of the United States changed. [Democrats won control of both the US Senate and House](https://www.nbcnews.com/politics/2026-election/democrats-capture-full-control-congress-nbc-news-projects-fueled-victo-rcna607042) in Tuesday’s midterms, and it’s [only the fifth time since World War II](https://newsweek.com/what-the-midterm-election-results-mean-for-the-future-of-democrats-12652831) that a party has flipped both chambers in a midterm.

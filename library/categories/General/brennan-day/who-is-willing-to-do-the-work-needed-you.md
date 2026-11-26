@@ -6,7 +6,7 @@ url = "https://brennan.day/who-is-willing-to-do-the-work-needed-you/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-11-19T14:05:13.472475360Z"
-seen = false
+seen = true
 +++
 
 The transformative works website, *Archive of Our Own*, is back online after being down for over two weeks [due to a security breach](https://apnews.com/article/ao3-fandom-archive-transformative-9e752c2cf91409434fcde7188140d066). As you may be aware, I run a project that's a fork of the open-source codebase, [fanfiction.lol](https://fanfiction.lol).

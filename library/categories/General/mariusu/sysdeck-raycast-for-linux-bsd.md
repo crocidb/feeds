@@ -6,7 +6,7 @@ url = "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/"
 author = "marius@xn--gckvb8fzb.com (Marius)"
 text = ""
 lastupdated = "2026-11-19T14:05:14.552880824Z"
-seen = false
+seen = true
 +++
 
 In August I started working on a tool that I had been missing on my Linux desktop for a while, and for which I tried to build a somewhat glued-together mess of scripts that used [bemenu](https://github.com/cloudef/bemenu) to do what I wanted. At some point, though, I figured that I should probably try to put together an actual program, ideally using Zig and GTK.

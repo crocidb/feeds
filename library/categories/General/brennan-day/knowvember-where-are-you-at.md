@@ -6,7 +6,7 @@ url = "https://brennan.day/knowvember-where-are-you-at/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-11-19T14:05:13.475201862Z"
-seen = false
+seen = true
 +++
 
 For today's blog post, I decided to answer the questions asked by [Robert Birming for November](https://robertbirming.com/knowember/). Now, I've talked a lot about myself and my blog already, so I'll try to not be redundant here. If you're curious to learn more, I recommend the [podcast episode](https://web-weaving.jamesg.blog/8) I did with [James](https://jamesg.blog/). Or, the interviews I've done with [Hyde](https://web.archive.org/web/20260624192735/https://lazybea.rs/ovr-058/) and [Zachary Kai](https://zacharykai.net/notes/pb/brennan)

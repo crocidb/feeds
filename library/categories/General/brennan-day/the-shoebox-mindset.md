@@ -6,7 +6,7 @@ url = "https://brennan.day/the-shoebox-mindset/"
 author = "mail@brennanbrown.ca (Brennan Kenneth Brown)"
 text = ""
 lastupdated = "2026-11-24T14:06:57.795427340Z"
-seen = false
+seen = true
 +++
 
 My storage system is rather simple; in my bedroom, I have a wooden storage table with multiple shoeboxes packed underneath. A shoebox is good enough, it's the right size to hold papers and sentimental items, and it can also store [millions of documents and media, with USB sticks and SD cards](https://brennan.day/storytelling-part-two-the-literal-magic-of-writing/#i-the-size-of-symbols).
